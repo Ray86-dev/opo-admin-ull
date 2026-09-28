@@ -97,7 +97,7 @@ export default function Tests() {
         <Empty title="Aún no hay preguntas">El banco de preguntas se está generando.</Empty>
       ) : (
         <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_340px]">
-          <div className="card p-5 md:p-6">
+          <div className="card min-w-0 p-5 md:p-6">
             <div className="mb-4 flex items-center justify-between">
               <h2 className="font-display text-xl font-semibold">Temas</h2>
               <div className="flex gap-2 text-sm">

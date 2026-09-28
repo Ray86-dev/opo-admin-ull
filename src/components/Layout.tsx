@@ -120,8 +120,8 @@ function Brand() {
         <GraduationCap size={22} />
       </div>
       <div className="leading-tight">
-        <div className="font-display text-[17px] font-semibold">Opo ULL</div>
-        <div className="text-[11.5px] text-muted">Escala Administrativa · C1</div>
+        <div className="whitespace-nowrap font-display text-[17px] font-semibold">Opo ULL</div>
+        <div className="hidden text-[11.5px] text-muted sm:block lg:block">Escala Administrativa · C1</div>
       </div>
     </Link>
   )

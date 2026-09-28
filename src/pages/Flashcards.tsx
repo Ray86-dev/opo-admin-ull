@@ -56,7 +56,7 @@ export default function Flashcards() {
             <select
               value={tema}
               onChange={(e) => setTema(e.target.value)}
-              className="focus-ring h-9 rounded-full border border-line bg-surface px-3 text-sm font-semibold"
+              className="focus-ring h-9 w-full max-w-full rounded-full border border-line bg-surface px-3 text-sm font-semibold sm:w-auto sm:max-w-xs"
             >
               <option value="">Un tema concreto…</option>
               {TEMAS.filter((t) => all.some((c) => c.temaId === t.id)).map((t) => (

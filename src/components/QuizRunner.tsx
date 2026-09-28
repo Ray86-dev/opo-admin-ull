@@ -73,6 +73,24 @@ export function QuizRunner({ title, preguntas, mode, timeLimit, grupos, recordTi
 
   const q = preguntas[idx]
   const grupo = q?.grupo && grupos ? grupos[q.grupo] : undefined
+  const cardRef = useRef<HTMLDivElement>(null)
+  const firstRender = useRef(true)
+
+  useEffect(() => {
+    window.scrollTo({ top: 0 })
+  }, [])
+
+  // En pantallas estrechas el enunciado del supuesto va encima: al cambiar de pregunta, llevar la vista a la pregunta
+  useEffect(() => {
+    if (firstRender.current) {
+      firstRender.current = false
+      return
+    }
+    const el = cardRef.current
+    if (!el) return
+    const top = el.getBoundingClientRect().top + window.scrollY - 150
+    if (window.innerWidth < 1024 || el.getBoundingClientRect().top < 120) window.scrollTo({ top, behavior: 'smooth' })
+  }, [idx])
 
   // Cronómetro
   useEffect(() => {
@@ -254,7 +272,7 @@ export function QuizRunner({ title, preguntas, mode, timeLimit, grupos, recordTi
             exit={{ opacity: 0, x: -24 }}
             transition={{ duration: 0.25, ease: [0.16, 1, 0.3, 1] }}
           >
-            <div className="card p-5 md:p-7">
+            <div ref={cardRef} className="card p-5 md:p-7">
               <div className="mb-4 flex flex-wrap items-center gap-2 text-xs font-semibold text-muted">
                 <span className="rounded-full bg-primary-soft px-2.5 py-1 text-primary">#{idx + 1}</span>
                 {q.reserva && <span className="rounded-full bg-amber-500/15 px-2.5 py-1 text-amber-700 dark:text-amber-300">Reserva (no puntúa)</span>}
