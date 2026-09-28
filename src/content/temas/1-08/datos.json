@@ -1,0 +1,1425 @@
+{
+  "claves": [
+    "La LCSP garantiza la libertad de acceso a las licitaciones, la publicidad y transparencia, y la no discriminación e igualdad de trato (art. 1.1).",
+    "Los criterios sociales y medioambientales se incorporan de forma transversal y preceptiva cuando guardan relación con el objeto del contrato (art. 1.3).",
+    "Las Universidades Públicas forman parte del sector público, son Administración Pública y, por tanto, poder adjudicador (art. 3).",
+    "Contratos típicos: obras, concesión de obras, concesión de servicios, suministro y servicios. La concesión se distingue por la transferencia del riesgo operacional.",
+    "Umbrales SARA desde el 1 de enero de 2026: 5.404.000 € en obras y concesiones; 140.000 € (AGE) o 216.000 € (resto, incluida la ULL) en suministros y servicios; 750.000 € en servicios sociales.",
+    "Los contratos típicos celebrados por una Administración son administrativos; los servicios financieros, artísticos y las suscripciones a revistas y bases de datos son privados (art. 25).",
+    "Los contratos del sector público se perfeccionan con su formalización. Está prohibida la contratación verbal salvo en la emergencia (arts. 36 y 37).",
+    "Los suministros y servicios de prestación sucesiva duran como máximo 5 años con prórrogas; el contrato menor, 1 año sin prórroga (art. 29).",
+    "Para contratar hay que tener capacidad de obrar, no estar en prohibición de contratar y acreditar solvencia o clasificación (art. 65).",
+    "La clasificación es obligatoria en obras de valor estimado igual o superior a 500.000 € y no es exigible en servicios (art. 77).",
+    "El presupuesto base de licitación incluye el IVA; el valor estimado no lo incluye, pero sí las prórrogas y las modificaciones previstas (arts. 100 y 101).",
+    "La revisión de precios solo puede ser periódica y predeterminada, y se aplica tras ejecutar el 20 % del contrato y pasar un año desde su formalización (art. 103).",
+    "La garantía provisional es excepcional (hasta el 3 %); la definitiva es del 5 % del precio ofertado sin IVA; la complementaria, de hasta otro 5 % (arts. 106 y 107).",
+    "Contrato menor: valor estimado inferior a 40.000 € en obras y a 15.000 € en suministros y servicios (art. 118).",
+    "En la ULL el órgano de contratación es el Rector; por encima de 1.000.000 € hace falta autorización del Consejo de Gobierno (art. 126 EULL y BEP 2026)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Umbral SARA en obras, concesión de obras y concesión de servicios",
+      "valor": "5.404.000 euros",
+      "ref": "art. 20.1 LCSP (Orden HAC/1517/2025)"
+    },
+    {
+      "concepto": "Umbral SARA en suministros de la AGE, sus organismos autónomos y la Seguridad Social",
+      "valor": "140.000 euros",
+      "ref": "art. 21.1.a LCSP"
+    },
+    {
+      "concepto": "Umbral SARA en suministros de otros poderes adjudicadores (universidades, CCAA...)",
+      "valor": "216.000 euros",
+      "ref": "art. 21.1.b LCSP"
+    },
+    {
+      "concepto": "Umbral SARA en servicios de la AGE, sus organismos autónomos y la Seguridad Social",
+      "valor": "140.000 euros",
+      "ref": "art. 22.1.a LCSP"
+    },
+    {
+      "concepto": "Umbral SARA en servicios de otras entidades del sector público",
+      "valor": "216.000 euros",
+      "ref": "art. 22.1.b LCSP"
+    },
+    {
+      "concepto": "Umbral SARA en servicios sociales y otros específicos (anexo IV)",
+      "valor": "750.000 euros",
+      "ref": "art. 22.1.c LCSP"
+    },
+    {
+      "concepto": "Lotes exceptuables de la regulación armonizada en obras",
+      "valor": "Valor inferior a 1.000.000 € y hasta el 20 % del total",
+      "ref": "art. 20.2 LCSP"
+    },
+    {
+      "concepto": "Lotes exceptuables de la regulación armonizada en suministros y servicios",
+      "valor": "Valor inferior a 80.000 € y hasta el 20 % del total",
+      "ref": "arts. 21.2 y 22.2 LCSP"
+    },
+    {
+      "concepto": "Contratos subvencionados sujetos a regulación armonizada",
+      "valor": "Subvención directa de más del 50 %",
+      "ref": "art. 23.1 LCSP"
+    },
+    {
+      "concepto": "Presunción de vocación de mercado en convenios",
+      "valor": "20 % o más de la actividad en el mercado abierto",
+      "ref": "art. 6.1.a LCSP"
+    },
+    {
+      "concepto": "Actividad mínima de un medio propio para quien le hace el encargo",
+      "valor": "Más del 80 %",
+      "ref": "art. 32.2.b LCSP"
+    },
+    {
+      "concepto": "Obra dentro de un contrato mixto que obliga a elaborar proyecto",
+      "valor": "Más de 50.000 euros",
+      "ref": "art. 18.3 LCSP"
+    },
+    {
+      "concepto": "Preaviso para que la prórroga sea obligatoria para el contratista",
+      "valor": "Al menos 2 meses",
+      "ref": "art. 29.2 LCSP"
+    },
+    {
+      "concepto": "Duración máxima de suministros y servicios de prestación sucesiva",
+      "valor": "5 años, incluidas las prórrogas",
+      "ref": "art. 29.4 LCSP"
+    },
+    {
+      "concepto": "Prórroga excepcional por continuidad del servicio",
+      "valor": "Máximo 9 meses, con anuncio del nuevo contrato publicado 3 meses antes",
+      "ref": "art. 29.4 LCSP"
+    },
+    {
+      "concepto": "Duración máxima del arrendamiento de bienes muebles",
+      "valor": "5 años, incluidas las prórrogas",
+      "ref": "art. 29.5 LCSP"
+    },
+    {
+      "concepto": "Duración máxima de la concesión de obras o de servicios con obras",
+      "valor": "40 años",
+      "ref": "art. 29.6.a LCSP"
+    },
+    {
+      "concepto": "Duración máxima de la concesión de servicios no sanitarios",
+      "valor": "25 años",
+      "ref": "art. 29.6.b LCSP"
+    },
+    {
+      "concepto": "Duración máxima de la concesión de servicios sanitarios",
+      "valor": "10 años",
+      "ref": "art. 29.6.c LCSP"
+    },
+    {
+      "concepto": "Ampliación máxima del plazo de la concesión para reequilibrio",
+      "valor": "15 % de su duración inicial",
+      "ref": "art. 29.6 LCSP"
+    },
+    {
+      "concepto": "Duración del contrato menor",
+      "valor": "Máximo 1 año, sin prórroga",
+      "ref": "art. 29.8 LCSP"
+    },
+    {
+      "concepto": "Servicios complementarios de un contrato menor de obras",
+      "valor": "Hasta 30 meses",
+      "ref": "art. 29.7 LCSP"
+    },
+    {
+      "concepto": "Ahorro para ejecutar obras con medios propios (elementos auxiliares)",
+      "valor": "Economía superior al 5 %",
+      "ref": "art. 30.1.b LCSP"
+    },
+    {
+      "concepto": "Límite de colaboración de empresarios en obras por la Administración (letras a y b)",
+      "valor": "60 % del importe del proyecto",
+      "ref": "art. 30.4 LCSP"
+    },
+    {
+      "concepto": "Permanencia de la información en el perfil de contratante",
+      "valor": "No inferior a 5 años",
+      "ref": "art. 63.1 LCSP"
+    },
+    {
+      "concepto": "Publicación de contratos menores en el perfil",
+      "valor": "Al menos trimestral; exentos los de menos de 5.000 € pagados por anticipo de caja fija",
+      "ref": "art. 63.4 LCSP"
+    },
+    {
+      "concepto": "Publicación de encargos a medios propios",
+      "valor": "Formalización si superan 50.000 € (sin IVA); trimestral si superan 5.000 €",
+      "ref": "art. 63.6 LCSP"
+    },
+    {
+      "concepto": "Cuota de reserva para trabajadores con discapacidad (empresas de 50 o más trabajadores)",
+      "valor": "2 %",
+      "ref": "art. 71.1.d LCSP"
+    },
+    {
+      "concepto": "Contratación de antiguos altos cargos (prohibición)",
+      "valor": "Durante los 2 años siguientes al cese",
+      "ref": "art. 71.1.h LCSP"
+    },
+    {
+      "concepto": "Duración máxima de la prohibición de contratar por condena penal sin plazo fijado",
+      "valor": "5 años desde la condena firme",
+      "ref": "art. 72.6 LCSP"
+    },
+    {
+      "concepto": "Duración máxima de la prohibición de contratar en los demás casos",
+      "valor": "3 años",
+      "ref": "art. 72.6 LCSP"
+    },
+    {
+      "concepto": "Plazo para iniciar la declaración de prohibición por no formalizar el contrato",
+      "valor": "3 meses desde la adjudicación",
+      "ref": "art. 72.7 LCSP"
+    },
+    {
+      "concepto": "Caducidad de la inscripción de la prohibición en el Registro de Licitadores",
+      "valor": "3 meses desde que termine su duración",
+      "ref": "art. 73.2 LCSP"
+    },
+    {
+      "concepto": "Modificación de la composición de una UTE tras la formalización",
+      "valor": "Exige haber ejecutado al menos el 20 % del contrato",
+      "ref": "art. 69.9.a LCSP"
+    },
+    {
+      "concepto": "Clasificación obligatoria en contratos de obras",
+      "valor": "Valor estimado igual o superior a 500.000 euros",
+      "ref": "art. 77.1.a LCSP"
+    },
+    {
+      "concepto": "Máximo de subgrupos de clasificación exigibles (salvo casos excepcionales)",
+      "valor": "4",
+      "ref": "art. 79.5.a LCSP"
+    },
+    {
+      "concepto": "Justificación de la solvencia para mantener la clasificación",
+      "valor": "Económica y financiera cada año; técnica y profesional cada 3 años",
+      "ref": "art. 82.2 LCSP"
+    },
+    {
+      "concepto": "Volumen anual de negocios máximo exigible",
+      "valor": "Una vez y media el valor estimado del contrato",
+      "ref": "art. 87.1.a LCSP"
+    },
+    {
+      "concepto": "Experiencia en solvencia técnica de obras",
+      "valor": "Obras de los 5 últimos años (hasta 10 si es necesario)",
+      "ref": "art. 88.1.a LCSP"
+    },
+    {
+      "concepto": "Experiencia en solvencia técnica de servicios y suministros",
+      "valor": "Los 3 últimos años",
+      "ref": "arts. 89 y 90 LCSP"
+    },
+    {
+      "concepto": "Empresa de nueva creación",
+      "valor": "Antigüedad inferior a 5 años",
+      "ref": "arts. 88.2 y 90.4 LCSP"
+    },
+    {
+      "concepto": "Valor estimado en servicios sin precio total de más de 48 meses o duración indeterminada",
+      "valor": "Valor mensual multiplicado por 48",
+      "ref": "art. 101.11.d LCSP"
+    },
+    {
+      "concepto": "Revisión de precios: contratos con recuperación de la inversión",
+      "valor": "Igual o superior a 5 años",
+      "ref": "art. 103.2 LCSP"
+    },
+    {
+      "concepto": "Revisión de precios por materias primas y energía",
+      "valor": "Participación superior al 20 % del presupuesto base",
+      "ref": "art. 103.2 LCSP"
+    },
+    {
+      "concepto": "Requisitos temporales de la revisión de precios",
+      "valor": "Haber ejecutado el 20 % y transcurrido 1 año desde la formalización",
+      "ref": "art. 103.5 LCSP"
+    },
+    {
+      "concepto": "Formalización a efectos de la fórmula de revisión",
+      "valor": "3 meses desde el fin del plazo de presentación de ofertas",
+      "ref": "art. 103.4 LCSP"
+    },
+    {
+      "concepto": "Garantía provisional",
+      "valor": "Hasta el 3 % del presupuesto base de licitación sin IVA",
+      "ref": "art. 106.2 LCSP"
+    },
+    {
+      "concepto": "Garantía definitiva",
+      "valor": "5 % del precio final ofertado sin IVA",
+      "ref": "art. 107.1 LCSP"
+    },
+    {
+      "concepto": "Garantía complementaria",
+      "valor": "Hasta un 5 % adicional (total 10 %)",
+      "ref": "art. 107.2 LCSP"
+    },
+    {
+      "concepto": "Reposición o reajuste de la garantía definitiva",
+      "valor": "15 días",
+      "ref": "art. 109.2 y 3 LCSP"
+    },
+    {
+      "concepto": "Acuerdo de devolución de la garantía definitiva",
+      "valor": "2 meses desde el fin del plazo de garantía",
+      "ref": "art. 111.2 LCSP"
+    },
+    {
+      "concepto": "Devolución de la garantía sin recepción ni liquidación por causa no imputable al contratista",
+      "valor": "1 año desde la terminación (6 meses en obras de menos de 1.000.000 €, otros contratos de menos de 100.000 € o pymes)",
+      "ref": "art. 111.5 LCSP"
+    },
+    {
+      "concepto": "Contrato menor de obras",
+      "valor": "Valor estimado inferior a 40.000 euros",
+      "ref": "art. 118.1 LCSP"
+    },
+    {
+      "concepto": "Contrato menor de suministros o servicios",
+      "valor": "Valor estimado inferior a 15.000 euros",
+      "ref": "art. 118.1 LCSP"
+    },
+    {
+      "concepto": "Contrato menor sin informe justificativo (anticipo de caja fija)",
+      "valor": "Valor estimado no superior a 5.000 euros",
+      "ref": "art. 118.5 LCSP"
+    },
+    {
+      "concepto": "Autorización del Consejo de Gobierno de la ULL para contratar",
+      "valor": "Contratos de más de 1.000.000 euros",
+      "ref": "art. 126.3 EULL y art. 20.3 BEP-ULL 2026"
+    },
+    {
+      "concepto": "Delegación en vicerrectorados de la ULL de funciones de órgano de contratación",
+      "valor": "Hasta 50.000 euros",
+      "ref": "Resolución de delegación de competencias ULL 2023"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Contrato oneroso",
+      "definicion": "Aquel en que el contratista obtiene algún tipo de beneficio económico, directo o indirecto (art. 2.1 LCSP)."
+    },
+    {
+      "termino": "Poder adjudicador",
+      "definicion": "Entidad sometida a las Directivas de contratación: las Administraciones Públicas, las fundaciones públicas, las mutuas y otras entidades de interés general financiadas o controladas por poderes adjudicadores (art. 3.3)."
+    },
+    {
+      "termino": "Contrato SARA",
+      "definicion": "Contrato sujeto a regulación armonizada: el celebrado por un poder adjudicador cuyo valor estimado iguala o supera los umbrales europeos (art. 19)."
+    },
+    {
+      "termino": "Riesgo operacional",
+      "definicion": "Riesgo de demanda o de suministro que asume el concesionario, sin garantía de recuperar las inversiones ni cubrir los costes (art. 14.4)."
+    },
+    {
+      "termino": "Contrato administrativo especial",
+      "definicion": "Contrato de objeto distinto a los típicos, vinculado al giro o tráfico específico de la Administración o que satisface directamente una finalidad pública de su competencia (art. 25.1.b)."
+    },
+    {
+      "termino": "Medio propio personificado",
+      "definicion": "Persona jurídica sobre la que el poder adjudicador ejerce un control análogo y que realiza más del 80 % de su actividad para él. Sus encargos no son contratos (art. 32)."
+    },
+    {
+      "termino": "Perfil de contratante",
+      "definicion": "Sitio de Internet que agrupa la información y los documentos de la actividad contractual del órgano de contratación (art. 63)."
+    },
+    {
+      "termino": "Responsable del contrato",
+      "definicion": "Persona física o jurídica designada por el órgano de contratación para supervisar la ejecución y dictar instrucciones (art. 62)."
+    },
+    {
+      "termino": "Solvencia",
+      "definicion": "Aptitud económica y financiera y técnica o profesional del empresario para ejecutar el contrato, proporcional a su objeto (art. 74)."
+    },
+    {
+      "termino": "Clasificación",
+      "definicion": "Acreditación general de la solvencia por grupos, subgrupos y categorías, otorgada por las comisiones clasificadoras con eficacia general (arts. 77 a 83)."
+    },
+    {
+      "termino": "Prohibición de contratar",
+      "definicion": "Circunstancia legal (condenas, sanciones, deudas, falsedad, incompatibilidades...) que impide contratar con el sector público (art. 71)."
+    },
+    {
+      "termino": "Presupuesto base de licitación",
+      "definicion": "Límite máximo de gasto que puede comprometer el órgano de contratación, IVA incluido (art. 100)."
+    },
+    {
+      "termino": "Valor estimado",
+      "definicion": "Importe total pagadero sin IVA, incluidas las prórrogas, opciones, primas y modificaciones previstas. Determina los umbrales (art. 101)."
+    },
+    {
+      "termino": "Revisión de precios",
+      "definicion": "Ajuste periódico y predeterminado del precio mediante una fórmula fijada en el pliego, en los contratos y supuestos tasados (art. 103)."
+    },
+    {
+      "termino": "Garantía definitiva",
+      "definicion": "Garantía del 5 % del precio final ofertado sin IVA que responde de la formalización, las penalidades, la correcta ejecución y los vicios (arts. 107 y 110)."
+    },
+    {
+      "termino": "Contrato menor",
+      "definicion": "Contrato de valor estimado inferior a 40.000 € (obras) o a 15.000 € (suministros y servicios), de tramitación simplificada (art. 118)."
+    },
+    {
+      "termino": "Fraccionamiento",
+      "definicion": "División indebida del objeto de un contrato para disminuir su cuantía y eludir la publicidad o el procedimiento que corresponda. Está prohibido (art. 99.2)."
+    },
+    {
+      "termino": "Oferta integradora",
+      "definicion": "Oferta para una combinación de lotes que puede adjudicarse conjuntamente si lo prevé el pliego y resulta mejor que los lotes por separado (art. 99.5)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Aptitud: C-P-S",
+      "texto": "Capacidad de obrar, ausencia de Prohibiciones y Solvencia (o clasificación) (art. 65)."
+    },
+    {
+      "titulo": "Umbrales SARA 2026: 5,4 millones / 140 / 216 / 750",
+      "texto": "Obras y concesiones 5.404.000 €. Suministros y servicios de la AGE 140.000 € y del resto 216.000 €. Servicios sociales 750.000 €. Piensa en '5-4-0-4' y '140 del Estado, 216 del resto'."
+    },
+    {
+      "titulo": "Contrato menor: 40 y 15",
+      "texto": "Obras: menos de 40.000 €. Suministros y servicios: menos de 15.000 €. Sin IVA, un año como máximo y sin prórroga."
+    },
+    {
+      "titulo": "Garantías: 3-5-5-10",
+      "texto": "Provisional hasta el 3 %; definitiva 5 %; complementaria hasta otro 5 %; total máximo 10 %."
+    },
+    {
+      "titulo": "Revisión de precios: 20 % y 1 año; costes A-F-G-B",
+      "texto": "Solo desde que se ha ejecutado el 20 % y ha pasado 1 año. Nunca se revisan Amortizaciones, costes Financieros, Gastos generales ni Beneficio industrial."
+    },
+    {
+      "titulo": "IVA: presupuesto sí, valor no",
+      "texto": "El Presupuesto base lleva IVA ('P de pago'); el Valor estimado va sin IVA pero con prórrogas ('V de vida del contrato')."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué principios garantiza la LCSP según su art. 1.1?",
+      "reverso": "Libertad de acceso a las licitaciones, publicidad y transparencia, y no discriminación e igualdad de trato entre licitadores.",
+      "ref": "art. 1.1 LCSP"
+    },
+    {
+      "frente": "¿Cuándo es oneroso un contrato?",
+      "reverso": "Cuando el contratista obtiene algún beneficio económico, directo o indirecto.",
+      "ref": "art. 2.1 LCSP"
+    },
+    {
+      "frente": "¿Es la Universidad Pública Administración Pública a efectos de la LCSP?",
+      "reverso": "Sí: está en el art. 3.1.c y el art. 3.2.a la considera Administración Pública, y por tanto poder adjudicador.",
+      "ref": "art. 3 LCSP"
+    },
+    {
+      "frente": "¿Cuándo se presume que una entidad tiene vocación de mercado en un convenio?",
+      "reverso": "Cuando realiza en el mercado abierto el 20 % o más de las actividades objeto de colaboración.",
+      "ref": "art. 6.1.a LCSP"
+    },
+    {
+      "frente": "Requisito de actividad de un medio propio",
+      "reverso": "Que más del 80 % de su actividad se realice para el poder adjudicador que le hace el encargo y lo controla.",
+      "ref": "art. 32.2.b LCSP"
+    },
+    {
+      "frente": "¿Qué diferencia una concesión de un contrato de obras o de servicios?",
+      "reverso": "La transferencia al concesionario del riesgo operacional (de demanda, de suministro o ambos).",
+      "ref": "arts. 14.4 y 15.2 LCSP"
+    },
+    {
+      "frente": "¿Es suministro o servicio un programa de ordenador desarrollado a medida?",
+      "reverso": "Es servicio. El software estándar es suministro.",
+      "ref": "art. 16.3.b LCSP"
+    },
+    {
+      "frente": "Umbral SARA de obras en 2026",
+      "reverso": "5.404.000 euros de valor estimado.",
+      "ref": "art. 20.1 LCSP"
+    },
+    {
+      "frente": "Umbral SARA de suministros y servicios de una universidad pública en 2026",
+      "reverso": "216.000 euros (140.000 euros si es la AGE o sus organismos autónomos).",
+      "ref": "arts. 21 y 22 LCSP"
+    },
+    {
+      "frente": "Umbral SARA de los servicios sociales del anexo IV",
+      "reverso": "750.000 euros.",
+      "ref": "art. 22.1.c LCSP"
+    },
+    {
+      "frente": "¿Qué contratos de servicios son privados aunque los celebre una Administración?",
+      "reverso": "Los servicios financieros, los de creación artística y literaria y espectáculos, y las suscripciones a revistas, publicaciones periódicas y bases de datos.",
+      "ref": "art. 25.1.a LCSP"
+    },
+    {
+      "frente": "¿Qué orden jurisdiccional conoce de los efectos y la extinción de los contratos privados de la Administración?",
+      "reverso": "El civil. La preparación y la adjudicación corresponden al contencioso-administrativo.",
+      "ref": "art. 27 LCSP"
+    },
+    {
+      "frente": "Duración máxima de un contrato de servicios de prestación sucesiva",
+      "reverso": "5 años, incluidas las prórrogas (con excepciones tasadas).",
+      "ref": "art. 29.4 LCSP"
+    },
+    {
+      "frente": "¿Cuándo es obligatoria la prórroga para el contratista?",
+      "reverso": "Cuando el preaviso se produce al menos 2 meses antes de terminar el contrato. Nunca cabe la prórroga tácita.",
+      "ref": "art. 29.2 LCSP"
+    },
+    {
+      "frente": "¿Puede prorrogarse un contrato menor?",
+      "reverso": "No. Su duración máxima es de un año y no admite prórroga.",
+      "ref": "art. 29.8 LCSP"
+    },
+    {
+      "frente": "¿Cuándo se perfeccionan los contratos del sector público?",
+      "reverso": "Con su formalización. Los basados en un acuerdo marco y los específicos de un sistema dinámico, con su adjudicación.",
+      "ref": "art. 36 LCSP"
+    },
+    {
+      "frente": "¿Puede contratar verbalmente la Administración?",
+      "reverso": "No, salvo en la tramitación de emergencia.",
+      "ref": "art. 37.1 LCSP"
+    },
+    {
+      "frente": "¿Quién es el órgano de contratación en la ULL?",
+      "reverso": "El Rector o la Rectora, sin perjuicio de delegaciones. Por encima de 1.000.000 € hace falta autorización del Consejo de Gobierno.",
+      "ref": "art. 126 EULL"
+    },
+    {
+      "frente": "¿Es obligatorio designar un responsable del contrato?",
+      "reverso": "Sí. Puede ser una persona física o jurídica, vinculada o ajena a la entidad. En obras lo es el Director Facultativo.",
+      "ref": "art. 62 LCSP"
+    },
+    {
+      "frente": "¿Cuánto tiempo debe permanecer accesible la información del perfil de contratante?",
+      "reverso": "No menos de 5 años.",
+      "ref": "art. 63.1 LCSP"
+    },
+    {
+      "frente": "Condiciones de aptitud para contratar",
+      "reverso": "Plena capacidad de obrar, no estar incurso en prohibición de contratar y acreditar solvencia (o clasificación).",
+      "ref": "art. 65.1 LCSP"
+    },
+    {
+      "frente": "¿Cómo responden los miembros de una UTE?",
+      "reverso": "Solidariamente, con un representante o apoderado único.",
+      "ref": "art. 69.3 LCSP"
+    },
+    {
+      "frente": "Prohibición de contratar por deudas: ¿cuándo se está al corriente?",
+      "reverso": "También cuando las deudas están aplazadas, fraccionadas o suspendidas.",
+      "ref": "art. 71.1.d LCSP"
+    },
+    {
+      "frente": "Duración máxima de la prohibición de contratar",
+      "reverso": "La de la sentencia penal; si no la fija, 5 años. En el resto de casos, 3 años.",
+      "ref": "art. 72.6 LCSP"
+    },
+    {
+      "frente": "¿Desde qué cuantía es obligatoria la clasificación en obras?",
+      "reverso": "Desde un valor estimado de 500.000 euros (igual o superior).",
+      "ref": "art. 77.1.a LCSP"
+    },
+    {
+      "frente": "¿Se exige clasificación en los contratos de servicios?",
+      "reverso": "No. Es un medio voluntario para acreditar la solvencia.",
+      "ref": "art. 77.1.b LCSP"
+    },
+    {
+      "frente": "Volumen anual de negocios máximo que puede exigirse",
+      "reverso": "Una vez y media el valor estimado, salvo casos justificados.",
+      "ref": "art. 87.1.a LCSP"
+    },
+    {
+      "frente": "¿Está prohibido fraccionar el objeto del contrato?",
+      "reverso": "Sí, cuando se hace para disminuir la cuantía y eludir la publicidad o el procedimiento.",
+      "ref": "art. 99.2 LCSP"
+    },
+    {
+      "frente": "¿Es obligatorio dividir en lotes?",
+      "reverso": "Es la regla general. No dividir exige motivos válidos justificados en el expediente.",
+      "ref": "art. 99.3 LCSP"
+    },
+    {
+      "frente": "¿Incluye el IVA el presupuesto base de licitación?",
+      "reverso": "Sí, salvo disposición en contrario.",
+      "ref": "art. 100.1 LCSP"
+    },
+    {
+      "frente": "¿Qué incluye el valor estimado?",
+      "reverso": "El importe total sin IVA, más las prórrogas, las opciones, las primas y las modificaciones previstas.",
+      "ref": "art. 101 LCSP"
+    },
+    {
+      "frente": "¿Se permite el pago aplazado del precio?",
+      "reverso": "No en los contratos de las Administraciones, salvo arrendamiento financiero, arrendamiento con opción de compra o autorización legal.",
+      "ref": "art. 102.8 LCSP"
+    },
+    {
+      "frente": "¿Cuándo procede la revisión de precios?",
+      "reverso": "Tras ejecutar el 20 % del importe y pasar un año desde la formalización, en los contratos en que se admite.",
+      "ref": "art. 103.5 LCSP"
+    },
+    {
+      "frente": "Importe de la garantía definitiva",
+      "reverso": "5 % del precio final ofertado, excluido el IVA.",
+      "ref": "art. 107.1 LCSP"
+    },
+    {
+      "frente": "¿Cabe eximir de la garantía definitiva en un contrato de obras?",
+      "reverso": "No, ni en obras ni en concesión de obras.",
+      "ref": "art. 107.1 LCSP"
+    },
+    {
+      "frente": "Garantía provisional: ¿regla e importe?",
+      "reverso": "No procede salvo de forma excepcional y motivada. Hasta el 3 % del presupuesto base sin IVA.",
+      "ref": "art. 106 LCSP"
+    },
+    {
+      "frente": "Cuantías del contrato menor",
+      "reverso": "Valor estimado inferior a 40.000 € en obras e inferior a 15.000 € en suministros y servicios.",
+      "ref": "art. 118.1 LCSP"
+    },
+    {
+      "frente": "¿Qué exige el expediente de un contrato menor?",
+      "reverso": "Un informe motivado de la necesidad y de que no se altera el objeto para eludir umbrales, la aprobación del gasto y la factura.",
+      "ref": "art. 118.2 y 3 LCSP"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el artículo 1.1 de la Ley 9/2017, la contratación del sector público se ajustará, entre otros, a los principios de:",
+      "opciones": [
+        "Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores",
+        "Jerarquía, descentralización y coordinación",
+        "Eficacia, desconcentración y lealtad institucional",
+        "Economía, celeridad y oficialidad"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 1.1 LCSP enumera la libertad de acceso a las licitaciones, la publicidad y transparencia, y la no discriminación e igualdad de trato.",
+      "ref": "art. 1.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "A efectos de la LCSP, un contrato tiene carácter oneroso cuando:",
+      "opciones": [
+        "La Administración paga un precio en dinero",
+        "El contratista obtiene algún tipo de beneficio económico, ya sea de forma directa o indirecta",
+        "Su valor estimado supera 15.000 euros",
+        "Se formaliza en documento administrativo"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo define el art. 2.1, párrafo segundo, LCSP.",
+      "ref": "art. 2.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "A efectos de la LCSP, las Universidades Públicas:",
+      "opciones": [
+        "No forman parte del sector público",
+        "Son poder adjudicador pero no Administración Pública",
+        "Forman parte del sector público y tienen la consideración de Administración Pública",
+        "Solo están sujetas a la LCSP en los contratos SARA"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 3.1.c LCSP las incluye en el sector público y el art. 3.2.a les atribuye la condición de Administración Pública (y, por tanto, de poder adjudicador según el art. 3.3.a).",
+      "ref": "art. 3 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los convenios entre entidades del sector público quedan excluidos de la LCSP si, entre otras condiciones, las entidades no tienen vocación de mercado, la cual se presume cuando realicen en el mercado abierto un porcentaje de las actividades objeto de colaboración:",
+      "opciones": [
+        "Superior al 50 %",
+        "Igual o superior al 80 %",
+        "Igual o superior al 10 %",
+        "Igual o superior al 20 %"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 6.1.a LCSP fija la presunción en el 20 % o más.",
+      "ref": "art. 6.1.a LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Para que una entidad tenga la condición de medio propio personificado, más de un determinado porcentaje de sus actividades debe llevarse a cabo en el ejercicio de los cometidos confiados por el poder adjudicador que la controla. Ese porcentaje es:",
+      "opciones": [
+        "El 80 %",
+        "El 50 %",
+        "El 90 %",
+        "El 70 %"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 32.2.b LCSP exige que más del 80 % de las actividades se realicen para quien hace el encargo.",
+      "ref": "art. 32.2.b LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los contratos de investigación y desarrollo:",
+      "opciones": [
+        "Están siempre sujetos a la LCSP",
+        "Están excluidos de la LCSP, salvo los incluidos en determinados códigos CPV cuyos beneficios pertenezcan exclusivamente al poder adjudicador y que este remunere íntegramente",
+        "Son siempre contratos administrativos especiales",
+        "Solo están excluidos si los celebra una universidad"
+      ],
+      "correcta": 1,
+      "explicacion": "Es lo que dispone el art. 8 LCSP.",
+      "ref": "art. 8 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la LCSP, se entiende por obra el resultado de un conjunto de trabajos de construcción o de ingeniería civil destinado a cumplir por sí mismo una función económica o técnica, que tenga por objeto:",
+      "opciones": [
+        "Un bien mueble",
+        "Un servicio público",
+        "Una concesión",
+        "Un bien inmueble"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 13.2 LCSP exige que la obra tenga por objeto un bien inmueble.",
+      "ref": "art. 13.2 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El elemento que distingue la concesión de obras del contrato de obras es:",
+      "opciones": [
+        "La transferencia al concesionario de un riesgo operacional en la explotación",
+        "La duración superior a cinco años",
+        "Que el precio lo pague la Administración",
+        "Que la obra sea de nueva planta"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 14.4 LCSP exige que el derecho de explotación implique la transferencia al concesionario del riesgo operacional.",
+      "ref": "art. 14.4 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La adquisición por la Universidad de un programa de ordenador desarrollado a medida se califica como contrato de:",
+      "opciones": [
+        "Suministro",
+        "Servicios",
+        "Obras",
+        "Concesión de servicios"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 16.3.b LCSP exceptúa del suministro los programas desarrollados a medida, que se consideran contratos de servicios.",
+      "ref": "art. 16.3.b LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes contratos NO tiene en todo caso la consideración de contrato de suministro según el artículo 16.3 LCSP?",
+      "opciones": [
+        "La adquisición de energía primaria o transformada",
+        "Los de fabricación con arreglo a características fijadas por la entidad contratante",
+        "La adquisición de programas de ordenador desarrollados a medida",
+        "La entrega sucesiva de bienes por precio unitario según las necesidades del adquirente"
+      ],
+      "correcta": 2,
+      "explicacion": "Los programas desarrollados a medida son servicios (art. 16.3.b). Los demás supuestos son suministros en todo caso.",
+      "ref": "art. 16.3 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En un contrato mixto compuesto en parte por servicios y en parte por suministros, el objeto principal se determina:",
+      "opciones": [
+        "En función de cuál sea el mayor de los valores estimados de los servicios o suministros",
+        "Siempre por la parte de servicios",
+        "Por la voluntad del órgano de contratación",
+        "Por el orden en que aparezcan en el pliego"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 18.1.a, párrafo segundo, LCSP.",
+      "ref": "art. 18.1.a LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En un contrato mixto, cuando uno de sus elementos sea una obra que supere una determinada cuantía, deberá elaborarse un proyecto. Esa cuantía es:",
+      "opciones": [
+        "40.000 euros",
+        "50.000 euros",
+        "15.000 euros",
+        "500.000 euros"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 18.3 LCSP exige proyecto cuando la obra supere 50.000 euros.",
+      "ref": "art. 18.3 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Desde el 1 de enero de 2026, están sujetos a regulación armonizada los contratos de obras cuyo valor estimado sea igual o superior a:",
+      "opciones": [
+        "5.538.000 euros",
+        "5.382.000 euros",
+        "5.404.000 euros",
+        "6.000.000 euros"
+      ],
+      "correcta": 2,
+      "explicacion": "La Orden HAC/1517/2025 sustituyó la cifra de 5.538.000 € por 5.404.000 € en el art. 20.1 LCSP.",
+      "ref": "art. 20.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Desde el 1 de enero de 2026, un contrato de suministro de la Universidad de La Laguna está sujeto a regulación armonizada cuando su valor estimado es igual o superior a:",
+      "opciones": [
+        "140.000 euros",
+        "221.000 euros",
+        "100.000 euros",
+        "216.000 euros"
+      ],
+      "correcta": 3,
+      "explicacion": "Para poderes adjudicadores distintos de la AGE, sus organismos autónomos y la Seguridad Social, el umbral es de 216.000 € (art. 21.1.b LCSP, según la Orden HAC/1517/2025).",
+      "ref": "art. 21.1.b LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los contratos de servicios que tengan por objeto los servicios sociales y otros servicios específicos del anexo IV están sujetos a regulación armonizada si su valor estimado es igual o superior a:",
+      "opciones": [
+        "750.000 euros",
+        "216.000 euros",
+        "1.000.000 euros",
+        "5.404.000 euros"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 22.1.c LCSP.",
+      "ref": "art. 22.1.c LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En un contrato de servicios dividido en lotes cuyo valor acumulado supera el umbral armonizado, el órgano de contratación podrá exceptuar de la regulación armonizada los lotes cuyo valor estimado sea inferior a:",
+      "opciones": [
+        "1.000.000 de euros, sin límite",
+        "80.000 euros, siempre que el importe acumulado de los exceptuados no sobrepase el 20 % del total",
+        "15.000 euros",
+        "100.000 euros, hasta el 50 % del total"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo prevé el art. 22.2 LCSP (igual que el art. 21.2 en suministros). En obras, el límite es de 1.000.000 € (art. 20.2).",
+      "ref": "art. 22.2 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Son contratos subvencionados sujetos a regulación armonizada los de obras y servicios de determinadas categorías subvencionados de forma directa por poderes adjudicadores en:",
+      "opciones": [
+        "Más de un 20 % de su importe",
+        "Cualquier porcentaje",
+        "Más de un 50 % de su importe",
+        "Más de un 80 % de su importe"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 23.1 LCSP exige subvención directa de más del 50 %.",
+      "ref": "art. 23.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Celebrado por una Administración Pública, ¿cuál de los siguientes contratos tiene carácter privado?",
+      "opciones": [
+        "El suministro de mobiliario",
+        "La limpieza de un edificio",
+        "Las obras de reforma de un aulario",
+        "La suscripción a revistas, publicaciones periódicas y bases de datos"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 25.1.a.2.º LCSP atribuye carácter privado a la suscripción a revistas, publicaciones periódicas y bases de datos.",
+      "ref": "art. 25.1.a LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los contratos administrativos se regirán en cuanto a su preparación, adjudicación, efectos, modificación y extinción:",
+      "opciones": [
+        "Por la LCSP y sus disposiciones de desarrollo; supletoriamente por las restantes normas de derecho administrativo y, en su defecto, por las de derecho privado",
+        "Por el Código Civil y, supletoriamente, por la LCSP",
+        "Por la LPAC exclusivamente",
+        "Por sus normas específicas y, en su defecto, por el derecho mercantil"
+      ],
+      "correcta": 0,
+      "explicacion": "Así lo establece el art. 25.2 LCSP. Los contratos administrativos especiales se rigen en primer término por sus normas específicas.",
+      "ref": "art. 25.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los contratos celebrados por entidades del sector público que siendo poder adjudicador no reúnan la condición de Administración Pública son:",
+      "opciones": [
+        "Contratos administrativos típicos",
+        "Contratos privados",
+        "Contratos administrativos especiales",
+        "Negocios excluidos de la LCSP"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo dispone el art. 26.1.b LCSP.",
+      "ref": "art. 26.1.b LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las controversias relativas a los efectos y extinción de los contratos privados de una Administración Pública corresponden al orden jurisdiccional:",
+      "opciones": [
+        "Contencioso-administrativo",
+        "Social",
+        "Civil",
+        "Contencioso-administrativo o civil, a elección del contratista"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 27.2.a LCSP las atribuye al orden civil, salvo las modificaciones contractuales citadas en el art. 27.1.b y c.",
+      "ref": "art. 27.2.a LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las cuestiones que se susciten en relación con la preparación y adjudicación de los contratos privados de las Administraciones Públicas corresponden al orden jurisdiccional:",
+      "opciones": [
+        "Civil",
+        "Mercantil",
+        "Social",
+        "Contencioso-administrativo"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 27.1.b LCSP las atribuye al orden contencioso-administrativo (teoría de los actos separables).",
+      "ref": "art. 27.1.b LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el artículo 29 LCSP, la prórroga del contrato será obligatoria para el empresario siempre que su preaviso se produzca con una antelación mínima a la finalización del plazo de duración de:",
+      "opciones": [
+        "Dos meses, salvo que el pliego establezca uno mayor",
+        "Un mes",
+        "Tres meses",
+        "Quince días"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 29.2 LCSP fija un preaviso de al menos dos meses.",
+      "ref": "art. 29.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En relación con la prórroga de los contratos, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Puede producirse por consentimiento tácito si ninguna parte se opone",
+        "En ningún caso podrá producirse por el consentimiento tácito de las partes",
+        "La acuerda siempre el contratista",
+        "Solo cabe en contratos de obras"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 29.2 LCSP prohíbe la prórroga por consentimiento tácito.",
+      "ref": "art. 29.2 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Con carácter general, los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración, incluidas las prórrogas, de:",
+      "opciones": [
+        "Cuatro años",
+        "Tres años",
+        "Cinco años",
+        "Diez años"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 29.4 LCSP fija cinco años, incluidas las prórrogas, con excepciones tasadas.",
+      "ref": "art. 29.4 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando al vencimiento de un contrato no se haya formalizado el nuevo por incidencias imprevisibles y existan razones de interés público, podrá prorrogarse el contrato originario hasta que comience la ejecución del nuevo por un período máximo de:",
+      "opciones": [
+        "Seis meses, si el anuncio se publicó un mes antes",
+        "Un año, sin requisitos",
+        "Doce meses, si el anuncio se publicó dos meses antes",
+        "Nueve meses, siempre que el anuncio de licitación del nuevo contrato se haya publicado con una antelación mínima de tres meses"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo prevé el art. 29.4, último párrafo, LCSP.",
+      "ref": "art. 29.4 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La duración máxima, incluidas las prórrogas, de los contratos de concesión de servicios que comprendan la explotación de un servicio no relacionado con la prestación de servicios sanitarios es de:",
+      "opciones": [
+        "Veinticinco años",
+        "Cuarenta años",
+        "Diez años",
+        "Quince años"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 29.6.b LCSP fija 25 años. Son 40 para la concesión de obras (y la de servicios con obras) y 10 para la de servicios sanitarios.",
+      "ref": "art. 29.6 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con carácter general, los contratos que celebran los poderes adjudicadores se perfeccionan:",
+      "opciones": [
+        "Con la adjudicación",
+        "Con la aprobación del expediente",
+        "Con su formalización",
+        "Con el inicio de la ejecución"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 36.1 LCSP establece que se perfeccionan con su formalización, salvo los contratos menores y los basados en acuerdos marco o sistemas dinámicos.",
+      "ref": "art. 36.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los contratos basados en un acuerdo marco se perfeccionan:",
+      "opciones": [
+        "Con su formalización",
+        "Con la firma del acuerdo marco",
+        "Con la recepción de la prestación",
+        "Con su adjudicación"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 36.3 LCSP dispone que se perfeccionan con su adjudicación.",
+      "ref": "art. 36.3 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las entidades del sector público no podrán contratar verbalmente, salvo que el contrato tenga carácter de:",
+      "opciones": [
+        "Emergencia",
+        "Urgencia",
+        "Contrato menor",
+        "Contrato privado"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 37.1 LCSP solo admite la contratación verbal en la emergencia del art. 120.1.",
+      "ref": "art. 37.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según los Estatutos de la Universidad de La Laguna, el órgano de contratación competente de la Universidad es:",
+      "opciones": [
+        "El Consejo de Gobierno",
+        "El Rector o la Rectora, sin perjuicio de las delegaciones que efectúe",
+        "El Gerente",
+        "El Consejo Social"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo dispone el art. 126.2 EULL.",
+      "ref": "art. 126.2 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Conforme a las Bases de Ejecución del Presupuesto de la ULL para 2026, en desarrollo del artículo 126.3 de los Estatutos, requerirán autorización del Consejo de Gobierno, dando cuenta al Consejo Social, los contratos cuya cuantía supere:",
+      "opciones": [
+        "50.000 euros",
+        "216.000 euros",
+        "1.000.000 de euros",
+        "5.404.000 euros"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 20.3 de las BEP-ULL 2026 atribuye al Rector la autorización de gastos hasta 1.000.000 € y exige autorización del Consejo de Gobierno por encima de esa cifra.",
+      "ref": "art. 126.3 EULL y art. 20.3 BEP-ULL 2026",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto del responsable del contrato, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Su designación por el órgano de contratación es obligatoria",
+        "Le corresponde supervisar la ejecución del contrato",
+        "En los contratos de obras sus facultades las ejerce el Director Facultativo",
+        "Debe ser necesariamente un funcionario de carrera de la entidad contratante"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 62.1 LCSP permite que sea una persona física o jurídica, vinculada a la entidad o ajena a ella.",
+      "ref": "art. 62 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La información contenida en los perfiles de contratante permanecerá accesible al público durante un periodo no inferior a:",
+      "opciones": [
+        "Cinco años",
+        "Tres años",
+        "Diez años",
+        "Cuatro años"
+      ],
+      "correcta": 0,
+      "explicacion": "Así lo establece el art. 63.1 LCSP.",
+      "ref": "art. 63.1 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La información relativa a los contratos menores se publicará en el perfil de contratante:",
+      "opciones": [
+        "Mensualmente",
+        "Al menos trimestralmente",
+        "Anualmente",
+        "Solo si superan 5.000 euros, semestralmente"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 63.4 LCSP exige publicación al menos trimestral, con excepción de los de valor estimado inferior a 5.000 € pagados por anticipo de caja fija o similar.",
+      "ref": "art. 63.4 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Solo podrán contratar con el sector público las personas naturales o jurídicas que:",
+      "opciones": [
+        "Estén inscritas en el ROLECE",
+        "Tengan domicilio en España",
+        "Tengan plena capacidad de obrar, no estén incursas en prohibición de contratar y acrediten su solvencia o, cuando se exija, estén clasificadas",
+        "Tengan una antigüedad mínima de cinco años"
+      ],
+      "correcta": 2,
+      "explicacion": "Son las condiciones de aptitud del art. 65.1 LCSP.",
+      "ref": "art. 65.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los empresarios que concurran agrupados en una unión temporal:",
+      "opciones": [
+        "Deben constituir la unión en escritura pública antes de presentar la oferta",
+        "Responden mancomunadamente según su participación",
+        "No pueden nombrar un apoderado único",
+        "Quedarán obligados solidariamente y deberán nombrar un representante o apoderado único"
+      ],
+      "correcta": 3,
+      "explicacion": "Así lo dispone el art. 69.3 LCSP. La escritura solo se exige tras la adjudicación (art. 69.1).",
+      "ref": "art. 69 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Es causa de prohibición de contratar, en empresas de 50 o más trabajadores, no cumplir el requisito de que al menos un determinado porcentaje de sus empleados sean trabajadores con discapacidad. Ese porcentaje es:",
+      "opciones": [
+        "El 2 %",
+        "El 5 %",
+        "El 3 %",
+        "El 7 %"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 71.1.d LCSP remite a la cuota del 2 % del art. 42 del RDLeg 1/2013.",
+      "ref": "art. 71.1.d LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "A efectos de la prohibición de contratar por deudas tributarias o con la Seguridad Social, se considera que la empresa se encuentra al corriente cuando las deudas:",
+      "opciones": [
+        "No superen 3.000 euros",
+        "Estén aplazadas, fraccionadas o se haya acordado su suspensión con ocasión de su impugnación",
+        "Tengan menos de un año de antigüedad",
+        "Hayan sido reclamadas en vía de apremio"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo establece el art. 71.1.d, párrafo segundo, LCSP.",
+      "ref": "art. 71.1.d LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando la sentencia penal firme que da lugar a una prohibición de contratar no haya establecido su plazo, la duración de la prohibición no podrá exceder de:",
+      "opciones": [
+        "Tres años",
+        "Diez años",
+        "Cinco años desde la fecha de la condena por sentencia firme",
+        "Dos años"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 72.6 LCSP fija cinco años en ese caso y tres años en el resto de supuestos.",
+      "ref": "art. 72.6 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el artículo 77 LCSP, la clasificación del empresario como contratista de obras será requisito indispensable en los contratos de obras cuyo valor estimado sea:",
+      "opciones": [
+        "Superior a 40.000 euros",
+        "Igual o superior a 350.000 euros",
+        "Igual o superior a 1.000.000 de euros",
+        "Igual o superior a 500.000 euros"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 77.1.a LCSP la exige a partir de 500.000 euros de valor estimado.",
+      "ref": "art. 77.1.a LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los contratos de servicios, la clasificación del empresario:",
+      "opciones": [
+        "No es exigible, aunque puede utilizarse para acreditar la solvencia",
+        "Es exigible a partir de 120.000 euros",
+        "Es exigible siempre",
+        "Está prohibida"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 77.1.b LCSP establece que no será exigible; el empresario puede acreditar su solvencia con la clasificación o con los requisitos del pliego.",
+      "ref": "art. 77.1.b LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para la conservación de la clasificación, el empresario deberá justificar el mantenimiento de su solvencia técnica y profesional:",
+      "opciones": [
+        "Cada año",
+        "Cada tres años",
+        "Cada cinco años",
+        "Solo cuando lo requiera la Junta Consultiva"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 82.2 LCSP exige justificar anualmente la solvencia económica y financiera y cada tres años la técnica y profesional.",
+      "ref": "art. 82.2 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El volumen de negocios mínimo anual exigido para acreditar la solvencia económica y financiera no excederá, salvo casos justificados, de:",
+      "opciones": [
+        "Dos veces el valor estimado del contrato",
+        "El presupuesto base de licitación",
+        "Una vez y media el valor estimado del contrato",
+        "El triple del valor anual medio del contrato"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo establece el art. 87.1.a LCSP.",
+      "ref": "art. 87.1.a LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los contratos de obras, la solvencia técnica puede acreditarse mediante una relación de las obras ejecutadas, avalada por certificados de buena ejecución, en el curso de los últimos:",
+      "opciones": [
+        "Tres años",
+        "Dos años",
+        "Diez años en todo caso",
+        "Cinco años"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 88.1.a LCSP se refiere a los cinco últimos años (hasta diez si es necesario para garantizar la competencia). En servicios y suministros son tres años.",
+      "ref": "art. 88.1.a LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "A efectos de la LCSP, el presupuesto base de licitación es:",
+      "opciones": [
+        "El importe total del contrato sin IVA, incluidas las prórrogas",
+        "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el IVA, salvo disposición en contrario",
+        "El precio ofertado por el adjudicatario",
+        "El valor de las modificaciones previstas"
+      ],
+      "correcta": 1,
+      "explicacion": "Definición literal del art. 100.1 LCSP.",
+      "ref": "art. 100.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En el cálculo del valor estimado de un contrato de servicios NO se incluye:",
+      "opciones": [
+        "Las eventuales prórrogas",
+        "Las modificaciones previstas en el pliego",
+        "Las primas o pagos a candidatos",
+        "El Impuesto sobre el Valor Añadido"
+      ],
+      "correcta": 3,
+      "explicacion": "El valor estimado se calcula sin IVA (art. 101.1.a) e incluye prórrogas, opciones, primas y modificaciones previstas (art. 101.2).",
+      "ref": "art. 101 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Universidad licita un servicio de mantenimiento por 2 años a 10.000 € anuales (IVA excluido), con posibilidad de prórroga por 2 años más y sin modificaciones previstas. Su valor estimado es:",
+      "opciones": [
+        "40.000 euros",
+        "20.000 euros",
+        "24.200 euros",
+        "48.400 euros"
+      ],
+      "correcta": 0,
+      "explicacion": "El valor estimado incluye las prórrogas y excluye el IVA: 4 años por 10.000 € dan 40.000 € (art. 101.1.a y 2.a LCSP). No es contrato menor al superar 15.000 €.",
+      "ref": "art. 101 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Respecto del precio de los contratos del sector público, señale la afirmación INCORRECTA:",
+      "opciones": [
+        "Tendrán siempre un precio cierto",
+        "En el precio se entiende incluido el IVA, que se indicará como partida independiente",
+        "Podrá formularse en precios unitarios o a tanto alzado",
+        "Se permite con carácter general el pago aplazado del precio en los contratos de las Administraciones Públicas"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 102.8 LCSP prohíbe el pago aplazado, salvo el arrendamiento financiero, el arrendamiento con opción de compra o una autorización legal.",
+      "ref": "art. 102 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando proceda la revisión periódica y predeterminada de precios, esta tendrá lugar cuando el contrato se hubiese ejecutado, al menos, en:",
+      "opciones": [
+        "El 20 % de su importe y hubiese transcurrido un año desde su formalización",
+        "El 50 % de su importe",
+        "El 10 % de su importe y seis meses desde la adjudicación",
+        "El 20 % de su importe y dos años desde la adjudicación"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 103.5 LCSP (salvo en suministros de energía; en concesiones de servicios no se exige el porcentaje).",
+      "ref": "art. 103.5 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes costes puede ser objeto de revisión de precios?",
+      "opciones": [
+        "Los costes financieros",
+        "El beneficio industrial",
+        "Los gastos generales o de estructura",
+        "Los costes de materias primas en un contrato en que su participación supere el 20 % del presupuesto base, en la fracción que representen"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 103.2 LCSP excluye en todo caso las amortizaciones, los costes financieros, los gastos generales y el beneficio industrial, y admite la revisión de materias primas, bienes intermedios y energía cuando superen el 20 %.",
+      "ref": "art. 103.2 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En los contratos celebrados con precios provisionales:",
+      "opciones": [
+        "La revisión de precios es obligatoria",
+        "No cabrá la revisión de precios",
+        "La revisión se aplica desde el primer día",
+        "No puede exigirse garantía definitiva"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 102.7, último párrafo, LCSP excluye la revisión de precios.",
+      "ref": "art. 102.7 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cuando excepcionalmente se exija garantía provisional, su importe no podrá ser superior a:",
+      "opciones": [
+        "El 5 % del precio ofertado",
+        "El 3 % del valor estimado",
+        "El 3 % del presupuesto base de licitación del contrato, excluido el IVA",
+        "El 10 % del presupuesto base de licitación"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo establece el art. 106.2 LCSP.",
+      "ref": "art. 106.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La garantía definitiva en los contratos de las Administraciones Públicas será, con carácter general, de:",
+      "opciones": [
+        "Un 3 % del presupuesto base de licitación",
+        "Un 10 % del precio de adjudicación con IVA",
+        "Un 4 % del valor estimado",
+        "Un 5 % del precio final ofertado, excluido el IVA"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo dispone el art. 107.1 LCSP.",
+      "ref": "art. 107.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La exención de la obligación de constituir garantía definitiva NO será posible en los contratos de:",
+      "opciones": [
+        "Obras y concesión de obras",
+        "Suministro de bienes consumibles",
+        "Servicios sociales",
+        "Suscripción a bases de datos"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 107.1, párrafo segundo, LCSP excluye la exención en obras y en concesión de obras.",
+      "ref": "art. 107.1 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En casos especiales, además de la garantía definitiva, podrá exigirse una complementaria de hasta un 5 %, pudiendo alcanzar la garantía total:",
+      "opciones": [
+        "El 8 % del precio",
+        "El 10 % del precio final ofertado, excluido el IVA",
+        "El 15 % del presupuesto base",
+        "El 20 % del valor estimado"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo prevé el art. 107.2 LCSP, por ejemplo cuando la oferta estuvo incursa en presunción de anormalidad.",
+      "ref": "art. 107.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si se hacen efectivas sobre la garantía definitiva penalidades o indemnizaciones, el contratista deberá reponerla o ampliarla en el plazo de:",
+      "opciones": [
+        "Diez días hábiles",
+        "Un mes",
+        "Quince días desde la ejecución",
+        "Dos meses"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 109.2 LCSP fija quince días; en caso contrario incurre en causa de resolución.",
+      "ref": "art. 109.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿De cuál de los siguientes conceptos NO responde la garantía definitiva según el artículo 110 LCSP?",
+      "opciones": [
+        "De las penalidades impuestas al contratista",
+        "De la obligación de formalizar el contrato en plazo",
+        "De la incautación en caso de resolución",
+        "De las deudas tributarias del contratista con la Hacienda estatal"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 110 LCSP enumera de forma tasada los conceptos (formalización, penalidades, correcta ejecución, incautación y vicios) y no incluye las deudas tributarias del contratista.",
+      "ref": "art. 110 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Se consideran contratos menores los contratos de valor estimado inferior a:",
+      "opciones": [
+        "40.000 euros en obras y 15.000 euros en suministros o servicios",
+        "50.000 euros en obras y 18.000 euros en suministros o servicios",
+        "40.000 euros en obras, suministros y servicios",
+        "15.000 euros en obras y 40.000 euros en suministros o servicios"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 118.1 LCSP. Las cifras de 50.000 y 18.000 € correspondían a la legislación anterior.",
+      "ref": "art. 118.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los contratos menores, NO será necesario el informe del órgano de contratación que justifique la necesidad del contrato cuando el pago se verifique por anticipo de caja fija u otro sistema similar y el valor estimado no exceda de:",
+      "opciones": [
+        "3.000 euros",
+        "5.000 euros",
+        "15.000 euros",
+        "6.000 euros"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo prevé el art. 118.5 LCSP.",
+      "ref": "art. 118.5 LCSP",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Resumen Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público - parte 1",
+      "url": "https://www.youtube.com/watch?v=Xl51jt2sblI",
+      "canal": "Manuel Efrén"
+    },
+    {
+      "titulo": "1.- Ley 9/2017 - Título Preliminar: Objeto y ámbito de aplicación",
+      "url": "https://www.youtube.com/watch?v=4XEd8uQH4o0",
+      "canal": "YouTube (canal no identificado)"
+    },
+    {
+      "titulo": "2.- Ley 9/2017 - Título Preliminar: Calificación y régimen jurídico",
+      "url": "https://www.youtube.com/watch?v=usYcoBEv8c0",
+      "canal": "YouTube (canal no identificado)"
+    },
+    {
+      "titulo": "3.- Ley 9/2017 - Título Preliminar: Tipos de contratos",
+      "url": "https://www.youtube.com/watch?v=SeE9KicPAos",
+      "canal": "YouTube (canal no identificado)"
+    },
+    {
+      "titulo": "Garantías contratación pública. Arts 106 y 107 Ley 9/2017",
+      "url": "https://www.youtube.com/shorts/YicufwN9cHs",
+      "canal": "YouTube (canal no identificado)"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "Ley 9/2017, de Contratos del Sector Público (BOE consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902"
+    },
+    {
+      "titulo": "Plataforma de Contratación del Sector Público",
+      "url": "https://contrataciondelestado.es"
+    },
+    {
+      "titulo": "Tribunal Administrativo de Contratos Públicos de Canarias",
+      "url": "https://www.gobiernodecanarias.org/hacienda/contratacion/tacp/"
+    },
+    {
+      "titulo": "Estatutos de la Universidad de La Laguna (Decreto 66/2022)",
+      "url": "https://www.ull.es/normativa/"
+    }
+  ]
+}

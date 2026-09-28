@@ -1,0 +1,203 @@
+{
+  "bloque": 3,
+  "titulo": "Un departamento compra reactivos y envía a un profesor a un congreso en Madrid",
+  "temas": ["3-02", "3-03"],
+  "enunciado": "Trabajas en la **Secretaría del Departamento de Biología Animal, Edafología y Geología** de la Universidad de La Laguna, que es un centro de gasto con crédito propio en el capítulo II. Su director, el catedrático **Tomás Rodríguez Padrón**, te encarga dos expedientes de 2026.\n\n**Expediente 1. Compra de reactivos.** El lunes 27 de abril de 2026 el Departamento encarga a la empresa Laboratorios Atlántico, S.L. (NIF B38000000) un suministro de reactivos. Por su importe, se tramita como contrato menor. La empresa entrega el material y el lunes 8 de junio de 2026 emite la factura: 3.200,00 € más un 7 % de IGIC.\n\n**Expediente 2. Comisión de servicio.** El profesor titular **Alberto Cabrera Méndez**, con destino en el Campus de Anchieta (San Cristóbal de La Laguna), asistirá a un congreso científico en Madrid. La orden de comisión de servicio, autorizada antes del viaje, indica:\n\n- Salida: **lunes 18 de mayo de 2026**; vuelo desde Tenerife Norte a las 9:30 horas.\n- Regreso: **jueves 21 de mayo de 2026**; la comisión concluye a las 21:15 horas, con la llegada al aeropuerto de Tenerife Norte.\n- Alojamiento: tres noches (18, 19 y 20 de mayo) en un hotel de Madrid, a **110,00 € por noche**, con factura.\n- Billete de avión de ida y vuelta en clase turista: **245,60 €**.\n- El director del Departamento, responsable del gasto, da su visto bueno por escrito al exceso sobre la cuantía ordinaria de alojamiento, al justificarse que en esas fechas no había plazas a menor precio.\n\nA efectos del supuesto, considera que:\n\n- Las cuantías vigentes para el **grupo 2º** en territorio nacional son de **37,40 € diarios de manutención** y un máximo de **65,97 € diarios de alojamiento**.\n- El alojamiento puede incrementarse en los términos del art. 33.5 BEP-ULL.\n- En los días de salida y regreso se aplican los criterios de devengo del **art. 12.3 del RD 462/2002**: el día de salida se cobra alojamiento y el 100 % de la manutención si la salida es antes de las 14 horas; el día de regreso no se cobra alojamiento y se cobra el 50 % de la manutención si la comisión termina después de las 14 horas; los días intermedios, dieta al 100 %.\n\nToda la tramitación se rige por las Bases de Ejecución del Presupuesto de la ULL para 2026 (BEP-ULL) y por la Resolución de 12 de mayo de 2023 de delegación de competencias del Rector.",
+  "preguntas": [
+    {
+      "enunciado": "¿En qué grupo se clasifica al profesor Cabrera a efectos de indemnizaciones por razón del servicio en la ULL?",
+      "opciones": [
+        "En el grupo 1º, por ser personal docente e investigador funcionario.",
+        "En el grupo 2º, donde se incluye a todo el personal de la Universidad salvo los titulares de los órganos unipersonales de gobierno citados en las BEP.",
+        "En el grupo 3º, por no ocupar cargo académico.",
+        "En el grupo que determine en cada caso el director del Departamento."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 33.4 BEP-ULL incluye en el grupo 1º a los titulares de los órganos unipersonales de gobierno y representación y del Consejo Social: Rectorado, Vicerrectorados, Secretaría General, Gerencia y Presidencia del Consejo Social. En el grupo 2º incluye al resto del personal de la Universidad y del Consejo Social. Un profesor titular sin ninguno de esos cargos pertenece al grupo 2º. En la ULL no hay grupo 3º.",
+      "ref": "art. 33.4 BEP-ULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El profesor pregunta si podría haber pedido la autorización de la comisión al volver de Madrid. Según las BEP-ULL:",
+      "opciones": [
+        "Sí, cualquier miembro del PDI puede presentar la documentación después del viaje.",
+        "No, porque la comisión debe autorizarla siempre el Consejo de Gobierno con un mes de antelación.",
+        "Sí, siempre que el gasto no supere 1.000 €.",
+        "La comisión debe autorizarse preferentemente antes de realizarla; solo el Rector, los Vicerrectores, la Gerencia y la Presidencia del Consejo Social pueden presentar la documentación después del hecho que da lugar a la indemnización."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 33.6.a) BEP-ULL establece que la comisión de servicio o la autorización del desplazamiento ha de ser preferentemente previa. La excepción se reserva al Rector o Rectora, los Vicerrectores, la Gerencia y la Presidencia del Consejo Social, que pueden presentar la documentación una vez realizado el viaje. Además, la comisión debe autorizarla el órgano competente (art. 33.6.b).",
+      "ref": "art. 33.6 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuánto le corresponde al profesor por manutención el día de salida (lunes 18 de mayo, salida a las 9:30)?",
+      "opciones": [
+        "37,40 €, el 100 % de la manutención, porque la comisión empieza antes de las 14 horas.",
+        "18,70 €, el 50 % de la manutención.",
+        "Nada, porque el día de salida solo se cobra alojamiento.",
+        "103,37 €, la dieta entera."
+      ],
+      "correcta": 0,
+      "explicacion": "Según el art. 12.3.a) RD 462/2002, aplicable por indicación del supuesto: el día de salida se puede cobrar alojamiento pero no manutención, salvo que la comisión empiece antes de las 14 horas (100 % de la manutención) o entre las 14 y las 22 horas (50 %). Como sale a las 9:30, le corresponde el 100 %: 37,40 €. El alojamiento de esa noche se calcula aparte.",
+      "ref": "art. 12.3.a) RD 462/2002",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué le corresponde el día de regreso (jueves 21 de mayo, fin de la comisión a las 21:15)?",
+      "opciones": [
+        "Alojamiento y el 100 % de la manutención.",
+        "Nada, porque la comisión termina antes de las 22 horas.",
+        "Solo el 50 % de la manutención (18,70 €), sin alojamiento.",
+        "El 100 % de la manutención (37,40 €), porque llega después de las 20 horas."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 12.3.b) RD 462/2002 dispone que el día de regreso no se cobran gastos de alojamiento ni de manutención, salvo que la comisión termine después de las 14 horas. En ese caso se percibe, con carácter general, solo el 50 % de la manutención: 37,40 × 0,50 = 18,70 €. El abono adicional del art. 12.4 (otro 50 % con factura) exige que el regreso sea posterior a las 22 horas, y aquí termina a las 21:15.",
+      "ref": "art. 12.3.b) y 12.4 RD 462/2002",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál es el importe total de la indemnización por manutención de toda la comisión?",
+      "opciones": [
+        "149,60 €.",
+        "130,90 €.",
+        "112,20 €.",
+        "93,50 €."
+      ],
+      "correcta": 1,
+      "explicacion": "Cálculo día a día (art. 12.3 RD 462/2002): lunes 18 (salida antes de las 14 h), 100 % = 37,40 €; martes 19 y miércoles 20 (días intermedios), 100 % cada uno = 74,80 €; jueves 21 (regreso después de las 14 h), 50 % = 18,70 €. Total: 37,40 + 74,80 + 18,70 = 130,90 €. La cifra de 149,60 € (4 × 37,40) es la trampa de cobrar el día de regreso completo.",
+      "ref": "art. 12.3 RD 462/2002; art. 33 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con el visto bueno del director del Departamento, ¿cuánto se abona al profesor por alojamiento?",
+      "opciones": [
+        "197,91 €, porque la cuantía máxima por noche es siempre de 65,97 €.",
+        "347,91 €, porque se le suman 50 € por noche a la cuantía máxima, gaste lo que gaste.",
+        "440,00 €, por cuatro noches de hotel.",
+        "330,00 €, el gasto realmente devengado y justificado, al no superar el máximo incrementado de 115,97 € por noche."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 33.5 BEP-ULL dispone que el alojamiento se abona por el importe realmente devengado y justificado, sin superar la cuantía fijada. Esa cuantía puede aumentar hasta en 50 € si se justifica que no cubre los gastos de estancia y lo aprueba el responsable del gasto. Máximo por noche: 65,97 + 50 = 115,97 €. El hotel cuesta 110 €, por debajo de ese tope, así que se abona lo gastado: 110 × 3 noches = 330,00 €. El día de regreso no genera alojamiento, por eso son 3 noches y no 4.",
+      "ref": "art. 33.5 BEP-ULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Supón que el director NO hubiera dado su visto bueno al incremento. ¿Qué se abonaría por alojamiento y quién soportaría la diferencia con el coste real?",
+      "opciones": [
+        "197,91 €; los 132,09 € restantes correrían a cargo del propio comisionado.",
+        "330,00 €, porque el alojamiento se paga siempre por su importe real.",
+        "197,91 €; la diferencia la asumiría el Departamento con cargo al subconcepto 226.01.",
+        "Nada, porque sin visto bueno la comisión quedaría sin efecto."
+      ],
+      "correcta": 0,
+      "explicacion": "Sin el visto bueno no cabe el incremento de 50 € (art. 33.5 BEP-ULL), y el tope es 65,97 € por noche: 65,97 × 3 = 197,91 €. El gasto real es de 330,00 €, así que la diferencia es 330,00 − 197,91 = 132,09 €. Según el art. 33.9 BEP-ULL, «en todos los casos de justificación de indemnizaciones, el exceso sobre las cuantías autorizadas correrá a cargo del comisionado».",
+      "ref": "art. 33.5 y 33.9 BEP-ULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Con el visto bueno obtenido, ¿cuál es el importe total que la ULL debe abonar al profesor por la comisión, sumando dietas y billete de avión?",
+      "opciones": [
+        "575,60 €.",
+        "460,90 €.",
+        "706,50 €.",
+        "725,20 €."
+      ],
+      "correcta": 2,
+      "explicacion": "Manutención: 130,90 €. Alojamiento: 330,00 €. Total de dietas: 460,90 €. Gastos de viaje: billete en clase turista, 245,60 €. Total: 460,90 + 245,60 = 706,50 €. La opción de 725,20 € resulta de cobrar la manutención completa también el día de regreso (18,70 € de más). La de 460,90 € olvida los gastos de locomoción.",
+      "ref": "art. 33 BEP-ULL; art. 12 RD 462/2002",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para justificar la indemnización, ¿cuál de estos documentos NO exige el art. 33.7 BEP-ULL?",
+      "opciones": [
+        "La orden de comisión de servicios o la autorización del desplazamiento, firmada por quien la propone y quien la autoriza.",
+        "La declaración del itinerario y de la permanencia en cada lugar, con los días y horas de salida y llegada.",
+        "La cuenta justificativa detallada, firmada por el interesado, con los justificantes y con el alojamiento y la locomoción separados.",
+        "El informe previo favorable de la Intervención sobre la necesidad del viaje."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 33.7 BEP-ULL enumera los documentos que acompañan a la justificación: a) orden de comisión de servicios o autorización del desplazamiento, firmada por la autoridad que la propone y la autoriza; b) declaración del itinerario y de la permanencia en los distintos puntos, con los días y horas de salida y llegada; c) cuenta justificativa detallada, firmada por el interesado, con todos los justificantes y las cantidades de alojamiento y locomoción por separado. No se exige informe previo de la Intervención.",
+      "ref": "art. 33.7 BEP-ULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En el expediente de los reactivos (contrato menor), ¿qué documento contable puede utilizarse para tramitar el pago?",
+      "opciones": [
+        "Un documento A al encargar y un documento ADOP al recibir la factura.",
+        "Un documento ADO, que agrupa autorización, disposición y reconocimiento de la obligación, con la firma de la factura correspondiente.",
+        "Solo un documento P, porque el gasto ya está autorizado en el presupuesto.",
+        "Un documento AD, que no puede acumularse nunca con el reconocimiento de la obligación."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 20.7 BEP-ULL admite un documento ADO que englobe autorización, disposición y reconocimiento de la obligación cuando la naturaleza del gasto y el procedimiento de contratación lo permitan. El art. 20.8 lo concreta: «en el caso de la contratación menor será válida la tramitación del pago mediante el documento ADO con la firma de la factura correspondiente». La ordenación del pago y el pago material son fases posteriores.",
+      "ref": "art. 20.7 y 20.8 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La factura de Laboratorios Atlántico asciende a 3.424,00 € (3.200,00 € + 7 % de IGIC). ¿Cómo debe presentarse?",
+      "opciones": [
+        "En formato electrónico a través de FACe, dirigida al código DIR del centro de gasto, porque su importe con impuestos es igual o superior a 500 €.",
+        "En papel en el Registro General, porque es un contrato menor.",
+        "En papel o en formato electrónico, a elección del proveedor, porque el importe sin impuestos no llega a 5.000 €.",
+        "Por correo electrónico al director del Departamento."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 20.9 BEP-ULL exige que todas las facturas de importe igual o superior a 500,00 € (impuestos incluidos) se presenten en formato electrónico a través del Punto de Entrada General de Facturas (FACe), dirigidas a los códigos DIR del centro de gasto responsable. No se admiten facturas en papel de ese importe, salvo casos debidamente justificados o exceptuados por instrucciones de la Universidad. Cálculo: 3.200 × 1,07 = 3.424,00 € ≥ 500 €.",
+      "ref": "art. 20.9 BEP-ULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Quién autoriza el gasto de los reactivos con cargo al crédito del Departamento, y cómo debe constar esa circunstancia en la resolución?",
+      "opciones": [
+        "El Consejo de Gobierno, porque es el órgano que aprueba el presupuesto.",
+        "El secretario del Departamento, por ser quien custodia la documentación.",
+        "El director del Departamento, por delegación del Rector; la resolución debe indicar expresamente la delegación y se considera dictada por el órgano delegante.",
+        "La Gerencia, en exclusiva, porque ningún órgano académico puede autorizar gastos."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 23.c) EULL y el art. 17.3 BEP-ULL atribuyen al Rector la autorización de gastos, sin perjuicio de las delegaciones. El apartado décimo tercero de la Resolución de 12 de mayo de 2023 delega en los directores de Departamento e Institutos Universitarios la autorización de los gastos de su Departamento o Instituto, según el presupuesto y sin perjuicio de las competencias de la Gerencia. El apartado décimo octavo exige que las resoluciones dictadas por delegación lo indiquen expresamente, y se consideran dictadas por el órgano delegante.",
+      "ref": "Resolución ULL 12/5/2023, apdos. 13.º y 18.º; art. 17.3 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si la compra de reactivos se hubiera tramitado por fases separadas, ¿qué acto genera el documento contable D y qué requisito es indispensable para contabilizarlo?",
+      "opciones": [
+        "La reserva de crédito para un gasto de cuantía aproximada; basta indicar el importe estimado.",
+        "La disposición o compromiso del gasto, que requiere identificar plenamente al tercero, con su NIF, y concretar el importe a disponer.",
+        "El reconocimiento de la obligación, que requiere la factura conformada.",
+        "La orden de pago, que requiere la firma de los tres claveros."
+      ],
+      "correcta": 1,
+      "explicacion": "Según el art. 20.5 BEP-ULL, la disposición o compromiso es el acto por el que se acuerda realizar gastos ya autorizados, por un importe determinado y a favor de un acreedor determinado, y genera el documento D. Es requisito indispensable que el acuerdo identifique plenamente al tercero, con su NIF (aquí B38000000), y concrete el importe, distribuido por anualidades si el gasto se extiende a ejercicios futuros. La reserva de crédito por cuantía cierta o aproximada es la fase A (art. 20.2), y el reconocimiento con factura es la fase O (art. 20.6).",
+      "ref": "art. 20.2, 20.5 y 20.6 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Reconocida la obligación, ¿qué órgano ordena el pago a Laboratorios Atlántico?",
+      "opciones": [
+        "La Interventora, como responsable del control interno.",
+        "El director del Departamento, como responsable del centro de gasto.",
+        "El Presidente del Consejo Social, porque es el ordenador general de pagos de la ULL.",
+        "El Rector, que con carácter general es el órgano ordenador de pagos de la Universidad."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 20.10 BEP-ULL, en aplicación del art. 123 EULL, dispone que, con carácter general, el ordenador de pagos es el Rector. La excepción son los pagos del programa presupuestario propio del Consejo Social (art. 15.4 Ley 11/2003), cuyo ordenador es el Presidente del Consejo Social. La Intervención ejerce el control interno y no ordena pagos.",
+      "ref": "art. 20.10 BEP-ULL; art. 123.1 EULL; art. 15.4 Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Una vez ordenado, ¿cómo se realiza el pago material a Laboratorios Atlántico?",
+      "opciones": [
+        "De forma mancomunada por los tres claveros: la persona empleada pública con competencias en tesorería, la Interventora y el Rector.",
+        "De forma individual por la Gerencia.",
+        "De forma solidaria por cualquiera de los claveros.",
+        "Por el habilitado del Departamento, con cargo al anticipo de caja fija, en todo caso."
+      ],
+      "correcta": 0,
+      "explicacion": "Según el art. 20.11 BEP-ULL, una vez realizado el ordenamiento, el pago material se hace de forma mancomunada por los tres claveros: la persona empleada pública con competencias en tesorería, la Interventora y el Rector. Mancomunado significa que hace falta la intervención conjunta de los tres, no la de uno solo.",
+      "ref": "art. 20.11 BEP-ULL",
+      "dificultad": 1
+    }
+  ]
+}

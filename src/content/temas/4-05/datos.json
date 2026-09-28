@@ -1,0 +1,1081 @@
+{
+  "claves": [
+    "El título II de los Estatutos regula las funciones universitarias en tres capítulos: docencia y estudio (arts. 57-62), investigación (63-68) y relaciones con la sociedad e internacionalización (69-74).",
+    "La docencia tiene como finalidad el desarrollo integral del estudiantado y su preparación para el ejercicio de actividades profesionales.",
+    "La ULL oferta estudios oficiales y propios, de especialización o de formación continua, en modalidad presencial, semipresencial o a distancia en línea.",
+    "Los planes de estudio oficiales los elaboran las Juntas de Facultad o Escuela y su implantación, modificación y extinción requiere informe previo de la Junta y se rige por normas del Consejo de Gobierno.",
+    "La ULL expide títulos oficiales, títulos propios y diplomas y certificados de formación continua u otros cursos.",
+    "La investigación es fundamento de la docencia, un derecho y un deber del PDI, y se desarrolla principalmente en grupos, Departamentos, Institutos Universitarios de Investigación y Centros de Estudio.",
+    "Los contratos de investigación pueden firmarlos el Rector, los Directores de Departamento y de Instituto, los responsables de grupo y el profesorado; salvo el Rector, todos necesitan autorización previa del Rector.",
+    "De la cantidad restante de un contrato de investigación, al menos el 15 % corresponde a la Universidad para promover la investigación.",
+    "La extensión universitaria contribuye al desarrollo económico, cultural, artístico, científico, técnico y recreativo de la sociedad y promueve el conocimiento, el deporte, el ocio y la cultura.",
+    "Entre los instrumentos de relación con la sociedad destacan la defensa de la cultura canaria, los medios de difusión propios y las cátedras institucionales y de empresa.",
+    "Los servicios mínimos de la ULL son Biblioteca y Archivo, Apoyo a la investigación, Publicaciones, Tecnologías de la Información y Comunicaciones, Residencias y Colegios mayores y Deportes.",
+    "Los servicios los crea, modifica o suprime el Consejo de Gobierno a propuesta del Rector o del órgano del que dependan, y su responsable es personal de la RPT fija del PAS.",
+    "El sistema integrado de gestión de la calidad de los servicios depende directamente de la Gerencia.",
+    "La LOSU, posterior a los Estatutos, añade exigencias como la Ciencia Abierta, la docencia virtual o híbrida y los servicios obligatorios de salud, acompañamiento psicológico y orientación profesional."
+  ],
+  "plazos": [
+    {
+      "concepto": "Porcentaje mínimo para la Universidad en contratos de investigación",
+      "valor": "Al menos el 15 % de la cantidad restante, destinado a promoción de la investigación",
+      "ref": "art. 68.7 EULL"
+    },
+    {
+      "concepto": "Número de servicios mínimos de la ULL",
+      "valor": "6",
+      "ref": "art. 115.2 EULL"
+    },
+    {
+      "concepto": "Objetivos de los servicios universitarios",
+      "valor": "13 (letras a a m)",
+      "ref": "art. 119 EULL"
+    },
+    {
+      "concepto": "Instrumentos de relación con la sociedad",
+      "valor": "10 (letras a a j)",
+      "ref": "art. 71 EULL"
+    },
+    {
+      "concepto": "Tipos de títulos y certificados que expide la ULL",
+      "valor": "3: oficiales, propios, diplomas y certificados",
+      "ref": "art. 62 EULL"
+    },
+    {
+      "concepto": "Modalidades de impartición de las titulaciones",
+      "valor": "Presencial, semipresencial o a distancia en línea",
+      "ref": "art. 58.2 EULL"
+    },
+    {
+      "concepto": "Firmantes posibles de contratos de investigación",
+      "valor": "5 supuestos (letras a a e)",
+      "ref": "art. 68.2 EULL"
+    },
+    {
+      "concepto": "Ciclos de las enseñanzas oficiales",
+      "valor": "3: Grado, Máster Universitario y Doctorado",
+      "ref": "art. 9.1 LOSU"
+    },
+    {
+      "concepto": "Evaluaciones del estudiantado",
+      "valor": "3 evaluaciones en 2 convocatorias antes de finalizar julio",
+      "ref": "art. 101.2 EULL"
+    },
+    {
+      "concepto": "Tipos de matrícula",
+      "valor": "2: ordinaria y extraordinaria",
+      "ref": "art. 100 EULL"
+    },
+    {
+      "concepto": "Presentación del proyecto de presupuesto al Consejo Social",
+      "valor": "Antes del inicio del ejercicio o, si no es posible, durante el primer trimestre",
+      "ref": "art. 122.3 EULL"
+    },
+    {
+      "concepto": "Publicación del grado de ejecución del presupuesto por la Gerencia",
+      "valor": "Trimestral",
+      "ref": "art. 122.5 EULL"
+    },
+    {
+      "concepto": "Aprobación de la liquidación del presupuesto",
+      "valor": "Antes del 31 de marzo del ejercicio siguiente",
+      "ref": "art. 124.2 EULL"
+    },
+    {
+      "concepto": "Conocimiento de la ejecución presupuestaria por Juntas y Consejos de Departamento",
+      "valor": "Al menos una vez cada trimestre",
+      "ref": "arts. 43.i y 47.g EULL"
+    },
+    {
+      "concepto": "Plazo para resolver la creación de centros o enseñanzas por el Gobierno de Canarias",
+      "valor": "6 meses; silencio desestimatorio si lo solicita la universidad",
+      "ref": "art. 24.1 Ley 11/2003"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Extensión universitaria",
+      "definicion": "Actividad por la que la Universidad difunde la cultura y el conocimiento fuera de sus enseñanzas regladas, promoviendo el conocimiento, el deporte, el ocio y la cultura para el estudiantado y la ciudadanía (art. 70 EULL)."
+    },
+    {
+      "termino": "Título oficial",
+      "definicion": "Título con validez en todo el territorio nacional, de Grado, Máster Universitario o Doctorado, inscrito en el RUCT y expedido en nombre del Rey por el Rector."
+    },
+    {
+      "termino": "Título propio",
+      "definicion": "Título que la Universidad expide en ejercicio de su autonomía sin carácter oficial; no debe inducir a confusión con los oficiales."
+    },
+    {
+      "termino": "Formación continua o a lo largo de la vida",
+      "definicion": "Enseñanzas para el desarrollo profesional y personal, acreditadas mediante diplomas y certificados; la LOSU admite microcredenciales y micromódulos."
+    },
+    {
+      "termino": "Grupo de investigación",
+      "definicion": "Unidad de investigación organizada en torno a una línea común de actividad investigadora, regulada por el Consejo de Gobierno (art. 64 EULL)."
+    },
+    {
+      "termino": "Comisión de Investigación",
+      "definicion": "Órgano con representantes de los agentes de la investigación de la Universidad, cuya composición y competencias fija la reglamentación general de investigación (art. 66 EULL)."
+    },
+    {
+      "termino": "Contrato de investigación",
+      "definicion": "Contrato para realizar trabajos científicos, técnicos o artísticos o actividades específicas de formación con personas o entidades externas, regulado en el art. 68 EULL y el art. 60 LOSU."
+    },
+    {
+      "termino": "Transferencia del conocimiento",
+      "definicion": "Traslado de los resultados de la investigación a la sociedad y al tejido productivo para su aprovechamiento económico, social y cultural."
+    },
+    {
+      "termino": "Responsabilidad social universitaria",
+      "definicion": "Valor que la ULL potencia en sus relaciones con la sociedad para avanzar hacia una sociedad más sostenible y justa (art. 69 EULL)."
+    },
+    {
+      "termino": "Cátedra institucional o de empresa",
+      "definicion": "Estructura de colaboración con instituciones o empresas para conectar la Universidad con la sociedad en formación, investigación y transferencia (art. 71.j EULL)."
+    },
+    {
+      "termino": "Servicio universitario",
+      "definicion": "Estructura que coadyuva al estudio, la docencia, la investigación, la internacionalización, la extensión y la gestión, y a la asistencia y formación integral de la comunidad universitaria (art. 115 EULL)."
+    },
+    {
+      "termino": "Sistema integrado de gestión de la calidad",
+      "definicion": "Sistema de calidad de los servicios universitarios que depende directamente de la Gerencia (art. 118 EULL)."
+    },
+    {
+      "termino": "Ciencia Abierta",
+      "definicion": "Política de la LOSU que exige depositar publicaciones y datos en repositorios de acceso abierto y seguir los principios FAIR (art. 12 LOSU)."
+    },
+    {
+      "termino": "RUCT",
+      "definicion": "Registro de Universidades, Centros y Títulos, en el que la inscripción tiene efectos constitutivos para la creación de títulos oficiales (art. 7.3 LOSU)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Seis servicios mínimos",
+      "texto": "Buenas Ayudas Publican Todos los Residentes Deportistas: Biblioteca y Archivo, Apoyo a la investigación, Publicaciones, Tecnologías de la información, Residencias y Colegios mayores, Deportes."
+    },
+    {
+      "titulo": "Dónde se investiga: GDIC",
+      "texto": "Grupos, Departamentos, Institutos Universitarios de Investigación y Centros de Estudio (art. 63.3)."
+    },
+    {
+      "titulo": "Firmantes de contratos: R-D-I-G-P",
+      "texto": "Rector, Director de Departamento, Director de Instituto, responsable de Grupo y Profesor en su nombre. Todos menos el Rector necesitan autorización previa del Rector."
+    },
+    {
+      "titulo": "Quince para casa",
+      "texto": "Del dinero que queda en un contrato de investigación, al menos el 15 % se queda en casa (la Universidad) para promover la investigación."
+    },
+    {
+      "titulo": "Títulos: O-P-D",
+      "texto": "Oficiales, Propios y Diplomas o certificados (art. 62)."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Cuál es la finalidad de la docencia universitaria según los Estatutos?",
+      "reverso": "El desarrollo integral del estudiantado y su preparación para el ejercicio de actividades profesionales.",
+      "ref": "art. 57.1 EULL"
+    },
+    {
+      "frente": "¿En qué modalidades pueden impartirse las titulaciones de la ULL?",
+      "reverso": "Presencial, semipresencial o a distancia en línea.",
+      "ref": "art. 58.2 EULL"
+    },
+    {
+      "frente": "¿Quién aprueba las normas que regulan los estudios oficiales y propios?",
+      "reverso": "El Consejo de Gobierno.",
+      "ref": "art. 58.3 EULL"
+    },
+    {
+      "frente": "¿Quién elabora los planes de estudio oficiales?",
+      "reverso": "Las Juntas de Facultad o de Escuela, o los órganos que correspondan en los demás casos.",
+      "ref": "art. 59.1 EULL"
+    },
+    {
+      "frente": "¿Qué informe es previo a la implantación, modificación o extinción de un plan de estudios?",
+      "reverso": "El de la Junta de Facultad o Escuela.",
+      "ref": "art. 60 EULL"
+    },
+    {
+      "frente": "¿Quién regula el reconocimiento y la transferencia de créditos?",
+      "reverso": "El Consejo de Gobierno, en el marco de la legislación vigente.",
+      "ref": "art. 61 EULL"
+    },
+    {
+      "frente": "¿Qué títulos y certificados expide la ULL?",
+      "reverso": "Títulos oficiales, títulos propios y diplomas y certificados de formación continua u otros cursos.",
+      "ref": "art. 62 EULL"
+    },
+    {
+      "frente": "¿Quién expide los títulos oficiales según la LOSU?",
+      "reverso": "El Rector o Rectora, en nombre del Rey.",
+      "ref": "art. 8.1 LOSU"
+    },
+    {
+      "frente": "¿Dónde se desarrolla principalmente la investigación en la ULL?",
+      "reverso": "En los grupos de investigación, Departamentos, Institutos Universitarios de Investigación y Centros de Estudio.",
+      "ref": "art. 63.3 EULL"
+    },
+    {
+      "frente": "¿Quién establece la reglamentación general de investigación?",
+      "reverso": "El Consejo de Gobierno.",
+      "ref": "art. 63.4 EULL"
+    },
+    {
+      "frente": "¿Qué son los grupos de investigación?",
+      "reverso": "Unidades de investigación organizadas en torno a una línea común de actividad investigadora.",
+      "ref": "art. 64 EULL"
+    },
+    {
+      "frente": "¿Cómo se concreta el apoyo a la investigación en la ULL?",
+      "reverso": "En convocatorias públicas.",
+      "ref": "art. 65.2 EULL"
+    },
+    {
+      "frente": "¿A través de qué se gestionan los contratos de investigación?",
+      "reverso": "Del servicio universitario adscrito al Vicerrectorado con las competencias correspondientes.",
+      "ref": "art. 68.1 EULL"
+    },
+    {
+      "frente": "¿Quién puede suscribir contratos de investigación?",
+      "reverso": "El Rector, los Directores de Departamento, los Directores de Institutos, los responsables de grupos y el profesorado en su propio nombre.",
+      "ref": "art. 68.2 EULL"
+    },
+    {
+      "frente": "¿Qué requisito tienen los contratos no firmados por el Rector?",
+      "reverso": "Autorización previa del Rector y conformidad del órgano competente.",
+      "ref": "art. 68.3 EULL"
+    },
+    {
+      "frente": "¿Qué necesita el personal que participe en un contrato de investigación?",
+      "reverso": "Además de la conformidad del Departamento, Instituto o Servicio, su aceptación expresa.",
+      "ref": "art. 68.4 EULL"
+    },
+    {
+      "frente": "¿Qué porcentaje mínimo corresponde a la Universidad en un contrato de investigación?",
+      "reverso": "Al menos el 15 % de la cantidad restante, para promoción de la investigación.",
+      "ref": "art. 68.7 EULL"
+    },
+    {
+      "frente": "¿Qué valor se potencia en las relaciones con la sociedad?",
+      "reverso": "La responsabilidad social, para avanzar hacia una sociedad más sostenible y justa.",
+      "ref": "art. 69 EULL"
+    },
+    {
+      "frente": "¿Qué promueven los programas de extensión universitaria?",
+      "reverso": "El conocimiento, el deporte, el ocio y la cultura para el estudiantado y la ciudadanía.",
+      "ref": "art. 70 EULL"
+    },
+    {
+      "frente": "¿Qué instrumento del art. 71 se refiere a la cultura canaria?",
+      "reverso": "La letra f): defensa, desarrollo y difusión de la cultura canaria.",
+      "ref": "art. 71.f EULL"
+    },
+    {
+      "frente": "¿Qué cátedras promueve la ULL según el art. 71?",
+      "reverso": "Cátedras institucionales y de empresa.",
+      "ref": "art. 71.j EULL"
+    },
+    {
+      "frente": "¿Quién gestiona la movilidad internacional en centros y titulaciones?",
+      "reverso": "Las comisiones y coordinadores de movilidad internacional, con el impulso del Vicerrectorado competente en internacionalización.",
+      "ref": "art. 73 EULL"
+    },
+    {
+      "frente": "¿Qué servicios debe mantener como mínimo la ULL?",
+      "reverso": "Biblioteca y Archivo, Apoyo a la investigación, Publicaciones, TIC, Residencias y Colegios mayores, y Deportes.",
+      "ref": "art. 115.2 EULL"
+    },
+    {
+      "frente": "¿Quién crea, modifica o suprime los servicios universitarios?",
+      "reverso": "El Consejo de Gobierno, a propuesta del Rector o del órgano del que dependa orgánicamente.",
+      "ref": "art. 116 EULL"
+    },
+    {
+      "frente": "¿Qué personal ocupa la responsabilidad de cada servicio?",
+      "reverso": "Personal de las relaciones de puestos de trabajo fijas del PAS, con profesionalidad y especialidad.",
+      "ref": "art. 117 EULL"
+    },
+    {
+      "frente": "¿De quién depende el sistema integrado de gestión de la calidad de los servicios?",
+      "reverso": "Directamente de la Gerencia.",
+      "ref": "art. 118 EULL"
+    },
+    {
+      "frente": "¿Qué objetivo del art. 119 se refiere al software?",
+      "reverso": "La e): fomentar estándares libres, aplicaciones de fuentes abiertas, neutralidad tecnológica y libre acceso a servicios telemáticos.",
+      "ref": "art. 119.e EULL"
+    },
+    {
+      "frente": "¿A través de qué se facilitará el alojamiento según el art. 119.m?",
+      "reverso": "Al menos a través de colegios mayores y residencias universitarias de gestión pública.",
+      "ref": "art. 119.m EULL"
+    },
+    {
+      "frente": "¿Qué servicios exige la LOSU además de los estatutarios?",
+      "reverso": "Unidades de igualdad, diversidad, defensoría e inspección, servicios de salud y acompañamiento psicológico y pedagógico y orientación profesional.",
+      "ref": "art. 43 LOSU"
+    },
+    {
+      "frente": "¿Qué deben hacer los investigadores con sus publicaciones según la LOSU?",
+      "reverso": "Depositar la versión final aceptada y los datos en repositorios de acceso abierto simultáneamente a su publicación.",
+      "ref": "art. 12.2 LOSU"
+    },
+    {
+      "frente": "¿Quién aprueba el presupuesto de la ULL?",
+      "reverso": "El Consejo Social, a propuesta del Consejo de Gobierno.",
+      "ref": "art. 122.3 EULL"
+    },
+    {
+      "frente": "¿De quién depende orgánica y funcionalmente la Intervención de la ULL?",
+      "reverso": "Del Consejo Social.",
+      "ref": "art. 125.3 EULL"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el artículo 57 de los Estatutos de la ULL, la docencia universitaria tiene como finalidad:",
+      "opciones": [
+        "La transmisión ordenada del conocimiento científico",
+        "La formación a lo largo de la vida de la ciudadanía",
+        "La obtención de títulos oficiales con validez en todo el territorio",
+        "El desarrollo integral del estudiantado y su preparación para el ejercicio de actividades profesionales"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 57.1 EULL. La transmisión ordenada del conocimiento es la definición de docencia del art. 6 LOSU, no la finalidad estatutaria.",
+      "ref": "art. 57.1 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según los Estatutos, las titulaciones de la ULL podrán impartirse de modo:",
+      "opciones": [
+        "Exclusivamente presencial",
+        "Presencial o semipresencial, pero no a distancia",
+        "Presencial, semipresencial o a distancia en línea",
+        "Presencial o a distancia, previa autorización del Consejo Social"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 58.2 EULL, garantizando en todo caso la calidad de la docencia y el aprendizaje.",
+      "ref": "art. 58.2 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Qué órgano aprueba las normas que regulan los estudios oficiales y propios o de especialización de la ULL?",
+      "opciones": [
+        "El Consejo de Gobierno",
+        "El Claustro",
+        "El Consejo Social",
+        "El Vicerrectorado competente en docencia"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 58.3 EULL.",
+      "ref": "art. 58.3 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los planes de estudio de carácter oficial serán elaborados por:",
+      "opciones": [
+        "El Consejo de Gobierno",
+        "Los Consejos de Departamento",
+        "El Vicerrectorado competente",
+        "Las Juntas de Facultad o de Escuela, o los órganos que corresponda en el resto de los casos"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 59.1 EULL, según la normativa aprobada por el Consejo de Gobierno, que es quien los aprueba (art. 15.o).",
+      "ref": "art. 59.1 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La implantación, la modificación y la extinción de un plan de estudios se hará conforme a las normas que determine el Consejo de Gobierno:",
+      "opciones": [
+        "Previo informe favorable del Claustro",
+        "Previo informe del Consejo de Estudiantes",
+        "Previo informe del Consejo de Departamento",
+        "Previo informe de la Junta de Facultad o Escuela"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 60 EULL. Aparte, la Ley 11/2003 exige informe previo favorable del Consejo Social para la implantación y supresión de enseñanzas oficiales.",
+      "ref": "art. 60 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los procedimientos de adaptación de planes de estudio y el reconocimiento y la transferencia de créditos serán regulados por:",
+      "opciones": [
+        "El Consejo Social",
+        "Las Juntas de Facultad",
+        "El Consejo de Gobierno",
+        "El Rector mediante resolución"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 61 EULL, en el marco de la legislación vigente.",
+      "ref": "art. 61 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO figura entre los títulos y certificados que expedirá la ULL según el art. 62 de los Estatutos?",
+      "opciones": [
+        "Títulos oficiales con validez en todo el territorio nacional",
+        "Títulos propios",
+        "Diplomas y certificados acreditativos de formación continua u otros cursos",
+        "Títulos de Bachillerato universitario"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 62 EULL solo enumera títulos oficiales, títulos propios y diplomas y certificados de formación continua u otros cursos.",
+      "ref": "art. 62 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según la LOSU, los títulos universitarios oficiales son expedidos:",
+      "opciones": [
+        "Por el Ministerio de Universidades",
+        "Por la Comunidad Autónoma, a propuesta de la universidad",
+        "En nombre del Rey, por el Rector o Rectora de la universidad",
+        "Por el Secretario General de la universidad"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 8.1 LOSU.",
+      "ref": "art. 8.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la LOSU, las enseñanzas universitarias oficiales se estructuran en:",
+      "opciones": [
+        "Dos ciclos: Grado y Posgrado",
+        "Tres ciclos: Diplomatura, Licenciatura y Doctorado",
+        "Cuatro ciclos: Grado, Máster, Doctorado y Formación permanente",
+        "Tres ciclos: Grado, Máster Universitario y Doctorado"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 9.1 LOSU.",
+      "ref": "art. 9.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "De acuerdo con la LOSU, la docencia universitaria:",
+      "opciones": [
+        "Debe ser exclusivamente presencial",
+        "Es preferentemente virtual",
+        "Es preferentemente presencial, aunque podrá impartirse también de manera virtual o híbrida",
+        "Se imparte en la modalidad que decida cada profesor"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 6.1 LOSU.",
+      "ref": "art. 6.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 63 de los Estatutos, la investigación en la Universidad es:",
+      "opciones": [
+        "Una actividad voluntaria del PDI",
+        "Una función exclusiva de los Institutos Universitarios de Investigación",
+        "Fundamento de la docencia y soporte de la transferencia social del conocimiento",
+        "Una competencia del Consejo Social"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 63.1 EULL: fundamento de la docencia, medio para mejorar la calidad de vida, el progreso económico responsable, equitativo y sostenible y la igualdad, y soporte de la transferencia social del conocimiento.",
+      "ref": "art. 63.1 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La actividad investigadora de la ULL, sin perjuicio de la libre investigación individual, se llevará a cabo principalmente en:",
+      "opciones": [
+        "Los grupos de investigación, los Departamentos, los Institutos Universitarios de Investigación y los Centros de Estudio",
+        "Las Facultades, Escuelas y Departamentos",
+        "Las Escuelas de Doctorado y los Institutos Mixtos",
+        "La Fundación General de la Universidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 63.3 EULL, con independencia de la creación de otras estructuras.",
+      "ref": "art. 63.3 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La reglamentación general de investigación de la ULL será establecida por:",
+      "opciones": [
+        "El Claustro",
+        "La Comisión de Investigación",
+        "El Vicerrectorado de Investigación",
+        "El Consejo de Gobierno"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 63.4 EULL.",
+      "ref": "art. 63.4 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según los Estatutos, la investigación es, para el personal docente e investigador:",
+      "opciones": [
+        "Un deber y un derecho",
+        "Un derecho, pero no un deber",
+        "Un mérito voluntario",
+        "Una obligación solo para el profesorado funcionario"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 63.6 EULL: un deber y un derecho, sin más limitaciones que las derivadas de los fines de la Universidad, la racionalidad en el uso de recursos y el ordenamiento jurídico. En el mismo sentido, art. 11.2 LOSU.",
+      "ref": "art. 63.6 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los grupos de investigación se definen en los Estatutos como:",
+      "opciones": [
+        "Centros multidisciplinares dedicados a la investigación",
+        "Unidades de investigación organizadas en torno a una línea común de actividad investigadora",
+        "Unidades de docencia e investigación que coordinan enseñanzas",
+        "Estructuras mixtas con organismos públicos de investigación"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 64 EULL. La opción a) define los Institutos (art. 48) y la c) los Departamentos (art. 44).",
+      "ref": "art. 64 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El apoyo a la investigación en la ULL se concretará:",
+      "opciones": [
+        "En asignaciones directas del Rector",
+        "En convenios con el Gobierno de Canarias",
+        "En convocatorias públicas",
+        "En el presupuesto de cada Departamento"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 65.2 EULL.",
+      "ref": "art. 65.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La composición y competencias de la Comisión de Investigación de la ULL:",
+      "opciones": [
+        "Se fijan directamente en los Estatutos",
+        "Las decide el Rector",
+        "Serán establecidas en la reglamentación general de investigación",
+        "Las aprueba el Consejo Social"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 66 EULL.",
+      "ref": "art. 66 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los fondos de investigación bibliográficos e instrumentales inventariados:",
+      "opciones": [
+        "Pertenecen al investigador principal del proyecto",
+        "Se integran en la Biblioteca y no pueden usarse fuera de ella",
+        "Estarán a disposición de los investigadores de acuerdo con la reglamentación general de investigación",
+        "Deben devolverse a la entidad financiadora"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 67 EULL. Además, el material inventariable y bibliográfico adquirido con fondos de investigación se incorpora al patrimonio de la Universidad (art. 127.2).",
+      "ref": "art. 67 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La ULL gestionará los contratos para la realización de trabajos científicos, técnicos o artísticos a través de:",
+      "opciones": [
+        "La Gerencia",
+        "Cada Departamento de forma autónoma",
+        "La Fundación General de la Universidad, en exclusiva",
+        "El servicio universitario adscrito al Vicerrectorado con las competencias correspondientes"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 68.1 EULL.",
+      "ref": "art. 68.1 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO figura entre quienes pueden suscribir contratos de investigación según el art. 68.2 de los Estatutos?",
+      "opciones": [
+        "Los Directores de los Departamentos",
+        "El personal investigador responsable de los grupos de investigación",
+        "El profesorado, en su propio nombre",
+        "Los Decanos de Facultad"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 68.2 EULL enumera al Rector, Directores de Departamento, Directores de Institutos, responsables de grupos y profesorado en su nombre. No incluye a los Decanos.",
+      "ref": "art. 68.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando un contrato de investigación lo suscribe un Director de Departamento, es necesaria:",
+      "opciones": [
+        "La aprobación del Consejo Social",
+        "Únicamente la conformidad del Consejo de Departamento",
+        "La autorización del Consejo de Gobierno por mayoría absoluta",
+        "La previa autorización del Rector y la conformidad del órgano competente"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 68.3 EULL: en los supuestos b), c), d) y e) del art. 68.2.",
+      "ref": "art. 68.3 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los contratos de investigación, ¿en qué supuesto NO es necesaria la previa autorización del Rector?",
+      "opciones": [
+        "Cuando lo firma un Director de Instituto",
+        "Cuando lo firma el responsable de un grupo",
+        "Cuando lo firma un profesor en su propio nombre",
+        "Cuando lo suscribe el propio Rector en nombre de la Universidad"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 68.3 EULL: la autorización previa se exige en las letras b) a e); la letra a) es el Rector.",
+      "ref": "art. 68.3 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "De la cantidad restante de un contrato de investigación, una vez descontados gastos e impuestos, corresponde a la Universidad y se dedica a la promoción de la investigación al menos el:",
+      "opciones": [
+        "10 %",
+        "25 %",
+        "20 %",
+        "15 %"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 68.7 EULL: al menos el quince por ciento; el resto puede compensar al personal participante.",
+      "ref": "art. 68.7 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La participación de personal de la Universidad en un contrato de investigación requiere, además de la conformidad y autorización del Departamento, Instituto o Servicio del que dependa:",
+      "opciones": [
+        "La autorización del Consejo Social",
+        "La aprobación del Claustro",
+        "El informe de la Gerencia",
+        "Su aceptación expresa"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 68.4 EULL.",
+      "ref": "art. 68.4 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cuando las instalaciones que se quieren utilizar en un contrato de investigación son de uso compartido o general a toda la Universidad, pueden autorizar su uso:",
+      "opciones": [
+        "El Rector o el Vicerrector competente",
+        "El Gerente",
+        "El Consejo de Gobierno",
+        "El Director del Departamento más próximo"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 68.5 EULL, también por urgencia u otros motivos suficientemente justificados.",
+      "ref": "art. 68.5 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes elementos NO se exige expresamente que figure en los contratos de investigación según el art. 68.6 de los Estatutos?",
+      "opciones": [
+        "El precio acordado",
+        "La cantidad destinada a compensar los gastos originados a la Universidad",
+        "El destino de los bienes y recursos que se obtengan",
+        "El informe favorable del Consejo Social"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 68.6 EULL: precio, compensación de gastos, impuestos aplicables y destino de bienes y recursos. No exige informe del Consejo Social.",
+      "ref": "art. 68.6 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, el personal docente e investigador debe depositar la versión final aceptada de sus publicaciones en repositorios de acceso abierto:",
+      "opciones": [
+        "En el plazo de un año desde la publicación",
+        "Cuando lo autorice la editorial",
+        "Solo si la investigación se financió con fondos europeos",
+        "De forma simultánea a la fecha de publicación"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 12.2 LOSU (Ciencia Abierta).",
+      "ref": "art. 12.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Dentro de las relaciones con la sociedad, el valor que los Estatutos declaran que se potenciará para avanzar hacia una sociedad más sostenible y justa es:",
+      "opciones": [
+        "La excelencia académica",
+        "La responsabilidad social",
+        "La internacionalización",
+        "La competitividad"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 69 EULL.",
+      "ref": "art. 69 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 70 de los Estatutos, los programas de extensión universitaria constituyen un medio de acercamiento y promoción de:",
+      "opciones": [
+        "El conocimiento, el deporte, el ocio y la cultura para el estudiantado y la ciudadanía",
+        "La investigación aplicada para las empresas",
+        "La formación del PAS",
+        "La internacionalización de las titulaciones"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 70 EULL.",
+      "ref": "art. 70 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Universidad contribuirá, por sí misma o en colaboración con otros agentes sociales, al desarrollo de la sociedad en los ámbitos:",
+      "opciones": [
+        "Económico, cultural, artístico, científico, técnico y recreativo",
+        "Exclusivamente científico y técnico",
+        "Educativo y sanitario",
+        "Económico y laboral"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 70 EULL.",
+      "ref": "art. 70 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes acciones figura en el art. 71 de los Estatutos para fortalecer las relaciones con la sociedad?",
+      "opciones": [
+        "Crear una universidad privada adscrita",
+        "Promover la creación de cátedras institucionales y de empresa",
+        "Reducir los precios públicos de matrícula",
+        "Crear escalas propias de personal"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 71.j EULL.",
+      "ref": "art. 71.j EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 71.f de los Estatutos, la ULL atenderá especialmente a:",
+      "opciones": [
+        "La defensa, desarrollo y difusión de la cultura canaria",
+        "La enseñanza del inglés",
+        "La captación de estudiantes extranjeros",
+        "La protección del patrimonio natural"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 71.f EULL, y promover y mantener las actividades, servicios e instituciones conducentes a este fin.",
+      "ref": "art. 71.f EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Entre las acciones del art. 71 de los Estatutos, la Universidad promoverá, en la medida de sus posibilidades:",
+      "opciones": [
+        "La creación y el mantenimiento de medios de difusión propios",
+        "La creación de empresas de trabajo temporal",
+        "La supresión de las delegaciones estudiantiles",
+        "La externalización de sus servicios culturales"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 71.h EULL.",
+      "ref": "art. 71.h EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las comisiones de movilidad internacional y los coordinadores de movilidad de los Centros promueven y gestionan la movilidad impulsada desde:",
+      "opciones": [
+        "La Gerencia",
+        "El Vicerrectorado con competencias en materia de internacionalización",
+        "El Consejo Social",
+        "La Secretaría General"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 73 EULL.",
+      "ref": "art. 73 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 74 de los Estatutos, la ULL:",
+      "opciones": [
+        "No podrá impartir enseñanzas en el extranjero",
+        "Podrá impartir enseñanzas en el extranjero y favorecerá programas formativos en inglés y otras lenguas extranjeras",
+        "Solo podrá impartir en lenguas extranjeras los títulos propios",
+        "Necesita autorización del Consejo Social para cualquier programa en inglés"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 74.2 EULL, además de promocionar titulaciones conjuntas o múltiples con universidades de excelencia extranjeras.",
+      "ref": "art. 74.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En materia de cooperación interuniversitaria al desarrollo, la ULL atenderá las recomendaciones de:",
+      "opciones": [
+        "La Declaración de Bolonia",
+        "La Declaración Mundial de la Educación Superior en el siglo XXI",
+        "La Carta Magna de las Universidades Europeas",
+        "La Agenda Canaria de Desarrollo Sostenible exclusivamente"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 74.4 EULL.",
+      "ref": "art. 74.4 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO figura entre los servicios que, como mínimo, mantendrá la ULL según el art. 115.2 de los Estatutos?",
+      "opciones": [
+        "Publicaciones",
+        "Deportes",
+        "Servicio de Prevención de Riesgos Laborales",
+        "Residencias universitarias y Colegios mayores"
+      ],
+      "correcta": 2,
+      "explicacion": "Servicios mínimos: Biblioteca y Archivo, Apoyo a la investigación, Publicaciones, TIC, Residencias y Colegios mayores y Deportes.",
+      "ref": "art. 115.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuántos servicios enumera como mínimos el art. 115.2 de los Estatutos de la ULL?",
+      "opciones": [
+        "Cuatro",
+        "Cinco",
+        "Seis",
+        "Ocho"
+      ],
+      "correcta": 2,
+      "explicacion": "Seis: Biblioteca y Archivo universitario; Apoyo a la investigación; Publicaciones; Tecnología de la Información y Comunicaciones; Residencias y Colegios mayores; Deportes.",
+      "ref": "art. 115.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según los Estatutos, la Biblioteca y el Archivo universitario:",
+      "opciones": [
+        "Son servicios distintos que la ULL puede suprimir libremente",
+        "Figuran como un servicio mínimo que la ULL debe mantener",
+        "Dependen del Consejo Social",
+        "No se mencionan en los Estatutos"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 115.2 EULL: Biblioteca y Archivo universitario es el primero de los servicios mínimos.",
+      "ref": "art. 115.2 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La creación, modificación o supresión de los servicios universitarios corresponde a:",
+      "opciones": [
+        "El Rector, a propuesta de la Gerencia",
+        "El Consejo de Gobierno, a propuesta del Rector o del órgano del que dependa orgánicamente",
+        "El Consejo Social, a propuesta del Consejo de Gobierno",
+        "El Claustro, a propuesta del Consejo de Gobierno"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 116 EULL.",
+      "ref": "art. 116 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los acuerdos de creación de un servicio universitario deberán especificar, entre otros extremos:",
+      "opciones": [
+        "El nombre de su responsable",
+        "La delimitación de sus funciones, competencias y dependencia orgánica y los medios humanos y materiales",
+        "El informe favorable de la Inspección de Servicios",
+        "La autorización de la Comunidad Autónoma"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 116 EULL. Además, podrán dotarse de un reglamento de organización y funcionamiento.",
+      "ref": "art. 116 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El puesto de responsable del funcionamiento de cada servicio universitario se cubrirá por:",
+      "opciones": [
+        "Un Director de Secretariado nombrado por el Rector",
+        "Personal perteneciente a las relaciones de puestos de trabajo fijas del personal de administración y servicios",
+        "Un profesor con vinculación permanente",
+        "Personal eventual de confianza del Gerente"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 117 EULL.",
+      "ref": "art. 117 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El sistema integrado de gestión de la calidad en los servicios universitarios dependerá directamente de:",
+      "opciones": [
+        "El Rector",
+        "La Inspección de Servicios",
+        "La Gerencia",
+        "El Consejo Social"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 118 EULL. No confundir con la Inspección de Servicios, que depende del Rector (art. 114).",
+      "ref": "art. 118 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes es un objetivo de los servicios universitarios según el art. 119 de los Estatutos?",
+      "opciones": [
+        "Promover y facilitar el uso del transporte público, especialmente el transporte universitario",
+        "Gestionar el Registro Civil del campus",
+        "Autorizar los contratos de investigación",
+        "Aprobar los planes de estudio"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 119.j EULL.",
+      "ref": "art. 119 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 119.e de los Estatutos, los servicios fomentarán:",
+      "opciones": [
+        "El uso exclusivo de software propietario certificado",
+        "El uso de estándares libres y de aplicaciones de fuentes abiertas, la neutralidad tecnológica y el libre acceso a los servicios telemáticos",
+        "La contratación de licencias corporativas",
+        "La prohibición de servicios en la nube"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 119.e EULL, coherente con la función del art. 3.h (soberanía tecnológica y software libre).",
+      "ref": "art. 119.e EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 119.m de los Estatutos, el alojamiento adecuado y digno se facilitará, al menos, a través de:",
+      "opciones": [
+        "Convenios con cadenas hoteleras",
+        "Colegios mayores y residencias universitarias de gestión pública",
+        "Ayudas al alquiler gestionadas por el Consejo Social",
+        "Residencias privadas concertadas"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 119.m EULL, preferentemente para su estudiantado y también para personas de otras universidades en estancias financiadas por programas oficiales.",
+      "ref": "art. 119.m EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes objetivos del art. 119 de los Estatutos está relacionado con la propiedad industrial e intelectual?",
+      "opciones": [
+        "Difundir y promover la oferta científico-técnica y gestionar y proteger los derechos de propiedad industrial e intelectual",
+        "Proveer comedores saludables",
+        "Facilitar la práctica deportiva",
+        "Promover la formación en idiomas"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 119.g EULL.",
+      "ref": "art. 119.g EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, las universidades deberán contar, entre otras unidades y servicios, con:",
+      "opciones": [
+        "Servicios de salud y acompañamiento psicológico y pedagógico y servicios de orientación profesional",
+        "Un servicio de cafetería en cada centro",
+        "Un colegio mayor por cada campus",
+        "Una editorial universitaria con ISBN propio"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 43.1 LOSU, además de unidades de igualdad, diversidad, defensoría e inspección de servicios.",
+      "ref": "art. 43 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según los Estatutos, ¿qué órgano aprueba la programación plurianual de la Universidad?",
+      "opciones": [
+        "El Consejo de Gobierno",
+        "El Claustro",
+        "El Consejo Social, a propuesta del Consejo de Gobierno",
+        "La Gerencia"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 121.3 EULL.",
+      "ref": "art. 121.3 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La aprobación de la liquidación del presupuesto de la ULL corresponde al Consejo Social, a propuesta del Consejo de Gobierno, y debe realizarse:",
+      "opciones": [
+        "Antes del 31 de marzo del ejercicio siguiente",
+        "Antes del 30 de junio del ejercicio siguiente",
+        "Dentro del primer trimestre del mismo ejercicio",
+        "Antes del 31 de diciembre del ejercicio corriente"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 124.2 EULL.",
+      "ref": "art. 124.2 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según los Estatutos, el órgano de contratación competente en la Universidad de La Laguna es:",
+      "opciones": [
+        "La Gerencia",
+        "El Consejo de Gobierno",
+        "El Rector, sin perjuicio de las delegaciones que efectúe",
+        "El Consejo Social"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 126.2 EULL.",
+      "ref": "art. 126.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los títulos propios de la ULL:",
+      "opciones": [
+        "Se adscriben al Centro o Centros que corresponda",
+        "Se adscriben siempre a la Escuela de Doctorado",
+        "No pueden adscribirse a ningún Centro",
+        "Dependen directamente del Consejo Social"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 33.4 EULL. El Consejo de Gobierno aprueba el establecimiento de enseñanzas propias (art. 15.q) y el Consejo Social fija sus precios (Ley 11/2003).",
+      "ref": "art. 33.4 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la Ley 11/2003 de Consejos Sociales de Canarias, la implantación y supresión de enseñanzas conducentes a títulos oficiales requiere:",
+      "opciones": [
+        "Informe previo favorable del Consejo Social",
+        "Aprobación del Claustro",
+        "Informe de la Comisión de Investigación",
+        "Autorización de la Gerencia"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 3.d Ley 11/2003, reformada por la Ley 3/2025. Además, el Consejo Social aprueba los estudios económicos de viabilidad y de impacto social de los planes de estudio (art. 3.e).",
+      "ref": "art. 3.d Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El estudiantado de la ULL tiene derecho a disponer de la guía docente de cada asignatura:",
+      "opciones": [
+        "Al inicio de las clases",
+        "Antes de formalizar su matrícula",
+        "Un mes antes del examen final",
+        "Cuando la apruebe el Consejo de Departamento"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 102.e EULL: antes de formalizar la matrícula, con al menos temario, bibliografía, criterios y tipos de evaluación y horarios.",
+      "ref": "art. 102.e EULL",
+      "dificultad": 2
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Día Institucional de la Universidad de La Laguna - 233 años de historia",
+      "url": "https://www.youtube.com/watch?v=J8w0nPEEYNk",
+      "canal": "ULLaudiovisual - Universidad de La Laguna"
+    },
+    {
+      "titulo": "Promocional Biblioteca ULL 2013",
+      "url": "https://www.youtube.com/watch?v=7-mI4EhdLJU",
+      "canal": "Biblioteca de la Universidad de La Laguna"
+    },
+    {
+      "titulo": "Acceso al Campus Virtual de la Universidad de La Laguna",
+      "url": "https://www.youtube.com/watch?v=aGJOXuHdCaw",
+      "canal": "Universidad de La Laguna"
+    },
+    {
+      "titulo": "Servicio de Deportes de la ULL (lista de reproducción)",
+      "url": "https://www.youtube.com/playlist?list=PLWacvdXPNWc5kArSRA2kEKPFufePceYaY",
+      "canal": "Servicio de Deportes - Universidad de La Laguna"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "BOC nº 67, de 5 de abril de 2022: Decreto 66/2022, Estatutos de la Universidad de La Laguna",
+      "url": "https://www.gobiernodecanarias.org/boc/2022/067/001.html"
+    },
+    {
+      "titulo": "LOSU: Ley Orgánica 2/2023, del Sistema Universitario (texto consolidado BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500"
+    },
+    {
+      "titulo": "ULL: El Claustro aprueba la reforma de los estatutos (2026)",
+      "url": "https://www.ull.es/portal/noticias/2026/el-claustro-aprueba-la-reforma-de-los-estatutos-de-la-universidad-de-la-laguna/"
+    },
+    {
+      "titulo": "Canal ULLaudiovisual de la Universidad de La Laguna",
+      "url": "https://www.youtube.com/@UniversidadLaLaguna"
+    }
+  ]
+}

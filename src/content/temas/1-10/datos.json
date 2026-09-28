@@ -1,0 +1,1197 @@
+{
+  "claves": [
+    "La Ley 19/2013 desarrolla el artículo 105.b) CE y se asienta sobre tres pilares: publicidad activa, derecho de acceso y buen gobierno (art. 1).",
+    "Las Universidades públicas están incluidas expresamente en el art. 2.1.d) y son Administración Pública a efectos del título I (art. 2.2: letras a a d).",
+    "Partidos, sindicatos, organizaciones empresariales y entidades privadas subvencionadas solo están sujetos a publicidad activa, no al derecho de acceso (art. 3).",
+    "La publicidad activa es un mínimo: se publica de forma periódica, actualizada, clara y preferiblemente en formatos reutilizables en webs y sedes electrónicas (art. 5).",
+    "El incumplimiento reiterado de la publicidad activa y de la obligación de resolver en plazo son infracción grave a efectos disciplinarios (arts. 9.3 y 20.6).",
+    "Todas las personas tienen derecho de acceso sin necesidad de motivar la solicitud (arts. 12 y 17.3).",
+    "Información pública son los contenidos o documentos, en cualquier formato, que obren en poder del sujeto obligado y se hayan elaborado o adquirido en el ejercicio de sus funciones (art. 13).",
+    "El art. 14 recoge doce límites que deben aplicarse de forma justificada y proporcionada, atendiendo al interés público o privado superior.",
+    "El art. 15 gradúa la protección de datos: especialmente protegidos (consentimiento), meramente identificativos (acceso general) y resto (ponderación).",
+    "Las causas de inadmisión del art. 18 son cinco y exigen resolución motivada.",
+    "La solicitud se resuelve en un mes desde su recepción por el órgano competente, ampliable otro mes, y el silencio es desestimatorio (art. 20).",
+    "Frente a las resoluciones de acceso cabe reclamación potestativa, sustitutiva de los recursos administrativos, en un mes ante el CTBG, que resuelve en tres meses (arts. 23 y 24).",
+    "En Canarias las reclamaciones se presentan ante el Comisionado de Transparencia y Acceso a la Información Pública, creado por la Ley 12/2014.",
+    "La ULL dispone de Portal de Transparencia, Reglamento propio de transparencia y un procedimiento de acceso en su sede electrónica."
+  ],
+  "plazos": [
+    {
+      "concepto": "Entrada en vigor del título II (buen gobierno)",
+      "valor": "Al día siguiente de su publicación en el BOE",
+      "ref": "DF 9.ª LTAIBG"
+    },
+    {
+      "concepto": "Entrada en vigor de los títulos preliminar, I y III",
+      "valor": "Al año de su publicación",
+      "ref": "DF 9.ª LTAIBG"
+    },
+    {
+      "concepto": "Plazo de adaptación de CCAA y entidades locales",
+      "valor": "2 años como máximo",
+      "ref": "DF 9.ª LTAIBG"
+    },
+    {
+      "concepto": "Participación pública en sociedades mercantiles incluidas",
+      "valor": "Superior al 50 %",
+      "ref": "art. 2.1.g LTAIBG"
+    },
+    {
+      "concepto": "Entidades privadas obligadas a publicidad activa por cuantía",
+      "valor": "Más de 100.000 euros de ayudas en un año",
+      "ref": "art. 3.b LTAIBG"
+    },
+    {
+      "concepto": "Entidades privadas obligadas por porcentaje de ingresos",
+      "valor": "Al menos el 40 % de ingresos anuales públicos, con mínimo de 5.000 euros",
+      "ref": "art. 3.b LTAIBG"
+    },
+    {
+      "concepto": "Entidades sin ánimo de lucro que pueden usar medios de la Administración",
+      "valor": "Presupuesto inferior a 50.000 euros",
+      "ref": "art. 5.4 LTAIBG"
+    },
+    {
+      "concepto": "Publicación de los contratos menores",
+      "valor": "Podrá realizarse trimestralmente",
+      "ref": "art. 8.1.a LTAIBG"
+    },
+    {
+      "concepto": "Publicación de la participación de pymes en contratos",
+      "valor": "Semestralmente",
+      "ref": "art. 8.1.a LTAIBG"
+    },
+    {
+      "concepto": "Número de límites al derecho de acceso",
+      "valor": "12 (letras a a l)",
+      "ref": "art. 14.1 LTAIBG"
+    },
+    {
+      "concepto": "Número de causas de inadmisión",
+      "valor": "5 (letras a a e)",
+      "ref": "art. 18.1 LTAIBG"
+    },
+    {
+      "concepto": "Plazo para concretar una solicitud imprecisa",
+      "valor": "10 días (si no, desistimiento)",
+      "ref": "art. 19.2 LTAIBG"
+    },
+    {
+      "concepto": "Alegaciones de terceros afectados",
+      "valor": "15 días",
+      "ref": "art. 19.3 LTAIBG"
+    },
+    {
+      "concepto": "Plazo máximo para resolver y notificar la solicitud de acceso",
+      "valor": "1 mes desde la recepción por el órgano competente",
+      "ref": "art. 20.1 LTAIBG"
+    },
+    {
+      "concepto": "Ampliación del plazo de resolución",
+      "valor": "Otro mes, por volumen o complejidad y previa notificación",
+      "ref": "art. 20.1 LTAIBG"
+    },
+    {
+      "concepto": "Sentido del silencio en la solicitud de acceso",
+      "valor": "Desestimatorio",
+      "ref": "art. 20.4 LTAIBG"
+    },
+    {
+      "concepto": "Plazo para formalizar el acceso si no se da con la notificación",
+      "valor": "No superior a 10 días",
+      "ref": "art. 22.1 LTAIBG"
+    },
+    {
+      "concepto": "Plazo para interponer la reclamación ante el CTBG",
+      "valor": "1 mes",
+      "ref": "art. 24.2 LTAIBG"
+    },
+    {
+      "concepto": "Plazo para resolver la reclamación",
+      "valor": "3 meses; silencio desestimatorio",
+      "ref": "art. 24.4 LTAIBG"
+    },
+    {
+      "concepto": "Mandato del Presidente del CTBG",
+      "valor": "5 años no renovables",
+      "ref": "art. 37.1 LTAIBG"
+    },
+    {
+      "concepto": "Refrendo del nombramiento del Presidente del CTBG",
+      "valor": "Mayoría absoluta de la Comisión del Congreso, en 1 mes natural",
+      "ref": "art. 37.1 LTAIBG"
+    },
+    {
+      "concepto": "Miembros de la Comisión de Transparencia y Buen Gobierno",
+      "valor": "8 (Presidente y 7 representantes)",
+      "ref": "art. 36.2 LTAIBG"
+    },
+    {
+      "concepto": "Plazo para resolver en Canarias",
+      "valor": "1 mes, ampliable otro mes",
+      "ref": "art. 46.1 Ley 12/2014"
+    },
+    {
+      "concepto": "Inadmisión por las letras a) a d) en Canarias",
+      "valor": "10 días hábiles como máximo",
+      "ref": "art. 46.2 Ley 12/2014"
+    },
+    {
+      "concepto": "Reclamación ante el Comisionado canario",
+      "valor": "1 mes para interponer; 3 meses para resolver",
+      "ref": "arts. 53 y 55 Ley 12/2014"
+    },
+    {
+      "concepto": "Elección del Comisionado de Transparencia de Canarias",
+      "valor": "3/5 del Parlamento; 5 años renovable una vez",
+      "ref": "art. 59.1 Ley 12/2014"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Publicidad activa",
+      "definicion": "Obligación de los sujetos obligados de publicar de oficio, de forma periódica y actualizada, la información relevante sobre su actividad (arts. 5 a 11 LTAIBG)."
+    },
+    {
+      "termino": "Derecho de acceso a la información pública",
+      "definicion": "Derecho de todas las personas a acceder, previa solicitud, a la información pública, en los términos del art. 105.b) CE (art. 12 LTAIBG)."
+    },
+    {
+      "termino": "Información pública",
+      "definicion": "Contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos obligados y hayan sido elaborados o adquiridos en el ejercicio de sus funciones (art. 13 LTAIBG)."
+    },
+    {
+      "termino": "Disociación",
+      "definicion": "Tratamiento de los datos personales de modo que se impida la identificación de las personas afectadas; permite el acceso sin aplicar las restricciones del art. 15 (art. 15.4 LTAIBG)."
+    },
+    {
+      "termino": "Acceso parcial",
+      "definicion": "Concesión del acceso omitiendo la parte afectada por un límite, salvo que la información resulte distorsionada o carezca de sentido (art. 16 LTAIBG)."
+    },
+    {
+      "termino": "Reelaboración",
+      "definicion": "Acción previa necesaria para divulgar la información que justifica la inadmisión de la solicitud (art. 18.1.c LTAIBG)."
+    },
+    {
+      "termino": "Información auxiliar o de apoyo",
+      "definicion": "Notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos; su solicitud se inadmite (art. 18.1.b LTAIBG)."
+    },
+    {
+      "termino": "Test del daño y del interés público",
+      "definicion": "Ponderación exigida para aplicar los límites: justificada, proporcionada y atendiendo al interés público o privado superior (art. 14.2 LTAIBG)."
+    },
+    {
+      "termino": "Reclamación potestativa",
+      "definicion": "Impugnación ante el CTBG u órgano autonómico, previa al contencioso y sustitutiva de los recursos administrativos (arts. 23 y 24 LTAIBG)."
+    },
+    {
+      "termino": "Consejo de Transparencia y Buen Gobierno",
+      "definicion": "Organismo público con personalidad jurídica propia que actúa con autonomía y plena independencia para promover la transparencia y resolver reclamaciones (art. 33 LTAIBG)."
+    },
+    {
+      "termino": "Portal de la Transparencia",
+      "definicion": "Portal de la AGE, dependiente del Ministerio de la Presidencia, regido por los principios de accesibilidad, interoperabilidad y reutilización (arts. 10 y 11 LTAIBG)."
+    },
+    {
+      "termino": "Unidades de información",
+      "definicion": "Unidades especializadas de la AGE que tramitan solicitudes, llevan su registro y mantienen un mapa de contenidos (art. 21 LTAIBG)."
+    },
+    {
+      "termino": "Comisionado de Transparencia y Acceso a la Información Pública",
+      "definicion": "Órgano independiente canario de fomento, análisis, control y protección de la transparencia y del derecho de acceso, elegido por el Parlamento de Canarias (arts. 58 y 59 Ley 12/2014)."
+    },
+    {
+      "termino": "Datos meramente identificativos",
+      "definicion": "Datos relacionados con la organización, funcionamiento o actividad pública del órgano a los que, con carácter general, se concede el acceso (art. 15.2 LTAIBG)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Los tres pilares: TAB",
+      "texto": "Transparencia (publicidad activa), Acceso (derecho a pedir información) y Buen gobierno. Es el objeto del art. 1."
+    },
+    {
+      "titulo": "Regla 1-1-1-3",
+      "texto": "1 mes para resolver la solicitud, 1 mes más de ampliación, 1 mes para reclamar y 3 meses para resolver la reclamación. Todos los silencios son negativos."
+    },
+    {
+      "titulo": "Portal AIR",
+      "texto": "Principios técnicos del Portal de la Transparencia (art. 11): Accesibilidad, Interoperabilidad y Reutilización."
+    },
+    {
+      "titulo": "Solicitud IICM",
+      "texto": "Contenido de la solicitud (art. 17.2): Identidad, Información, Contacto (preferentemente electrónico) y Modalidad (en su caso)."
+    },
+    {
+      "titulo": "10-15-10",
+      "texto": "10 días para concretar la solicitud, 15 días de alegaciones de terceros y 10 días como máximo para formalizar el acceso."
+    },
+    {
+      "titulo": "Cien mil o cuarenta por ciento",
+      "texto": "Entidades privadas en publicidad activa: más de 100.000 euros al año o el 40 % de sus ingresos, con un suelo de 5.000 euros."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué precepto constitucional desarrolla la Ley 19/2013?",
+      "reverso": "El artículo 105.b) CE.",
+      "ref": "art. 12 LTAIBG"
+    },
+    {
+      "frente": "¿Cuál es el triple objeto de la Ley 19/2013?",
+      "reverso": "Ampliar y reforzar la transparencia, regular y garantizar el derecho de acceso y establecer las obligaciones de buen gobierno.",
+      "ref": "art. 1 LTAIBG"
+    },
+    {
+      "frente": "¿En qué letra del art. 2.1 aparecen las Universidades públicas?",
+      "reverso": "En la letra d), entre las entidades de Derecho Público vinculadas o dependientes.",
+      "ref": "art. 2.1.d LTAIBG"
+    },
+    {
+      "frente": "¿Qué sujetos son Administraciones Públicas a efectos del título I?",
+      "reverso": "Los de las letras a) a d) del art. 2.1.",
+      "ref": "art. 2.2 LTAIBG"
+    },
+    {
+      "frente": "¿Qué participación pública debe tener una sociedad mercantil para quedar incluida?",
+      "reverso": "Superior al 50 por 100, directa o indirecta.",
+      "ref": "art. 2.1.g LTAIBG"
+    },
+    {
+      "frente": "¿A qué obligaciones quedan sujetos los partidos políticos y sindicatos?",
+      "reverso": "Solo a las de publicidad activa del capítulo II del título I.",
+      "ref": "art. 3 LTAIBG"
+    },
+    {
+      "frente": "¿Cuándo una entidad privada subvencionada está obligada a publicidad activa?",
+      "reverso": "Si recibe más de 100.000 euros en un año o si al menos el 40 % de sus ingresos son públicos, con un mínimo de 5.000 euros.",
+      "ref": "art. 3.b LTAIBG"
+    },
+    {
+      "frente": "¿Con qué periodicidad pueden publicarse los contratos menores?",
+      "reverso": "Trimestralmente.",
+      "ref": "art. 8.1.a LTAIBG"
+    },
+    {
+      "frente": "¿Qué consideración tiene el incumplimiento reiterado de la publicidad activa?",
+      "reverso": "Infracción grave a efectos del régimen disciplinario.",
+      "ref": "art. 9.3 LTAIBG"
+    },
+    {
+      "frente": "¿De qué ministerio depende el Portal de la Transparencia?",
+      "reverso": "Del Ministerio de la Presidencia.",
+      "ref": "art. 10.1 LTAIBG"
+    },
+    {
+      "frente": "¿Cuáles son los principios técnicos del Portal de la Transparencia?",
+      "reverso": "Accesibilidad, interoperabilidad y reutilización.",
+      "ref": "art. 11 LTAIBG"
+    },
+    {
+      "frente": "¿Quién es titular del derecho de acceso?",
+      "reverso": "Todas las personas.",
+      "ref": "art. 12 LTAIBG"
+    },
+    {
+      "frente": "¿Cuántos límites al derecho de acceso recoge el art. 14?",
+      "reverso": "Doce, de la letra a) a la l).",
+      "ref": "art. 14.1 LTAIBG"
+    },
+    {
+      "frente": "¿Qué requisito exige el acceso a datos sobre ideología o afiliación sindical?",
+      "reverso": "Consentimiento expreso y por escrito del afectado, salvo que este los hubiera hecho manifiestamente públicos antes de la solicitud.",
+      "ref": "art. 15.1 LTAIBG"
+    },
+    {
+      "frente": "¿Qué requisito exige el acceso a datos de salud?",
+      "reverso": "Consentimiento expreso del afectado o amparo en una norma con rango de ley.",
+      "ref": "art. 15.1 LTAIBG"
+    },
+    {
+      "frente": "¿Cuándo no procede el acceso parcial?",
+      "reverso": "Cuando resulte una información distorsionada o que carezca de sentido.",
+      "ref": "art. 16 LTAIBG"
+    },
+    {
+      "frente": "¿Hay que motivar la solicitud de acceso?",
+      "reverso": "No. La falta de motivación no es por sí sola causa de rechazo.",
+      "ref": "art. 17.3 LTAIBG"
+    },
+    {
+      "frente": "Si se inadmite porque el órgano no tiene la información y desconoce el competente, ¿qué debe hacer?",
+      "reverso": "Indicar en la resolución el órgano que, a su juicio, es competente.",
+      "ref": "art. 18.2 LTAIBG"
+    },
+    {
+      "frente": "¿Qué plazo tiene el solicitante para concretar una solicitud imprecisa?",
+      "reverso": "10 días, con advertencia de que se le tendrá por desistido.",
+      "ref": "art. 19.2 LTAIBG"
+    },
+    {
+      "frente": "¿Qué plazo de alegaciones tienen los terceros afectados?",
+      "reverso": "15 días, con suspensión del plazo para resolver.",
+      "ref": "art. 19.3 LTAIBG"
+    },
+    {
+      "frente": "¿Desde cuándo se computa el mes para resolver?",
+      "reverso": "Desde la recepción de la solicitud por el órgano competente para resolver.",
+      "ref": "art. 20.1 LTAIBG"
+    },
+    {
+      "frente": "¿Qué efecto tiene el silencio en una solicitud de acceso?",
+      "reverso": "Desestimatorio.",
+      "ref": "art. 20.4 LTAIBG"
+    },
+    {
+      "frente": "¿Qué resoluciones de acceso deben motivarse?",
+      "reverso": "Las que deniegan, las que conceden acceso parcial o en otra modalidad y las que conceden pese a la oposición de un tercero.",
+      "ref": "art. 20.2 LTAIBG"
+    },
+    {
+      "frente": "¿Es gratuito el acceso?",
+      "reverso": "Sí, aunque la expedición de copias o el cambio de formato pueden generar exacciones.",
+      "ref": "art. 22.4 LTAIBG"
+    },
+    {
+      "frente": "¿Cabe recurso de alzada contra una resolución de acceso?",
+      "reverso": "No. La reclamación del art. 24 es sustitutiva de los recursos administrativos.",
+      "ref": "art. 23.1 LTAIBG"
+    },
+    {
+      "frente": "¿En qué plazo se interpone la reclamación ante el CTBG?",
+      "reverso": "Un mes desde el día siguiente a la notificación o a la producción de los efectos del silencio.",
+      "ref": "art. 24.2 LTAIBG"
+    },
+    {
+      "frente": "¿Cuánto tiene el CTBG para resolver la reclamación?",
+      "reverso": "Tres meses; si no resuelve, se entiende desestimada.",
+      "ref": "art. 24.4 LTAIBG"
+    },
+    {
+      "frente": "¿A quién comunica el Presidente del CTBG sus resoluciones de reclamaciones?",
+      "reverso": "Al Defensor del Pueblo.",
+      "ref": "art. 24.5 LTAIBG"
+    },
+    {
+      "frente": "¿Por cuánto tiempo se nombra al Presidente del CTBG?",
+      "reverso": "Por un período no renovable de cinco años.",
+      "ref": "art. 37.1 LTAIBG"
+    },
+    {
+      "frente": "¿Ante quién se reclama contra una denegación de la ULL?",
+      "reverso": "Ante el Comisionado de Transparencia y Acceso a la Información Pública de Canarias.",
+      "ref": "DA 4.ª LTAIBG y art. 51 Ley 12/2014"
+    },
+    {
+      "frente": "¿Cómo se elige al Comisionado de Transparencia de Canarias?",
+      "reverso": "Por mayoría de tres quintos del Parlamento de Canarias, por cinco años renovables una sola vez.",
+      "ref": "art. 59.1 Ley 12/2014"
+    },
+    {
+      "frente": "¿Qué norma rige el acceso de un interesado a un procedimiento en curso?",
+      "reverso": "La normativa reguladora del procedimiento administrativo, no la Ley 19/2013.",
+      "ref": "DA 1.ª LTAIBG"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el artículo 1 de la Ley 19/2013, NO forma parte de su objeto:",
+      "opciones": [
+        "Regular el procedimiento de reutilización de la información del sector público",
+        "Regular y garantizar el derecho de acceso a la información relativa a la actividad pública",
+        "Establecer las obligaciones de buen gobierno de los responsables públicos",
+        "Ampliar y reforzar la transparencia de la actividad pública"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 1 enumera tres objetos: transparencia, derecho de acceso y buen gobierno. La reutilización se regula en la Ley 37/2007.",
+      "ref": "art. 1 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El derecho de acceso a la información pública se reconoce en la Ley 19/2013 en los términos previstos en el artículo de la Constitución:",
+      "opciones": [
+        "20.1.d)",
+        "103.1",
+        "105.b)",
+        "23.2"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 12 LTAIBG remite al art. 105.b) CE, que regula el acceso a archivos y registros administrativos.",
+      "ref": "art. 12 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las Universidades públicas están incluidas en el ámbito subjetivo de la Ley 19/2013 en la letra:",
+      "opciones": [
+        "a) del artículo 2.1",
+        "c) del artículo 2.1",
+        "e) del artículo 2.1",
+        "d) del artículo 2.1"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 2.1.d) incluye las entidades de Derecho Público vinculadas o dependientes de las Administraciones, incluidas las Universidades públicas.",
+      "ref": "art. 2.1.d LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "A los efectos del título I de la Ley 19/2013, se entiende por Administraciones Públicas los organismos y entidades incluidos en las letras:",
+      "opciones": [
+        "a) a c) del artículo 2.1",
+        "a) a d) del artículo 2.1",
+        "a) a e) del artículo 2.1",
+        "a) a i) del artículo 2.1"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 2.2 lo limita a las letras a) a d); quedan fuera, entre otras, las corporaciones de Derecho público y las sociedades mercantiles.",
+      "ref": "art. 2.2 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las sociedades mercantiles quedan incluidas en el artículo 2.1 de la Ley 19/2013 cuando la participación directa o indirecta de las entidades del artículo en su capital social sea:",
+      "opciones": [
+        "Igual o superior al 50 por 100",
+        "Superior al 40 por 100",
+        "Mayoritaria en el órgano de administración",
+        "Superior al 50 por 100"
+      ],
+      "correcta": 3,
+      "explicacion": "La letra g) exige una participación superior al 50 por 100.",
+      "ref": "art. 2.1.g LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Congreso de los Diputados y el Tribunal Constitucional están sujetos al título I de la Ley 19/2013:",
+      "opciones": [
+        "Solo en relación con sus actividades sujetas a Derecho Administrativo",
+        "En todo caso y respecto de toda su actividad",
+        "Solo en materia de publicidad activa",
+        "No están incluidos en el ámbito de la ley"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 2.1.f) los incluye en relación con sus actividades sujetas a Derecho Administrativo.",
+      "ref": "art. 2.1.f LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Una entidad privada queda sujeta a las obligaciones de publicidad activa cuando perciba durante un año ayudas o subvenciones públicas en cuantía superior a:",
+      "opciones": [
+        "50.000 euros",
+        "100.000 euros",
+        "60.000 euros",
+        "150.000 euros"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 3.b) fija la cuantía en más de 100.000 euros, o el 40 % de sus ingresos anuales con un mínimo de 5.000 euros. Los 60.000 euros son la cifra de la Ley canaria.",
+      "ref": "art. 3.b LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 3 de la Ley 19/2013, una entidad privada cuyos ingresos anuales procedan en al menos un 40 % de ayudas públicas estará obligada a la publicidad activa siempre que alcance como mínimo:",
+      "opciones": [
+        "3.000 euros",
+        "10.000 euros",
+        "5.000 euros",
+        "50.000 euros"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 3.b) exige que alcancen como mínimo la cantidad de 5.000 euros.",
+      "ref": "art. 3.b LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los partidos políticos, organizaciones sindicales y organizaciones empresariales están sujetos, según la Ley 19/2013:",
+      "opciones": [
+        "A todas las obligaciones del título I",
+        "Únicamente al derecho de acceso",
+        "Únicamente a las disposiciones del capítulo II del título I (publicidad activa)",
+        "Al título II de buen gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 3 les aplica solo las disposiciones del capítulo II, de publicidad activa; no se les puede dirigir una solicitud de acceso.",
+      "ref": "art. 3 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los adjudicatarios de contratos del sector público, según el artículo 4 de la Ley 19/2013:",
+      "opciones": [
+        "Deben publicar en su web toda la información del contrato",
+        "No tienen ninguna obligación en materia de transparencia",
+        "Deben resolver las solicitudes de acceso relativas al contrato",
+        "Están obligados a suministrar a la Administración, previo requerimiento, la información necesaria en los términos del contrato"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 4 extiende a los adjudicatarios la obligación de suministrar información previo requerimiento, en los términos del contrato.",
+      "ref": "art. 4 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las entidades sin ánimo de lucro que persigan exclusivamente fines de interés social o cultural podrán cumplir sus obligaciones de publicidad utilizando los medios electrónicos de la Administración de la que provenga la mayor parte de sus ayudas cuando su presupuesto sea inferior a:",
+      "opciones": [
+        "50.000 euros",
+        "30.000 euros",
+        "100.000 euros",
+        "60.000 euros"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 5.4, segundo párrafo, fija el umbral en un presupuesto inferior a 50.000 euros.",
+      "ref": "art. 5.4 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cuando la información sujeta a publicidad activa contenga datos especialmente protegidos:",
+      "opciones": [
+        "No podrá publicarse en ningún caso",
+        "Solo se publicará previa disociación de los mismos",
+        "Se publicará con el consentimiento del Consejo de Transparencia",
+        "Se publicará solo en la sede electrónica, no en la web"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 5.3 exige la disociación previa de los datos especialmente protegidos.",
+      "ref": "art. 5.3 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 6 de la Ley 19/2013, el organigrama actualizado debe identificar a los responsables de los diferentes órganos y:",
+      "opciones": [
+        "Su perfil y trayectoria profesional",
+        "Su retribución mensual",
+        "Su declaración de bienes",
+        "Su domicilio profesional"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 6.1 exige identificar a los responsables y su perfil y trayectoria profesional.",
+      "ref": "art. 6.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La publicación de la información relativa a los contratos menores:",
+      "opciones": [
+        "Debe hacerse en el plazo de diez días desde su adjudicación",
+        "Podrá realizarse semestralmente",
+        "Podrá realizarse trimestralmente",
+        "No es obligatoria"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 8.1.a) permite publicar trimestralmente la información de los contratos menores.",
+      "ref": "art. 8.1.a LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La información estadística sobre el porcentaje de participación de microempresas y pymes en los contratos adjudicados se publicará:",
+      "opciones": [
+        "Mensualmente",
+        "Trimestralmente",
+        "Anualmente",
+        "Semestralmente"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 8.1.a) dispone su publicación semestral.",
+      "ref": "art. 8.1.a LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Señale cuál de las siguientes informaciones NO figura entre la información económica, presupuestaria y estadística del artículo 8.1 de la Ley 19/2013:",
+      "opciones": [
+        "Las retribuciones percibidas anualmente por los altos cargos",
+        "Las declaraciones de la renta de los empleados públicos",
+        "Las cuentas anuales y los informes de auditoría y fiscalización",
+        "Las resoluciones de compatibilidad que afecten a los empleados públicos"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 8.1 incluye retribuciones de altos cargos (f), compatibilidades (g) y cuentas anuales (e), pero no declaraciones de la renta de los empleados públicos.",
+      "ref": "art. 8.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La relación de los bienes inmuebles de su propiedad o sobre los que ostenten algún derecho real deben publicarla:",
+      "opciones": [
+        "Todos los sujetos del artículo 2.1",
+        "Solo la Administración General del Estado",
+        "Los sujetos del artículo 3",
+        "Las Administraciones Públicas"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 8.3 impone esta obligación a las Administraciones Públicas.",
+      "ref": "art. 8.3 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El incumplimiento reiterado de las obligaciones de publicidad activa tendrá, a efectos disciplinarios, la consideración de:",
+      "opciones": [
+        "Infracción grave",
+        "Infracción leve",
+        "Infracción muy grave",
+        "Falta de rendimiento sin calificación disciplinaria"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 9.3 lo califica de infracción grave.",
+      "ref": "art. 9.3 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El Portal de la Transparencia de la Administración General del Estado depende de:",
+      "opciones": [
+        "El Consejo de Transparencia y Buen Gobierno",
+        "El Ministerio de la Presidencia",
+        "El Ministerio de Hacienda",
+        "La Agencia Española de Protección de Datos"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el art. 10.1, el Portal depende del Ministerio de la Presidencia.",
+      "ref": "art. 10.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO es un principio técnico del Portal de la Transparencia según el artículo 11 de la Ley 19/2013:",
+      "opciones": [
+        "Accesibilidad",
+        "Interoperabilidad",
+        "Gratuidad",
+        "Reutilización"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 11 recoge accesibilidad, interoperabilidad y reutilización. La gratuidad aparece en el art. 5.5 como característica de la información, no como principio técnico del Portal.",
+      "ref": "art. 11 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley 19/2013, son titulares del derecho de acceso a la información pública:",
+      "opciones": [
+        "Los ciudadanos españoles mayores de edad",
+        "Los interesados en un procedimiento administrativo",
+        "Todas las personas",
+        "Las personas que acrediten un interés legítimo"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 12 reconoce el derecho a todas las personas, sin exigir nacionalidad ni interés.",
+      "ref": "art. 12 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 13 de la Ley 19/2013, se entiende por información pública:",
+      "opciones": [
+        "Los documentos elaborados por la Administración y publicados en diario oficial",
+        "Toda información de interés general, esté o no en poder de la Administración",
+        "Solo los documentos en soporte papel incorporados a un expediente terminado",
+        "Los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos obligados y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones"
+      ],
+      "correcta": 3,
+      "explicacion": "Es la definición literal del art. 13.",
+      "ref": "art. 13 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El acceso de quienes tengan la condición de interesados en un procedimiento administrativo en curso a los documentos que se integren en el mismo se rige por:",
+      "opciones": [
+        "La normativa reguladora del correspondiente procedimiento administrativo",
+        "La Ley 19/2013 con carácter preferente",
+        "La Ley Orgánica 3/2018",
+        "El Reglamento de la ULL de transparencia"
+      ],
+      "correcta": 0,
+      "explicacion": "La disposición adicional primera remite a la normativa del procedimiento administrativo.",
+      "ref": "DA 1.ª.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO figura entre los límites al derecho de acceso del artículo 14 de la Ley 19/2013:",
+      "opciones": [
+        "La protección del medio ambiente",
+        "La eficacia de la actuación administrativa",
+        "La política económica y monetaria",
+        "Las funciones administrativas de vigilancia, inspección y control"
+      ],
+      "correcta": 1,
+      "explicacion": "La eficacia administrativa no es un límite del art. 14; el resto son las letras l), g) e i).",
+      "ref": "art. 14.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuántos límites al derecho de acceso enumera el artículo 14.1 de la Ley 19/2013?",
+      "opciones": [
+        "Doce",
+        "Once",
+        "Diez",
+        "Catorce"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 14.1 enumera doce límites, de la letra a) a la l).",
+      "ref": "art. 14.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La aplicación de los límites al derecho de acceso será, según el artículo 14.2:",
+      "opciones": [
+        "Automática cuando concurra alguno de ellos",
+        "Discrecional del órgano competente, sin necesidad de motivación",
+        "Justificada y proporcionada a su objeto y finalidad de protección, atendiendo especialmente a la concurrencia de un interés público o privado superior",
+        "Previo informe preceptivo y vinculante del Consejo de Transparencia"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 14.2 exige que la aplicación sea justificada y proporcionada y atienda al interés superior que justifique el acceso.",
+      "ref": "art. 14.2 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si la información solicitada contiene datos que revelen la afiliación sindical de una persona, el acceso solo podrá autorizarse:",
+      "opciones": [
+        "Con consentimiento expreso del afectado o si lo ampara una norma con rango de ley",
+        "Nunca",
+        "Previa ponderación razonada del interés público",
+        "Con consentimiento expreso y por escrito del afectado, salvo que este hubiese hecho manifiestamente públicos los datos antes de la solicitud"
+      ],
+      "correcta": 3,
+      "explicacion": "Para ideología, afiliación sindical, religión o creencias, el art. 15.1 exige consentimiento expreso y por escrito, salvo publicidad manifiesta previa por el afectado.",
+      "ref": "art. 15.1 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si la información solicitada incluye datos relativos a la salud, el acceso solo podrá autorizarse:",
+      "opciones": [
+        "Con consentimiento expreso y por escrito, sin excepción",
+        "Con el consentimiento expreso del afectado o si estuviera amparado por una norma con rango de ley",
+        "Tras ponderación razonada del interés público",
+        "Si el solicitante acredita ser investigador"
+      ],
+      "correcta": 1,
+      "explicacion": "Para origen racial, salud, vida sexual, datos genéticos o biométricos e infracciones, el art. 15.1, segundo párrafo, admite consentimiento expreso o norma con rango de ley.",
+      "ref": "art. 15.1 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Con carácter general, se concederá el acceso a información que contenga datos:",
+      "opciones": [
+        "De salud de los empleados públicos",
+        "De ideología de los altos cargos",
+        "Relativos a sanciones disciplinarias",
+        "Meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 15.2 establece la regla general favorable al acceso para datos meramente identificativos de la actividad pública del órgano.",
+      "ref": "art. 15.2 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "NO es uno de los criterios que el artículo 15.3 obliga a tener en cuenta en la ponderación entre interés público y protección de datos:",
+      "opciones": [
+        "La nacionalidad del solicitante",
+        "La mayor garantía cuando los datos se refieran a menores de edad",
+        "El menor perjuicio derivado del transcurso de los plazos del art. 57 de la Ley del Patrimonio Histórico Español",
+        "La condición de investigador del solicitante que motive el acceso en fines históricos, científicos o estadísticos"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 15.3 recoge los tres primeros criterios (letras b, d y a). La nacionalidad es irrelevante: el derecho corresponde a todas las personas.",
+      "ref": "art. 15.3 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El acceso parcial a la información, cuando un límite no afecte a su totalidad:",
+      "opciones": [
+        "No está previsto en la ley",
+        "Se concederá previa omisión de la información afectada, salvo que resulte una información distorsionada o sin sentido, indicando al solicitante que se ha omitido parte",
+        "Solo procede con consentimiento del tercero afectado",
+        "Requiere autorización del Consejo de Transparencia"
+      ],
+      "correcta": 1,
+      "explicacion": "Es el contenido del art. 16.",
+      "ref": "art. 16 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Señale la afirmación INCORRECTA sobre la solicitud de acceso:",
+      "opciones": [
+        "Puede presentarse por cualquier medio que permita tener constancia de la identidad del solicitante",
+        "Debe indicar una dirección de contacto, preferentemente electrónica",
+        "El solicitante está obligado a motivar su solicitud",
+        "Puede dirigirse en cualquiera de las lenguas cooficiales en el territorio de la Administración"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 17.3 dispone que el solicitante no está obligado a motivar su solicitud.",
+      "ref": "art. 17 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando la información esté en poder de una empresa concesionaria de un servicio público, la solicitud de acceso se dirigirá:",
+      "opciones": [
+        "A la propia empresa concesionaria",
+        "Al Consejo de Transparencia y Buen Gobierno",
+        "A la Administración, organismo o entidad del artículo 2.1 a la que se encuentre vinculada",
+        "Al Defensor del Pueblo"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 17.1 establece que se dirigirá a la Administración a la que esté vinculada.",
+      "ref": "art. 17.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO es causa de inadmisión de las solicitudes de acceso según el artículo 18 de la Ley 19/2013:",
+      "opciones": [
+        "Que la información esté en curso de elaboración o de publicación general",
+        "Que para su divulgación sea necesaria una acción previa de reelaboración",
+        "Que sean manifiestamente repetitivas o tengan carácter abusivo",
+        "Que el solicitante no haya motivado la solicitud"
+      ],
+      "correcta": 3,
+      "explicacion": "La falta de motivación no es causa de rechazo (art. 17.3). Las demás son las letras a), c) y e) del art. 18.1.",
+      "ref": "art. 18.1 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando se inadmita una solicitud por estar dirigida a un órgano en cuyo poder no obra la información y se desconozca el competente, el órgano que acuerde la inadmisión deberá:",
+      "opciones": [
+        "Indicar en la resolución el órgano que, a su juicio, es competente",
+        "Archivar sin más la solicitud",
+        "Remitirla al Consejo de Transparencia",
+        "Conceder al solicitante diez días para subsanar"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo impone el art. 18.2.",
+      "ref": "art. 18.2 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las notas, borradores, opiniones, resúmenes e informes internos son, según la Ley 19/2013:",
+      "opciones": [
+        "Información sujeta a publicidad activa",
+        "Información de carácter auxiliar o de apoyo cuya solicitud se inadmite",
+        "Información excluida por el límite de la seguridad pública",
+        "Información que debe entregarse previa disociación"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 18.1.b) los califica de información auxiliar o de apoyo, causa de inadmisión.",
+      "ref": "art. 18.1.b LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando la solicitud no identifique de forma suficiente la información, se pedirá al solicitante que la concrete en un plazo de:",
+      "opciones": [
+        "Diez días",
+        "Cinco días",
+        "Quince días",
+        "Un mes"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 19.2 fija diez días, con advertencia de desistimiento y suspensión del plazo para resolver.",
+      "ref": "art. 19.2 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si la información solicitada pudiera afectar a derechos o intereses de terceros debidamente identificados, se les concederá un plazo para alegaciones de:",
+      "opciones": [
+        "Diez días",
+        "Veinte días",
+        "Quince días",
+        "Un mes"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 19.3 concede quince días y suspende el plazo para resolver.",
+      "ref": "art. 19.3 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La resolución que conceda o deniegue el acceso deberá notificarse en el plazo máximo de:",
+      "opciones": [
+        "Un mes desde la presentación de la solicitud en cualquier registro",
+        "Veinte días hábiles desde la presentación",
+        "Tres meses desde la recepción de la solicitud",
+        "Un mes desde la recepción de la solicitud por el órgano competente para resolver"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 20.1 fija un mes desde la recepción por el órgano competente para resolver.",
+      "ref": "art. 20.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El plazo para resolver una solicitud de acceso podrá ampliarse:",
+      "opciones": [
+        "Por quince días, en todo caso",
+        "Por otro mes, cuando el volumen o la complejidad de la información lo hagan necesario y previa notificación al solicitante",
+        "Por tres meses, con autorización del Consejo de Transparencia",
+        "No admite ampliación"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 20.1, segundo párrafo, permite ampliarlo por otro mes por volumen o complejidad, previa notificación.",
+      "ref": "art. 20.1 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Transcurrido el plazo máximo para resolver una solicitud de acceso sin resolución expresa notificada:",
+      "opciones": [
+        "Se entenderá estimada",
+        "El solicitante deberá denunciar la mora",
+        "Se producirá la caducidad del procedimiento",
+        "Se entenderá desestimada"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 20.4 establece el silencio desestimatorio.",
+      "ref": "art. 20.4 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "NO es necesario motivar, según el artículo 20.2 de la Ley 19/2013, la resolución que:",
+      "opciones": [
+        "Concede el acceso en la misma modalidad solicitada y sin oposición de terceros",
+        "Concede el acceso parcial",
+        "Deniega el acceso",
+        "Concede el acceso habiendo existido oposición de un tercero"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 20.2 exige motivar las denegaciones, los accesos parciales o en modalidad distinta y los concedidos con oposición de tercero; la estimación plena sin oposición no se menciona.",
+      "ref": "art. 20.2 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cuando no pueda darse el acceso en el momento de la notificación de la resolución, deberá otorgarse en un plazo no superior a:",
+      "opciones": [
+        "Cinco días",
+        "Diez días",
+        "Quince días",
+        "Un mes"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 22.1 fija un plazo no superior a diez días.",
+      "ref": "art. 22.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si ha existido oposición de un tercero y se concede el acceso, este tendrá lugar:",
+      "opciones": [
+        "Inmediatamente tras la notificación",
+        "A los diez días de la notificación",
+        "Cuando haya transcurrido el plazo para interponer recurso contencioso-administrativo sin haberse formalizado o se haya resuelto confirmando el derecho",
+        "Cuando lo autorice el Consejo de Transparencia"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo dispone el art. 22.2.",
+      "ref": "art. 22.2 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Respecto al coste del acceso a la información, la Ley 19/2013 establece que:",
+      "opciones": [
+        "Es siempre gratuito, incluidas las copias",
+        "Está sujeto a tasa en todo caso",
+        "Es gratuito, pero la expedición de copias o la trasposición a otro formato puede dar lugar a exacciones",
+        "Es gratuito solo para las personas físicas"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 22.4 declara la gratuidad del acceso, con posibles exacciones por copias o cambio de formato.",
+      "ref": "art. 22.4 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La reclamación ante el Consejo de Transparencia y Buen Gobierno tiene la consideración de:",
+      "opciones": [
+        "Recurso de alzada impropio",
+        "Requisito obligatorio previo al contencioso",
+        "Recurso extraordinario de revisión",
+        "Sustitutiva de los recursos administrativos"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 23.1 la configura como sustitutiva de los recursos administrativos; además es potestativa (art. 24.1).",
+      "ref": "art. 23.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Contra las resoluciones en materia de acceso dictadas por el Consejo General del Poder Judicial:",
+      "opciones": [
+        "Solo cabe recurso contencioso-administrativo",
+        "Cabe reclamación ante el Consejo de Transparencia",
+        "Cabe recurso de alzada ante el Pleno",
+        "Cabe reclamación ante el Defensor del Pueblo"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 23.2 dispone que contra las resoluciones de los órganos del art. 2.1.f) solo cabe recurso contencioso-administrativo.",
+      "ref": "art. 23.2 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La reclamación ante el Consejo de Transparencia y Buen Gobierno se interpondrá en el plazo de:",
+      "opciones": [
+        "Quince días",
+        "Un mes",
+        "Dos meses",
+        "Tres meses"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 24.2 fija un mes desde el día siguiente a la notificación o a la producción de los efectos del silencio.",
+      "ref": "art. 24.2 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El plazo máximo para resolver y notificar la reclamación ante el Consejo de Transparencia y Buen Gobierno y el efecto de su transcurso son:",
+      "opciones": [
+        "Tres meses; desestimación",
+        "Un mes; estimación",
+        "Tres meses; estimación",
+        "Seis meses; caducidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el art. 24.4, tres meses, transcurridos los cuales se entiende desestimada.",
+      "ref": "art. 24.4 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Presidente del Consejo de Transparencia y Buen Gobierno comunicará las resoluciones que dicte en materia de reclamaciones a:",
+      "opciones": [
+        "Las Cortes Generales",
+        "La Agencia Española de Protección de Datos",
+        "El Defensor del Pueblo",
+        "El Tribunal de Cuentas"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo establece el art. 24.5, segundo párrafo.",
+      "ref": "art. 24.5 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El Presidente del Consejo de Transparencia y Buen Gobierno es nombrado:",
+      "opciones": [
+        "Por el Congreso por mayoría de tres quintos, por cinco años renovables",
+        "Por el Rey a propuesta del Senado por seis años",
+        "Por el Consejo de Ministros por cuatro años renovables",
+        "Por Real Decreto, por un período no renovable de cinco años, con refrendo del Congreso por mayoría absoluta"
+      ],
+      "correcta": 3,
+      "explicacion": "Así lo dispone el art. 37.1.",
+      "ref": "art. 37.1 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "NO forma parte de la Comisión de Transparencia y Buen Gobierno:",
+      "opciones": [
+        "Un representante de la Agencia Española de Protección de Datos",
+        "Un representante del Consejo de Estado",
+        "Un representante del Tribunal de Cuentas",
+        "Un representante de la Autoridad Independiente de Responsabilidad Fiscal"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 36.2 no incluye al Consejo de Estado; sí a la AEPD, el Tribunal de Cuentas y la AIReF, además del Presidente, un Diputado, un Senador, el Defensor del Pueblo y la Secretaría de Estado de Administraciones Públicas.",
+      "ref": "art. 36.2 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la disposición final novena de la Ley 19/2013, el título II (buen gobierno) entró en vigor:",
+      "opciones": [
+        "A los dos años de su publicación",
+        "A los veinte días de su publicación",
+        "Al año de su publicación",
+        "Al día siguiente de su publicación en el BOE"
+      ],
+      "correcta": 3,
+      "explicacion": "El título II entró en vigor al día siguiente; los títulos preliminar, I y III, al año.",
+      "ref": "DF 9.ª LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Contra la desestimación presunta de una solicitud de acceso presentada ante la Universidad de La Laguna, la persona interesada puede interponer reclamación potestativa ante:",
+      "opciones": [
+        "El Comisionado de Transparencia y Acceso a la Información Pública de Canarias",
+        "El Consejo de Transparencia y Buen Gobierno",
+        "El Diputado del Común",
+        "El Rector de la ULL en alzada"
+      ],
+      "correcta": 0,
+      "explicacion": "Canarias ha atribuido la resolución de la reclamación a su propio órgano independiente, el Comisionado de Transparencia (DA 4.ª LTAIBG y arts. 51 y ss. Ley 12/2014).",
+      "ref": "DA 4.ª LTAIBG; art. 51 Ley 12/2014",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley canaria 12/2014, el Comisionado de Transparencia y Acceso a la Información Pública es elegido:",
+      "opciones": [
+        "Por el Gobierno de Canarias por cuatro años",
+        "Por mayoría de tres quintas partes del Parlamento de Canarias por cinco años, renovable una sola vez",
+        "Por mayoría absoluta del Parlamento de Canarias por seis años",
+        "Por el Consejo de Transparencia y Buen Gobierno a propuesta del Parlamento"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo establece el art. 59.1 de la Ley 12/2014 en la redacción dada por la Ley 7/2019.",
+      "ref": "art. 59.1 Ley 12/2014",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En la Ley canaria 12/2014, las resoluciones de inadmisión por las causas de las letras a) a d) del artículo 43.1 deben notificarse, como máximo, en:",
+      "opciones": [
+        "Cinco días hábiles",
+        "Quince días hábiles",
+        "Diez días hábiles",
+        "Un mes"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 46.2 de la Ley 12/2014 fija un máximo de diez días hábiles desde la recepción por el órgano competente.",
+      "ref": "art. 46.2 Ley 12/2014",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El artículo 6 bis de la Ley 19/2013 obliga a los sujetos del artículo 77.1 de la LOPDGDD a publicar:",
+      "opciones": [
+        "Sus evaluaciones de impacto",
+        "Las brechas de seguridad sufridas",
+        "Su inventario de actividades de tratamiento",
+        "Los datos de contacto de todos sus empleados"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 6 bis impone la publicación del inventario de actividades de tratamiento en aplicación del art. 31 LOPDGDD.",
+      "ref": "art. 6 bis LTAIBG",
+      "dificultad": 2
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Introducción a la Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno",
+      "url": "https://www.youtube.com/watch?v=Gwvxsk1d8Ho",
+      "canal": "LANDL Formación"
+    },
+    {
+      "titulo": "Ley 19/2013 - TRANSPARENCIA (PUBLICIDAD ACTIVA)",
+      "url": "https://www.youtube.com/watch?v=6W8_vqQfQ8I",
+      "canal": "Paco Barbié"
+    },
+    {
+      "titulo": "Ley 19/2013 - INFORMACIÓN PÚBLICA",
+      "url": "https://www.youtube.com/watch?v=C5or_jzA0Pk",
+      "canal": "Paco Barbié"
+    },
+    {
+      "titulo": "Ley 19/2013 - CONSEJO DE TRANSPARENCIA Y BUEN GOBIERNO",
+      "url": "https://www.youtube.com/watch?v=gjnLzWbzkQ8",
+      "canal": "Paco Barbié"
+    },
+    {
+      "titulo": "LEY DE TRANSPARENCIA Y BUEN GOBIERNO - LEY 19/2013",
+      "url": "https://www.youtube.com/watch?v=bMVaonCfVPc",
+      "canal": "Repasando Sin Papeles"
+    },
+    {
+      "titulo": "TEST LEY 19/2013 - Transparencia, acceso a la información pública y buen gobierno",
+      "url": "https://www.youtube.com/watch?v=-3byJlWZNv0",
+      "canal": "Jon Fernández Abogados"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "Ley 19/2013, de transparencia (BOE, texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887"
+    },
+    {
+      "titulo": "Ley 12/2014, de transparencia y de acceso a la información pública de Canarias (BOE, texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-1114"
+    },
+    {
+      "titulo": "Comisionado de Transparencia de Canarias",
+      "url": "https://transparenciacanarias.org/"
+    },
+    {
+      "titulo": "Portal de Transparencia de la Universidad de La Laguna",
+      "url": "https://www.ull.es/transparencia/"
+    },
+    {
+      "titulo": "Normativa de transparencia y derecho de acceso de la ULL",
+      "url": "https://www.ull.es/portal/normativa/transparencia-y-derecho-de-acceso/"
+    },
+    {
+      "titulo": "Sede electrónica ULL: Derecho de Acceso a la Información",
+      "url": "https://sede.ull.es/ecivilis-site/catalog/showProcedure/420"
+    }
+  ]
+}

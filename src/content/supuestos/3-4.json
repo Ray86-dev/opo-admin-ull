@@ -1,0 +1,203 @@
+{
+  "bloque": 3,
+  "titulo": "Nómina de una funcionaria C1 y retribuciones del PTGAS laboral",
+  "temas": ["3-03", "3-01"],
+  "enunciado": "Trabajas en la **Sección de Retribuciones del Servicio de Recursos Humanos** de la Universidad de La Laguna. Debes revisar varios expedientes del año 2026.\n\n**1. Carmen Morales Díaz, funcionaria de la Escala Administrativa (subgrupo C1).**\n\n- Tomó posesión como funcionaria de carrera de la Escala Auxiliar (subgrupo C2) el lunes 3 de marzo de 2008.\n- Por promoción interna pasó a la Escala Administrativa (C1) el jueves 1 de septiembre de 2016, y desde entonces presta servicios de forma ininterrumpida en la ULL.\n- Ocupa un puesto de nivel 20 con complemento específico.\n\nA efectos del supuesto (cuantías ficticias), considera estos importes mensuales:\n\n| Concepto | Nómina ordinaria | Paga extraordinaria |\n|---|---|---|\n| Sueldo C1 | 1.000,00 € | 700,00 € |\n| Trienio C1 (cada uno) | 37,00 € | 26,00 € |\n| Trienio C2 (cada uno) | 30,00 € | 22,00 € |\n| Complemento de destino nivel 20 | 520,00 € | 520,00 € |\n| Complemento específico | 600,00 € | 600,00 € |\n\nEn junio de 2026 se le abonan además **150 €** de complemento de productividad por su participación en un plan especial de digitalización de expedientes.\n\nEl jueves 4 de junio de 2026 Carmen solicita un **anticipo reintegrable de 3.000 €** a devolver en el plazo máximo. Su compañero **Luis Tejera**, con un salario bruto mensual de 1.400 €, quiere el mismo importe pero devolviéndolo en solo 6 meses.\n\n**2. Pedro Ramos Hernández, técnico especialista de laboratorio (PTGAS laboral).**\n\nSe rige por el II Convenio Colectivo del PAS laboral de las Universidades Públicas Canarias.\n\n- El sábado 11 de julio de 2026 hizo **8 horas extraordinarias** urgentes por una avería en las cámaras frigoríficas del animalario, con autorización previa y expresa de la Gerencia. Prefiere compensarlas con descanso.\n- En diciembre trabajará varias noches entre las 22:00 y las 6:00.\n- Cumple un nuevo trienio el sábado 17 de octubre de 2026.\n\n**3. Otros asuntos.** Una trabajadora inicia una situación de **incapacidad temporal**. Además, se incorpora una **funcionaria interina** a la Escala Administrativa.\n\nFuentes: TREBEP; Ley 30/1984 (arts. 23 y 24, vigentes en tanto no se opongan al TREBEP); II Convenio Colectivo del PAS laboral; Bases de Ejecución del Presupuesto de la ULL 2026 (BEP-ULL).",
+  "preguntas": [
+    {
+      "enunciado": "Carmen quiere saber cuáles de sus conceptos retributivos son retribuciones básicas. Según el TREBEP:",
+      "opciones": [
+        "El sueldo, los trienios y el complemento de destino.",
+        "El sueldo y el complemento específico.",
+        "Solo el sueldo.",
+        "El sueldo y los trienios, además de los componentes de sueldo y trienios de las pagas extraordinarias."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 23 TREBEP dispone que las retribuciones básicas, fijadas en la Ley de Presupuestos Generales del Estado, están integradas «única y exclusivamente» por el sueldo del subgrupo y los trienios. El art. 22.2 añade que dentro de ellas están comprendidos los componentes de sueldo y trienios de las pagas extraordinarias. El complemento de destino, el específico y la productividad son retribuciones complementarias (art. 24 TREBEP; art. 23.3 Ley 30/1984).",
+      "ref": "arts. 22.2 y 23 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuántos trienios, y de qué subgrupos, tiene reconocidos Carmen en junio de 2026?",
+      "opciones": [
+        "Seis trienios, todos del subgrupo C1, porque se abonan por el grupo actual.",
+        "Seis trienios: dos del subgrupo C2 y cuatro del subgrupo C1.",
+        "Cinco trienios: dos del subgrupo C2 y tres del subgrupo C1.",
+        "Seis trienios: tres del subgrupo C2 y tres del subgrupo C1."
+      ],
+      "correcta": 1,
+      "explicacion": "Según el art. 23.2.b) Ley 30/1984, quien presta servicios sucesivamente en cuerpos o escalas de distinto grupo conserva los trienios devengados en los grupos anteriores. Si cambia de grupo antes de completar un trienio, la fracción de tiempo transcurrido cuenta como servicios en el nuevo grupo. Cómputo: en C2 (desde 3/3/2008) completa trienios el 3/3/2011 y el 3/3/2014, es decir, 2 trienios C2. Los 2 años y casi 6 meses que van del 3/3/2014 al 1/9/2016 cuentan en C1, así que el primer trienio C1 se completa el 3/3/2017. Siguen el 3/3/2020, el 3/3/2023 y el 3/3/2026: 4 trienios C1. Total: 6 trienios (2 C2 + 4 C1).",
+      "ref": "art. 23.2.b) Ley 30/1984; art. 23.b) TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Con los importes del supuesto, ¿cuál es la retribución íntegra de Carmen en una nómina ordinaria de mayo de 2026 (sin paga extra ni productividad)?",
+      "opciones": [
+        "2.328,00 €.",
+        "2.342,00 €.",
+        "2.120,00 €.",
+        "1.208,00 €."
+      ],
+      "correcta": 0,
+      "explicacion": "Cálculo: sueldo C1, 1.000,00 €; trienios C1, 4 × 37,00 = 148,00 €; trienios C2, 2 × 30,00 = 60,00 €; complemento de destino, 520,00 €; complemento específico, 600,00 €. Total: 1.000 + 148 + 60 + 520 + 600 = 2.328,00 €. La opción de 2.342,00 € paga los 6 trienios al valor de C1 (6 × 37 = 222 €) y olvida que los trienios de C2 conservan su cuantía. La de 1.208,00 € solo suma las retribuciones básicas.",
+      "ref": "art. 23 Ley 30/1984; arts. 23 y 24 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿En qué meses se devengan las pagas extraordinarias de Carmen y cuál es el importe de la paga de junio con los datos del supuesto?",
+      "opciones": [
+        "En junio, septiembre y diciembre; 1.968,00 €.",
+        "En julio y diciembre; 2.328,00 €.",
+        "En junio y diciembre; 1.968,00 €.",
+        "En junio y diciembre; 848,00 €."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 23.2.c) Ley 30/1984 establece dos pagas extraordinarias al año, que se devengan en junio y diciembre (lo mismo dice el art. 22.4 TREBEP: «serán dos al año»). Con las cuantías de paga extraordinaria del supuesto: sueldo, 700,00 €; trienios C1, 4 × 26,00 = 104,00 €; trienios C2, 2 × 22,00 = 44,00 €; complemento de destino, 520,00 €; complemento específico, 600,00 €. Total: 1.968,00 €. Las tres pagas (junio, septiembre y diciembre) son las del PTGAS laboral según el convenio, no las de los funcionarios. La cifra de 848,00 € solo suma las básicas.",
+      "ref": "art. 23.2.c) Ley 30/1984; art. 22.4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley 30/1984, ¿qué retribuye el complemento específico del puesto de Carmen?",
+      "opciones": [
+        "El nivel del puesto de trabajo que desempeña.",
+        "Las condiciones particulares del puesto por su especial dificultad técnica, dedicación, responsabilidad, incompatibilidad, peligrosidad o penosidad; a cada puesto no puede asignársele más de uno.",
+        "El especial rendimiento y el interés o iniciativa con que trabaja.",
+        "Los servicios extraordinarios prestados fuera de la jornada normal."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 23.3.b) Ley 30/1984 define el complemento específico como el destinado a retribuir las condiciones particulares de algunos puestos por su especial dificultad técnica, dedicación, responsabilidad, incompatibilidad, peligrosidad o penosidad, y añade que «en ningún caso podrá asignarse más de un complemento específico a cada puesto de trabajo». El nivel del puesto corresponde al complemento de destino (letra a); el rendimiento, a la productividad (letra c); y los servicios fuera de jornada, a las gratificaciones (letra d).",
+      "ref": "art. 23.3.b) Ley 30/1984; art. 24.b) TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sobre los 150 € de productividad de junio, señala la afirmación correcta:",
+      "opciones": [
+        "Se incorporan de forma consolidada a las pagas extraordinarias siguientes.",
+        "Son una retribución básica que fija la Ley de Presupuestos Generales del Estado igual para todos los funcionarios del subgrupo.",
+        "Son una indemnización por razón del servicio exenta de tributación.",
+        "Retribuyen el especial rendimiento, la actividad extraordinaria y el interés o iniciativa; las cantidades que perciba cada funcionario por este concepto son de conocimiento público para los demás funcionarios y los representantes sindicales."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 23.3.c) Ley 30/1984 define la productividad como el complemento destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés o iniciativa en el trabajo. Su cuantía global está limitada por la Ley de Presupuestos, y las cantidades individuales son de conocimiento público para los demás funcionarios del órgano y para los representantes sindicales. En la ULL, el subconcepto 150.00 «Productividad» es vinculante en sí mismo (art. 6 BEP-ULL).",
+      "ref": "art. 23.3.c) Ley 30/1984; art. 24.c) TREBEP; art. 6 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si en otoño se pagara a Carmen una gratificación por servicios extraordinarios fuera de su jornada, ¿cuál de estas afirmaciones sería correcta?",
+      "opciones": [
+        "No puede ser fija en su cuantía ni periódica en su devengo, y su crédito (subconcepto 151.00) es vinculante en sí mismo.",
+        "Puede abonarse todos los meses por la misma cuantía, si así lo acuerda la Gerencia.",
+        "Se integra en el complemento específico del puesto.",
+        "Su crédito vincula a nivel de centro de gasto, programa y capítulo, como el resto del capítulo I."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 23.3.d) Ley 30/1984 dispone que las gratificaciones por servicios extraordinarios fuera de la jornada normal «en ningún caso podrán ser fijas en su cuantía y periódicas en su devengo» (en el mismo sentido, art. 24.d TREBEP). El art. 6 BEP-ULL establece que los créditos del capítulo I vinculan a nivel de centro de gasto, programa y capítulo, salvo los subconceptos 150.00 «Productividad» y 151.00 «Gratificaciones», que son vinculantes en sí mismos.",
+      "ref": "art. 23.3.d) Ley 30/1984; art. 6 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre el anticipo reintegrable de 3.000 € que Carmen pidió el jueves 4 de junio de 2026 a devolver en el plazo máximo, señala la respuesta correcta:",
+      "opciones": [
+        "Devengará un interés del 3 % anual y se abonará en la nómina de julio.",
+        "Se devolverá en 12 meses y se incluirá en la nómina de julio, porque las solicitudes se abonan el mes siguiente.",
+        "Se incluirá en la nómina de junio, porque las solicitudes recibidas hasta el día 5 se incluyen en la nómina de ese mes, y se amortizará sin interés en 24 mensualidades de 125 €.",
+        "No puede concederse, porque el máximo es de 1.500 €."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 26 BEP-ULL permite pedir un anticipo sin interés de hasta 3.000 €, amortizable en un plazo máximo de veinticuatro meses. Ese plazo máximo se aplica por defecto si no se pide otro inferior (apartado 1). Las solicitudes recibidas hasta el día 5 de cada mes se incluyen en la nómina de ese mes (apartado 4); como la presentó el día 4, cobra en junio. Cuota: 3.000 / 24 = 125 €, muy por debajo del 25 % de su salario bruto mensual (0,25 × 2.328 = 582 €), que es el tope del apartado 2.",
+      "ref": "art. 26 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Luis Tejera (salario bruto mensual de 1.400 €) quiere 3.000 € de anticipo a devolver en 6 meses. Si mantiene ese plazo, ¿qué importe máximo puede obtener?",
+      "opciones": [
+        "3.000 €, porque el límite es solo el importe máximo.",
+        "2.100 €.",
+        "1.400 €, una mensualidad.",
+        "750 €."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 26.2 BEP-ULL establece que ningún plazo de amortización puede superar el 25 % del salario bruto mensual. Si por ese límite no se pueden pedir los 3.000 €, el máximo se fija según esa cantidad y el plazo aplicable. Cuota máxima: 1.400 × 0,25 = 350 € al mes. En 6 meses: 350 × 6 = 2.100 €. Para obtener los 3.000 € tendría que ampliar el plazo: en 24 meses la cuota sería de 125 €, dentro del límite.",
+      "ref": "art. 26.2 BEP-ULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Durante la incapacidad temporal de una trabajadora de la ULL, ¿qué prevé el capítulo I del presupuesto según las BEP-ULL?",
+      "opciones": [
+        "Un complemento que, sumado a la prestación de la Seguridad Social o al subsidio, permite alcanzar el 100 % de las retribuciones fijas del mes de inicio de la incapacidad temporal.",
+        "El 75 % de la base reguladora desde el primer día, sin complemento.",
+        "Un complemento solo a partir del día 21 de baja.",
+        "La suspensión de la nómina hasta el alta médica."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 27 BEP-ULL dispone que la previsión del capítulo I cubre un complemento retributivo que, sumado a la prestación del Régimen General de la Seguridad Social o al subsidio, permite alcanzar el cien por cien de las retribuciones fijas del mes de inicio de la incapacidad temporal.",
+      "ref": "art. 27 BEP-ULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuántas pagas extraordinarias le corresponden a Pedro Ramos como PTGAS laboral y cuándo se abonan?",
+      "opciones": [
+        "Dos, en junio y diciembre, como al personal funcionario.",
+        "Catorce mensualidades, en las que se prorratean las extras.",
+        "Dos, en julio y diciembre.",
+        "Tres, que se pagan al finalizar los meses de junio, septiembre y diciembre, cada una por la cuantía del Anexo I del convenio más la antigüedad que corresponda."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 48.1 del II Convenio Colectivo del PAS laboral reconoce tres pagas extraordinarias, cada una por la cuantía del Anexo I más el complemento de antigüedad, que se pagan al finalizar junio, septiembre y diciembre. Si la prestación no cubre todo el año, se abonan en proporción al tiempo trabajado en los doce meses anteriores, y la fracción de mes cuenta como mes completo (art. 48.2).",
+      "ref": "art. 48 II Convenio PAS laboral",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Pedro prefiere compensar con descanso las 8 horas extraordinarias del 11 de julio. ¿Cuántas horas de jornada ordinaria le corresponden?",
+      "opciones": [
+        "8 horas.",
+        "12 horas.",
+        "14 horas, porque cada hora extraordinaria equivale a 1,75 horas de jornada ordinaria.",
+        "16 horas, porque cada hora extraordinaria equivale a 2 horas."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 38.2 del convenio dispone que, si las horas extraordinarias se compensan con tiempo libre, cada hora extra equivale a 1,75 horas de jornada ordinaria. Cálculo: 8 × 1,75 = 14 horas. Solo pueden hacerse horas extraordinarias urgentes, y deben contar con autorización previa y expresa de la Gerencia (art. 38.1 y 38.4), requisito que aquí se cumple.",
+      "ref": "art. 38 II Convenio PAS laboral",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Pedro cumple un nuevo trienio el sábado 17 de octubre de 2026. ¿Desde cuándo empieza a devengarlo?",
+      "opciones": [
+        "Desde el 1 de octubre de 2026, porque los trienios se devengan desde el día primero del mes en que se cumplen.",
+        "Desde el 17 de octubre de 2026, día exacto del cumplimiento.",
+        "Desde el 1 de noviembre de 2026, mes siguiente al cumplimiento.",
+        "Desde el 1 de enero de 2027."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 45.3 del convenio dispone que los trienios empiezan a devengarse desde el día primero del mes en que se cumple cada trienio, y se perciben en todas las mensualidades y en las pagas extraordinarias. El complemento de antigüedad es una cuantía fija mensual y consolidable, igual para todos los grupos profesionales, por cada tres años de servicios efectivos, continuos o discontinuos (art. 45.1). Se reconocen también los servicios previos en la Administración pública y el período de prueba (art. 45.2).",
+      "ref": "art. 45 II Convenio PAS laboral",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cómo se retribuyen las horas que Pedro trabaje de forma circunstancial entre las 22:00 y las 6:00?",
+      "opciones": [
+        "Con un incremento del 50 % sobre el salario base por hora.",
+        "Con un incremento del 25 % sobre el valor de la hora extraordinaria de trabajo.",
+        "Con una cuantía fija mensual, idéntica para todos los grupos profesionales.",
+        "No se retribuyen específicamente; se compensan con descanso a razón de 1,75 horas."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 47.3 del convenio (complemento de nocturnidad) establece que quienes, de forma circunstancial, presten servicio entre las 22:00 y las 6:00 cobrarán esas horas con un incremento del 25 % sobre el valor de la hora extraordinaria. La cuantía fija mensual igual para todos los grupos es la de la disponibilidad horaria (art. 47.2), y el coeficiente 1,75 es el de compensación de las horas extraordinarias con descanso (art. 38.2).",
+      "ref": "art. 47.3 II Convenio PAS laboral",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La funcionaria interina que se incorpora a la Escala Administrativa (C1), ¿qué retribuciones percibirá según el TREBEP?",
+      "opciones": [
+        "Solo el sueldo y las pagas extraordinarias.",
+        "El 85 % de las retribuciones de un funcionario de carrera.",
+        "Las mismas que un funcionario de carrera, incluidos todos los complementos ligados a la carrera administrativa y al grado consolidado.",
+        "Las retribuciones básicas y las pagas extraordinarias del subgrupo, las complementarias por las características del puesto, por rendimiento y por servicios extraordinarios, y las que correspondan a la categoría de entrada en la escala."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 25.1 TREBEP dispone que los funcionarios interinos perciben las retribuciones básicas y las pagas extraordinarias de su subgrupo, las complementarias de las letras b), c) y d) del art. 24 (características del puesto, rendimiento y servicios extraordinarios) y las correspondientes a la categoría de entrada en el cuerpo o escala. No perciben la retribución por progresión en la carrera (letra a). El 85 % es un porcentaje del RD 1086/1989 para el profesorado universitario interino, no aplicable al PTGAS.",
+      "ref": "art. 25.1 TREBEP",
+      "dificultad": 3
+    }
+  ]
+}

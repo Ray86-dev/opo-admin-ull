@@ -1,0 +1,9 @@
+node_modules
+dist
+fuentes-txt
+*.log
+.DS_Store
+*.tmp.mjs
+.impeccable/
+*.tsbuildinfo
+/Bases de la convocatoria.pdf

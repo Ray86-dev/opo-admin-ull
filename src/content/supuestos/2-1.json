@@ -1,0 +1,203 @@
+{
+  "bloque": 2,
+  "titulo": "Permisos, vacaciones y excedencias de una funcionaria de la Escala Administrativa",
+  "temas": ["2-01", "2-02"],
+  "enunciado": "**Marta Delgado Hernández** es funcionaria de carrera de la **Escala Administrativa** de la Universidad de La Laguna desde el **1 de marzo de 2016**, con destino definitivo en el **Servicio de Recursos Humanos** (La Laguna). Su pareja, **Javier Pérez Rodríguez**, es funcionario de carrera de la Escala de Gestión de la ULL. A lo largo de 2026 se producen estos hechos:\n\n- El **sábado 18 de abril de 2026** Marta y Javier contraen **matrimonio**.\n- El **lunes 11 de mayo** la **madre** de Marta se somete a una intervención quirúrgica **sin hospitalización** que precisa **reposo domiciliario**, en Santa Cruz de La Palma.\n- El **miércoles 3 de junio** fallece la **abuela paterna** de Marta en Santa Cruz de La Palma, localidad distinta de la de su residencia.\n- Marta había planificado sus vacaciones para agosto, pero el **martes 7 de julio de 2026** da a luz a su hijo Daniel, por lo que no puede disfrutarlas en 2026.\n- Tras los permisos por nacimiento, Marta se plantea **acumular la lactancia**, **reducir su jornada** y, más adelante, solicitar una **excedencia para cuidar de Daniel**; Javier estudia pedir también excedencia por el mismo hijo y en el mismo periodo.\n\nMarta pregunta además en el Servicio qué ocurriría en tres escenarios futuros: que Javier obtenga con carácter definitivo un puesto de funcionario de carrera en el **Cabildo de Gran Canaria** y se traslade allí; que ella misma pida una **excedencia voluntaria por interés particular**; y que resulte elegida **diputada del Parlamento de Canarias**, con retribuciones periódicas.\n\nPara resolver el supuesto aplica el TREBEP como norma básica y la Resolución de 12 de mayo de 2023 de delegación de competencias de la ULL. Considera que la Universidad no ha establecido días adicionales por antigüedad.",
+  "preguntas": [
+    {
+      "enunciado": "¿Qué permiso corresponde a Marta por su matrimonio?",
+      "opciones": [
+        "Diez días hábiles",
+        "Quince días hábiles",
+        "Quince días",
+        "Cinco días hábiles"
+      ],
+      "correcta": 2,
+      "explicacion": "Los funcionarios tienen permiso por matrimonio o registro o constitución formalizada por documento público de pareja de hecho de quince días (art. 48.l TREBEP). La ley no los califica como hábiles.",
+      "ref": "art. 48.l TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Qué permiso corresponde a Marta por la intervención quirúrgica sin hospitalización de su madre, que precisa reposo domiciliario?",
+      "opciones": [
+        "Cinco días hábiles, con independencia de la localidad",
+        "Tres días hábiles, por no requerir hospitalización",
+        "Cinco días hábiles solo porque se produce en otra localidad; serían tres en la misma localidad",
+        "Cuatro días hábiles"
+      ],
+      "correcta": 0,
+      "explicacion": "Por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario del cónyuge, pareja de hecho o parientes hasta el primer grado por consanguinidad o afinidad, el permiso es de cinco días hábiles (art. 48.a TREBEP). La madre es pariente de primer grado de consanguinidad. La distinción por localidad solo se mantiene para el fallecimiento.",
+      "ref": "art. 48.a TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué permiso corresponde a Marta por el fallecimiento de su abuela paterna en una localidad distinta?",
+      "opciones": [
+        "Dos días hábiles",
+        "Cuatro días hábiles",
+        "Cinco días hábiles",
+        "Tres días hábiles"
+      ],
+      "correcta": 1,
+      "explicacion": "En caso de fallecimiento de un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso es de dos días hábiles en la misma localidad y de cuatro días hábiles en distinta localidad (art. 48.a, párrafo tercero, TREBEP). La abuela es pariente en segundo grado de consanguinidad.",
+      "ref": "art. 48.a TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Marta no pudo disfrutar sus vacaciones de 2026 por el permiso por nacimiento. ¿Qué puede hacer?",
+      "opciones": [
+        "Pierde las vacaciones de 2026 al terminar el año natural",
+        "Solicitar su compensación económica",
+        "Disfrutarlas solo hasta el 31 de enero de 2027",
+        "Disfrutarlas aunque haya terminado el año natural, siempre que no hayan transcurrido más de dieciocho meses desde el final de 2026"
+      ],
+      "correcta": 3,
+      "explicacion": "Cuando el permiso de maternidad (nacimiento), la incapacidad temporal o los riesgos durante el embarazo o la lactancia impidan iniciar las vacaciones dentro del año natural, podrán disfrutarse aunque haya terminado este, siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se originaron (art. 50.2 TREBEP). Las vacaciones no pueden sustituirse por dinero salvo conclusión de la relación de servicios por causas ajenas a la voluntad del funcionario (art. 50.3).",
+      "ref": "art. 50.2 y 50.3 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre el permiso por nacimiento de Marta como madre biológica, señala la afirmación CORRECTA:",
+      "opciones": [
+        "Dura diecinueve semanas: seis ininterrumpidas y obligatorias a jornada completa tras el parto, once a distribuir por semanas hasta que el hijo cumpla doce meses y dos hasta que cumpla ocho años",
+        "Dura dieciséis semanas, de las que seis son obligatorias",
+        "Dura diecinueve semanas, todas ellas de disfrute ininterrumpido tras el parto",
+        "Dura diecinueve semanas y Marta puede ceder hasta diez a Javier"
+      ],
+      "correcta": 0,
+      "explicacion": "El permiso por nacimiento para la madre biológica dura diecinueve semanas: seis semanas ininterrumpidas inmediatamente posteriores al parto, obligatorias y a jornada completa; once semanas distribuibles en periodos semanales desde el fin del descanso obligatorio hasta que el hijo cumpla doce meses; y dos semanas hasta que cumpla ocho años (art. 49.a TREBEP). Es un derecho individual e intransferible. El disfrute interrumpido exige preaviso de al menos quince días.",
+      "ref": "art. 49.a TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué permiso corresponde a Javier por el nacimiento de Daniel?",
+      "opciones": [
+        "Cinco semanas, ampliables con las que le ceda Marta",
+        "Dieciséis semanas, de las que cuatro son obligatorias",
+        "Diecinueve semanas, como derecho individual que no puede transferir a Marta",
+        "Quince días naturales"
+      ],
+      "correcta": 2,
+      "explicacion": "El permiso del progenitor diferente de la madre biológica por nacimiento tiene una duración de diecinueve semanas (art. 49.c TREBEP), con seis semanas ininterrumpidas obligatorias, once distribuibles dentro de los doce meses y dos hasta los ocho años. Es un derecho individual de cada progenitor, sin que pueda transferirse su ejercicio.",
+      "ref": "art. 49.c TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Respecto del permiso por lactancia de Daniel, señala la opción CORRECTA:",
+      "opciones": [
+        "Marta puede transferirlo íntegramente a Javier",
+        "Consiste en dos horas diarias de ausencia hasta que el hijo cumpla dieciocho meses",
+        "Solo puede disfrutarse como reducción de media hora al final de la jornada",
+        "Da derecho a una hora de ausencia (divisible en dos fracciones) hasta que el hijo cumpla doce meses, y puede sustituirse por un permiso retribuido que acumule en jornadas completas el tiempo correspondiente, a partir de la finalización del permiso por nacimiento"
+      ],
+      "correcta": 3,
+      "explicacion": "Por lactancia de un hijo menor de doce meses se tiene derecho a una hora de ausencia, que puede dividirse en dos fracciones o sustituirse por una reducción de media hora al inicio y al final de la jornada, o de una hora al inicio o al final. Puede sustituirse por un permiso retribuido que acumule en jornadas completas el tiempo correspondiente, disfrutable a partir de la finalización del permiso por nacimiento. Es un derecho individual, no transferible al otro progenitor (art. 48.f TREBEP).",
+      "ref": "art. 48.f TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Marta desea reducir su jornada para cuidar directamente de Daniel, ¿en qué condiciones puede hacerlo?",
+      "opciones": [
+        "Solo hasta que Daniel cumpla seis años y sin reducción de retribuciones",
+        "Mientras Daniel sea menor de doce años, con la disminución de retribuciones que corresponda",
+        "Hasta el cincuenta por ciento de la jornada con carácter retribuido, durante un mes",
+        "No es posible reducir la jornada por guarda legal si se ha disfrutado el permiso por nacimiento"
+      ],
+      "correcta": 1,
+      "explicacion": "Por razones de guarda legal, cuando el funcionario tenga el cuidado directo de algún menor de doce años, tiene derecho a la reducción de su jornada de trabajo, con la disminución de sus retribuciones que corresponda (art. 48.h TREBEP). La reducción retribuida de hasta el 50 % durante un mes es para el cuidado de un familiar de primer grado por enfermedad muy grave (art. 48.i).",
+      "ref": "art. 48.h TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si Marta solicita la excedencia por cuidado de Daniel, ¿cuál sería su duración máxima y qué efectos tendría?",
+      "opciones": [
+        "Hasta tres años desde el nacimiento (7 de julio de 2029); el tiempo computa a efectos de trienios, carrera y Seguridad Social, y el puesto se reserva al menos durante dos años",
+        "Hasta tres años desde la solicitud; no computa a efectos de trienios",
+        "Hasta dos años desde el nacimiento, con reserva del puesto durante todo el periodo",
+        "Sin límite temporal mientras el hijo sea menor de doce años, sin reserva de puesto"
+      ],
+      "correcta": 0,
+      "explicacion": "Los funcionarios de carrera tienen derecho a un periodo de excedencia no superior a tres años para atender al cuidado de cada hijo, a contar desde la fecha de nacimiento (art. 89.4 TREBEP): hasta el 7 de julio de 2029. El tiempo es computable a efectos de trienios, carrera y derechos de Seguridad Social; el puesto se reserva al menos durante dos años y, después, la reserva es a un puesto en la misma localidad y de igual retribución.",
+      "ref": "art. 89.4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Marta y Javier pretenden disfrutar simultáneamente de la excedencia por cuidado de Daniel, ¿qué puede hacer la Universidad?",
+      "opciones": [
+        "Nada: ambos tienen derecho incondicionado a disfrutarla a la vez",
+        "Denegarla siempre al segundo solicitante",
+        "Limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios",
+        "Concederla a ambos, pero sin reserva de puesto"
+      ],
+      "correcta": 2,
+      "explicacion": "El periodo de excedencia es único por cada sujeto causante; si dos funcionarios generan el derecho por el mismo sujeto causante, la Administración podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios (art. 89.4 TREBEP).",
+      "ref": "art. 89.4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué órgano de la ULL resuelve, en virtud de la delegación de competencias vigente, la solicitud de excedencia de Marta?",
+      "opciones": [
+        "El Vicerrectorado de Personal Docente e Investigador",
+        "El Consejo de Gobierno",
+        "La Secretaría General",
+        "La Gerencia, por delegación del Rector"
+      ],
+      "correcta": 3,
+      "explicacion": "El Rector delega en la Gerencia la gestión de recursos humanos, incluida la gestión de retribución y derechos y la gestión de expedientes de personal, excluyendo solo el nombramiento de funcionarios de carrera, la contratación de personal laboral fijo y la incoación de expedientes disciplinarios e imposición de sanciones al PAS (apartado Noveno.4 de la Resolución de 12 de mayo de 2023). El Vicerrectorado de PDI solo tiene delegadas las materias del profesorado.",
+      "ref": "Resolución ULL 12/05/2023, apdo. Noveno.4",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Javier obtiene con carácter definitivo un puesto de funcionario de carrera en el Cabildo de Gran Canaria y Marta quiere acompañarle, ¿qué situación puede solicitar?",
+      "opciones": [
+        "Servicios especiales",
+        "Excedencia voluntaria por agrupación familiar, sin necesidad de acreditar un periodo mínimo de servicios efectivos",
+        "Excedencia voluntaria por interés particular, que exige un periodo mínimo de servicios previos",
+        "Excedencia por cuidado de familiares"
+      ],
+      "correcta": 1,
+      "explicacion": "Puede concederse la excedencia voluntaria por agrupación familiar, sin el requisito de haber prestado servicios efectivos durante el periodo exigido para la de interés particular, a los funcionarios cuyo cónyuge resida en otra localidad por haber obtenido y estar desempeñando un puesto de carácter definitivo como funcionario de carrera o laboral fijo en cualquier Administración Pública (art. 89.3 TREBEP). No devenga retribuciones ni computa a efectos de ascensos, trienios y Seguridad Social.",
+      "ref": "art. 89.3 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de una futura excedencia voluntaria por interés particular de Marta, señala la afirmación CORRECTA:",
+      "opciones": [
+        "Su concesión queda subordinada a las necesidades del servicio debidamente motivadas, no puede declararse si se le instruye expediente disciplinario y no devenga retribuciones ni computa a efectos de trienios",
+        "Es un derecho incondicionado que la Administración no puede denegar",
+        "Computa a efectos de trienios y de Seguridad Social",
+        "Conlleva la reserva del puesto de trabajo durante dos años"
+      ],
+      "correcta": 0,
+      "explicacion": "La excedencia voluntaria por interés particular exige un periodo mínimo de servicios efectivos inmediatamente anteriores (cinco años según el TREBEP, salvo que las leyes de función pública fijen uno menor), queda subordinada a las necesidades del servicio debidamente motivadas y no puede declararse cuando se instruya expediente disciplinario. No se devengan retribuciones ni computa el tiempo a efectos de ascensos, trienios y Seguridad Social (art. 89.2 TREBEP). Marta cumple el requisito temporal, pues lleva más de diez años de servicios.",
+      "ref": "art. 89.2 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Marta fuera elegida diputada del Parlamento de Canarias, percibiendo retribuciones periódicas por esa función, ¿en qué situación administrativa quedaría?",
+      "opciones": [
+        "Servicio activo con dispensa de asistencia",
+        "Excedencia voluntaria por interés particular",
+        "Suspensión de funciones",
+        "Servicios especiales"
+      ],
+      "correcta": 3,
+      "explicacion": "Los funcionarios de carrera son declarados en servicios especiales cuando acceden a la condición de miembros de las asambleas legislativas de las comunidades autónomas si perciben retribuciones periódicas por la realización de la función (art. 87.1.e TREBEP).",
+      "ref": "art. 87.1.e TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Con los trienios que tiene Marta en 2026, ¿cuántos días de permiso por asuntos particulares le corresponden al año?",
+      "opciones": [
+        "Ocho días",
+        "Seis días",
+        "Tres días",
+        "Nueve días"
+      ],
+      "correcta": 1,
+      "explicacion": "El permiso por asuntos particulares es de seis días al año (art. 48.k TREBEP). Las Administraciones pueden establecer hasta dos días adicionales al cumplir el sexto trienio y uno más por cada trienio a partir del octavo (DA 13.ª TREBEP), pero Marta, con tres trienios (ingresó el 1 de marzo de 2016), no los alcanza y, además, en el supuesto la ULL no ha establecido días adicionales.",
+      "ref": "art. 48.k y DA 13.ª TREBEP",
+      "dificultad": 1
+    }
+  ]
+}

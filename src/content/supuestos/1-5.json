@@ -1,0 +1,203 @@
+{
+  "bloque": 1,
+  "titulo": "Acceso a información pública, derechos RGPD y notificación electrónica",
+  "temas": ["1-03", "1-04", "1-10", "1-11"],
+  "enunciado": "**Andrés Febles Cabrera**, periodista de un diario digital tinerfeño sin vinculación con la Universidad, presenta el **martes 3 de marzo de 2026** a través de la **sede electrónica** de la ULL una solicitud de acceso a información pública dirigida a la **Gerencia**, que es el órgano que posee la información y es competente para resolver. En ella **elige expresamente la notificación electrónica** y solicita, **sin exponer motivo alguno**:\n\n1. El importe total abonado en 2025 a la empresa adjudicataria del servicio de limpieza.\n2. La relación nominal del PTGAS que percibió complemento de productividad en 2025, con sus importes.\n3. Los **borradores y notas internas** de trabajo del futuro Plan de Recursos Humanos.\n4. Los partes de **incapacidad temporal** de un jefe de servicio al que identifica con nombre y apellidos.\n\nLa Gerencia concede a los empleados afectados por el punto 2 un plazo para alegaciones. El **viernes 13 de marzo** dicta resolución parcialmente estimatoria, que se **pone a disposición** de Andrés en la sede el **lunes 16 de marzo de 2026**. Andrés no accede a ella.\n\nPor otra parte, **Nuria Trujillo Méndez**, funcionaria de la Escala Administrativa destinada en la Biblioteca, ejerce el **lunes 4 de mayo de 2026** ante la Universidad su **derecho de acceso** a los datos personales que obran en el Servicio de Recursos Humanos. Días después pide también la **supresión** de los datos de sus nóminas de los últimos años, porque «ya no los necesita la Universidad».\n\nFinalmente, el **martes 19 de mayo de 2026 a las 11:00 horas**, el Servicio de Recursos Humanos tiene constancia de que un empleado ha enviado por error a todos los integrantes de una lista de empleo una hoja de cálculo con el DNI y el grado de discapacidad de **300 aspirantes**.\n\nLa Universidad de La Laguna tiene designado un **delegado de protección de datos**.\n\n*A efectos de cómputo, considera que en los periodos afectados solo son inhábiles los sábados, los domingos y los días 2 y 3 de abril de 2026 (Jueves y Viernes Santo).*",
+  "preguntas": [
+    {
+      "enunciado": "¿Qué consecuencia tiene que Andrés no haya motivado su solicitud de acceso?",
+      "opciones": [
+        "Debe requerírsele para que la motive en diez días, con apercibimiento de desistimiento",
+        "Ninguna: no está obligado a motivarla y la ausencia de motivación no es por sí sola causa de rechazo, aunque los motivos que exponga podrán tenerse en cuenta",
+        "Debe inadmitirse por carácter abusivo",
+        "Solo puede darse acceso a la información ya publicada"
+      ],
+      "correcta": 1,
+      "explicacion": "El solicitante no está obligado a motivar su solicitud; puede exponer motivos que se tendrán en cuenta al resolver, pero la ausencia de motivación no será por sí sola causa de rechazo (art. 17.3 LTAIBG).",
+      "ref": "art. 17.3 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sin tener en cuenta la suspensión por las alegaciones de terceros ni ninguna ampliación, ¿cuál sería el último día para notificar la resolución?",
+      "opciones": [
+        "El viernes 3 de abril de 2026",
+        "El martes 31 de marzo de 2026",
+        "El martes 3 de marzo de 2027",
+        "El lunes 6 de abril de 2026"
+      ],
+      "correcta": 3,
+      "explicacion": "La resolución debe notificarse en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente (art. 20.1 LTAIBG). El plazo en meses concluye el mismo ordinal del mes siguiente, el 3 de abril (art. 30.4 LPAC); pero el 3 de abril de 2026 es Viernes Santo, inhábil, por lo que se prorroga al primer día hábil siguiente: lunes 6 de abril (art. 30.5 LPAC).",
+      "ref": "art. 20.1 LTAIBG; art. 30.4 y 30.5 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto del punto 2 (relación nominal del PTGAS con productividad), ¿cómo debe actuar la Gerencia?",
+      "opciones": [
+        "Conceder a los terceros afectados, debidamente identificados, quince días para alegaciones, informando al solicitante de ello y de la suspensión del plazo para resolver, y ponderar el interés público y la protección de datos",
+        "Denegar automáticamente el acceso, porque cualquier dato personal es un límite absoluto",
+        "Conceder el acceso sin más trámite, porque los datos del personal son siempre públicos",
+        "Inadmitir la solicitud por requerir reelaboración"
+      ],
+      "correcta": 0,
+      "explicacion": "Si la información puede afectar a derechos o intereses de terceros identificados, se les conceden quince días para alegaciones, informando al solicitante de ello y de la suspensión del plazo para resolver hasta que se reciban o transcurra el plazo (art. 19.3 LTAIBG). Al no tratarse de datos especialmente protegidos, el acceso exige una ponderación razonada del interés público en la divulgación y los derechos de los afectados (art. 15.3 LTAIBG).",
+      "ref": "arts. 15.3 y 19.3 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué procede respecto del punto 3 (borradores y notas internas del futuro Plan de Recursos Humanos)?",
+      "opciones": [
+        "Concederlo, porque todo documento en poder de la Administración es información pública",
+        "Remitir la solicitud al Consejo de Gobierno",
+        "Inadmitirlo mediante resolución motivada, por tratarse de información de carácter auxiliar o de apoyo (borradores, notas)",
+        "Denegarlo por silencio, sin necesidad de resolución"
+      ],
+      "correcta": 2,
+      "explicacion": "Se inadmiten a trámite, mediante resolución motivada, las solicitudes referidas a información que tenga carácter auxiliar o de apoyo, como la contenida en notas, borradores, opiniones, resúmenes, comunicaciones e informes internos (art. 18.1.b LTAIBG). También cabría la inadmisión por información en curso de elaboración (art. 18.1.a).",
+      "ref": "art. 18.1 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto del punto 4 (partes de incapacidad temporal de un jefe de servicio identificado), ¿cuándo podría autorizarse el acceso?",
+      "opciones": [
+        "Siempre que el interés público prevalezca tras la ponderación",
+        "Si el solicitante acredita su condición de periodista",
+        "Solo con el consentimiento expreso del afectado o si el acceso estuviera amparado por una norma con rango de ley",
+        "Nunca, ni siquiera previa disociación de los datos"
+      ],
+      "correcta": 2,
+      "explicacion": "Si la información incluye datos relativos a la salud, el acceso solo puede autorizarse con el consentimiento expreso del afectado o si estuviera amparado por una norma con rango de ley (art. 15.1, párrafo segundo, LTAIBG). La ponderación del art. 15.3 solo rige para datos no especialmente protegidos. La disociación que impida identificar a la persona excluye estas reglas (art. 15.4), pero aquí la persona está identificada en la propia solicitud.",
+      "ref": "art. 15.1 y 15.4 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si la Gerencia no hubiera dictado ni notificado resolución en el plazo máximo, ¿qué efecto tendría?",
+      "opciones": [
+        "La solicitud se entendería desestimada",
+        "La solicitud se entendería estimada, por aplicación de la regla general del art. 24 LPAC",
+        "El procedimiento caducaría",
+        "La Gerencia quedaría obligada a entregar la información en diez días"
+      ],
+      "correcta": 0,
+      "explicacion": "Transcurrido el plazo máximo para resolver sin resolución expresa notificada, se entiende que la solicitud de acceso ha sido desestimada (art. 20.4 LTAIBG): es una norma con rango de ley que excepciona el silencio positivo general (art. 24.1 LPAC). El incumplimiento reiterado de resolver en plazo es infracción grave a efectos disciplinarios (art. 20.6).",
+      "ref": "art. 20.4 LTAIBG",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La resolución se puso a disposición de Andrés en la sede el lunes 16 de marzo de 2026 y no ha accedido a ella. ¿Qué ocurre?",
+      "opciones": [
+        "Nada, porque al no estar obligado a relacionarse electrónicamente no se aplica el rechazo tácito",
+        "Debe notificarse en papel en su domicilio",
+        "Se entiende practicada el mismo 16 de marzo",
+        "Como eligió expresamente la notificación electrónica, se entiende rechazada al transcurrir diez días naturales sin acceder, el 26 de marzo de 2026, y se da por efectuado el trámite"
+      ],
+      "correcta": 3,
+      "explicacion": "Cuando la notificación electrónica sea obligatoria o haya sido expresamente elegida por el interesado, se entiende rechazada cuando transcurren diez días naturales desde la puesta a disposición sin acceder a su contenido (art. 43.2 LPAC; art. 36.2 RAE-ULL): 16 de marzo + 10 = 26 de marzo. El rechazo se hace constar y se da por efectuado el trámite (art. 41.5 LPAC). Además, la puesta a disposición basta para entender cumplida la obligación de notificar en plazo (arts. 40.4 y 43.3 LPAC).",
+      "ref": "arts. 41.5, 43.2 y 43.3 LPAC; art. 36.2 RAE-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Andrés quiere impugnar la resolución sin acudir aún a los tribunales, ¿qué puede hacer?",
+      "opciones": [
+        "Interponer recurso de alzada ante el Rector en el plazo de tres meses",
+        "Presentar una reclamación potestativa, previa al contencioso, ante el órgano independiente que determine la Comunidad Autónoma (o el Consejo de Transparencia y Buen Gobierno si se le atribuye), en el plazo de un mes; el plazo para resolverla es de tres meses",
+        "Presentar reclamación obligatoria ante el Defensor del Pueblo en quince días",
+        "Interponer recurso extraordinario de revisión"
+      ],
+      "correcta": 1,
+      "explicacion": "Frente a toda resolución expresa o presunta en materia de acceso cabe una reclamación potestativa y previa al contencioso (art. 24.1 LTAIBG), en el plazo de un mes (art. 24.2), que se resuelve en tres meses, transcurridos los cuales se entiende desestimada (art. 24.4). Para las Administraciones autonómicas y su sector público resuelve el órgano independiente que determine la Comunidad Autónoma, salvo convenio con el Consejo de Transparencia (art. 24.6 y DA 4.ª LTAIBG). También cabe recurso contencioso directo (art. 20.5).",
+      "ref": "arts. 20.5 y 24 y DA 4.ª LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Andrés pide que la información concedida se le entregue en copias en papel compulsadas. Señala la afirmación CORRECTA:",
+      "opciones": [
+        "El acceso es gratuito, pero la expedición de copias o la trasposición a un formato distinto del original puede dar lugar a exacciones",
+        "Todo acceso a información pública está sujeto a tasa",
+        "Debe denegarse, porque el acceso solo puede darse por vía electrónica",
+        "Las copias son gratuitas en todo caso"
+      ],
+      "correcta": 0,
+      "explicacion": "El acceso se realiza preferentemente por vía electrónica, salvo que no sea posible o el solicitante haya señalado otro medio (art. 22.1 LTAIBG). El acceso es gratuito, aunque la expedición de copias o la trasposición a un formato diferente al original puede dar lugar a exacciones conforme a la normativa de tasas y precios públicos (art. 22.4 LTAIBG).",
+      "ref": "art. 22.1 y 22.4 LTAIBG",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Supón que algún empleado del punto 2 se opuso al acceso y, aun así, la Gerencia lo concedió. ¿Cuándo tendría lugar el acceso?",
+      "opciones": [
+        "Inmediatamente, en el momento de la notificación",
+        "En el plazo máximo de diez días desde la resolución",
+        "Cuando haya transcurrido el plazo para interponer recurso contencioso-administrativo sin haberse formalizado, o cuando se haya resuelto confirmando el derecho a recibir la información",
+        "Cuando lo autorice el Consejo de Gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "Si ha existido oposición de tercero, el acceso solo tiene lugar cuando, concedido, haya transcurrido el plazo para interponer recurso contencioso-administrativo sin que se haya formalizado o haya sido resuelto confirmando el derecho a recibir la información (art. 22.2 LTAIBG). La resolución debe ser motivada y advertirlo expresamente (art. 20.2).",
+      "ref": "arts. 20.2 y 22.2 LTAIBG",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿En qué plazo debe la Universidad dar respuesta a la solicitud de acceso a sus datos presentada por Nuria el lunes 4 de mayo de 2026?",
+      "opciones": [
+        "En diez días hábiles",
+        "En tres meses, sin posibilidad de prórroga",
+        "En un mes desde el día siguiente a la resolución de admisión",
+        "En un mes desde la recepción (hasta el 4 de junio de 2026), prorrogable otros dos meses en caso necesario, informando de la prórroga y sus motivos dentro del primer mes"
+      ],
+      "correcta": 3,
+      "explicacion": "El responsable facilitará la información relativa a las actuaciones sobre la solicitud en el plazo de un mes a partir de su recepción, prorrogable otros dos meses teniendo en cuenta la complejidad y el número de solicitudes, informando de la prórroga y sus motivos en el plazo de un mes (art. 12.3 RGPD). Las actuaciones son gratuitas, salvo solicitudes manifiestamente infundadas o excesivas (art. 12.5 RGPD; art. 12.7 LOPDGDD).",
+      "ref": "art. 12.3 y 12.5 RGPD; art. 12.7 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Debe la Universidad atender la petición de Nuria de suprimir los datos de sus nóminas?",
+      "opciones": [
+        "Sí, siempre que lo pida por escrito, porque el derecho de supresión no admite excepciones",
+        "No, en la medida en que el tratamiento sea necesario para cumplir una obligación legal o una misión realizada en interés público o en el ejercicio de poderes públicos",
+        "Sí, pero solo transcurridos cuatro años",
+        "No, porque los empleados públicos no son titulares del derecho de supresión"
+      ],
+      "correcta": 1,
+      "explicacion": "El derecho de supresión no se aplica cuando el tratamiento sea necesario para el cumplimiento de una obligación legal impuesta por el Derecho de la Unión o de los Estados miembros, o para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos, entre otros supuestos (art. 17.3.b RGPD). Los datos retributivos deben conservarse por obligaciones legales (tributarias, de Seguridad Social, presupuestarias).",
+      "ref": "art. 17.3 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Nuria quisiera reclamar por la respuesta recibida, ¿qué papel puede tener el delegado de protección de datos de la ULL?",
+      "opciones": [
+        "Es obligatorio dirigirse a él antes de acudir a la autoridad de control; debe responder en diez días",
+        "No interviene: su designación en una universidad es voluntaria",
+        "Nuria puede dirigirse a él con carácter previo a reclamar ante la autoridad de protección de datos, y el delegado le comunicará la decisión en el plazo máximo de dos meses",
+        "Resuelve la reclamación con carácter vinculante para la AEPD"
+      ],
+      "correcta": 2,
+      "explicacion": "La designación de delegado es obligatoria cuando el tratamiento lo lleve a cabo una autoridad u organismo público (art. 37.1.a RGPD). Si hay delegado, el afectado puede, con carácter previo (potestativo) a la reclamación ante la autoridad de protección de datos, dirigirse a él, que comunicará la decisión en el plazo máximo de dos meses desde la recepción (art. 37.1 LOPDGDD).",
+      "ref": "art. 37.1.a RGPD; art. 37 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto del envío erróneo de la hoja de cálculo con datos de 300 aspirantes, conocido el 19 de mayo a las 11:00, ¿qué debe hacer la Universidad como responsable del tratamiento?",
+      "opciones": [
+        "Notificarlo a la autoridad de control sin dilación indebida y, de ser posible, a más tardar a las 11:00 horas del viernes 22 de mayo de 2026 (72 horas), salvo que sea improbable que constituya un riesgo para los derechos de las personas",
+        "Notificarlo a la autoridad de control en el plazo de un mes",
+        "Solo comunicarlo al delegado de protección de datos",
+        "Nada, porque los datos no han salido de la propia Universidad"
+      ],
+      "correcta": 0,
+      "explicacion": "En caso de violación de la seguridad de los datos personales, el responsable la notificará a la autoridad de control sin dilación indebida y, de ser posible, a más tardar 72 horas después de tener constancia de ella, salvo que sea improbable que constituya un riesgo para los derechos y libertades; si no se notifica en 72 horas, debe indicar los motivos de la dilación (art. 33.1 RGPD). Los datos de discapacidad son datos de salud, lo que agrava el riesgo.",
+      "ref": "art. 33.1 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si la autoridad de protección de datos apreciara una infracción de la Universidad por ese envío, ¿qué consecuencia podría imponerle?",
+      "opciones": [
+        "Una multa de hasta 20 millones de euros",
+        "Una multa de hasta el 4 % de su presupuesto anual",
+        "Solo el cierre del fichero",
+        "Una resolución declarando la infracción y las medidas para que cese o se corrijan sus efectos, sin multa, sin perjuicio de proponer actuaciones disciplinarias"
+      ],
+      "correcta": 3,
+      "explicacion": "Las Universidades Públicas están incluidas en el régimen especial del art. 77 LOPDGDD (art. 77.1.i). Si cometen infracciones, la autoridad dicta resolución declarando la infracción y las medidas que proceda adoptar, con excepción de la multa administrativa del art. 58.2.i RGPD (art. 77.2), y propondrá actuaciones disciplinarias si hay indicios (art. 77.3).",
+      "ref": "art. 77 LOPDGDD",
+      "dificultad": 3
+    }
+  ]
+}

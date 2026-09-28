@@ -1,0 +1,1290 @@
+{
+  "claves": [
+    "La nulidad de actos que agotan la vía o no fueron recurridos puede declararse de oficio en cualquier momento, de oficio o a solicitud, previo dictamen favorable del Consejo de Estado u órgano consultivo autonómico (art. 106.1).",
+    "Los actos favorables anulables no los anula la Administración: los declara lesivos en un plazo máximo de 4 años y los impugna ante el contencioso en 2 meses (art. 107 LPAC y art. 46.5 LJCA).",
+    "Los procedimientos de revisión de oficio y de lesividad duran 6 meses: caducidad si se iniciaron de oficio; en la nulidad a solicitud, silencio desestimatorio (arts. 106.5 y 107.3).",
+    "La Administración puede revocar sus actos desfavorables mientras no haya prescripción y rectificar en cualquier momento los errores materiales, de hecho o aritméticos (art. 109).",
+    "Son recurribles las resoluciones y los actos de trámite cualificados, por cualquier motivo de nulidad o anulabilidad; contra disposiciones generales no cabe recurso administrativo (art. 112).",
+    "Contra actos que no agotan la vía cabe alzada ante el superior jerárquico: 1 mes para interponer y 3 meses para resolver (arts. 121 y 122).",
+    "Contra actos que agotan la vía cabe reposición potestativa ante el mismo órgano: 1 mes para interponer y 1 mes para resolver; mientras está pendiente no cabe contencioso (arts. 123 y 124).",
+    "El recurso extraordinario de revisión procede contra actos firmes por cuatro motivos tasados: 4 años por error de hecho y 3 meses en los demás casos; se resuelve en 3 meses (arts. 125 y 126).",
+    "La interposición de un recurso no suspende la ejecución, salvo que se acuerde por perjuicios de imposible o difícil reparación o por alegarse nulidad; la solicitud no resuelta en 1 mes produce la suspensión (art. 117).",
+    "En la resolución de los recursos está prohibida la reformatio in peius: nunca puede agravarse la situación inicial del recurrente (art. 119.3).",
+    "En la ULL agotan la vía administrativa las resoluciones del Rector y los acuerdos del Claustro, Consejo de Gobierno, Consejo Social y Comisión Electoral General; contra los demás órganos cabe alzada ante el Rector (art. 10 EULL).",
+    "El orden contencioso conoce de la actuación administrativa sujeta al Derecho Administrativo, de los reglamentos y de los decretos legislativos ultra vires, y siempre de la responsabilidad patrimonial (arts. 1 y 2 LJCA).",
+    "Están legitimados quienes ostenten un derecho o interés legítimo; la acción popular solo existe cuando una ley la prevé; los miembros de órganos colegiados no pueden recurrir los actos de su Administración salvo ley (arts. 19 y 20 LJCA).",
+    "Ante órganos unipersonales el Abogado es obligatorio y el Procurador potestativo; ante colegiados, ambos; los funcionarios pueden comparecer por sí mismos en cuestiones de personal que no impliquen separación de inamovibles (art. 23 LJCA).",
+    "Es impugnable la actividad formada por disposiciones generales, actos expresos y presuntos que agotan la vía, inactividad y vía de hecho; no lo son los actos reproducción de otros firmes ni los confirmatorios de actos consentidos (arts. 25 y 28 LJCA)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Revisión de oficio de actos nulos",
+      "valor": "En cualquier momento",
+      "ref": "art. 106.1 LPAC"
+    },
+    {
+      "concepto": "Duración del procedimiento de revisión de oficio de nulidad iniciado de oficio",
+      "valor": "6 meses; después, caducidad",
+      "ref": "art. 106.5 LPAC"
+    },
+    {
+      "concepto": "Revisión de nulidad iniciada a solicitud sin resolución en 6 meses",
+      "valor": "Desestimada por silencio",
+      "ref": "art. 106.5 LPAC"
+    },
+    {
+      "concepto": "Límite para adoptar la declaración de lesividad",
+      "valor": "4 años desde que se dictó el acto",
+      "ref": "art. 107.2 LPAC"
+    },
+    {
+      "concepto": "Caducidad del procedimiento de declaración de lesividad",
+      "valor": "6 meses desde su iniciación",
+      "ref": "art. 107.3 LPAC"
+    },
+    {
+      "concepto": "Revocación de actos de gravamen o desfavorables",
+      "valor": "Mientras no haya transcurrido el plazo de prescripción",
+      "ref": "art. 109.1 LPAC"
+    },
+    {
+      "concepto": "Rectificación de errores materiales, de hecho o aritméticos",
+      "valor": "En cualquier momento",
+      "ref": "art. 109.2 LPAC"
+    },
+    {
+      "concepto": "Silencio en la solicitud de suspensión de la ejecución en vía de recurso",
+      "valor": "1 mes: se entiende suspendida",
+      "ref": "art. 117.3 LPAC"
+    },
+    {
+      "concepto": "Audiencia en recursos por hechos o documentos nuevos",
+      "valor": "No inferior a 10 días ni superior a 15",
+      "ref": "art. 118.1 LPAC"
+    },
+    {
+      "concepto": "Remisión del recurso de alzada presentado ante el órgano que dictó el acto",
+      "valor": "10 días, con informe y copia del expediente",
+      "ref": "art. 121.2 LPAC"
+    },
+    {
+      "concepto": "Interposición del recurso de alzada (acto expreso)",
+      "valor": "1 mes",
+      "ref": "art. 122.1 LPAC"
+    },
+    {
+      "concepto": "Interposición del recurso de alzada (acto no expreso)",
+      "valor": "En cualquier momento desde el día siguiente a los efectos del silencio",
+      "ref": "art. 122.1 LPAC"
+    },
+    {
+      "concepto": "Resolución del recurso de alzada",
+      "valor": "3 meses; silencio desestimatorio (salvo art. 24.1, párrafo tercero)",
+      "ref": "art. 122.2 LPAC"
+    },
+    {
+      "concepto": "Interposición del recurso de reposición (acto expreso)",
+      "valor": "1 mes",
+      "ref": "art. 124.1 LPAC"
+    },
+    {
+      "concepto": "Interposición del recurso de reposición (acto no expreso)",
+      "valor": "En cualquier momento desde el día siguiente al acto presunto",
+      "ref": "art. 124.1 LPAC"
+    },
+    {
+      "concepto": "Resolución del recurso de reposición",
+      "valor": "1 mes",
+      "ref": "art. 124.2 LPAC"
+    },
+    {
+      "concepto": "Recurso extraordinario de revisión por error de hecho (causa a)",
+      "valor": "4 años desde la notificación de la resolución",
+      "ref": "art. 125.2 LPAC"
+    },
+    {
+      "concepto": "Recurso extraordinario de revisión por las causas b), c) y d)",
+      "valor": "3 meses desde el conocimiento de los documentos o la firmeza de la sentencia",
+      "ref": "art. 125.2 LPAC"
+    },
+    {
+      "concepto": "Resolución del recurso extraordinario de revisión",
+      "valor": "3 meses; silencio desestimatorio",
+      "ref": "art. 126.3 LPAC"
+    },
+    {
+      "concepto": "Audiencia sobre la falta de jurisdicción",
+      "valor": "Plazo común de 10 días a las partes y al Ministerio Fiscal",
+      "ref": "art. 5.2 LJCA"
+    },
+    {
+      "concepto": "Nueva demanda ante el orden jurisdiccional competente",
+      "valor": "1 mes desde la notificación de la resolución",
+      "ref": "art. 5.3 LJCA"
+    },
+    {
+      "concepto": "Reclamación previa por inactividad prestacional",
+      "valor": "3 meses desde la reclamación",
+      "ref": "art. 29.1 LJCA"
+    },
+    {
+      "concepto": "Solicitud de ejecución de actos firmes",
+      "valor": "1 mes desde la petición",
+      "ref": "art. 29.2 LJCA"
+    },
+    {
+      "concepto": "Requerimiento de cese de la vía de hecho",
+      "valor": "10 días para atenderlo",
+      "ref": "art. 30 LJCA"
+    },
+    {
+      "concepto": "Requerimiento previo entre Administraciones",
+      "valor": "2 meses para formularlo; rechazado si no se contesta en 1 mes",
+      "ref": "art. 44 LJCA"
+    },
+    {
+      "concepto": "Recurso contencioso contra acto expreso o disposición",
+      "valor": "2 meses",
+      "ref": "art. 46.1 LJCA"
+    },
+    {
+      "concepto": "Recurso contencioso contra acto presunto",
+      "valor": "6 meses (no aplicable a la desestimación por silencio según STC 52/2014)",
+      "ref": "art. 46.1 LJCA"
+    },
+    {
+      "concepto": "Recurso contencioso contra la vía de hecho",
+      "valor": "10 días desde el fin del plazo del requerimiento; 20 días si no hubo requerimiento",
+      "ref": "art. 46.3 LJCA"
+    },
+    {
+      "concepto": "Recurso contencioso de lesividad",
+      "valor": "2 meses desde la declaración de lesividad",
+      "ref": "art. 46.5 LJCA"
+    },
+    {
+      "concepto": "Recurso contencioso entre Administraciones",
+      "valor": "2 meses, salvo ley",
+      "ref": "art. 46.6 LJCA"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Revisión de oficio",
+      "definicion": "Procedimiento por el que la Administración declara la nulidad de sus actos o disposiciones nulos, previo dictamen favorable del órgano consultivo (art. 106 LPAC)."
+    },
+    {
+      "termino": "Declaración de lesividad",
+      "definicion": "Acto por el que la Administración declara lesivo para el interés público un acto favorable anulable, presupuesto para impugnarlo ante el contencioso (art. 107 LPAC)."
+    },
+    {
+      "termino": "Revocación",
+      "definicion": "Eliminación por la Administración de sus propios actos de gravamen o desfavorables, con los límites del art. 109.1 LPAC."
+    },
+    {
+      "termino": "Rectificación de errores",
+      "definicion": "Corrección en cualquier momento de errores materiales, de hecho o aritméticos de los actos, sin alterar su sentido (art. 109.2 LPAC)."
+    },
+    {
+      "termino": "Acto firme",
+      "definicion": "Acto que ya no puede impugnarse por los recursos ordinarios por haber transcurrido sus plazos o haberse agotado; solo cabe el recurso extraordinario de revisión (arts. 113 y 122.1 LPAC)."
+    },
+    {
+      "termino": "Acto que pone fin a la vía administrativa",
+      "definicion": "Acto contra el que no cabe alzada: puede recurrirse potestativamente en reposición o directamente ante el contencioso (arts. 114 y 123 LPAC)."
+    },
+    {
+      "termino": "Acto de trámite cualificado",
+      "definicion": "Acto de trámite que decide directa o indirectamente el fondo, impide continuar el procedimiento o produce indefensión o perjuicio irreparable; es recurrible (art. 112.1 LPAC; art. 25.1 LJCA)."
+    },
+    {
+      "termino": "Recurso de alzada",
+      "definicion": "Recurso ordinario contra actos que no ponen fin a la vía administrativa, que resuelve el superior jerárquico (arts. 121 y 122 LPAC)."
+    },
+    {
+      "termino": "Recurso potestativo de reposición",
+      "definicion": "Recurso ordinario y voluntario contra actos que ponen fin a la vía administrativa, ante el mismo órgano que los dictó (arts. 123 y 124 LPAC)."
+    },
+    {
+      "termino": "Recurso extraordinario de revisión",
+      "definicion": "Recurso contra actos firmes por motivos tasados, ante el órgano que los dictó (arts. 125 y 126 LPAC)."
+    },
+    {
+      "termino": "Reformatio in peius",
+      "definicion": "Agravación de la situación del recurrente como consecuencia de su propio recurso; está prohibida (art. 119.3 LPAC)."
+    },
+    {
+      "termino": "Legitimación",
+      "definicion": "Relación entre el sujeto y el objeto del proceso que le permite ser parte; la activa exige, por regla general, un derecho o interés legítimo (art. 19 LJCA)."
+    },
+    {
+      "termino": "Acción popular",
+      "definicion": "Legitimación de cualquier ciudadano para recurrir sin interés propio, solo en los casos expresamente previstos por las leyes (art. 19.1.h LJCA)."
+    },
+    {
+      "termino": "Postulación",
+      "definicion": "Exigencia de actuar en el proceso representado por Procurador y defendido por Abogado (art. 23 LJCA)."
+    },
+    {
+      "termino": "Vía de hecho",
+      "definicion": "Actuación material de la Administración sin cobertura de un acto previo o con manifiesta falta de competencia o procedimiento; es impugnable (arts. 25.2 y 30 LJCA)."
+    },
+    {
+      "termino": "Inactividad administrativa",
+      "definicion": "Incumplimiento por la Administración de una prestación concreta debida o de la ejecución de sus actos firmes; impugnable tras reclamación (art. 29 LJCA)."
+    },
+    {
+      "termino": "Cuestión de ilegalidad",
+      "definicion": "Planteamiento ante el tribunal competente para el recurso directo de la ilegalidad de una disposición general tras una sentencia firme estimatoria en un recurso indirecto (art. 27 LJCA)."
+    },
+    {
+      "termino": "Improrrogabilidad",
+      "definicion": "Imposibilidad de que las partes sometan al orden contencioso asuntos que no le corresponden; la falta de jurisdicción se aprecia de oficio (art. 5 LJCA)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Nulo o anulable",
+      "texto": "Nulo, lo anulo yo (la Administración, con dictamen favorable y en cualquier momento); anulable, lo anula el juez (tras declarar la lesividad en 4 años)."
+    },
+    {
+      "titulo": "Plazos de los recursos: interponer y resolver",
+      "texto": "Alzada 1 y 3; Reposición 1 y 1; Revisión 4 años o 3 meses, y 3."
+    },
+    {
+      "titulo": "Causas de inadmisión de los recursos",
+      "texto": "CLAP-F: Competencia de otra Administración, Legitimación, Acto no recurrible, Plazo vencido, Fundamento manifiestamente inexistente (art. 116)."
+    },
+    {
+      "titulo": "Motivos del recurso extraordinario de revisión",
+      "texto": "Error, Documentos, Falsedad, Delito (EDFD): error de hecho del expediente, documentos esenciales nuevos, documentos o testimonios falsos, prevaricación o cohecho declarados por sentencia firme (art. 125.1)."
+    },
+    {
+      "titulo": "Actividad impugnable en el contencioso",
+      "texto": "DAIV: Disposiciones, Actos, Inactividad y Vía de hecho (art. 25 LJCA)."
+    },
+    {
+      "titulo": "Postulación",
+      "texto": "Juez solo: Abogado sí, Procurador si quieres. Sala: los dos. Funcionario con asunto de personal: tú solo (art. 23 LJCA)."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Cuándo puede declararse la nulidad de un acto por revisión de oficio?",
+      "reverso": "En cualquier momento, de oficio o a solicitud, previo dictamen favorable del Consejo de Estado u órgano consultivo autonómico.",
+      "ref": "art. 106.1 LPAC"
+    },
+    {
+      "frente": "¿Qué actos pueden revisarse de oficio por nulidad?",
+      "reverso": "Los que hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo, por las causas del art. 47.1.",
+      "ref": "art. 106.1 LPAC"
+    },
+    {
+      "frente": "¿Puede el interesado instar la revisión de oficio de una disposición general nula?",
+      "reverso": "No: la de disposiciones solo se inicia de oficio.",
+      "ref": "art. 106.2 LPAC"
+    },
+    {
+      "frente": "Causas de inadmisión sin dictamen de la solicitud de revisión de oficio",
+      "reverso": "No basarse en causas del art. 47.1, carecer manifiestamente de fundamento o haberse desestimado en el fondo otras sustancialmente iguales.",
+      "ref": "art. 106.3 LPAC"
+    },
+    {
+      "frente": "Efecto de 6 meses sin resolver la revisión de nulidad iniciada de oficio",
+      "reverso": "Caducidad del procedimiento.",
+      "ref": "art. 106.5 LPAC"
+    },
+    {
+      "frente": "Plazo máximo para declarar la lesividad de un acto anulable",
+      "reverso": "4 años desde que se dictó el acto.",
+      "ref": "art. 107.2 LPAC"
+    },
+    {
+      "frente": "¿Es recurrible la declaración de lesividad?",
+      "reverso": "No, aunque puede notificarse a efectos informativos; se examina como presupuesto procesal.",
+      "ref": "art. 107.2 LPAC"
+    },
+    {
+      "frente": "¿Quién declara la lesividad en una Entidad Local?",
+      "reverso": "El Pleno de la Corporación o, en su defecto, el órgano colegiado superior.",
+      "ref": "art. 107.5 LPAC"
+    },
+    {
+      "frente": "¿Qué actos puede revocar la Administración?",
+      "reverso": "Sus actos de gravamen o desfavorables, mientras no haya prescripción y sin dispensa ilegal ni contrariar igualdad, interés público u ordenamiento.",
+      "ref": "art. 109.1 LPAC"
+    },
+    {
+      "frente": "¿Cuándo pueden rectificarse errores materiales, de hecho o aritméticos?",
+      "reverso": "En cualquier momento, de oficio o a instancia de los interesados.",
+      "ref": "art. 109.2 LPAC"
+    },
+    {
+      "frente": "¿Cabe recurso administrativo contra un reglamento?",
+      "reverso": "No; contra las disposiciones de carácter general no cabe recurso en vía administrativa.",
+      "ref": "art. 112.3 LPAC"
+    },
+    {
+      "frente": "¿En qué motivos pueden fundarse la alzada y la reposición?",
+      "reverso": "En cualquiera de los motivos de nulidad o anulabilidad de los arts. 47 y 48.",
+      "ref": "art. 112.1 LPAC"
+    },
+    {
+      "frente": "¿Ponen fin a la vía las resoluciones de responsabilidad patrimonial?",
+      "reverso": "Sí, cualquiera que sea el tipo de relación de que derive.",
+      "ref": "art. 114.1.e LPAC"
+    },
+    {
+      "frente": "¿Qué pasa si el recurrente se equivoca al calificar su recurso?",
+      "reverso": "No impide su tramitación si se deduce su verdadero carácter.",
+      "ref": "art. 115.2 LPAC"
+    },
+    {
+      "frente": "Causas de inadmisión de los recursos",
+      "reverso": "Órgano incompetente de otra Administración, falta de legitimación, acto no recurrible, plazo transcurrido y falta manifiesta de fundamento.",
+      "ref": "art. 116 LPAC"
+    },
+    {
+      "frente": "¿Suspende la ejecución la interposición de un recurso?",
+      "reverso": "No, salvo disposición en contrario o acuerdo de suspensión del órgano competente para resolver.",
+      "ref": "art. 117.1 LPAC"
+    },
+    {
+      "frente": "Circunstancias que permiten suspender la ejecución en vía de recurso",
+      "reverso": "Perjuicios de imposible o difícil reparación, o que se alegue una causa de nulidad del art. 47.1.",
+      "ref": "art. 117.2 LPAC"
+    },
+    {
+      "frente": "Solicitud de suspensión no resuelta en 1 mes",
+      "reverso": "La ejecución se entiende suspendida.",
+      "ref": "art. 117.3 LPAC"
+    },
+    {
+      "frente": "¿Puede agravarse la situación del recurrente al resolver el recurso?",
+      "reverso": "No, en ningún caso (prohibición de la reformatio in peius).",
+      "ref": "art. 119.3 LPAC"
+    },
+    {
+      "frente": "¿Ante quién se interpone el recurso de alzada?",
+      "reverso": "Ante el órgano que dictó el acto o ante el competente para resolverlo (superior jerárquico).",
+      "ref": "art. 121.2 LPAC"
+    },
+    {
+      "frente": "¿De quién dependen los tribunales de selección a efectos de la alzada?",
+      "reverso": "Del órgano al que estén adscritos o, en su defecto, del que haya nombrado a su presidente.",
+      "ref": "art. 121.1 LPAC"
+    },
+    {
+      "frente": "Plazos del recurso de alzada",
+      "reverso": "Interposición 1 mes (acto expreso); resolución 3 meses.",
+      "ref": "art. 122 LPAC"
+    },
+    {
+      "frente": "¿Qué recurso administrativo cabe contra la resolución de una alzada?",
+      "reverso": "Solo el extraordinario de revisión, en los casos del art. 125.1.",
+      "ref": "art. 122.3 LPAC"
+    },
+    {
+      "frente": "Plazos del recurso de reposición",
+      "reverso": "Interposición 1 mes (acto expreso); resolución 1 mes.",
+      "ref": "art. 124 LPAC"
+    },
+    {
+      "frente": "¿Se puede acudir al contencioso con la reposición pendiente?",
+      "reverso": "No, hasta que se resuelva expresamente o se desestime presuntamente.",
+      "ref": "art. 123.2 LPAC"
+    },
+    {
+      "frente": "Plazos del recurso extraordinario de revisión",
+      "reverso": "4 años desde la notificación (error de hecho) o 3 meses desde el conocimiento de documentos o firmeza de la sentencia; resolución en 3 meses.",
+      "ref": "arts. 125.2 y 126.3 LPAC"
+    },
+    {
+      "frente": "Órganos de la ULL cuyos actos agotan la vía administrativa",
+      "reverso": "Rector, Claustro, Consejo de Gobierno, Consejo Social y Comisión Electoral General.",
+      "ref": "art. 10.3 EULL; art. 38.4 LOSU"
+    },
+    {
+      "frente": "¿Qué conoce el contencioso respecto de los decretos legislativos?",
+      "reverso": "Los que excedan los límites de la delegación.",
+      "ref": "art. 1.1 LJCA"
+    },
+    {
+      "frente": "¿Ante qué orden se reclama la responsabilidad patrimonial de la Administración?",
+      "reverso": "Siempre ante el contencioso-administrativo, nunca ante el civil o el social.",
+      "ref": "art. 2.e LJCA"
+    },
+    {
+      "frente": "¿Resuelve el contencioso los conflictos de jurisdicción?",
+      "reverso": "No; están excluidos, igual que los conflictos de atribuciones.",
+      "ref": "art. 3.c LJCA"
+    },
+    {
+      "frente": "¿Cuándo existe acción popular en el contencioso?",
+      "reverso": "Solo en los casos expresamente previstos por las leyes.",
+      "ref": "art. 19.1.h LJCA"
+    },
+    {
+      "frente": "¿Pueden los miembros de un órgano colegiado recurrir en vía contenciosa sus acuerdos?",
+      "reverso": "No, salvo que una ley lo autorice expresamente.",
+      "ref": "art. 20.a LJCA"
+    },
+    {
+      "frente": "Posición procesal de las aseguradoras de la Administración",
+      "reverso": "Siempre parte codemandada junto con la Administración asegurada.",
+      "ref": "art. 21.1.c LJCA"
+    },
+    {
+      "frente": "Postulación ante órganos unipersonales",
+      "reverso": "Abogado obligatorio; Procurador potestativo.",
+      "ref": "art. 23.1 LJCA"
+    },
+    {
+      "frente": "¿Cuándo puede un funcionario comparecer por sí mismo?",
+      "reverso": "En defensa de sus derechos estatutarios, en cuestiones de personal que no impliquen separación de empleados inamovibles.",
+      "ref": "art. 23.3 LJCA"
+    },
+    {
+      "frente": "Actos no impugnables en el contencioso",
+      "reverso": "Los que reproducen otros definitivos y firmes y los confirmatorios de actos consentidos.",
+      "ref": "art. 28 LJCA"
+    },
+    {
+      "frente": "Plazo general del recurso contencioso contra un acto expreso",
+      "reverso": "2 meses desde el día siguiente a su notificación o publicación.",
+      "ref": "art. 46.1 LJCA"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "La revisión de oficio de los actos nulos de pleno derecho regulada en el art. 106 LPAC puede llevarse a cabo:",
+      "opciones": [
+        "En cualquier momento, por iniciativa propia o a solicitud del interesado",
+        "Dentro de los cuatro años siguientes a su adopción",
+        "Solo a solicitud del interesado y dentro del año siguiente",
+        "Dentro de los seis meses siguientes a la notificación"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 106.1 permite declarar la nulidad en cualquier momento, de oficio o a solicitud del interesado.",
+      "ref": "art. 106.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Para declarar de oficio la nulidad de un acto administrativo es necesario:",
+      "opciones": [
+        "Informe del servicio jurídico",
+        "Dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+        "Autorización judicial",
+        "Audiencia del Ministerio Fiscal"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 106.1 LPAC: previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente autonómico.",
+      "ref": "art. 106.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Pueden ser objeto de revisión de oficio por nulidad los actos administrativos que:",
+      "opciones": [
+        "Estén pendientes de recurso de alzada",
+        "Sean de trámite no cualificados",
+        "Hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo",
+        "Hayan sido confirmados por sentencia firme"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 106.1 LPAC.",
+      "ref": "art. 106.1 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La declaración de nulidad de las disposiciones administrativas en los supuestos del art. 47.2 LPAC:",
+      "opciones": [
+        "Puede instarse por cualquier interesado",
+        "Requiere declaración previa de lesividad",
+        "Corresponde exclusivamente a los tribunales",
+        "Solo puede iniciarse de oficio, previo dictamen favorable del órgano consultivo"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 106.2 solo contempla la iniciativa de oficio para las disposiciones.",
+      "ref": "art. 106.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes de los interesados sin recabar dictamen cuando:",
+      "opciones": [
+        "El acto sea anterior a cuatro años",
+        "El interesado no aporte informe pericial",
+        "No se basen en alguna causa de nulidad del art. 47.1, carezcan manifiestamente de fundamento o se hubieran desestimado en el fondo otras sustancialmente iguales",
+        "El acto haya sido recurrido en alzada"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 106.3 LPAC.",
+      "ref": "art. 106.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Iniciado de oficio un procedimiento de revisión de un acto nulo, el transcurso de seis meses desde su inicio sin dictarse resolución produce:",
+      "opciones": [
+        "La caducidad del procedimiento",
+        "La estimación por silencio",
+        "La desestimación por silencio",
+        "La prescripción de la acción de nulidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 106.5 LPAC; si se inició a solicitud, puede entenderse desestimada por silencio.",
+      "ref": "art. 106.5 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Al declarar la nulidad de una disposición general, respecto de los actos firmes dictados en aplicación de la misma:",
+      "opciones": [
+        "Se anulan automáticamente",
+        "Quedan suspendidos",
+        "Deben revisarse en el plazo de seis meses",
+        "Subsisten"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 106.4 LPAC.",
+      "ref": "art. 106.4 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La declaración de lesividad de un acto anulable favorable no podrá adoptarse una vez transcurridos:",
+      "opciones": [
+        "Dos años desde su notificación",
+        "Cuatro años desde que se dictó el acto",
+        "Seis meses desde que se dictó el acto",
+        "Cinco años desde su firmeza"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 107.2 LPAC.",
+      "ref": "art. 107.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Señale la afirmación CORRECTA sobre la declaración de lesividad:",
+      "opciones": [
+        "Exige la previa audiencia de cuantos aparezcan como interesados y no es susceptible de recurso",
+        "Es susceptible de recurso de alzada",
+        "La Administración anula directamente el acto",
+        "Requiere dictamen favorable del Consejo de Estado"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 107.2 LPAC. La Administración debe después impugnar el acto ante el contencioso.",
+      "ref": "art. 107 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Transcurrido el plazo de seis meses desde la iniciación del procedimiento de declaración de lesividad sin haberse declarado esta:",
+      "opciones": [
+        "Se entiende declarada por silencio",
+        "Se produce la caducidad del procedimiento",
+        "Se prorroga automáticamente otros seis meses",
+        "Se remite el expediente al juez"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 107.3 LPAC.",
+      "ref": "art. 107.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si el acto proviniera de una Entidad Local, la declaración de lesividad se adoptará por:",
+      "opciones": [
+        "El Alcalde",
+        "La Junta de Gobierno Local",
+        "El Pleno de la Corporación o, en defecto de este, el órgano colegiado superior de la entidad",
+        "El Secretario de la Corporación"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 107.5 LPAC.",
+      "ref": "art. 107.5 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El plazo para interponer el recurso contencioso-administrativo de lesividad será de:",
+      "opciones": [
+        "Un mes desde la declaración de lesividad",
+        "Cuatro años desde que se dictó el acto",
+        "Seis meses desde el inicio del procedimiento",
+        "Dos meses desde el día siguiente a la fecha de la declaración de lesividad"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 46.5 LJCA.",
+      "ref": "art. 46.5 LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción:",
+      "opciones": [
+        "Sus actos favorables",
+        "Cualquier acto firme",
+        "Sus actos de gravamen o desfavorables, con los límites legales",
+        "Solo los actos nulos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 109.1 LPAC: siempre que no constituya dispensa o exención no permitida ni sea contraria a la igualdad, al interés público o al ordenamiento.",
+      "ref": "art. 109.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO es un límite de las facultades de revisión según el art. 110 LPAC?",
+      "opciones": [
+        "La cuantía económica del acto",
+        "La buena fe",
+        "El derecho de los particulares",
+        "La equidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 110: no pueden ejercerse cuando resulten contrarias a la equidad, a la buena fe, al derecho de los particulares o a las leyes.",
+      "ref": "art. 110 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el ámbito estatal, la revisión de oficio de los actos dictados por los Ministros corresponde a:",
+      "opciones": [
+        "El propio Ministro",
+        "El Consejo de Estado",
+        "El Secretario de Estado",
+        "El Consejo de Ministros"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 111.a LPAC.",
+      "ref": "art. 111 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En la Universidad de La Laguna, la competencia para la revisión de oficio de los actos administrativos que no sean acuerdos del Claustro, Consejo de Gobierno, Consejo Social o Comisión Electoral General corresponde a:",
+      "opciones": [
+        "El Secretario General",
+        "El Rector o la Rectora",
+        "El Gerente",
+        "El Consejo Consultivo de Canarias"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 10.5 EULL: cada órgano colegiado revisa sus propios acuerdos y el Rector el resto de actos.",
+      "ref": "art. 10.5 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Contra los actos de trámite, podrán interponerse recursos de alzada y potestativo de reposición cuando:",
+      "opciones": [
+        "Decidan directa o indirectamente el fondo, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable",
+        "Lo autorice el instructor",
+        "Sean dictados por órganos colegiados",
+        "Se dicten en procedimientos sancionadores"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 112.1 LPAC; la oposición a los restantes actos de trámite se alega en la resolución final.",
+      "ref": "art. 112.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Contra las disposiciones administrativas de carácter general:",
+      "opciones": [
+        "Cabe recurso de alzada",
+        "No cabe recurso en vía administrativa",
+        "Cabe recurso potestativo de reposición",
+        "Solo cabe recurso extraordinario de revisión"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 112.3 LPAC. Se impugnan directamente ante el contencioso o indirectamente a través de sus actos de aplicación.",
+      "ref": "art. 112.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 112.2 LPAC, el recurso de alzada podrá ser sustituido por otros procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje mediante:",
+      "opciones": [
+        "Reglamento de cada Administración",
+        "Convenio con los interesados",
+        "Ley, en supuestos o ámbitos sectoriales determinados y cuando la especificidad de la materia lo justifique",
+        "Acuerdo del órgano competente para resolver"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 112.2 LPAC.",
+      "ref": "art. 112.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes resoluciones NO pone fin a la vía administrativa según el art. 114.1 LPAC?",
+      "opciones": [
+        "Las resoluciones de los recursos de alzada",
+        "Las resoluciones de los órganos que carezcan de superior jerárquico, salvo que una ley disponga otra cosa",
+        "La resolución de los procedimientos de responsabilidad patrimonial",
+        "La resolución de un órgano que tiene superior jerárquico, sin previsión normativa especial"
+      ],
+      "correcta": 3,
+      "explicacion": "Los actos de órganos con superior jerárquico no agotan la vía, salvo previsión legal o reglamentaria; son recurribles en alzada.",
+      "ref": "art. 114 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el ámbito estatal, ponen fin a la vía administrativa los actos de los órganos directivos con nivel de Director general o superior:",
+      "opciones": [
+        "Solo en materia de contratación",
+        "En todo caso",
+        "En relación con las competencias que tengan atribuidas en materia de personal",
+        "Nunca"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 114.2.c LPAC.",
+      "ref": "art. 114.2.c LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El error o la ausencia de la calificación del recurso por parte del recurrente:",
+      "opciones": [
+        "No será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter",
+        "Convierte el recurso en reclamación",
+        "Obliga a subsanar en diez días",
+        "Determina su inadmisión"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 115.2 LPAC.",
+      "ref": "art. 115.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es causa de inadmisión de los recursos administrativos (art. 116 LPAC)?",
+      "opciones": [
+        "Carecer de legitimación el recurrente",
+        "Haber transcurrido el plazo para la interposición",
+        "Carecer el recurso manifiestamente de fundamento",
+        "Haberse dirigido a un órgano incompetente de la misma Administración"
+      ],
+      "correcta": 3,
+      "explicacion": "Solo es causa de inadmisión la incompetencia cuando el competente pertenezca a otra Administración (y aun así debe remitirse). Dirigirlo a otro órgano de la misma Administración no es causa de inadmisión.",
+      "ref": "art. 116 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La interposición de cualquier recurso administrativo, salvo disposición en contrario:",
+      "opciones": [
+        "Suspende automáticamente la ejecución del acto",
+        "No suspende la ejecución del acto impugnado",
+        "Suspende la ejecución solo si el acto es sancionador",
+        "Suspende la ejecución durante un mes"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 117.1 LPAC.",
+      "ref": "art. 117.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La ejecución del acto impugnado se entenderá suspendida si, transcurrido desde la entrada de la solicitud de suspensión en el registro del órgano competente, este no ha dictado y notificado resolución expresa, el plazo de:",
+      "opciones": [
+        "Un mes",
+        "Diez días",
+        "Quince días",
+        "Tres meses"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 117.3 LPAC: silencio positivo en la suspensión.",
+      "ref": "art. 117.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El órgano competente para resolver el recurso podrá suspender la ejecución del acto impugnado cuando concurra alguna de las siguientes circunstancias:",
+      "opciones": [
+        "Que el recurrente preste fianza en todo caso",
+        "Que la ejecución pudiera causar perjuicios de imposible o difícil reparación o que la impugnación se fundamente en una causa de nulidad de pleno derecho del art. 47.1",
+        "Que el acto sea anulable por defecto de forma",
+        "Que el recurso se haya presentado en plazo"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 117.2 LPAC, previa ponderación razonada de los intereses en juego.",
+      "ref": "art. 117.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la tramitación de los recursos, cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados por un plazo:",
+      "opciones": [
+        "No inferior a cinco días ni superior a diez",
+        "De veinte días",
+        "No inferior a diez días ni superior a quince",
+        "De un mes"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 118.1 LPAC.",
+      "ref": "art. 118.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "A efectos del trámite de audiencia en los recursos, ¿cuál de los siguientes TIENE el carácter de documento nuevo?",
+      "opciones": [
+        "El propio recurso",
+        "Los informes y propuestas",
+        "Los documentos aportados por los interesados antes de recaer la resolución impugnada",
+        "Un documento que no figuraba en el expediente originario y que se va a tener en cuenta en la resolución"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 118.3 niega el carácter de documentos nuevos al recurso, informes, propuestas y lo aportado antes de la resolución impugnada.",
+      "ref": "art. 118 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo del recurso, se ordenará:",
+      "opciones": [
+        "La inadmisión del recurso",
+        "La nulidad de todo el procedimiento",
+        "La retroacción del procedimiento al momento en el que el vicio fue cometido",
+        "La remisión al órgano judicial"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 119.2 LPAC, sin perjuicio de la convalidación del art. 52.",
+      "ref": "art. 119.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de la resolución de los recursos administrativos, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Decidirá cuantas cuestiones plantee el procedimiento, hayan sido o no alegadas, oyendo previamente a los interesados, sin que pueda agravarse la situación inicial del recurrente",
+        "Puede agravar la situación inicial del recurrente si aprecia nuevas infracciones",
+        "Debe resolverse siempre en el plazo de un mes",
+        "El órgano solo puede pronunciarse sobre lo alegado por el recurrente"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 119.3 LPAC: prohibición de la reformatio in peius.",
+      "ref": "art. 119.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El acuerdo por el que se suspende el plazo para resolver una pluralidad de recursos que traen causa de un mismo acto, hasta que recaiga pronunciamiento judicial:",
+      "opciones": [
+        "No es recurrible",
+        "Requiere dictamen del Consejo de Estado",
+        "Es nulo de pleno derecho",
+        "Deberá ser notificado a los interesados, quienes podrán recurrirlo"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 120.2 LPAC.",
+      "ref": "art. 120.2 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El recurso de alzada procede contra las resoluciones y actos que:",
+      "opciones": [
+        "Pongan fin a la vía administrativa",
+        "No pongan fin a la vía administrativa",
+        "Sean firmes",
+        "Sean disposiciones generales"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 121.1 LPAC.",
+      "ref": "art. 121.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "A efectos del recurso de alzada, los Tribunales y órganos de selección del personal al servicio de las Administraciones se consideran dependientes:",
+      "opciones": [
+        "Del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos",
+        "Del Ministerio de Hacienda y Función Pública",
+        "Del órgano de mayor rango que forme parte del tribunal",
+        "De ninguno, por lo que sus actos agotan la vía administrativa"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 121.1 LPAC.",
+      "ref": "art. 121.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el recurso de alzada se interpone ante el órgano que dictó el acto impugnado, este deberá remitirlo al competente en el plazo de:",
+      "opciones": [
+        "Cinco días",
+        "Diez días",
+        "Quince días",
+        "Un mes"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 121.2 LPAC: con su informe y una copia completa y ordenada del expediente.",
+      "ref": "art. 121.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El plazo para la interposición del recurso de alzada contra un acto expreso es de:",
+      "opciones": [
+        "Quince días",
+        "Tres meses",
+        "Un mes",
+        "Dos meses"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 122.1 LPAC; transcurrido, la resolución es firme a todos los efectos.",
+      "ref": "art. 122.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El plazo máximo para dictar y notificar la resolución del recurso de alzada es de:",
+      "opciones": [
+        "Un mes",
+        "Dos meses",
+        "Seis meses",
+        "Tres meses"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 122.2 LPAC.",
+      "ref": "art. 122.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Contra la resolución de un recurso de alzada:",
+      "opciones": [
+        "Cabe recurso potestativo de reposición",
+        "Cabe un segundo recurso de alzada ante el superior",
+        "No cabe ningún otro recurso administrativo, salvo el extraordinario de revisión en los casos del art. 125.1",
+        "No cabe recurso alguno, ni siquiera judicial"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 122.3 LPAC; queda abierta la vía contencioso-administrativa.",
+      "ref": "art. 122.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el acto no fuera expreso, el recurso de alzada podrá interponerse:",
+      "opciones": [
+        "En cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio",
+        "En el plazo de seis meses",
+        "Solo tras solicitar el certificado de silencio",
+        "En el plazo de tres meses"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 122.1, párrafo segundo, LPAC.",
+      "ref": "art. 122.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos:",
+      "opciones": [
+        "Obligatoriamente en reposición antes de acudir al contencioso",
+        "Solo mediante recurso extraordinario de revisión",
+        "En alzada ante el superior jerárquico",
+        "Potestativamente en reposición ante el mismo órgano que los dictó o directamente ante el orden contencioso-administrativo"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 123.1 LPAC.",
+      "ref": "art. 123.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Interpuesto recurso potestativo de reposición:",
+      "opciones": [
+        "Puede interponerse simultáneamente recurso contencioso-administrativo",
+        "No se podrá interponer recurso contencioso hasta que sea resuelto expresamente o se haya producido su desestimación presunta",
+        "Se suspende automáticamente el acto recurrido",
+        "El interesado debe desistir de él para acudir al contencioso en todo caso"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 123.2 LPAC.",
+      "ref": "art. 123.2 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Contra la resolución de un recurso de reposición:",
+      "opciones": [
+        "No podrá interponerse de nuevo dicho recurso",
+        "Cabe nuevo recurso de reposición si aparecen hechos nuevos",
+        "Cabe recurso de alzada",
+        "Cabe reclamación económico-administrativa"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 124.3 LPAC. Cabe el contencioso y, en su caso, el extraordinario de revisión.",
+      "ref": "art. 124.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El recurso extraordinario de revisión se interpone:",
+      "opciones": [
+        "Ante el superior jerárquico del órgano que dictó el acto",
+        "Ante el órgano administrativo que dictó el acto, que también será el competente para su resolución",
+        "Ante el Consejo de Estado",
+        "Ante el Juzgado de lo Contencioso-administrativo"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 125.1 LPAC.",
+      "ref": "art. 125.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una circunstancia que permita interponer el recurso extraordinario de revisión?",
+      "opciones": [
+        "Error de hecho que resulte de los propios documentos incorporados al expediente",
+        "Aparición de documentos de valor esencial que evidencien el error de la resolución",
+        "Error en la interpretación de una norma jurídica",
+        "Resolución dictada como consecuencia de cohecho declarado por sentencia judicial firme"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 125.1 solo admite error de hecho, no error de derecho o de interpretación jurídica.",
+      "ref": "art. 125.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando el recurso extraordinario de revisión se funde en error de hecho que resulte de los propios documentos del expediente, el plazo para interponerlo es de:",
+      "opciones": [
+        "Cinco años desde que se dictó el acto",
+        "Un año desde la notificación",
+        "Tres meses desde la notificación",
+        "Cuatro años siguientes a la fecha de notificación de la resolución impugnada"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 125.2 LPAC; en las demás causas, tres meses.",
+      "ref": "art. 125.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el recurso extraordinario de revisión fundado en la aparición de documentos esenciales, el plazo de interposición es de tres meses a contar desde:",
+      "opciones": [
+        "La notificación de la resolución impugnada",
+        "La fecha de los documentos",
+        "El conocimiento de los documentos",
+        "La firmeza del acto"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 125.2 LPAC: desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme.",
+      "ref": "art. 125.2 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Transcurridos tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado resolución:",
+      "opciones": [
+        "Se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa",
+        "Se entiende estimado",
+        "Caduca el recurso",
+        "Se entiende estimado si el motivo es el error de hecho"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 126.3 LPAC.",
+      "ref": "art. 126.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Una resolución del Decano de una Facultad de la Universidad de La Laguna, dictada en ejercicio de competencias propias, puede recurrirse en vía administrativa mediante:",
+      "opciones": [
+        "Solo recurso contencioso-administrativo",
+        "Recurso potestativo de reposición ante el Decano",
+        "Recurso de alzada ante la Junta de Facultad",
+        "Recurso de alzada ante el Rector o la Rectora"
+      ],
+      "correcta": 3,
+      "explicacion": "Según el art. 10.4 EULL, las resoluciones de los órganos distintos del Rector, Claustro, Consejo de Gobierno, Consejo Social y Comisión Electoral General no agotan la vía y cabe alzada ante el Rector.",
+      "ref": "art. 10.4 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 1.1 LJCA, los Juzgados y Tribunales del orden contencioso-administrativo conocerán de las pretensiones que se deduzcan en relación con los Decretos legislativos:",
+      "opciones": [
+        "En todo caso",
+        "Cuando excedan los límites de la delegación",
+        "Nunca, pues corresponden al Tribunal Constitucional",
+        "Solo si afectan a derechos fundamentales"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 1.1 LJCA.",
+      "ref": "art. 1.1 LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes cuestiones NO corresponde al orden jurisdiccional contencioso-administrativo según el art. 3 LJCA?",
+      "opciones": [
+        "Los conflictos de jurisdicción entre Juzgados y Tribunales y la Administración",
+        "Los actos de preparación y adjudicación de contratos sujetos a la legislación de contratación",
+        "La responsabilidad patrimonial de las Administraciones públicas",
+        "Los actos de las Corporaciones de Derecho público en ejercicio de funciones públicas"
+      ],
+      "correcta": 0,
+      "explicacion": "Los conflictos de jurisdicción y de atribuciones están excluidos (art. 3.c); las demás materias están incluidas en el art. 2.",
+      "ref": "arts. 2 y 3 LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La responsabilidad patrimonial de las Administraciones públicas, cuando en la producción del daño concurran con particulares o cuenten con un seguro, se exige:",
+      "opciones": [
+        "Ante el orden civil",
+        "Ante el orden contencioso-administrativo",
+        "Ante el orden civil respecto de la aseguradora y contencioso respecto de la Administración",
+        "Ante el orden social si el perjudicado es trabajador"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 2.e LJCA; las aseguradoras son siempre codemandadas (art. 21.1.c).",
+      "ref": "art. 2.e LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 18 LJCA, los grupos de afectados, uniones sin personalidad o patrimonios independientes tienen capacidad procesal ante el orden contencioso-administrativo:",
+      "opciones": [
+        "Siempre",
+        "Nunca",
+        "Cuando la Ley así lo declare expresamente",
+        "Cuando lo autorice el juez"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 18 LJCA, en paralelo al art. 3.c LPAC.",
+      "ref": "art. 18 LJCA",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cualquier ciudadano está legitimado ante el orden contencioso-administrativo en ejercicio de la acción popular:",
+      "opciones": [
+        "En todo caso",
+        "Cuando lo autorice el Ministerio Fiscal",
+        "Solo en materia tributaria",
+        "En los casos expresamente previstos por las Leyes"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 19.1.h LJCA.",
+      "ref": "art. 19.1.h LJCA",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Quién NO puede interponer recurso contencioso-administrativo contra la actividad de una Administración pública, salvo que una Ley lo autorice expresamente?",
+      "opciones": [
+        "Un particular con interés legítimo",
+        "Un sindicato en defensa de intereses colectivos",
+        "Un miembro de un órgano colegiado de esa misma Administración",
+        "El Ministerio Fiscal en los procesos que determine la ley"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 20.a LJCA.",
+      "ref": "art. 20 LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 21 LJCA, las aseguradoras de las Administraciones públicas:",
+      "opciones": [
+        "Serán siempre parte codemandada junto con la Administración a quien aseguren",
+        "No pueden ser parte en el proceso contencioso",
+        "Solo pueden ser demandadas ante el orden civil",
+        "Pueden elegir personarse o no"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 21.1.c LJCA.",
+      "ref": "art. 21.1.c LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En sus actuaciones ante órganos unipersonales del orden contencioso-administrativo, las partes:",
+      "opciones": [
+        "Deberán conferir su representación a un Procurador y ser asistidas por Abogado",
+        "Solo necesitan Procurador",
+        "Pueden actuar siempre por sí mismas",
+        "Podrán conferir su representación a un Procurador y serán asistidas, en todo caso, por Abogado"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 23.1 LJCA; ante órganos colegiados, Procurador y Abogado son obligatorios (art. 23.2).",
+      "ref": "art. 23 LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Podrán comparecer por sí mismos ante el orden contencioso-administrativo:",
+      "opciones": [
+        "Todos los empleados públicos en cualquier asunto",
+        "Los funcionarios públicos en defensa de sus derechos estatutarios, en cuestiones de personal que no impliquen separación de empleados públicos inamovibles",
+        "Los funcionarios en procedimientos de separación del servicio",
+        "Solo el personal laboral"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 23.3 LJCA; deben usar los sistemas electrónicos.",
+      "ref": "art. 23.3 LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes actuaciones NO es impugnable ante el orden contencioso-administrativo según los arts. 25 y 28 LJCA?",
+      "opciones": [
+        "Los actos confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma",
+        "Las actuaciones materiales que constituyan vía de hecho",
+        "Las disposiciones de carácter general",
+        "La inactividad de la Administración"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 28 LJCA excluye los actos reproducción de otros firmes y los confirmatorios de actos consentidos.",
+      "ref": "arts. 25 y 28 LJCA",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando la Administración esté obligada a realizar una prestación concreta en favor de personas determinadas, estas podrán interponer recurso contra la inactividad si, desde la fecha de la reclamación, no se cumple lo solicitado en el plazo de:",
+      "opciones": [
+        "Un mes",
+        "Tres meses",
+        "Dos meses",
+        "Seis meses"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 29.1 LJCA.",
+      "ref": "art. 29.1 LJCA",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En caso de vía de hecho, el requerimiento a la Administración intimando su cesación:",
+      "opciones": [
+        "Debe presentarse ante el Juzgado",
+        "Es obligatorio y debe atenderse en un mes",
+        "Es potestativo; si no se formula o no es atendido en diez días, puede deducirse directamente recurso contencioso",
+        "Sustituye al recurso contencioso"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 30 LJCA; el plazo del recurso será de diez días desde que termina el plazo del requerimiento o de veinte si no hubo requerimiento (art. 46.3).",
+      "ref": "arts. 30 y 46.3 LJCA",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El plazo para interponer el recurso contencioso-administrativo contra un acto expreso que ponga fin a la vía administrativa es de:",
+      "opciones": [
+        "Un mes",
+        "Seis meses",
+        "Tres meses",
+        "Dos meses desde el día siguiente a su notificación o publicación"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 46.1 LJCA.",
+      "ref": "art. 46.1 LJCA",
+      "dificultad": 1
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Revisión de Oficio del acto administrativo y Procedimiento de Declaración de lesividad ley 39/2015",
+      "url": "https://www.youtube.com/watch?v=Y0U3CqhPCkw",
+      "canal": "ALTA ESCUELA DE OPOSITORES"
+    },
+    {
+      "titulo": "Ley 39/2015: revisión de oficio de los actos administrativos",
+      "url": "https://www.youtube.com/watch?v=D02Y4ZhG4oU",
+      "canal": "Gurú Oposiciones"
+    },
+    {
+      "titulo": "Ley 39/2015. Recursos administrativos: reposición, alzada y recurso extraordinario de revisión",
+      "url": "https://www.youtube.com/watch?v=98SbTl4s84s",
+      "canal": "Prepara tu oposicion"
+    },
+    {
+      "titulo": "Esquema de los recursos administrativos más importantes de la Ley 39/2015",
+      "url": "https://www.youtube.com/watch?v=5t2sNIlCBWY",
+      "canal": "GoKoan Oposiciones"
+    },
+    {
+      "titulo": "2.- Ley 29/1998 - Título II: Las partes y actividad administrativa impugnable",
+      "url": "https://www.youtube.com/watch?v=Uko5Qu_7YT4",
+      "canal": "Paco Barbié"
+    },
+    {
+      "titulo": "Cuestiones clave de la Ley de la Jurisdicción Contencioso-Administrativa",
+      "url": "https://www.youtube.com/watch?v=2VZaK0M4T9c",
+      "canal": "Administrativando Abogados"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "Ley 39/2015, del Procedimiento Administrativo Común (texto consolidado, BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    },
+    {
+      "titulo": "Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa (texto consolidado, BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718"
+    },
+    {
+      "titulo": "STC 52/2014, de 10 de abril (plazo del art. 46.1 LJCA y silencio negativo), BOE",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-4822"
+    },
+    {
+      "titulo": "Normativa de la Universidad de La Laguna (Secretaría General)",
+      "url": "https://www.ull.es/portal/normativa/"
+    }
+  ]
+}

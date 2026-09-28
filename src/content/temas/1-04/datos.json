@@ -1,0 +1,1155 @@
+{
+  "claves": [
+    "La LPAC regula la validez y eficacia de los actos, el procedimiento común (incluidos sancionador y responsabilidad patrimonial) y los principios de la iniciativa legislativa y la potestad reglamentaria (art. 1.1).",
+    "Solo una ley puede incluir trámites adicionales o distintos a los de la LPAC; un reglamento solo puede fijar especialidades en órganos, plazos, iniciación, terminación, publicación e informes (art. 1.2).",
+    "Las universidades públicas forman parte del sector público institucional y se rigen por su normativa específica y supletoriamente por la LPAC (art. 2.2.c).",
+    "Quien tiene derechos afectados es interesado aunque no se persone; quien solo tiene intereses legítimos debe personarse antes de la resolución definitiva (art. 4.1).",
+    "La representación debe acreditarse para solicitudes, declaraciones responsables o comunicaciones, recursos, desistimiento y renuncia; se presume en los actos de mero trámite (art. 5.3).",
+    "La firma solo es obligatoria en esos mismos cinco supuestos; para lo demás basta con acreditar la identidad (art. 11).",
+    "Las personas jurídicas, entidades sin personalidad, profesionales de colegiación obligatoria, representantes de obligados y empleados públicos (por razón de su condición) están obligados a relacionarse electrónicamente (art. 14.2).",
+    "La comparecencia personal solo es obligatoria cuando lo prevea una norma con rango de ley (art. 19.1).",
+    "El plazo máximo para resolver no puede exceder de seis meses salvo ley o Derecho de la UE; si la norma no lo fija, es de tres meses (art. 21.2 y 3).",
+    "En los procedimientos a solicitud, el silencio es estimatorio salvo que una norma con rango de ley, el Derecho UE o el internacional dispongan lo contrario (art. 24.1).",
+    "En los procedimientos de oficio, el silencio es desestimatorio si son favorables y produce caducidad si son sancionadores o de gravamen (art. 25.1).",
+    "Los plazos por días son hábiles, excluidos sábados, domingos y festivos, y se cuentan desde el día siguiente a la notificación o publicación (art. 30.2 y 3).",
+    "Los plazos por meses se cuentan de fecha a fecha y, si no hay día equivalente, vencen el último día del mes (art. 30.4).",
+    "La ampliación de plazos no puede exceder de la mitad y nunca de un plazo vencido; la urgencia reduce los plazos a la mitad salvo solicitudes y recursos; ninguno de estos acuerdos es recurrible (arts. 32 y 33)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Subsanación de la falta o insuficiente acreditación de la representación",
+      "valor": "10 días (o plazo superior si las circunstancias lo requieren)",
+      "ref": "art. 5.6 LPAC"
+    },
+    {
+      "concepto": "Validez máxima de los poderes inscritos en el registro electrónico de apoderamientos",
+      "valor": "5 años desde la inscripción",
+      "ref": "art. 6.6 LPAC"
+    },
+    {
+      "concepto": "Validez máxima de las prórrogas de los poderes inscritos",
+      "valor": "5 años desde la inscripción",
+      "ref": "art. 6.6 LPAC"
+    },
+    {
+      "concepto": "Espera antes de la eficacia jurídica de otros sistemas de identificación o firma (letra c)",
+      "valor": "2 meses desde la comunicación a la Secretaría General de Administración Digital",
+      "ref": "arts. 9.2.c y 10.2.c LPAC"
+    },
+    {
+      "concepto": "Informe vinculante de la Secretaría de Estado de Seguridad sobre esos sistemas",
+      "valor": "10 días desde su solicitud",
+      "ref": "arts. 9.2.c y 10.2.c LPAC"
+    },
+    {
+      "concepto": "Plazo máximo para resolver fijado por la norma reguladora",
+      "valor": "No puede exceder de 6 meses (salvo norma con rango de ley o Derecho UE)",
+      "ref": "art. 21.2 LPAC"
+    },
+    {
+      "concepto": "Plazo máximo para resolver cuando la norma no lo fija",
+      "valor": "3 meses",
+      "ref": "art. 21.3 LPAC"
+    },
+    {
+      "concepto": "Comunicación al interesado del plazo máximo y efectos del silencio",
+      "valor": "10 días siguientes a la recepción de la solicitud en el registro del órgano competente",
+      "ref": "art. 21.4 LPAC"
+    },
+    {
+      "concepto": "Suspensión del plazo para resolver por petición de informes preceptivos",
+      "valor": "Máximo 3 meses",
+      "ref": "art. 22.1.d LPAC"
+    },
+    {
+      "concepto": "Ampliación del plazo máximo para resolver",
+      "valor": "No superior al plazo establecido para la tramitación del procedimiento",
+      "ref": "art. 23.1 LPAC"
+    },
+    {
+      "concepto": "Expedición de oficio del certificado acreditativo del silencio",
+      "valor": "15 días desde que expire el plazo máximo para resolver",
+      "ref": "art. 24.4 LPAC"
+    },
+    {
+      "concepto": "Expedición de copias auténticas solicitadas por el interesado",
+      "valor": "15 días desde la recepción de la solicitud",
+      "ref": "art. 27.4 LPAC"
+    },
+    {
+      "concepto": "Remisión de informes preceptivos ya elaborados por otro órgano",
+      "valor": "10 días desde su solicitud",
+      "ref": "art. 28.2 LPAC"
+    },
+    {
+      "concepto": "Duración máxima de los plazos expresados en horas",
+      "valor": "24 horas (si es mayor, se expresa en días)",
+      "ref": "art. 30.1 LPAC"
+    },
+    {
+      "concepto": "Días inhábiles en el cómputo por días",
+      "valor": "Sábados, domingos y festivos",
+      "ref": "art. 30.2 LPAC"
+    },
+    {
+      "concepto": "Vencimiento de plazos por meses sin día equivalente",
+      "valor": "Último día del mes",
+      "ref": "art. 30.4 LPAC"
+    },
+    {
+      "concepto": "Funcionamiento del registro electrónico",
+      "valor": "Todos los días del año, 24 horas",
+      "ref": "art. 31.2.a LPAC"
+    },
+    {
+      "concepto": "Ampliación de plazos",
+      "valor": "No más de la mitad de los mismos",
+      "ref": "art. 32.1 LPAC"
+    },
+    {
+      "concepto": "Tramitación de urgencia",
+      "valor": "Plazos reducidos a la mitad, salvo solicitudes y recursos",
+      "ref": "art. 33.1 LPAC"
+    },
+    {
+      "concepto": "Edad para hacerse cargo de una notificación en papel en el domicilio (referencia)",
+      "valor": "Mayor de 14 años",
+      "ref": "art. 42.2 LPAC"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Interesado",
+      "definicion": "Quien promueve el procedimiento como titular de derechos o intereses legítimos, quien tiene derechos que puedan resultar afectados y quien, con intereses legítimos afectados, se persona antes de la resolución definitiva (art. 4 LPAC)."
+    },
+    {
+      "termino": "Capacidad de obrar",
+      "definicion": "Aptitud para actuar válidamente ante las Administraciones; la tienen las personas con capacidad civil, los menores para ciertos derechos y, si una ley lo declara, grupos de afectados y patrimonios autónomos (art. 3 LPAC)."
+    },
+    {
+      "termino": "Apoderamiento apud acta",
+      "definicion": "Otorgamiento de representación mediante comparecencia personal en oficina de asistencia en materia de registros o comparecencia electrónica en la sede electrónica (arts. 5.4 y 6.5 LPAC)."
+    },
+    {
+      "termino": "Bastanteo",
+      "definicion": "Comprobación de la suficiencia de un poder para el acto de que se trate; debe constar en el registro electrónico general de apoderamientos (art. 6.1 LPAC)."
+    },
+    {
+      "termino": "Punto de Acceso General electrónico",
+      "definicion": "Portal a través del cual las personas se comunican con la Administración y acceden a sus notificaciones y al estado de sus procedimientos (arts. 13.a y 43.4 LPAC)."
+    },
+    {
+      "termino": "Registro Electrónico General",
+      "definicion": "Registro de cada Administración en el que se asienta todo documento presentado o recibido, que funciona como portal de acceso a los registros de sus organismos (art. 16.1 LPAC)."
+    },
+    {
+      "termino": "Oficina de asistencia en materia de registros",
+      "definicion": "Oficina presencial donde se pueden presentar documentos, que los digitaliza y devuelve los originales, y donde se asiste en el uso de medios electrónicos (arts. 12 y 16 LPAC)."
+    },
+    {
+      "termino": "Silencio administrativo",
+      "definicion": "Técnica que atribuye un efecto estimatorio o desestimatorio a la falta de resolución expresa notificada dentro del plazo máximo (arts. 24 y 25 LPAC)."
+    },
+    {
+      "termino": "Certificado acreditativo del silencio",
+      "definicion": "Documento que acredita la producción del silencio; se expide de oficio en 15 días desde que vence el plazo para resolver o a petición del interesado (art. 24.4 LPAC)."
+    },
+    {
+      "termino": "Caducidad (procedimientos de oficio)",
+      "definicion": "Efecto del vencimiento del plazo sin resolución en procedimientos sancionadores o de intervención de gravamen; se ordena el archivo de las actuaciones (art. 25.1.b LPAC)."
+    },
+    {
+      "termino": "Copia auténtica",
+      "definicion": "Copia realizada por órgano competente que garantiza la identidad del órgano y su contenido; tiene la misma validez y eficacia que el original (art. 27.2 LPAC)."
+    },
+    {
+      "termino": "Digitalización",
+      "definicion": "Proceso tecnológico que convierte un documento en papel u otro soporte no electrónico en un fichero electrónico con su imagen codificada, fiel e íntegra (art. 27.3.b LPAC)."
+    },
+    {
+      "termino": "Documento público administrativo",
+      "definicion": "El válidamente emitido por los órganos de las Administraciones Públicas, por escrito y a través de medios electrónicos salvo que su naturaleza exija otra forma (art. 26.1 LPAC)."
+    },
+    {
+      "termino": "Días hábiles",
+      "definicion": "Todos los días excepto sábados, domingos y festivos; es la regla por defecto en el cómputo de plazos por días (art. 30.2 LPAC)."
+    },
+    {
+      "termino": "Tramitación de urgencia",
+      "definicion": "Acuerdo, por razones de interés público, que reduce a la mitad los plazos del procedimiento ordinario, salvo los de solicitudes y recursos (art. 33 LPAC)."
+    },
+    {
+      "termino": "Sector público institucional",
+      "definicion": "Conjunto de organismos y entidades de derecho público, entidades de derecho privado vinculadas y universidades públicas (art. 2.2 LPAC)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Cinco actos que exigen firma y acreditar representación",
+      "texto": "SoDeReDeRe: Solicitudes, Declaraciones responsables y comunicaciones, Recursos, Desistir, Renunciar (arts. 5.3 y 11.2)."
+    },
+    {
+      "titulo": "Suspensión obligatoria del plazo para resolver",
+      "texto": "RAR: Requerimiento a otra Administración, Actuaciones complementarias y Recusación (art. 22.2). El resto de supuestos del art. 22.1 son potestativos."
+    },
+    {
+      "titulo": "Excepciones al silencio positivo",
+      "texto": "Pide DeS de el Mar 3R: Petición (art. 29 CE), Dominio o Servicio público, Medio ambiente, Responsabilidad patrimonial, Recursos y Revisión de oficio a solicitud (art. 24.1)."
+    },
+    {
+      "titulo": "Lugares de presentación de documentos",
+      "texto": "ReCoCe OtrOs: Registro electrónico, Correos, Consulados, Oficinas de asistencia y Otros previstos (art. 16.4)."
+    },
+    {
+      "titulo": "La regla de la mitad",
+      "texto": "Ampliación: hasta la mitad (art. 32). Urgencia: a la mitad, salvo solicitudes y recursos (art. 33). Ninguno es recurrible."
+    },
+    {
+      "titulo": "Seis, tres y diez",
+      "texto": "Plazo de resolver: máximo 6 meses, si no se fija 3 meses, y aviso al interesado en 10 días (art. 21)."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué norma puede introducir trámites adicionales o distintos a los de la LPAC?",
+      "reverso": "Solo una ley, de forma motivada y cuando sea eficaz, proporcionado y necesario.",
+      "ref": "art. 1.2 LPAC"
+    },
+    {
+      "frente": "¿Cómo se rigen las universidades públicas según la LPAC?",
+      "reverso": "Por su normativa específica y supletoriamente por la LPAC; forman parte del sector público institucional.",
+      "ref": "art. 2.2.c LPAC"
+    },
+    {
+      "frente": "¿Tienen capacidad de obrar los grupos de afectados y las uniones sin personalidad?",
+      "reverso": "Solo cuando la ley así lo declare expresamente.",
+      "ref": "art. 3.c LPAC"
+    },
+    {
+      "frente": "¿Cuándo es interesado quien solo tiene intereses legítimos afectados sin haber iniciado el procedimiento?",
+      "reverso": "Cuando se persone en el procedimiento mientras no haya recaído resolución definitiva.",
+      "ref": "art. 4.1.c LPAC"
+    },
+    {
+      "frente": "¿Para qué actos debe acreditarse la representación?",
+      "reverso": "Formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos.",
+      "ref": "art. 5.3 LPAC"
+    },
+    {
+      "frente": "Plazo para subsanar la falta de acreditación de la representación",
+      "reverso": "10 días, o superior si las circunstancias lo requieren.",
+      "ref": "art. 5.6 LPAC"
+    },
+    {
+      "frente": "¿Cuándo puede una persona jurídica representar a otra?",
+      "reverso": "Siempre que ello esté previsto en sus Estatutos.",
+      "ref": "art. 5.2 LPAC"
+    },
+    {
+      "frente": "Validez máxima de un poder inscrito en el registro de apoderamientos",
+      "reverso": "5 años desde la inscripción; las prórrogas, también 5 años como máximo.",
+      "ref": "art. 6.6 LPAC"
+    },
+    {
+      "frente": "Tres tipos de poder inscribibles en el registro de apoderamientos",
+      "reverso": "General ante cualquier Administración; ante una Administración u Organismo concreto; para trámites determinados.",
+      "ref": "art. 6.4 LPAC"
+    },
+    {
+      "frente": "Si varios interesados firman una solicitud sin designar representante, ¿con quién se entienden las actuaciones?",
+      "reverso": "Con el que figure en primer término.",
+      "ref": "art. 7 LPAC"
+    },
+    {
+      "frente": "¿Para qué actos exige la Administración el uso obligatorio de firma?",
+      "reverso": "Solicitudes, declaraciones responsables o comunicaciones, recursos, desistimiento de acciones y renuncia a derechos.",
+      "ref": "art. 11.2 LPAC"
+    },
+    {
+      "frente": "Requisitos para que un funcionario firme por un interesado sin medios electrónicos",
+      "reverso": "Que el interesado se identifique ante el funcionario y preste su consentimiento expreso, del que quede constancia.",
+      "ref": "art. 12.2 LPAC"
+    },
+    {
+      "frente": "¿Quiénes están obligados en todo caso a relacionarse electrónicamente?",
+      "reverso": "Personas jurídicas, entidades sin personalidad, profesionales de colegiación obligatoria, representantes de obligados y empleados públicos por razón de su condición.",
+      "ref": "art. 14.2 LPAC"
+    },
+    {
+      "frente": "Lengua si varios interesados discrepan en un procedimiento de la AGE",
+      "reverso": "Castellano, aunque los documentos que requieran se expiden en la lengua elegida.",
+      "ref": "art. 15.1 LPAC"
+    },
+    {
+      "frente": "¿Dónde pueden presentarse los documentos dirigidos a las Administraciones?",
+      "reverso": "Registro electrónico de cualquier Administración del art. 2.1, Correos, representaciones diplomáticas u oficinas consulares, oficinas de asistencia en materia de registros y otros previstos.",
+      "ref": "art. 16.4 LPAC"
+    },
+    {
+      "frente": "¿Qué rango debe tener la norma que obligue a comparecer?",
+      "reverso": "Rango de ley.",
+      "ref": "art. 19.1 LPAC"
+    },
+    {
+      "frente": "Excepciones a la obligación de resolver expresamente",
+      "reverso": "Terminación por pacto o convenio y procedimientos de derechos sometidos solo a declaración responsable o comunicación.",
+      "ref": "art. 21.1 LPAC"
+    },
+    {
+      "frente": "Plazo máximo para resolver si la norma no lo fija",
+      "reverso": "3 meses.",
+      "ref": "art. 21.3 LPAC"
+    },
+    {
+      "frente": "¿Desde cuándo se cuenta el plazo para resolver en un procedimiento a solicitud?",
+      "reverso": "Desde la entrada de la solicitud en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+      "ref": "art. 21.3.b LPAC"
+    },
+    {
+      "frente": "Supuestos de suspensión obligatoria del plazo para resolver",
+      "reverso": "Requerimiento a otra Administración (art. 39.5), actuaciones complementarias y recusación.",
+      "ref": "art. 22.2 LPAC"
+    },
+    {
+      "frente": "Duración máxima de la suspensión por solicitud de informes preceptivos",
+      "reverso": "3 meses; después prosigue el procedimiento.",
+      "ref": "art. 22.1.d LPAC"
+    },
+    {
+      "frente": "¿Cabe recurso contra el acuerdo de ampliación del plazo máximo para resolver?",
+      "reverso": "No, no cabe recurso alguno.",
+      "ref": "art. 23.2 LPAC"
+    },
+    {
+      "frente": "Regla general del silencio en procedimientos a solicitud del interesado",
+      "reverso": "Estimatorio, salvo norma con rango de ley, Derecho UE o internacional que disponga lo contrario.",
+      "ref": "art. 24.1 LPAC"
+    },
+    {
+      "frente": "¿Qué ocurre si no se resuelve la alzada interpuesta contra una desestimación presunta?",
+      "reverso": "Se entiende estimada, salvo en las materias excluidas (petición, dominio o servicio público, medio ambiente, responsabilidad patrimonial).",
+      "ref": "art. 24.1 LPAC"
+    },
+    {
+      "frente": "Resolución expresa posterior a una estimación por silencio",
+      "reverso": "Solo podrá dictarse si es confirmatoria.",
+      "ref": "art. 24.3.a LPAC"
+    },
+    {
+      "frente": "Efecto del vencimiento del plazo en un procedimiento sancionador iniciado de oficio",
+      "reverso": "Caducidad y archivo de las actuaciones.",
+      "ref": "art. 25.1.b LPAC"
+    },
+    {
+      "frente": "Plazo para expedir copias auténticas a solicitud del interesado",
+      "reverso": "15 días desde la recepción de la solicitud.",
+      "ref": "art. 27.4 LPAC"
+    },
+    {
+      "frente": "¿Cuándo no puede el interesado oponerse a que la Administración recabe sus documentos?",
+      "reverso": "Cuando la aportación se exija en el ejercicio de potestades sancionadoras o de inspección.",
+      "ref": "art. 28.2 LPAC"
+    },
+    {
+      "frente": "¿Qué días se excluyen en el cómputo de plazos por días?",
+      "reverso": "Sábados, domingos y festivos.",
+      "ref": "art. 30.2 LPAC"
+    },
+    {
+      "frente": "Día hábil en el domicilio del interesado e inhábil en la sede del órgano",
+      "reverso": "Se considera inhábil en todo caso (no se aplica a los registros electrónicos).",
+      "ref": "arts. 30.6 y 31.3 LPAC"
+    },
+    {
+      "frente": "Presentación en el registro electrónico en día inhábil",
+      "reverso": "Se entiende realizada en la primera hora del primer día hábil siguiente.",
+      "ref": "art. 31.2.b LPAC"
+    },
+    {
+      "frente": "Límite de la ampliación de plazos",
+      "reverso": "No más de la mitad; antes del vencimiento; nunca un plazo ya vencido.",
+      "ref": "art. 32 LPAC"
+    },
+    {
+      "frente": "Plazos que no se reducen en la tramitación de urgencia",
+      "reverso": "Los relativos a la presentación de solicitudes y recursos.",
+      "ref": "art. 33.1 LPAC"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el artículo 1.2 de la Ley 39/2015, la inclusión de trámites adicionales o distintos a los contemplados en ella solo podrá realizarse mediante:",
+      "opciones": [
+        "Ley, cuando resulte eficaz, proporcionado y necesario, y de manera motivada",
+        "Real decreto aprobado por el Consejo de Ministros",
+        "Orden ministerial, previo informe del Consejo de Estado",
+        "Cualquier disposición reglamentaria, si se trata de especialidades por razón de la materia"
+      ],
+      "correcta": 0,
+      "explicacion": "Solo mediante ley, y de forma motivada, pueden incluirse trámites adicionales o distintos. Los reglamentos solo pueden establecer especialidades (órganos, plazos, iniciación, terminación, publicación e informes).",
+      "ref": "art. 1.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes especialidades del procedimiento NO puede establecerse reglamentariamente según el art. 1.2 LPAC?",
+      "opciones": [
+        "Los órganos competentes",
+        "Nuevos trámites distintos de los previstos en la Ley",
+        "Los informes a recabar",
+        "Las formas de iniciación y terminación"
+      ],
+      "correcta": 1,
+      "explicacion": "Por reglamento se pueden fijar especialidades sobre órganos, plazos, formas de iniciación y terminación, publicación e informes; los trámites adicionales o distintos requieren ley.",
+      "ref": "art. 1.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Conforme al artículo 2 LPAC, las Universidades públicas:",
+      "opciones": [
+        "Tienen la consideración de Administración Pública a todos los efectos del art. 2.3",
+        "Quedan excluidas del ámbito de aplicación de la LPAC",
+        "Forman parte del sector público institucional y se rigen por su normativa específica y supletoriamente por la LPAC",
+        "Solo se someten a la LPAC cuando ejerzan potestades sancionadoras"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 2.2.c incluye a las Universidades públicas en el sector público institucional, regidas por su normativa específica y supletoriamente por la LPAC.",
+      "ref": "art. 2.2.c LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a la LPAC:",
+      "opciones": [
+        "En todo caso y en su integridad",
+        "Solo en lo relativo a la responsabilidad patrimonial",
+        "Nunca, porque se rigen íntegramente por el Derecho privado",
+        "En las normas que se refieran específicamente a ellas y, en todo caso, cuando ejerzan potestades administrativas"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 2.2.b las sujeta a las normas de la LPAC que específicamente se refieran a ellas y, en todo caso, cuando ejerzan potestades administrativas.",
+      "ref": "art. 2.2.b LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes sujetos NO tiene la consideración de Administración Pública según el art. 2.3 LPAC?",
+      "opciones": [
+        "Un organismo público vinculado a la AGE",
+        "La Administración General del Estado",
+        "Una entidad de derecho privado vinculada a una Comunidad Autónoma",
+        "Las Entidades que integran la Administración Local"
+      ],
+      "correcta": 2,
+      "explicacion": "Son Administraciones Públicas la AGE, las CCAA, las Entidades Locales y los organismos públicos y entidades de derecho público del art. 2.2.a; no las entidades de derecho privado.",
+      "ref": "art. 2.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes tienen capacidad de obrar ante las Administraciones:",
+      "opciones": [
+        "Cuando la Ley así lo declare expresamente",
+        "Cuando lo autorice el órgano competente para resolver",
+        "Siempre",
+        "Solo en los procedimientos iniciados de oficio"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 3.c exige que la Ley lo declare expresamente.",
+      "ref": "art. 3.c LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Respecto de los menores de edad, el art. 3 LPAC establece que tienen capacidad de obrar:",
+      "opciones": [
+        "A partir de los dieciséis años en todo caso",
+        "Nunca, pues actúan siempre por medio de sus representantes legales",
+        "Únicamente si están emancipados",
+        "Para el ejercicio y defensa de los derechos cuya actuación esté permitida por el ordenamiento sin la asistencia de quien ejerza la patria potestad, tutela o curatela"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 3.b reconoce capacidad a los menores para los derechos e intereses cuya actuación esté permitida sin asistencia, salvo los menores incapacitados en los términos indicados.",
+      "ref": "art. 3.b LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 4 LPAC, quienes tengan intereses legítimos que puedan resultar afectados por la resolución, sin haber iniciado el procedimiento, serán interesados:",
+      "opciones": [
+        "En todo caso, desde el inicio del procedimiento",
+        "Si se personan en el procedimiento en tanto no haya recaído resolución definitiva",
+        "Solo si la Administración los cita expresamente",
+        "Si se personan antes del trámite de audiencia"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 4.1.c exige que se personen mientras no haya recaído resolución definitiva. Los titulares de derechos afectados (letra b) son interesados sin necesidad de personarse.",
+      "ref": "art. 4.1.c LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando la condición de interesado derive de una relación jurídica transmisible, el derecho-habiente sucederá en tal condición:",
+      "opciones": [
+        "Cualquiera que sea el estado del procedimiento",
+        "Solo si el procedimiento no ha superado la fase de instrucción",
+        "Previa autorización del órgano instructor",
+        "Únicamente en los procedimientos iniciados a solicitud"
+      ],
+      "correcta": 0,
+      "explicacion": "Así lo dispone literalmente el art. 4.3 LPAC.",
+      "ref": "art. 4.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Para cuál de los siguientes actos NO es necesario acreditar la representación según el art. 5.3 LPAC?",
+      "opciones": [
+        "Interponer un recurso",
+        "Realizar una gestión de mero trámite",
+        "Presentar una declaración responsable",
+        "Desistir de una acción"
+      ],
+      "correcta": 1,
+      "explicacion": "Para los actos y gestiones de mero trámite se presume la representación; en los demás supuestos citados debe acreditarse.",
+      "ref": "art. 5.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto siempre que se subsane en el plazo de:",
+      "opciones": [
+        "Cinco días",
+        "Quince días improrrogables",
+        "Diez días, o superior si las circunstancias lo requieren",
+        "Un mes"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 5.6 fija diez días, o un plazo superior cuando las circunstancias del caso lo requieran.",
+      "ref": "art. 5.6 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las personas jurídicas pueden actuar en representación de otras ante las Administraciones Públicas:",
+      "opciones": [
+        "Nunca",
+        "Siempre, sin requisito adicional",
+        "Solo si están inscritas en el registro de apoderamientos de la AGE",
+        "Siempre que ello esté previsto en sus Estatutos"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 5.2 permite que las personas jurídicas representen a otras siempre que lo prevean sus Estatutos.",
+      "ref": "art. 5.2 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez determinada máxima de:",
+      "opciones": [
+        "Dos años",
+        "Tres años",
+        "Cinco años",
+        "Diez años"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 6.6 fija una validez máxima de cinco años desde la inscripción, prorrogable por otros cinco como máximo.",
+      "ref": "art. 6.6 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes datos NO figura entre el contenido mínimo de los asientos del registro electrónico de apoderamientos (art. 6.3 LPAC)?",
+      "opciones": [
+        "Domicilio profesional del apoderado",
+        "Período de tiempo por el que se otorga el poder",
+        "Tipo de poder según las facultades que otorgue",
+        "Fecha de inscripción"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 6.3 exige identificación de poderdante y apoderado, fecha de inscripción, período de tiempo y tipo de poder; no el domicilio profesional.",
+      "ref": "art. 6.3 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El apoderamiento apud acta se otorgará, según el art. 6.5 LPAC:",
+      "opciones": [
+        "Solo ante notario",
+        "Únicamente ante el órgano instructor del procedimiento",
+        "Mediante escrito firmado por el poderdante y presentado en Correos",
+        "Mediante comparecencia electrónica en la sede electrónica o comparecencia personal en las oficinas de asistencia en materia de registros"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 6.5 prevé la comparecencia electrónica en la sede con firma electrónica o la comparecencia personal en las oficinas de asistencia en materia de registros.",
+      "ref": "art. 6.5 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cuando en una solicitud figuren varios interesados y no hayan señalado expresamente representante o interesado, las actuaciones se efectuarán:",
+      "opciones": [
+        "Con todos ellos individualmente",
+        "Con el que figure en primer término",
+        "Con el de mayor edad",
+        "Con el que designe el órgano instructor"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 7 establece que, en defecto de designación expresa, se actúa con el que figure en primer término.",
+      "ref": "art. 7 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 8 LPAC, si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de personas titulares de derechos o intereses legítimos y directos que puedan resultar afectados:",
+      "opciones": [
+        "Se les comunicará la tramitación del procedimiento",
+        "Se suspenderá el procedimiento hasta que se personen",
+        "Se publicará un anuncio en el BOE",
+        "Se archivará el procedimiento"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 8 impone comunicarles la tramitación del procedimiento cuando su identificación resulte del expediente.",
+      "ref": "art. 8 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los sistemas de identificación de la letra c) del art. 9.2 LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de su eficacia jurídica?",
+      "opciones": [
+        "Diez días",
+        "Dos meses",
+        "Un mes",
+        "Tres meses"
+      ],
+      "correcta": 1,
+      "explicacion": "Deben transcurrir dos meses, durante los cuales el órgano estatal competente puede acudir a la vía jurisdiccional por motivos de seguridad pública, previo informe vinculante de la Secretaría de Estado de Seguridad emitido en diez días.",
+      "ref": "art. 9.2.c LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo será suficiente con que los interesados:",
+      "opciones": [
+        "Firmen electrónicamente con certificado cualificado",
+        "Comparezcan personalmente ante el órgano",
+        "Acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en la Ley",
+        "Aporten copia auténtica de su DNI"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 11.1 establece que basta con acreditar la identidad; la firma solo se exige en los supuestos del art. 11.2.",
+      "ref": "art. 11.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿En cuál de los siguientes casos NO exige el art. 11.2 LPAC el uso obligatorio de firma?",
+      "opciones": [
+        "Formular solicitudes",
+        "Renunciar a derechos",
+        "Interponer recursos",
+        "Consultar el estado de tramitación del procedimiento"
+      ],
+      "correcta": 3,
+      "explicacion": "La firma solo es obligatoria para solicitudes, declaraciones responsables o comunicaciones, recursos, desistimiento y renuncia.",
+      "ref": "art. 11.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando un interesado no obligado carezca de medios electrónicos, su identificación o firma electrónica podrá ser realizada por un funcionario público, siendo necesario que:",
+      "opciones": [
+        "El interesado otorgue poder notarial al funcionario",
+        "Lo autorice el superior jerárquico del funcionario",
+        "El interesado se identifique ante el funcionario y preste su consentimiento expreso, quedando constancia",
+        "El interesado sea mayor de 65 años"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 12.2 exige identificación del interesado ante el funcionario y consentimiento expreso, del que debe quedar constancia para casos de discrepancia o litigio.",
+      "ref": "art. 12.2 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes derechos corresponde a los interesados en un procedimiento (art. 53) y NO figura en el catálogo de derechos de las personas del art. 13 LPAC?",
+      "opciones": [
+        "A conocer, en cualquier momento, el estado de tramitación de los procedimientos en los que tengan la condición de interesados",
+        "A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma",
+        "A comunicarse a través de un Punto de Acceso General electrónico",
+        "A la protección de datos de carácter personal"
+      ],
+      "correcta": 0,
+      "explicacion": "El derecho a conocer el estado de tramitación es del art. 53.1.a (interesados). Las demás opciones figuran en el art. 13.",
+      "ref": "arts. 13 y 53 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 14.2 LPAC, ¿cuál de los siguientes sujetos NO está obligado en todo caso a relacionarse electrónicamente con las Administraciones?",
+      "opciones": [
+        "Las entidades sin personalidad jurídica",
+        "Los notarios y registradores en ejercicio de su actividad",
+        "Quienes representen a un interesado obligado a relacionarse electrónicamente",
+        "Una persona física que solicita una beca sin ejercer actividad profesional"
+      ],
+      "correcta": 3,
+      "explicacion": "Las personas físicas pueden elegir, salvo que estén obligadas (art. 14.1). El resto de sujetos figura en el art. 14.2.",
+      "ref": "art. 14 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los empleados de las Administraciones Públicas están obligados a relacionarse electrónicamente con ellas:",
+      "opciones": [
+        "Para cualquier trámite, sea o no por razón de su condición",
+        "Para los trámites y actuaciones que realicen por razón de su condición de empleado público, en la forma que determine cada Administración",
+        "Nunca, porque pueden elegir como cualquier persona física",
+        "Solo si pertenecen a cuerpos del subgrupo A1"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 14.2.e limita la obligación a los trámites realizados por razón de su condición de empleado público, en la forma que determine reglamentariamente cada Administración.",
+      "ref": "art. 14.2.e LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En un procedimiento tramitado por un órgano de la AGE con sede en una Comunidad Autónoma con lengua cooficial, si concurren varios interesados con discrepancia sobre la lengua:",
+      "opciones": [
+        "Se tramitará en castellano, aunque los documentos que requieran los interesados se expedirán en la lengua elegida por ellos",
+        "Se tramitará en la lengua elegida por el primer interesado",
+        "Se tramitará en la lengua cooficial",
+        "Se suspenderá hasta que se pongan de acuerdo"
+      ],
+      "correcta": 0,
+      "explicacion": "Así lo establece el art. 15.1 LPAC.",
+      "ref": "art. 15.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿En cuál de los siguientes lugares NO pueden presentarse, conforme al art. 16.4 LPAC, los documentos dirigidos a los órganos de las Administraciones Públicas?",
+      "opciones": [
+        "En las oficinas de Correos",
+        "En cualquier dependencia pública que no tenga la condición de registro ni de oficina de asistencia",
+        "En las oficinas de asistencia en materia de registros",
+        "En las representaciones diplomáticas u oficinas consulares de España en el extranjero"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 16.4 enumera el registro electrónico de cualquier Administración del art. 2.1, Correos, consulados, oficinas de asistencia y otros que establezcan las disposiciones vigentes.",
+      "ref": "art. 16.4 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los documentos presentados de manera presencial ante las Administraciones deberán ser:",
+      "opciones": [
+        "Custodiados siempre en papel por la Administración",
+        "Remitidos al órgano destinatario en su formato original",
+        "Digitalizados por la oficina de asistencia en materia de registros, devolviéndose los originales al interesado, salvo las excepciones legales",
+        "Compulsados por notario"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 16.5 impone la digitalización y la devolución de los originales, salvo custodia obligatoria o documentos no digitalizables.",
+      "ref": "art. 16.5 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La comparecencia de las personas ante las oficinas públicas solo será obligatoria cuando así esté previsto en:",
+      "opciones": [
+        "Cualquier disposición reglamentaria",
+        "Una orden ministerial",
+        "La resolución de iniciación del procedimiento",
+        "Una norma con rango de ley"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 19.1 exige norma con rango de ley.",
+      "ref": "art. 19.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿En cuál de estos casos se exceptúa la obligación de dictar resolución expresa del art. 21.1 LPAC?",
+      "opciones": [
+        "En los procedimientos iniciados de oficio",
+        "En los casos de caducidad del procedimiento",
+        "En los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación",
+        "En los procedimientos de responsabilidad patrimonial"
+      ],
+      "correcta": 2,
+      "explicacion": "Se exceptúan la terminación por pacto o convenio y los derechos sometidos solo a declaración responsable o comunicación. En la caducidad sí hay que resolver declarando la circunstancia.",
+      "ref": "art. 21.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El plazo máximo para notificar la resolución expresa fijado por la norma reguladora del procedimiento no podrá exceder, con carácter general, de:",
+      "opciones": [
+        "Seis meses",
+        "Tres meses",
+        "Un año",
+        "Dieciocho meses"
+      ],
+      "correcta": 0,
+      "explicacion": "Seis meses, salvo que una norma con rango de ley establezca uno mayor o lo prevea el Derecho de la UE.",
+      "ref": "art. 21.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo para resolver, este será de:",
+      "opciones": [
+        "Un mes",
+        "Dos meses",
+        "Seis meses",
+        "Tres meses"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 21.3 fija tres meses en defecto de previsión.",
+      "ref": "art. 21.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los procedimientos iniciados a solicitud del interesado, el plazo máximo para resolver se cuenta desde:",
+      "opciones": [
+        "La fecha de la firma de la solicitud",
+        "La fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación",
+        "La fecha del acuerdo de admisión a trámite",
+        "El día siguiente a la presentación en cualquier oficina de Correos"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 21.3.b LPAC. En los de oficio, desde la fecha del acuerdo de iniciación.",
+      "ref": "art. 21.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La comunicación al interesado informándole del plazo máximo para resolver y de los efectos del silencio se dirigirá dentro de:",
+      "opciones": [
+        "Los diez días siguientes a la recepción de la solicitud en el registro electrónico del órgano competente",
+        "Los cinco días siguientes a la recepción de la solicitud",
+        "Los quince días siguientes a la presentación",
+        "El mes siguiente a la recepción"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 21.4 fija diez días desde la recepción en el registro electrónico del órgano competente para su tramitación.",
+      "ref": "art. 21.4 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes supuestos determina la suspensión OBLIGATORIA (y no meramente potestativa) del plazo máximo para resolver?",
+      "opciones": [
+        "La solicitud de informes preceptivos",
+        "La promoción de la recusación por los interesados",
+        "El requerimiento al interesado para subsanar deficiencias",
+        "La realización de pruebas técnicas propuestas por los interesados"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 22.2 establece la suspensión obligatoria en la recusación, el requerimiento a otra Administración del art. 39.5 y las actuaciones complementarias. Los demás supuestos son del art. 22.1 (potestativos).",
+      "ref": "art. 22 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La suspensión del plazo para resolver por la solicitud de informes preceptivos no podrá exceder en ningún caso de:",
+      "opciones": [
+        "Diez días",
+        "Un mes",
+        "Tres meses",
+        "Dos meses"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 22.1.d limita la suspensión a tres meses; si no se recibe el informe, prosigue el procedimiento.",
+      "ref": "art. 22.1.d LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Contra el acuerdo que resuelva sobre la ampliación del plazo máximo de resolución y notificación del art. 23 LPAC:",
+      "opciones": [
+        "Cabe recurso de alzada",
+        "Cabe recurso potestativo de reposición",
+        "Cabe recurso extraordinario de revisión",
+        "No cabe recurso alguno"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 23.2 excluye cualquier recurso, aunque el acuerdo debe notificarse a los interesados.",
+      "ref": "art. 23.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los procedimientos iniciados a solicitud del interesado, el silencio tendrá efecto desestimatorio cuando así lo establezca:",
+      "opciones": [
+        "Cualquier norma reglamentaria",
+        "El órgano competente para resolver mediante resolución motivada",
+        "Una norma con rango de ley, una norma de Derecho de la UE o de Derecho internacional aplicable en España",
+        "La convocatoria del procedimiento"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 24.1 solo permite excepcionar el silencio positivo mediante norma con rango de ley, Derecho UE o Derecho internacional aplicable.",
+      "ref": "art. 24.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿En cuál de los siguientes procedimientos iniciados a solicitud el silencio es estimatorio?",
+      "opciones": [
+        "Solicitud de autorización ordinaria sin norma con rango de ley que establezca otro sentido",
+        "Responsabilidad patrimonial de las Administraciones Públicas",
+        "Solicitud cuya estimación transfiera facultades relativas al dominio público",
+        "Ejercicio del derecho de petición del art. 29 CE"
+      ],
+      "correcta": 0,
+      "explicacion": "La regla general es el silencio estimatorio; las otras tres opciones son excepciones legales del art. 24.1.",
+      "ref": "art. 24.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Se interpone recurso de alzada contra la desestimación por silencio de una solicitud (no referida a materias excluidas) y el órgano no resuelve ni notifica en plazo. El recurso:",
+      "opciones": [
+        "Se entiende desestimado",
+        "Debe reiterarse ante el mismo órgano",
+        "Caduca",
+        "Se entiende estimado"
+      ],
+      "correcta": 3,
+      "explicacion": "Es la excepción del art. 24.1, párrafo tercero: el recurso de alzada contra una desestimación presunta se entiende estimado si no se resuelve en plazo.",
+      "ref": "art. 24.1 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En los casos de estimación por silencio administrativo, la resolución expresa posterior:",
+      "opciones": [
+        "Se dictará sin vinculación alguna al sentido del silencio",
+        "Solo podrá dictarse de ser confirmatoria del mismo",
+        "Es nula de pleno derecho en todo caso",
+        "Requiere dictamen del Consejo de Estado"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 24.3.a. En la desestimación por silencio, en cambio, la resolución tardía no está vinculada (art. 24.3.b).",
+      "ref": "art. 24.3 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El certificado acreditativo del silencio producido se expedirá de oficio por el órgano competente para resolver en el plazo de:",
+      "opciones": [
+        "Quince días desde que expire el plazo máximo para resolver",
+        "Diez días desde que expire el plazo máximo para resolver",
+        "Un mes desde que lo solicite el interesado",
+        "Veinte días desde la presentación de la solicitud"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 24.4: quince días desde que expire el plazo máximo; si lo pide el interesado, desde la entrada de su petición en el registro.",
+      "ref": "art. 24.4 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En un procedimiento sancionador iniciado de oficio, el vencimiento del plazo máximo sin que se haya dictado y notificado resolución expresa produce:",
+      "opciones": [
+        "La estimación por silencio de las alegaciones del inculpado",
+        "La caducidad del procedimiento",
+        "La desestimación presunta",
+        "La prescripción de la infracción"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 25.1.b establece la caducidad en los procedimientos sancionadores o de intervención de gravamen.",
+      "ref": "art. 25.1.b LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento de derechos, el vencimiento del plazo sin resolución permite a los interesados que hubieran comparecido:",
+      "opciones": [
+        "Entender estimadas sus pretensiones",
+        "Solicitar la caducidad",
+        "Entender desestimadas sus pretensiones por silencio administrativo",
+        "Exigir una indemnización automática"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 25.1.a LPAC: silencio desestimatorio.",
+      "ref": "art. 25.1.a LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué documentos electrónicos emitidos por las Administraciones NO requieren firma electrónica según el art. 26.3 LPAC?",
+      "opciones": [
+        "Las resoluciones que ponen fin al procedimiento",
+        "Los informes preceptivos",
+        "Las copias auténticas",
+        "Los que se publiquen con carácter meramente informativo y los que no formen parte de un expediente administrativo"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 26.3 los exime de firma, aunque siempre debe identificarse su origen.",
+      "ref": "art. 26.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las copias auténticas de documentos privados realizadas por una Administración Pública:",
+      "opciones": [
+        "Surten efectos ante los tribunales civiles",
+        "Carecen de validez en las restantes Administraciones",
+        "Surten únicamente efectos administrativos",
+        "Requieren legalización notarial"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 27.1 LPAC: las copias auténticas de documentos privados surten únicamente efectos administrativos.",
+      "ref": "art. 27.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los interesados pueden solicitar la expedición de copias auténticas de documentos públicos administrativos, que deberán expedirse en el plazo de:",
+      "opciones": [
+        "Quince días",
+        "Diez días",
+        "Veinte días",
+        "Un mes"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 27.4: quince días desde la recepción de la solicitud, salvo excepciones de la Ley 19/2013.",
+      "ref": "art. 27.4 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El interesado NO podrá oponerse a que la Administración consulte o recabe documentos elaborados por otra Administración cuando:",
+      "opciones": [
+        "El procedimiento se haya iniciado a su solicitud",
+        "El documento tenga más de cinco años",
+        "Se trate de un procedimiento de concurrencia competitiva",
+        "La aportación se exija en el marco del ejercicio de potestades sancionadoras o de inspección"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 28.2 LPAC.",
+      "ref": "art. 28.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando se trate de informes preceptivos ya elaborados por un órgano distinto del que tramita el procedimiento, deberán remitirse en el plazo de:",
+      "opciones": [
+        "Cinco días",
+        "Diez días",
+        "Quince días",
+        "Un mes"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 28.2: diez días desde su solicitud; transcurrido, se informa al interesado de que puede aportarlo o esperar.",
+      "ref": "art. 28.2 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Salvo que una ley o el Derecho de la UE dispongan otro cómputo, cuando los plazos se señalen por días se entiende que son:",
+      "opciones": [
+        "Hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos",
+        "Hábiles, excluyéndose del cómputo solo los domingos y festivos",
+        "Naturales",
+        "Hábiles, excluyéndose además el mes de agosto"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 30.2 LPAC. Los sábados son inhábiles.",
+      "ref": "art. 30.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los plazos expresados por horas:",
+      "opciones": [
+        "Se cuentan desde la hora siguiente a la notificación y pueden durar hasta 48 horas",
+        "Se cuentan de hora en hora y de minuto en minuto desde la notificación o publicación y no pueden superar veinticuatro horas",
+        "Son siempre naturales",
+        "Solo se admiten en la tramitación de urgencia"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 30.1: si superan 24 horas, se expresarán en días.",
+      "ref": "art. 30.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Un acto se notifica el 31 de enero de un año no bisiesto y el plazo para recurrirlo es de un mes. Suponiendo que todos los días implicados son hábiles, el plazo vence el:",
+      "opciones": [
+        "3 de marzo",
+        "1 de marzo",
+        "28 de febrero",
+        "2 de marzo"
+      ],
+      "correcta": 2,
+      "explicacion": "Por meses se computa de fecha a fecha; si en el mes de vencimiento no hay día equivalente (31 de febrero), el plazo expira el último día del mes (art. 30.4).",
+      "ref": "art. 30.4 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si un día es hábil en el municipio de residencia del interesado e inhábil en la sede del órgano administrativo (fuera del registro electrónico), se considerará:",
+      "opciones": [
+        "Hábil, por favorecer al interesado",
+        "Hábil a efectos de presentación e inhábil a efectos de notificación",
+        "Hábil o inhábil según decida el instructor",
+        "Inhábil en todo caso"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 30.6 LPAC. En los registros electrónicos rige el calendario único de la sede (art. 31.3).",
+      "ref": "art. 30.6 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "A efectos del cumplimiento de plazos por los interesados, la presentación de un documento en el registro electrónico en día inhábil se entenderá realizada:",
+      "opciones": [
+        "En ese mismo día inhábil",
+        "En la última hora del día hábil anterior",
+        "En la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil",
+        "En el momento en que la unidad destinataria lo abra"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 31.2.b LPAC.",
+      "ref": "art. 31.2.b LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La ampliación de los plazos establecidos prevista en el art. 32 LPAC:",
+      "opciones": [
+        "No puede exceder de la mitad, debe acordarse antes del vencimiento y nunca sobre un plazo ya vencido",
+        "No puede exceder de la mitad de los mismos y puede acordarse incluso sobre plazos vencidos",
+        "Puede alcanzar el doble del plazo inicial",
+        "Es recurrible en alzada"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 32.1 y 32.3: no más de la mitad, antes del vencimiento, nunca plazos vencidos; los acuerdos no son recurribles.",
+      "ref": "art. 32 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Acordada la tramitación de urgencia, se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo:",
+      "opciones": [
+        "Los relativos al trámite de audiencia",
+        "Los de notificación",
+        "Los de emisión de informes",
+        "Los relativos a la presentación de solicitudes y recursos"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 33.1 LPAC. Contra el acuerdo de urgencia no cabe recurso (art. 33.2).",
+      "ref": "art. 33 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso:",
+      "opciones": [
+        "A los procedimientos sancionadores",
+        "A los procedimientos tramitados por misiones diplomáticas y oficinas consulares y a aquellos en que intervengan interesados residentes fuera de España",
+        "A los procedimientos selectivos",
+        "A los procedimientos de responsabilidad patrimonial"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 32.2 LPAC.",
+      "ref": "art. 32.2 LPAC",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Capacidad de Obrar y Concepto de interesado. Ley 39/2015",
+      "url": "https://www.youtube.com/watch?v=0WUD8oqbS2M",
+      "canal": "LANDL Formación"
+    },
+    {
+      "titulo": "Ley 39/2015: capacidad de obrar, interesado y representación",
+      "url": "https://www.youtube.com/watch?v=mGKc32tq4_g",
+      "canal": "Opocompi"
+    },
+    {
+      "titulo": "Ley 39/2015. Representación. Art 5 y 6",
+      "url": "https://www.youtube.com/watch?v=RjJZSsuDTlI",
+      "canal": "Moisés Vega Oposiciones"
+    },
+    {
+      "titulo": "Ley 39/2015: el silencio administrativo",
+      "url": "https://www.youtube.com/watch?v=OQ7TnlHMZpc",
+      "canal": "Gurú Oposiciones"
+    },
+    {
+      "titulo": "Las claves del Silencio Administrativo en la Ley 39/2015",
+      "url": "https://www.youtube.com/watch?v=BgDpmXOgxkI",
+      "canal": "OpositaTest"
+    },
+    {
+      "titulo": "Ley 39/2015 - Procedimiento Administrativo 4a Parte - Cómputo de plazos registros electrónicos",
+      "url": "https://www.youtube.com/watch?v=HRcZdMzBzUY",
+      "canal": "Paco Barbié"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "Ley 39/2015, del Procedimiento Administrativo Común (texto consolidado, BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    },
+    {
+      "titulo": "Sede electrónica de la Universidad de La Laguna",
+      "url": "https://sede.ull.es"
+    },
+    {
+      "titulo": "Normativa de la Universidad de La Laguna (Secretaría General)",
+      "url": "https://www.ull.es/portal/normativa/"
+    }
+  ]
+}

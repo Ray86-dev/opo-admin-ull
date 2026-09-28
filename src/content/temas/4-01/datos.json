@@ -1,0 +1,1282 @@
+{
+  "claves": [
+    "La LOSU (LO 2/2023, de 22 de marzo) entró en vigor a los veinte días de su publicación en el BOE y derogó la LOU 6/2001, la LO 4/2007 (salvo sus DF 2.ª y 4.ª) y el RDL 14/2012.",
+    "La autonomía universitaria es un derecho fundamental del art. 27.10 CE y garantiza la libertad de cátedra, que se manifiesta en la libertad de docencia, investigación y estudio.",
+    "Las universidades públicas se crean y las privadas se reconocen por ley autonómica o, si son de especiales características, por ley de Cortes, siempre con informe preceptivo de la Conferencia General de Política Universitaria.",
+    "La calidad es responsabilidad compartida de universidades, agencias y Administraciones; evalúan y acreditan la ANECA y las agencias autonómicas inscritas en EQAR (en Canarias, la ACCUEE).",
+    "Los Estatutos los elabora la universidad y los aprueba la Comunidad Autónoma tras un control de legalidad que debe informar en cuatro meses; se publican en el diario autonómico y en el BOE.",
+    "Agotan la vía administrativa las resoluciones del Rector y los acuerdos del Consejo Social, del Consejo de Gobierno y del Claustro; en la ULL también la Comisión Electoral General, y frente al resto de órganos cabe alzada ante el Rector.",
+    "Las facultades y escuelas las crea la Comunidad Autónoma a propuesta del Consejo de Gobierno; departamentos, institutos y escuelas de doctorado los crea la propia universidad.",
+    "Todos los órganos unipersonales electos tienen un mandato único de seis años improrrogables y no renovables, y exigen dedicación a tiempo completo.",
+    "El Claustro es el máximo órgano de representación: 51 % de profesorado permanente y como mínimo 25 % de estudiantado; puede convocar elecciones extraordinarias a Rector (1/3 inicia, 2/3 aprueba).",
+    "El Consejo de Gobierno es el máximo órgano de gobierno: mínimo 10 % de estudiantes y 10 % de PTGAS, y un tercio de sus miembros lo elige el Rector, natos incluidos.",
+    "El Consejo Social representa a la sociedad, aprueba presupuestos, cuentas anuales y el Plan Plurianual de Financiación, y su composición la regula la ley autonómica.",
+    "El Rector se elige por sufragio universal ponderado entre PDI permanente doctor a tiempo completo, con al menos 51 % de peso del profesorado permanente, y lo nombra la Comunidad Autónoma.",
+    "La Conferencia General de Política Universitaria coordina a las Administraciones; el Consejo de Universidades coordina lo académico y verifica los planes de estudios; el Consejo de Estudiantes Universitario del Estado canaliza la participación estudiantil ante el Ministerio.",
+    "La acreditación para los cuerpos docentes la otorga la ANECA y la del Profesorado Permanente Laboral las agencias autonómicas o la ANECA; en ambos casos el silencio es desestimatorio.",
+    "Los Estatutos de la ULL (Decreto 66/2022) son anteriores a la LOSU; en caso de contradicción (Rector Catedrático, mandatos de 4 años, elección indirecta de Decanos) prevalece la LOSU."
+  ],
+  "plazos": [
+    {
+      "concepto": "Entrada en vigor de la LOSU",
+      "valor": "A los 20 días de su publicación en el BOE (12-4-2023)",
+      "ref": "DF 12.ª LOSU"
+    },
+    {
+      "concepto": "Número de artículos de la LOSU",
+      "valor": "100 (título preliminar y diez títulos)",
+      "ref": "Preámbulo III LOSU"
+    },
+    {
+      "concepto": "Agencias de evaluación obligadas a tener plan de igualdad",
+      "valor": "Más de 50 personas trabajadoras",
+      "ref": "art. 5.4 LOSU"
+    },
+    {
+      "concepto": "Informe de legalidad de los Estatutos por la Comunidad Autónoma",
+      "valor": "4 meses",
+      "ref": "art. 38.2 LOSU"
+    },
+    {
+      "concepto": "Mandato de los órganos unipersonales electos",
+      "valor": "6 años improrrogables y no renovables",
+      "ref": "art. 44.3 LOSU"
+    },
+    {
+      "concepto": "Representación del profesorado de cuerpos docentes y Permanente Laboral en el Claustro",
+      "valor": "51 %",
+      "ref": "art. 45.3 LOSU"
+    },
+    {
+      "concepto": "Representación mínima del estudiantado en el Claustro",
+      "valor": "25 %",
+      "ref": "art. 45.3 LOSU"
+    },
+    {
+      "concepto": "Iniciativa de convocatoria extraordinaria de elecciones a Rector",
+      "valor": "1/3 del Claustro, con al menos un 30 % de profesorado permanente",
+      "ref": "art. 45.2.e LOSU"
+    },
+    {
+      "concepto": "Aprobación de la convocatoria extraordinaria de elecciones a Rector",
+      "valor": "Al menos 2/3 del Claustro",
+      "ref": "art. 45.2.e LOSU"
+    },
+    {
+      "concepto": "Prohibición de nueva iniciativa si la anterior no prospera",
+      "valor": "1 año desde la votación",
+      "ref": "art. 45.2.e LOSU"
+    },
+    {
+      "concepto": "Representación mínima del estudiantado en el Consejo de Gobierno",
+      "valor": "10 %",
+      "ref": "art. 46.3 LOSU"
+    },
+    {
+      "concepto": "Representación mínima del PTGAS en el Consejo de Gobierno",
+      "valor": "10 %",
+      "ref": "art. 46.3 LOSU"
+    },
+    {
+      "concepto": "Miembros del Consejo de Gobierno elegidos por el Rector",
+      "valor": "1/3, incluidos los miembros natos",
+      "ref": "art. 46.3 LOSU"
+    },
+    {
+      "concepto": "Plan de actuaciones del Consejo Social",
+      "valor": "Trienal",
+      "ref": "art. 47.2.a LOSU"
+    },
+    {
+      "concepto": "Representación mínima del estudiantado en otros órganos colegiados",
+      "valor": "25 %",
+      "ref": "art. 49.3 LOSU"
+    },
+    {
+      "concepto": "Peso mínimo del profesorado permanente en la ponderación del voto a Rector",
+      "valor": "No inferior al 51 %",
+      "ref": "art. 51.2 LOSU"
+    },
+    {
+      "concepto": "Mayoría para ser proclamado Rector en primera vuelta",
+      "valor": "Más de la mitad de los votos válidamente emitidos, ponderados",
+      "ref": "art. 51.2 LOSU"
+    },
+    {
+      "concepto": "Segunda vuelta en la elección de Rector",
+      "valor": "Entre los 2 candidatos más votados; gana la mayoría simple",
+      "ref": "art. 51.2 LOSU"
+    },
+    {
+      "concepto": "Requisitos transitorios para ser candidato a Rector",
+      "valor": "3 sexenios, 3 quinquenios y 4 años de gestión en cargo unipersonal",
+      "ref": "DT 1.ª.3 LOSU"
+    },
+    {
+      "concepto": "Plazo para aprobar nuevos Estatutos y constituir Claustro y Consejo de Gobierno",
+      "valor": "3 años desde la entrada en vigor",
+      "ref": "DT 1.ª.1 LOSU"
+    },
+    {
+      "concepto": "Miembros designados por el Presidente del Consejo de Universidades",
+      "valor": "5",
+      "ref": "art. 16.2.b LOSU"
+    },
+    {
+      "concepto": "Presencia mínima de cada sexo en el Consejo de Estudiantes Universitario del Estado",
+      "valor": "40 %",
+      "ref": "art. 17.4 LOSU"
+    },
+    {
+      "concepto": "Mérito preferente de la acreditación vigente de Ayudante Doctor",
+      "valor": "4 años",
+      "ref": "DT 3.ª.1 LOSU"
+    },
+    {
+      "concepto": "Adaptación de criterios de acreditación y convenios ANECA-agencias",
+      "valor": "1 año",
+      "ref": "DT 4.ª LOSU"
+    },
+    {
+      "concepto": "ULL: antelación de la convocatoria de órganos colegiados",
+      "valor": "48 horas (Claustro 72 horas; urgente 24 horas)",
+      "ref": "art. 9.1 EULL"
+    },
+    {
+      "concepto": "ULL: quórum de constitución de órganos colegiados",
+      "valor": "Mitad de los miembros; en segunda convocatoria nunca menos de 1/4",
+      "ref": "art. 9 EULL"
+    },
+    {
+      "concepto": "ULL: composición del Consejo de Gobierno",
+      "valor": "56 miembros",
+      "ref": "art. 13 EULL"
+    },
+    {
+      "concepto": "ULL: miembros electos del Claustro",
+      "valor": "250 (150 PDI, 75 estudiantes, 25 PAS) + 3 natos",
+      "ref": "art. 17 EULL"
+    },
+    {
+      "concepto": "ULL: mandato del Claustro",
+      "valor": "4 años; estudiantado cada 2 años",
+      "ref": "art. 18.3 EULL"
+    },
+    {
+      "concepto": "ULL: umbral para obtener puestos en el Claustro",
+      "valor": "3 % de los votos emitidos",
+      "ref": "art. 18.2 EULL"
+    },
+    {
+      "concepto": "ULL: ponderación del voto a Rector",
+      "valor": "51 % PDI permanente doctor; 9 % resto PDI; 10 % PAS; 30 % estudiantado",
+      "ref": "art. 24.3 EULL"
+    },
+    {
+      "concepto": "ULL: número máximo de vicerrectorados sin aprobación del Consejo de Gobierno",
+      "valor": "9",
+      "ref": "art. 27.2 EULL"
+    },
+    {
+      "concepto": "ULL: mandato del Defensor de la Comunidad Universitaria",
+      "valor": "3 años, reelegible una vez; antigüedad mínima de 10 años",
+      "ref": "art. 109 EULL"
+    },
+    {
+      "concepto": "ULL: paridad en órganos colegiados",
+      "valor": "Ningún sexo por encima del 60 % ni por debajo del 40 %",
+      "ref": "art. 129.4 EULL"
+    },
+    {
+      "concepto": "ULL: elecciones extraordinarias a Rector tras aprobación del Claustro",
+      "valor": "Plazo máximo de 30 días naturales",
+      "ref": "art. 21.3 EULL"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Sistema universitario",
+      "definicion": "Conjunto de universidades, públicas y privadas, y de los centros y estructuras que les sirven para el desarrollo de sus funciones (art. 1.2 LOSU)."
+    },
+    {
+      "termino": "Autonomía universitaria",
+      "definicion": "Derecho fundamental del art. 27.10 CE por el que las universidades, con personalidad jurídica, se dan sus Estatutos, eligen sus órganos, organizan enseñanzas y seleccionan a su personal (art. 3 LOSU)."
+    },
+    {
+      "termino": "Libertad de cátedra",
+      "definicion": "Libertad del profesorado en la docencia, la investigación y el estudio, garantizada por la autonomía universitaria (art. 3.3 LOSU)."
+    },
+    {
+      "termino": "ANECA",
+      "definicion": "Agencia Nacional de Evaluación de la Calidad y Acreditación; evalúa titulaciones, acredita instituciones y profesorado y acredita para el acceso a los cuerpos docentes (arts. 5.4 y 69 LOSU)."
+    },
+    {
+      "termino": "EQAR",
+      "definicion": "Registro Europeo de Agencias de Calidad; solo las agencias autonómicas inscritas en él pueden ejercer las funciones de evaluación y acreditación del art. 5.4 LOSU."
+    },
+    {
+      "termino": "ACCUEE",
+      "definicion": "Agencia Canaria de Calidad Universitaria y Evaluación Educativa, agencia autonómica de calidad de Canarias inscrita en EQAR."
+    },
+    {
+      "termino": "Claustro Universitario",
+      "definicion": "Máximo órgano de representación y participación de la comunidad universitaria; elabora los Estatutos y puede convocar elecciones extraordinarias a Rector (art. 45 LOSU)."
+    },
+    {
+      "termino": "Consejo de Gobierno",
+      "definicion": "Máximo órgano de gobierno de la universidad; aprueba planes estratégicos, programación docente, RPT y convocatorias, y propone al Consejo Social presupuestos y cuentas (art. 46 LOSU)."
+    },
+    {
+      "termino": "Consejo Social",
+      "definicion": "Órgano de participación y representación de la sociedad en la universidad y de rendición de cuentas; aprueba presupuestos y cuentas anuales (art. 47 LOSU)."
+    },
+    {
+      "termino": "Consejo de Estudiantes",
+      "definicion": "Órgano colegiado superior de representación y coordinación del estudiantado en la universidad, con plena autonomía (art. 48 LOSU)."
+    },
+    {
+      "termino": "Equipo de Gobierno",
+      "definicion": "Unidad de apoyo al Rector, presidida por él e integrada por Vicerrectores, Gerente y Secretario General (art. 50.1 LOSU)."
+    },
+    {
+      "termino": "Sufragio universal ponderado",
+      "definicion": "Sistema de elección del Rector en el que votan todos los miembros de la comunidad universitaria y el voto de cada sector se pondera según los Estatutos (art. 51.2 LOSU)."
+    },
+    {
+      "termino": "Conferencia General de Política Universitaria",
+      "definicion": "Órgano de cooperación y coordinación de la política universitaria entre Administraciones, presidido por el Ministro e integrado por los responsables autonómicos (art. 15 LOSU)."
+    },
+    {
+      "termino": "Consejo de Universidades",
+      "definicion": "Órgano de coordinación académica del sistema universitario, adscrito al Ministerio, integrado por los Rectores y cinco miembros designados; verifica los planes de estudios (art. 16 LOSU)."
+    },
+    {
+      "termino": "Consejo de Estudiantes Universitario del Estado",
+      "definicion": "Órgano de participación, deliberación y consulta del estudiantado ante el Ministerio de Universidades (art. 17 LOSU)."
+    },
+    {
+      "termino": "Acreditación institucional",
+      "definicion": "Reconocimiento de la capacidad de la universidad para garantizar la calidad académica de sus centros, regulado por el Gobierno (art. 5.5 LOSU)."
+    },
+    {
+      "termino": "RUCT",
+      "definicion": "Registro de Universidades, Centros y Títulos; la inscripción de un título oficial tiene efectos constitutivos y supone su consideración inicial como acreditado (art. 7.3 LOSU)."
+    },
+    {
+      "termino": "Inspección de servicios",
+      "definicion": "Unidad básica que vela por el correcto funcionamiento de los servicios e instruye expedientes disciplinarios; la dirige PTGAS (art. 43.6 LOSU)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "D-I-T y G-M-D",
+      "texto": "Funciones centrales de la universidad: Docencia, Investigación, Transferencia. Títulos oficiales: Grado, Máster, Doctorado."
+    },
+    {
+      "titulo": "Claustro 51-25",
+      "texto": "En el Claustro, 51 % para el profesorado permanente y al menos 25 % para el estudiantado. En el Consejo de Gobierno bajan a 10 y 10 (estudiantes y PTGAS)."
+    },
+    {
+      "titulo": "Revocar al Rector: 1-3, 2-3, 1 año",
+      "texto": "Un tercio propone (con un 30 % de permanentes), dos tercios aprueban y, si fracasa, un año sin poder repetir."
+    },
+    {
+      "titulo": "Gobierno propone, Social dispone",
+      "texto": "El Consejo de Gobierno propone y el Consejo Social aprueba: presupuesto, cuentas anuales y Plan Plurianual de Financiación."
+    },
+    {
+      "titulo": "Conferencia política, Consejo académico",
+      "texto": "La Conferencia General reúne a las Administraciones (Ministro y consejeros) y coordina la política; el Consejo de Universidades reúne a los Rectores y coordina lo académico, verificando planes de estudio."
+    },
+    {
+      "titulo": "Seis sin repetir",
+      "texto": "Todo cargo unipersonal electo con la LOSU: 6 años, ni prórroga ni reelección."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué artículo de la CE reconoce la autonomía universitaria?",
+      "reverso": "El art. 27.10 CE (derecho fundamental).",
+      "ref": "art. 3.1 LOSU"
+    },
+    {
+      "frente": "¿Cuándo entró en vigor la LOSU?",
+      "reverso": "A los veinte días de su publicación en el BOE (BOE de 23-3-2023; vigor 12-4-2023).",
+      "ref": "DF 12.ª LOSU"
+    },
+    {
+      "frente": "¿Qué normas deroga expresamente la LOSU?",
+      "reverso": "La LOU 6/2001, la LO 4/2007 (salvo DF 2.ª y 4.ª) y el RDL 14/2012.",
+      "ref": "DD única LOSU"
+    },
+    {
+      "frente": "¿En qué se manifiesta la libertad de cátedra?",
+      "reverso": "En la libertad en la docencia, la investigación y el estudio.",
+      "ref": "art. 3.3 LOSU"
+    },
+    {
+      "frente": "¿Cómo se crea una universidad pública?",
+      "reverso": "Por ley autonómica (o de Cortes si es de especiales características), previo informe preceptivo de la Conferencia General de Política Universitaria.",
+      "ref": "art. 4.1 LOSU"
+    },
+    {
+      "frente": "¿Quién autoriza el inicio de actividades de una universidad?",
+      "reverso": "Los órganos competentes de la Comunidad Autónoma, tras comprobar los requisitos.",
+      "ref": "art. 4.2 LOSU"
+    },
+    {
+      "frente": "¿Qué agencias evalúan y acreditan según la LOSU?",
+      "reverso": "La ANECA y las agencias autonómicas inscritas en EQAR (en Canarias, la ACCUEE).",
+      "ref": "art. 5.4 LOSU"
+    },
+    {
+      "frente": "Plazo de la Comunidad Autónoma para el informe de legalidad de los Estatutos",
+      "reverso": "Cuatro meses.",
+      "ref": "art. 38.2 LOSU"
+    },
+    {
+      "frente": "¿Qué órganos ponen fin a la vía administrativa según la LOSU?",
+      "reverso": "Rector, Consejo Social, Consejo de Gobierno y Claustro.",
+      "ref": "art. 38.4 LOSU"
+    },
+    {
+      "frente": "En la ULL, ¿qué recurso cabe contra un acuerdo de un Consejo de Departamento?",
+      "reverso": "Recurso de alzada ante el Rector.",
+      "ref": "art. 10.4 EULL"
+    },
+    {
+      "frente": "¿Quién acuerda la creación de una facultad?",
+      "reverso": "La Comunidad Autónoma, a iniciativa de la universidad (propuesta y aprobación del Consejo de Gobierno).",
+      "ref": "art. 41.1 LOSU"
+    },
+    {
+      "frente": "¿Quién dirige la inspección de servicios?",
+      "reverso": "PTGAS de la universidad con la titulación necesaria.",
+      "ref": "art. 43.6 LOSU"
+    },
+    {
+      "frente": "¿Quién elige al Defensor universitario?",
+      "reverso": "El Claustro Universitario.",
+      "ref": "art. 43.4 LOSU"
+    },
+    {
+      "frente": "Órganos colegiados que los Estatutos deben establecer y regular",
+      "reverso": "Claustro, Consejo de Gobierno y Consejo de Estudiantes (además, el Consejo Social).",
+      "ref": "art. 44.1 LOSU"
+    },
+    {
+      "frente": "Mandato de los órganos unipersonales electos",
+      "reverso": "Seis años improrrogables y no renovables.",
+      "ref": "art. 44.3 LOSU"
+    },
+    {
+      "frente": "Porcentajes clave del Claustro",
+      "reverso": "51 % profesorado de cuerpos docentes y Permanente Laboral; mínimo 25 % estudiantado.",
+      "ref": "art. 45.3 LOSU"
+    },
+    {
+      "frente": "¿Qué mayorías exige la convocatoria extraordinaria de elecciones a Rector?",
+      "reverso": "Iniciativa de 1/3 del Claustro (con al menos 30 % de permanentes) y aprobación por al menos 2/3.",
+      "ref": "art. 45.2.e LOSU"
+    },
+    {
+      "frente": "Mínimos del Consejo de Gobierno",
+      "reverso": "10 % estudiantado y 10 % PTGAS; un tercio elegido por el Rector incluidos los natos.",
+      "ref": "art. 46.3 LOSU"
+    },
+    {
+      "frente": "¿Quién aprueba los presupuestos de la universidad?",
+      "reverso": "El Consejo Social, a propuesta del Consejo de Gobierno.",
+      "ref": "arts. 46.2.f y 47.2.g LOSU"
+    },
+    {
+      "frente": "¿Qué norma regula la composición del Consejo Social?",
+      "reverso": "La ley de la Comunidad Autónoma (en Canarias, Ley 11/2003).",
+      "ref": "art. 47.3 LOSU"
+    },
+    {
+      "frente": "¿Quién elige al estudiante miembro del Consejo Social?",
+      "reverso": "El Consejo de Estudiantes.",
+      "ref": "art. 47.3 LOSU"
+    },
+    {
+      "frente": "Representación mínima del estudiantado en Juntas y Consejos de Departamento",
+      "reverso": "25 %.",
+      "ref": "art. 49.3 LOSU"
+    },
+    {
+      "frente": "¿A quién corresponden las competencias residuales en la universidad?",
+      "reverso": "Al Rector.",
+      "ref": "art. 50.1 LOSU"
+    },
+    {
+      "frente": "¿Entre quiénes se nombra al Secretario General?",
+      "reverso": "Entre PDI funcionario doctor o PTGAS funcionario con titulación universitaria; es fedatario y preside la Comisión Electoral.",
+      "ref": "art. 50.1 LOSU"
+    },
+    {
+      "frente": "¿Cómo se nombra al Gerente?",
+      "reverso": "De acuerdo con el Consejo Social, por competencia profesional y experiencia; no puede ejercer docencia ni investigación.",
+      "ref": "art. 50.1 LOSU"
+    },
+    {
+      "frente": "Requisitos para ser candidato a Rector",
+      "reverso": "PDI permanente doctor a tiempo completo con los méritos de investigación, docencia y gestión de los Estatutos.",
+      "ref": "art. 51.1 LOSU"
+    },
+    {
+      "frente": "¿Quién nombra al Rector?",
+      "reverso": "El órgano correspondiente de la Comunidad Autónoma.",
+      "ref": "art. 51.3 LOSU"
+    },
+    {
+      "frente": "¿Cómo se elige al Director de Departamento?",
+      "reverso": "Por sufragio universal de todos los miembros del Consejo de Departamento, entre profesorado de cuerpos docentes y Permanente Laboral.",
+      "ref": "art. 52.1 LOSU"
+    },
+    {
+      "frente": "¿Quién aprueba cada curso la oferta general de enseñanzas y plazas?",
+      "reverso": "La Conferencia General de Política Universitaria.",
+      "ref": "art. 15.1.e LOSU"
+    },
+    {
+      "frente": "¿Quién verifica los planes de estudios?",
+      "reverso": "El Consejo de Universidades.",
+      "ref": "art. 16.1.e LOSU"
+    },
+    {
+      "frente": "Composición del Consejo de Universidades",
+      "reverso": "Presidente (Ministro), los Rectores y cinco miembros designados por el Presidente.",
+      "ref": "art. 16.2 LOSU"
+    },
+    {
+      "frente": "¿Quién acredita para acceder a los cuerpos docentes universitarios?",
+      "reverso": "La ANECA; el silencio es desestimatorio.",
+      "ref": "art. 69 LOSU"
+    },
+    {
+      "frente": "¿Ante quién se reclama contra la resolución de una comisión de acreditación?",
+      "reverso": "Ante el Consejo de Universidades.",
+      "ref": "art. 73.1 LOSU"
+    },
+    {
+      "frente": "ULL: ¿entre quiénes elegían los Estatutos al Rector y qué prevalece hoy?",
+      "reverso": "Entre Catedráticos (art. 24 EULL); prevalece la LOSU: PDI permanente doctor a tiempo completo.",
+      "ref": "art. 51.1 LOSU; art. 24 EULL"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según la LOSU, las universidades desarrollan sus funciones en régimen de autonomía en virtud del derecho fundamental reconocido en el artículo de la Constitución:",
+      "opciones": [
+        "103.1",
+        "20.1.c)",
+        "27.10",
+        "149.1.30.ª"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 3.1 LOSU remite al derecho fundamental del art. 27.10 CE. El 20.1.c) es la libertad de cátedra genérica y el 149.1.30.ª es título competencial.",
+      "ref": "art. 3.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La Ley Orgánica 2/2023, del Sistema Universitario, entró en vigor:",
+      "opciones": [
+        "A los veinte días de su publicación en el BOE",
+        "Al día siguiente de su publicación en el BOE",
+        "Al mes de su publicación en el BOE",
+        "El 1 de septiembre de 2023, inicio del curso académico"
+      ],
+      "correcta": 0,
+      "explicacion": "La DF 12.ª dispone su entrada en vigor a los veinte días de su publicación (BOE de 23 de marzo de 2023).",
+      "ref": "DF 12.ª LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes normas NO es derogada expresamente por la disposición derogatoria única de la LOSU?",
+      "opciones": [
+        "La Ley Orgánica 4/2007, salvo sus disposiciones finales segunda y cuarta",
+        "La Ley Orgánica 6/2001, de Universidades",
+        "El Real Decreto-ley 14/2012, de medidas urgentes de racionalización del gasto público en el ámbito educativo",
+        "La Ley 3/2022, de 24 de febrero, de convivencia universitaria"
+      ],
+      "correcta": 3,
+      "explicacion": "La LOSU deroga la LOU, la LO 4/2007 (salvo DF 2.ª y 4.ª) y el RDL 14/2012. La Ley 3/2022 sigue vigente y la propia LOSU la cita en su art. 4.3.",
+      "ref": "DD única LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La libertad de cátedra, según el art. 3.3 LOSU, se manifiesta en la libertad:",
+      "opciones": [
+        "De expresión, reunión y asociación",
+        "En la docencia, la investigación y el estudio",
+        "En la docencia y en la evaluación del estudiantado",
+        "En la investigación y en la transferencia del conocimiento"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 3.3 LOSU establece que la libertad de cátedra se manifiesta en la libertad en la docencia, la investigación y el estudio.",
+      "ref": "art. 3.3 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La creación de una universidad pública por ley de la Asamblea Legislativa de la Comunidad Autónoma requiere informe preceptivo de:",
+      "opciones": [
+        "El Consejo de Universidades",
+        "La Conferencia General de Política Universitaria",
+        "La ANECA",
+        "El Consejo de Estado"
+      ],
+      "correcta": 1,
+      "explicacion": "Tanto en la vía autonómica como en la estatal, el art. 4.1 exige informe preceptivo de la Conferencia General de Política Universitaria, que además lo tiene como función propia (art. 15.1.d).",
+      "ref": "art. 4.1.a LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Corresponde otorgar la autorización para el inicio de las actividades de una universidad, una vez comprobado el cumplimiento de los requisitos:",
+      "opciones": [
+        "A la Conferencia General de Política Universitaria",
+        "Al Ministerio de Universidades",
+        "Al Consejo de Universidades",
+        "A los órganos competentes de la Comunidad Autónoma en la que radique"
+      ],
+      "correcta": 3,
+      "explicacion": "El Gobierno fija los requisitos por real decreto, pero la autorización de inicio de actividades y su supervisión corresponden a la Comunidad Autónoma (art. 4.2).",
+      "ref": "art. 4.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Señale cuál NO figura entre los requisitos que el art. 4.3 LOSU exige en todo caso para la creación y reconocimiento de universidades:",
+      "opciones": [
+        "Tener acreditación institucional de todos sus centros",
+        "Planes que garanticen la igualdad de género en todas sus actividades",
+        "Medidas para la corrección de la brecha salarial entre mujeres y hombres",
+        "Medidas de prevención y respuesta frente a la violencia, la discriminación o el acoso amparadas en la Ley 3/2022"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 4.3 exige planes de igualdad, medidas contra la brecha salarial, accesibilidad y ajustes razonables y medidas frente a violencia y acoso. La acreditación institucional (art. 5.5) no es requisito de creación.",
+      "ref": "art. 4.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las agencias de evaluación deberán contar con un plan de igualdad relativo a su organización cuando tengan:",
+      "opciones": [
+        "Más de 100 personas trabajadoras",
+        "Más de 25 personas trabajadoras",
+        "Más de 50 personas trabajadoras",
+        "Más de 250 personas trabajadoras"
+      ],
+      "correcta": 2,
+      "explicacion": "El párrafo segundo del art. 5.4 LOSU exige plan de igualdad a las agencias con más de 50 personas trabajadoras, además de medidas de igualdad en sus procesos de evaluación.",
+      "ref": "art. 5.4 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las funciones de evaluación y acreditación del art. 5.4 LOSU corresponden a la ANECA y a las agencias de evaluación de las Comunidades Autónomas:",
+      "opciones": [
+        "Que hayan suscrito convenio con el Consejo de Universidades",
+        "Inscritas en el Registro de Universidades, Centros y Títulos",
+        "Reconocidas por la Conferencia General de Política Universitaria",
+        "Inscritas en el Registro Europeo de Agencias de Calidad (EQAR)"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 5.4 atribuye estas funciones a la ANECA y a las agencias autonómicas inscritas en EQAR. En Canarias es la ACCUEE.",
+      "ref": "art. 5.4 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 5.2 LOSU, la promoción y el aseguramiento de la calidad del sistema universitario es responsabilidad compartida por:",
+      "opciones": [
+        "La ANECA y el Consejo de Universidades",
+        "Las universidades, las agencias de evaluación y las Administraciones Públicas con competencias en la materia",
+        "Las universidades y sus Consejos Sociales",
+        "El Ministerio de Universidades y las Comunidades Autónomas"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 5.2 habla de responsabilidad compartida por universidades, agencias de evaluación y Administraciones Públicas competentes.",
+      "ref": "art. 5.2 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿De qué plazo dispone la Comunidad Autónoma para elaborar el informe de legalidad de los Estatutos de una universidad pública?",
+      "opciones": [
+        "Seis meses",
+        "Tres meses",
+        "Cuatro meses",
+        "Dos meses"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 38.2 LOSU fija un plazo de cuatro meses.",
+      "ref": "art. 38.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Una vez aprobados por la Comunidad Autónoma, los Estatutos de una universidad pública como la ULL se publican:",
+      "opciones": [
+        "En el diario oficial de la Comunidad Autónoma y también en el BOE",
+        "Solo en el BOE",
+        "Solo en el diario oficial de la Comunidad Autónoma",
+        "En el boletín oficial de la universidad y en el diario autonómico"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 38.3 exige publicación en el diario oficial autonómico y en el BOE. Solo las universidades de especiales características (art. 4.1.b) publican únicamente en el BOE.",
+      "ref": "art. 38.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "De acuerdo con el art. 38.4 LOSU, NO ponen fin a la vía administrativa:",
+      "opciones": [
+        "Los acuerdos del Consejo Social",
+        "Las resoluciones del Rector",
+        "Las resoluciones del Gerente",
+        "Los acuerdos del Claustro Universitario"
+      ],
+      "correcta": 2,
+      "explicacion": "Agotan la vía las resoluciones del Rector y los acuerdos del Consejo Social, del Consejo de Gobierno y del Claustro. Las del Gerente no están en esa lista.",
+      "ref": "art. 38.4 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según los Estatutos de la ULL, contra un acuerdo de una Junta de Facultad cabe interponer:",
+      "opciones": [
+        "Recurso de alzada ante el Rector o la Rectora",
+        "Recurso potestativo de reposición ante la propia Junta",
+        "Recurso de alzada ante el Consejo de Gobierno",
+        "Directamente recurso contencioso-administrativo, porque agota la vía administrativa"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 10.4 EULL dispone que los acuerdos de los órganos distintos del Rector, Claustro, Consejo de Gobierno, Consejo Social y Comisión Electoral General no agotan la vía y son recurribles en alzada ante el Rector.",
+      "ref": "art. 10.4 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la Universidad de La Laguna, además de las resoluciones del Rector y los acuerdos del Claustro, del Consejo de Gobierno y del Consejo Social, agotan la vía administrativa los acuerdos de:",
+      "opciones": [
+        "La Gerencia",
+        "Las Juntas de Facultad",
+        "Los Consejos de Departamento",
+        "La Comisión Electoral General"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 10.3 EULL añade la Comisión Electoral General a los órganos cuyos acuerdos agotan la vía administrativa.",
+      "ref": "art. 10.3 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La creación, modificación y supresión de facultades y escuelas es acordada por:",
+      "opciones": [
+        "La propia universidad por acuerdo de su Consejo de Gobierno",
+        "La Comunidad Autónoma, a iniciativa de la universidad mediante propuesta y aprobación de su Consejo de Gobierno",
+        "El Consejo Social, a propuesta del Claustro",
+        "El Ministerio de Universidades, previo informe del Consejo de Universidades"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 41.1 reserva a la Comunidad Autónoma la creación de facultades y escuelas, a iniciativa de la universidad.",
+      "ref": "art. 41.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La creación de departamentos, institutos y escuelas de doctorado corresponde, según la LOSU:",
+      "opciones": [
+        "A la Comunidad Autónoma, previo informe del Consejo Social",
+        "A la universidad, conforme a la LOSU, su normativa de desarrollo y sus Estatutos",
+        "Al Consejo de Universidades",
+        "Al Ministerio de Universidades"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 41.2 atribuye a la propia universidad la creación, modificación y supresión de departamentos, institutos, escuelas de doctorado y otras estructuras.",
+      "ref": "art. 41.2 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La propuesta de adscripción de un centro docente a una universidad pública se eleva por:",
+      "opciones": [
+        "El Claustro, previo informe del Consejo de Gobierno",
+        "El Consejo Social, oído el Claustro",
+        "El Rector, previo informe del Consejo de Universidades",
+        "El Consejo de Gobierno, una vez informado el Consejo Social"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 42.2 dispone que la propuesta la eleva el Consejo de Gobierno una vez informado el Consejo Social; la aprueba la Comunidad Autónoma.",
+      "ref": "art. 42.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 43.6 LOSU, la dirección de la inspección de servicios será atribuida a:",
+      "opciones": [
+        "Personal técnico, de gestión y de administración y servicios con los requisitos de titulación necesarios",
+        "Personal docente e investigador funcionario doctor",
+        "La persona titular de la Secretaría General",
+        "La persona titular de la Defensoría universitaria"
+      ],
+      "correcta": 0,
+      "explicacion": "La LOSU atribuye la dirección de la inspección de servicios a PTGAS de la universidad con la titulación necesaria.",
+      "ref": "art. 43.6 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las unidades de diversidad de las universidades deberán contar con:",
+      "opciones": [
+        "Un observatorio de empleabilidad",
+        "Un servicio de mediación laboral",
+        "Un servicio de atención a la discapacidad",
+        "Una comisión de convivencia"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 43.3 LOSU exige que las unidades de diversidad cuenten con un servicio de atención a la discapacidad.",
+      "ref": "art. 43.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El procedimiento para la elección del máximo cargo de la defensoría universitaria lo establecen los Estatutos, correspondiendo su elección a:",
+      "opciones": [
+        "El Consejo Social",
+        "El Consejo de Gobierno",
+        "El Rector o la Rectora",
+        "El Claustro Universitario"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 43.4 LOSU prevé su elección por el Claustro. En la ULL, el art. 109 EULL exige mayoría absoluta en primera vuelta.",
+      "ref": "art. 43.4 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El mandato de los titulares de órganos unipersonales electos en las universidades públicas es, según la LOSU:",
+      "opciones": [
+        "De cuatro años, renovable por una sola vez",
+        "De seis años improrrogables y no renovables",
+        "De seis años, renovable por una sola vez",
+        "El que establezcan los Estatutos, con un máximo de ocho años"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 44.3 LOSU fija, en todos los casos, seis años improrrogables y no renovables.",
+      "ref": "art. 44.3 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes órganos colegiados NO es de los que los Estatutos deben obligatoriamente 'establecer y regular' conforme al art. 44.1 LOSU?",
+      "opciones": [
+        "El Consejo de Gobierno",
+        "El Claustro Universitario",
+        "El Consejo de Departamento",
+        "El Consejo de Estudiantes"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 44.1 obliga a regular Claustro, Consejo de Gobierno y Consejo de Estudiantes (y a establecer el Consejo Social); los Consejos de Departamento y de Facultad son potestativos ('podrán').",
+      "ref": "art. 44.1 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, el Claustro Universitario es:",
+      "opciones": [
+        "El máximo órgano de representación y participación de la comunidad universitaria",
+        "El máximo órgano de gobierno de la universidad",
+        "El órgano de participación y representación de la sociedad",
+        "El máximo órgano académico de la universidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 45.1 LOSU. El máximo órgano de gobierno es el Consejo de Gobierno; el de la sociedad, el Consejo Social; y el máximo órgano académico es el Rector.",
+      "ref": "art. 45.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los Estatutos deben asegurar en el Claustro una representación del estudiantado de, como mínimo:",
+      "opciones": [
+        "El 20 por ciento",
+        "El 10 por ciento",
+        "El 25 por ciento",
+        "El 30 por ciento"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 45.3 LOSU fija un mínimo del 25 % de estudiantado. En la ULL son 75 de 250 electos (30 %).",
+      "ref": "art. 45.3 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El personal de los cuerpos docentes universitarios funcionarios y el Profesorado Permanente Laboral tendrá en el Claustro una representación del:",
+      "opciones": [
+        "51 por ciento de sus miembros",
+        "Al menos dos tercios de sus miembros",
+        "60 por ciento de sus miembros",
+        "Mayoría absoluta, sin porcentaje fijo"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 45.3 LOSU fija el 51 % para este profesorado.",
+      "ref": "art. 45.3 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La convocatoria extraordinaria de elecciones a Rector por el Claustro requiere la iniciativa de:",
+      "opciones": [
+        "La mitad de sus componentes",
+        "Un cuarto de sus componentes",
+        "Un tercio de sus componentes, sin otro requisito",
+        "Un tercio de sus componentes, que incluya al menos un 30 % del profesorado de cuerpos docentes y Permanente Laboral"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 45.2.e) exige iniciativa de un tercio del Claustro, que incluya al menos un 30 % de ese profesorado. Los Estatutos ULL (art. 21) solo hablan del tercio; prevalece la LOSU.",
+      "ref": "art. 45.2.e LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La aprobación por el Claustro de la iniciativa de convocatoria extraordinaria de elecciones a Rector exige:",
+      "opciones": [
+        "Mayoría absoluta del Claustro",
+        "Al menos dos tercios del Claustro",
+        "Tres quintos del Claustro",
+        "Mayoría simple de los presentes"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 45.2.e) exige al menos dos tercios; su aprobación conlleva la disolución del Claustro y el cese del Rector, que sigue en funciones.",
+      "ref": "art. 45.2.e LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si no se aprueba la iniciativa de convocatoria extraordinaria de elecciones a Rector, ninguno de los solicitantes podrá presentar otra iniciativa de este carácter hasta transcurrido:",
+      "opciones": [
+        "Seis meses desde su votación",
+        "Un año desde su votación",
+        "Dos años desde su votación",
+        "El final del mandato del Rector"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 45.2.e) LOSU: un año desde la votación.",
+      "ref": "art. 45.2.e LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el Consejo de Gobierno, los representantes del estudiantado deberán ser como mínimo:",
+      "opciones": [
+        "El 15 por ciento",
+        "El 25 por ciento",
+        "El 5 por ciento",
+        "El 10 por ciento"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 46.3 exige un mínimo del 10 % de estudiantado y otro 10 % de PTGAS. El 25 % es el mínimo del Claustro y de los demás órganos colegiados.",
+      "ref": "art. 46.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de la composición del Consejo de Gobierno, el art. 46.3 LOSU establece que:",
+      "opciones": [
+        "Un tercio de sus miembros será elegido por el Rector, incluyendo en ese cupo los miembros natos",
+        "Un tercio de sus miembros será elegido por el Rector, además de los miembros natos",
+        "La mitad de sus miembros será elegida por el Claustro entre el profesorado",
+        "Un cuarto de sus miembros será designado por el Consejo Social"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 46.3 fija que un tercio lo elige el Rector y que en ese cupo se incluyen los natos (Rector, Secretario General y Gerente).",
+      "ref": "art. 46.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Aprobar las convocatorias de plazas y la relación de puestos de trabajo del PDI y del PTGAS corresponde, según la LOSU:",
+      "opciones": [
+        "Al Rector, oído el Consejo de Gobierno",
+        "Al Consejo Social, a propuesta del Gerente",
+        "Al Consejo de Gobierno, debiendo ser finalmente aprobadas por la Comunidad Autónoma",
+        "Al Claustro, a propuesta del Consejo de Gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 46.2.e) LOSU. La convocatoria de esta oposición de la ULL lo cita expresamente.",
+      "ref": "art. 46.2.e LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Corresponde aprobar los presupuestos y las cuentas anuales de la universidad:",
+      "opciones": [
+        "Al Rector o Rectora",
+        "Al Consejo de Gobierno",
+        "Al Claustro Universitario",
+        "Al Consejo Social"
+      ],
+      "correcta": 3,
+      "explicacion": "El Consejo de Gobierno los propone (art. 46.2.f) y el Consejo Social los aprueba (art. 47.2.g).",
+      "ref": "art. 47.2.g LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El plan de actuaciones que elabora, aprueba y evalúa el Consejo Social para fomentar las interrelaciones entre la universidad y su entorno tiene carácter:",
+      "opciones": [
+        "Anual",
+        "Trienal",
+        "Bienal",
+        "Cuatrienal"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 47.2.a) habla de un plan trienal de actuaciones, con sesiones conjuntas con el Consejo de Gobierno para su seguimiento.",
+      "ref": "art. 47.2.a LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La composición del Consejo Social se regulará por:",
+      "opciones": [
+        "Real decreto del Gobierno",
+        "Los Estatutos de la universidad",
+        "Ley de la Comunidad Autónoma",
+        "Reglamento aprobado por el Consejo de Gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 47.3 LOSU. En Canarias, la Ley 11/2003, de Consejos Sociales y Coordinación del Sistema Universitario.",
+      "ref": "art. 47.3 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 47.3 LOSU, el representante del estudiantado en el Consejo Social es elegido por:",
+      "opciones": [
+        "El Consejo de Estudiantes",
+        "El Consejo de Gobierno de entre sus miembros",
+        "El Claustro Universitario",
+        "La Asamblea Legislativa autonómica"
+      ],
+      "correcta": 0,
+      "explicacion": "Los representantes del PDI y del PTGAS los elige el Consejo de Gobierno, pero el tercero lo elige el Consejo de Estudiantes. Los Estatutos ULL (art. 11.2) atribuyen esa elección al Consejo de Gobierno; prevalece la LOSU.",
+      "ref": "art. 47.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En los Consejos de facultad, escuela o departamento, la representación del estudiantado debe alcanzar como mínimo:",
+      "opciones": [
+        "El 30 por ciento de su composición",
+        "El 10 por ciento de su composición",
+        "El 25 por ciento de su composición",
+        "El 15 por ciento de su composición"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 49.3 LOSU exige al menos el 25 % en cada órgano colegiado.",
+      "ref": "art. 49.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Le corresponden cuantas competencias no sean expresamente atribuidas a otros órganos de la universidad:",
+      "opciones": [
+        "Al Rector o la Rectora",
+        "Al Consejo de Gobierno",
+        "Al Claustro Universitario",
+        "Al Consejo Social"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 50.1 atribuye al Rector las competencias residuales.",
+      "ref": "art. 50.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 50.1 LOSU, la persona titular de la Secretaría General:",
+      "opciones": [
+        "Es elegida por el Claustro a propuesta del Rector",
+        "Se nombra de acuerdo con el Consejo Social entre profesionales de reconocido prestigio",
+        "Debe ser Catedrático o Catedrática de Universidad",
+        "Se nombra entre PDI funcionario doctor o PTGAS funcionario con titulación universitaria, actúa como fedatario y preside la Comisión Electoral"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 50.1 fija esos requisitos y funciones. El nombramiento de acuerdo con el Consejo Social es el del Gerente.",
+      "ref": "art. 50.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre la persona titular de la Gerencia, señale la afirmación correcta según la LOSU:",
+      "opciones": [
+        "La elige el Claustro por mayoría absoluta",
+        "Se nombra de acuerdo con el Consejo Social y, una vez asumido el cargo, no puede ejercer funciones docentes ni investigadoras",
+        "Debe ser funcionario de un cuerpo docente universitario",
+        "Preside la Comisión Electoral"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 50.1 LOSU. En la ULL se nombra con la conformidad del Consejo Social, oído el Consejo de Gobierno e informado el Claustro (art. 31 EULL).",
+      "ref": "art. 50.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 51.1 LOSU, los candidatos a Rector deberán ser:",
+      "opciones": [
+        "Funcionarios del cuerpo de Catedráticos de Universidad en activo",
+        "Personal docente e investigador permanente doctor a tiempo completo",
+        "Personal docente e investigador doctor, permanente o no",
+        "Funcionarios de cuerpos docentes con al menos seis sexenios"
+      ],
+      "correcta": 1,
+      "explicacion": "La LOSU abre la candidatura al PDI permanente doctor a tiempo completo. La exigencia de ser Catedrático (LOU y art. 24 EULL) queda desplazada.",
+      "ref": "art. 51.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la elección del Rector, será proclamado en primera vuelta el candidato que logre:",
+      "opciones": [
+        "La mayoría absoluta del censo electoral",
+        "La mayoría simple de los votos ponderados",
+        "Dos tercios de los votos ponderados",
+        "Más de la mitad de los votos válidamente emitidos, una vez aplicadas las ponderaciones"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 51.2 LOSU. Si nadie lo logra y hay más de un candidato, segunda vuelta entre los dos más votados por mayoría simple.",
+      "ref": "art. 51.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Rector o la Rectora de una universidad pública será nombrado por:",
+      "opciones": [
+        "El órgano correspondiente de la Comunidad Autónoma",
+        "El Claustro Universitario",
+        "El Consejo de Gobierno de la universidad",
+        "El Ministro de Universidades"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 51.3 LOSU; también art. 24.1 EULL.",
+      "ref": "art. 51.3 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Hasta que los Estatutos se adapten a la LOSU, a los candidatos a Rector se les exige como mínimo:",
+      "opciones": [
+        "Cuatro sexenios de investigación y cuatro años de gestión",
+        "Dos sexenios de investigación, dos quinquenios docentes y dos años de gestión",
+        "Tres sexenios de investigación, tres quinquenios docentes y cuatro años de experiencia de gestión en algún cargo unipersonal",
+        "Tres sexenios de investigación y seis años de gestión universitaria"
+      ],
+      "correcta": 2,
+      "explicacion": "Es el mínimo de la DT 1.ª.3 LOSU.",
+      "ref": "DT 1.ª.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, los Directores y Directoras de Departamento se eligen:",
+      "opciones": [
+        "Por el Consejo de Gobierno, oído el Consejo de Departamento",
+        "Por el Rector, a propuesta del Consejo de Departamento",
+        "Por la Junta de Facultad en la que el departamento imparta más docencia",
+        "Mediante elección directa por sufragio universal por todos los miembros del Consejo de Departamento"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 52.1 LOSU, de entre personal de cuerpos docentes y Profesorado Permanente Laboral.",
+      "ref": "art. 52.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Conferencia General de Política Universitaria está presidida por:",
+      "opciones": [
+        "Un Rector elegido por la CRUE, y la componen los Rectores de las universidades públicas",
+        "El Ministro o Ministra de Universidades, y la componen los responsables de educación universitaria de los Consejos de Gobierno de las Comunidades Autónomas",
+        "El Secretario General de Universidades, y la componen los Presidentes de los Consejos Sociales",
+        "El Ministro de Universidades, y la componen los Rectores y cinco miembros designados"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 15.2 LOSU. La composición con Rectores y cinco designados corresponde al Consejo de Universidades.",
+      "ref": "art. 15.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué órgano aprueba, para cada curso, la oferta general de enseñanzas y plazas de las titulaciones oficiales del sistema universitario?",
+      "opciones": [
+        "El Ministerio de Universidades",
+        "El Consejo de Universidades",
+        "La Conferencia General de Política Universitaria",
+        "El Consejo de Estudiantes Universitario del Estado"
+      ],
+      "correcta": 2,
+      "explicacion": "Es función de la Conferencia General (art. 15.1.e LOSU); véase también el art. 31.4.",
+      "ref": "art. 15.1.e LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Verificar la adecuación de los planes de estudios corresponde a:",
+      "opciones": [
+        "El Consejo de Universidades",
+        "La Conferencia General de Política Universitaria",
+        "La ANECA",
+        "La Comunidad Autónoma"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 16.1.e) en relación con el art. 8.2 LOSU. La agencia emite informe sobre la memoria y la Comunidad Autónoma autoriza la implantación.",
+      "ref": "art. 16.1.e LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Además de los Rectores, forman parte del Consejo de Universidades un número de miembros designados por su Presidente igual a:",
+      "opciones": [
+        "Siete",
+        "Tres",
+        "Cinco",
+        "Diez"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 16.2.b) LOSU: cinco designados (Consejos Sociales, estudiantes, sindicatos, directivo del ministerio que actúa como secretario y profesional de prestigio).",
+      "ref": "art. 16.2.b LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los asuntos del Consejo de Universidades que afecten en exclusiva a las universidades públicas NO tienen derecho a voto:",
+      "opciones": [
+        "Los Rectores de las universidades privadas",
+        "El Presidente del Consejo",
+        "Los Rectores de las universidades públicas",
+        "Los cinco miembros designados por el Presidente"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 16.3 reserva el voto en esos asuntos al Presidente, los Rectores de las públicas y los cinco designados.",
+      "ref": "art. 16.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En la composición del Consejo de Estudiantes Universitario del Estado se garantizará que haya, como mínimo, de cada uno de los sexos:",
+      "opciones": [
+        "Un 25 por ciento",
+        "Un 50 por ciento",
+        "Un 33 por ciento",
+        "Un 40 por ciento"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 17.4 LOSU (redacción de la LO 2/2024): mínimo del 40 % de cada sexo.",
+      "ref": "art. 17.4 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El acceso a los cuerpos docentes universitarios exige, además del título de Doctor, la previa obtención de una acreditación emitida por:",
+      "opciones": [
+        "La agencia de calidad de la Comunidad Autónoma",
+        "La ANECA",
+        "El Consejo de Universidades",
+        "La universidad convocante"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 69.1 LOSU. La ANECA puede acordar por convenio que las agencias autonómicas evalúen los méritos, pero la acreditación es de la ANECA.",
+      "ref": "art. 69.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los procedimientos de acreditación de los cuerpos docentes universitarios, el sentido del silencio administrativo es:",
+      "opciones": [
+        "Estimatorio",
+        "Desestimatorio",
+        "Estimatorio si la agencia no resuelve en seis meses",
+        "No existe silencio porque la resolución es obligatoria en todo caso"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 69.3 LOSU establece silencio desestimatorio (igual en la acreditación de Permanente Laboral, art. 85).",
+      "ref": "art. 69.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Contra las resoluciones de las comisiones de acreditación podrá presentarse reclamación ante:",
+      "opciones": [
+        "La Conferencia General de Política Universitaria",
+        "El Rector de la universidad del solicitante",
+        "La Dirección de la ANECA",
+        "El Consejo de Universidades"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 73.1 LOSU. Su resolución pone fin a la vía administrativa (art. 73.3). La reclamación ante el Rector es contra propuestas de comisiones de concursos.",
+      "ref": "art. 73.1 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La inscripción de un título universitario oficial en el Registro de Universidades, Centros y Títulos:",
+      "opciones": [
+        "Tiene efectos constitutivos respecto de su creación y lleva aparejada la consideración inicial de título acreditado",
+        "Tiene efectos meramente informativos",
+        "Solo es obligatoria para los títulos de Doctorado",
+        "Sustituye a la verificación del Consejo de Universidades"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 7.3 LOSU. Los títulos no oficiales pueden inscribirse a efectos informativos.",
+      "ref": "art. 7.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la disposición transitoria tercera de la LOSU, la acreditación vigente de Profesor Contratado Doctor:",
+      "opciones": [
+        "Equivale a la acreditación a Profesor Titular de Universidad",
+        "Será mérito preferente durante cuatro años para acceder a Ayudante Doctor",
+        "Será válida para la figura de Profesor Permanente Laboral",
+        "Pierde su validez a la entrada en vigor de la ley"
+      ],
+      "correcta": 2,
+      "explicacion": "DT 3.ª.2 LOSU. El mérito preferente durante cuatro años es para la acreditación de Ayudante Doctor (DT 3.ª.1).",
+      "ref": "DT 3.ª.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según los Estatutos de la ULL, el Claustro está compuesto por el Rector, la Secretaría General, la Gerencia y un número de integrantes electos de:",
+      "opciones": [
+        "150",
+        "200",
+        "300",
+        "250"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 17 EULL: 250 electos (150 PDI, 75 estudiantes y 25 PAS).",
+      "ref": "art. 17 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la ponderación del voto para la elección del Rector que establecen los Estatutos de la ULL, al estudiantado le corresponde:",
+      "opciones": [
+        "El 25 por ciento",
+        "El 30 por ciento",
+        "El 10 por ciento",
+        "El 9 por ciento"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 24.3 EULL: 51 % PDI doctor permanente, 9 % resto del PDI, 10 % PAS y 30 % estudiantado. Es compatible con el mínimo del 51 % del art. 51.2 LOSU.",
+      "ref": "art. 24.3 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El pleno del Consejo de Gobierno de la Universidad de La Laguna está compuesto por:",
+      "opciones": [
+        "Cincuenta y tres personas",
+        "Cincuenta personas",
+        "Cincuenta y seis personas",
+        "Sesenta personas"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 13 EULL: 56 personas entre natas, designadas y elegidas.",
+      "ref": "art. 13 EULL",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "La LOSU. El nuevo manual universitario. Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
+      "url": "https://www.youtube.com/watch?v=bxTfvduSxQk",
+      "canal": "Yolanda Núñez"
+    },
+    {
+      "titulo": "Una visión con perspectiva de la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
+      "url": "https://www.youtube.com/watch?v=zZm-p63m2Ls",
+      "canal": "Universidad de Alcalá"
+    },
+    {
+      "titulo": "Ley Orgánica del Sistema Universitario. Curso gratuito. Parte 1: artículos 1 a 3",
+      "url": "https://www.youtube.com/watch?v=Wvaa6ty4flM",
+      "canal": "Jon Fernández Abogados"
+    },
+    {
+      "titulo": "Ley Orgánica del Sistema Universitario. Curso gratuito. Parte 2: artículos 4 a 5",
+      "url": "https://www.youtube.com/watch?v=wnt1ZJZZC5I",
+      "canal": "Jon Fernández Abogados"
+    },
+    {
+      "titulo": "Ley Orgánica 2/2023, del Sistema Universitario. Audio de la ley completa",
+      "url": "https://www.youtube.com/watch?v=yggoH7_heZ4",
+      "canal": "Sí hay derecho"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "BOE: Ley Orgánica 2/2023, del Sistema Universitario (texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500"
+    },
+    {
+      "titulo": "BOE: Real Decreto 678/2023, acreditación estatal y concursos de acceso a cuerpos docentes",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-19027"
+    },
+    {
+      "titulo": "ACCUEE: Agencia Canaria de Calidad Universitaria y Evaluación Educativa",
+      "url": "https://www3.gobiernodecanarias.org/educacion/accuee/"
+    },
+    {
+      "titulo": "Normativa de la Universidad de La Laguna (Estatutos y reglamentos)",
+      "url": "https://www.ull.es/portal/normativa/"
+    }
+  ]
+}

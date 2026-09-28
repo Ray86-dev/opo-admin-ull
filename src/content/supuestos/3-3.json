@@ -1,0 +1,203 @@
+{
+  "bloque": 3,
+  "titulo": "Anticipos de caja fija, pagos a justificar y control interno en la ULL",
+  "temas": ["3-02", "3-01"],
+  "enunciado": "**Marta Suárez Gil**, funcionaria de la Escala Administrativa, es la **habilitada** de la Facultad de Ciencias de la Salud de la Universidad de La Laguna. La Facultad dispone de un **anticipo de caja fija** con el que atiende pequeños gastos periódicos y repetitivos: material de oficina, mensajería y pequeñas reparaciones.\n\n**1. Reposición de fondos.** El lunes 14 de septiembre de 2026, Marta rinde cuenta de los pagos hechos con el anticipo desde julio (facturas de material de oficina, mensajería y reparación de persianas) para que se le repongan los fondos. En la misma relación quiere incluir un ordenador portátil de 1.150 €, que es material inventariable.\n\n**2. Pagos a justificar.** Por otra parte, la Facultad tramita dos libramientos de fondos «a justificar»:\n\n- **Libramiento 1.** 4.000 €, librados el martes 9 de junio de 2026 a la profesora **Ana Delgado Perera**, para gastos de un proyecto de cooperación en **Cabo Verde**. En el momento del libramiento no pueden aportarse los justificantes.\n- **Libramiento 2.** 1.500 €, librados el viernes 3 de julio de 2026 al profesor **Rubén Pérez Ojeda**, para un taller en Gran Canaria. El Centro no tiene allí dependencias, y los proveedores locales exigen el pago en el acto.\n\nA 31 de diciembre de 2026, del libramiento 2 quedan 230 € sin invertir.\n\n**3. Control interno.** Al fiscalizar un expediente de gasto de la Facultad, la Intervención formula un **reparo**, y el Decanato no está de acuerdo. En esas mismas semanas se jubila la Interventora, y hay que nombrar a quien la sustituya.\n\n**4. Gasto plurianual.** La Gerencia prepara un contrato de mantenimiento de equipos de la Facultad para 2026, 2027 y 2028, con cargo al capítulo II. El crédito inicial del capítulo II del presupuesto de 2026 es de **28.675.503,10 €**.\n\nPara responder, ten en cuenta que en la ULL estas materias se rigen por la LOSU, los Estatutos (EULL), la Ley 11/2003 de Consejos Sociales, el Reglamento del Consejo Social (Decreto 215/2017) y las Bases de Ejecución del Presupuesto 2026 (BEP-ULL). Las preguntas sobre anticipos de caja fija y pagos a justificar se refieren al **régimen general de la Ley 47/2003, General Presupuestaria (LGP)**, que sirve de referencia en el temario.",
+  "preguntas": [
+    {
+      "enunciado": "Según el art. 78.1 LGP, ¿qué son los anticipos de caja fija como el que gestiona Marta?",
+      "opciones": [
+        "Libramientos presupuestarios a favor de un perceptor concreto para gastos de los que no puede aportarse justificación en el momento del reconocimiento.",
+        "Adelantos de nómina sin interés al personal, reintegrables en veinticuatro meses.",
+        "Provisiones de fondos de carácter extrapresupuestario y permanente a pagadurías, cajas y habilitaciones, para atender de inmediato gastos periódicos o repetitivos y aplicarlos después al capítulo de gastos corrientes en bienes y servicios del presupuesto del año en que se realicen.",
+        "Transferencias de crédito al centro de gasto para atender necesidades no previstas."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 78.1 LGP define los anticipos de caja fija como «provisiones de fondos de carácter extrapresupuestario y permanente que se realicen a pagadurías, cajas y habilitaciones para la atención inmediata y posterior aplicación al capítulo de gastos corrientes en bienes y servicios del presupuesto del año en que se realicen, de gastos periódicos o repetitivos». La primera opción describe los pagos a justificar (art. 79 LGP). La segunda, los anticipos reintegrables al personal (art. 26 BEP-ULL).",
+      "ref": "art. 78.1 LGP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Puede Marta incluir el ordenador portátil inventariable de 1.150 € entre los pagos del anticipo de caja fija?",
+      "opciones": [
+        "No, porque el anticipo de caja fija solo sirve para gastos periódicos o repetitivos que se aplican al capítulo de gastos corrientes en bienes y servicios (capítulo II), y un equipo inventariable es una inversión.",
+        "Sí, porque cualquier gasto inferior a 5.000 € puede pagarse con el anticipo.",
+        "Sí, siempre que el Decano lo autorice por escrito.",
+        "No, pero solo porque supera los 1.000 €."
+      ],
+      "correcta": 0,
+      "explicacion": "Según el art. 78.1 LGP, los fondos del anticipo de caja fija se aplican al capítulo de gastos corrientes en bienes y servicios (capítulo II) y se destinan a gastos periódicos o repetitivos. Un ordenador portátil inventariable no es un gasto repetitivo y es una inversión (capítulo VI). Además, debe darse de alta en el inventario (art. 31 BEP-ULL; art. 128 EULL). Las cifras de 5.000 € o 1.000 € de las otras opciones son inventadas.",
+      "ref": "art. 78.1 LGP; art. 4 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Marta paga con el anticipo un servicio de mensajería el lunes 14 de diciembre de 2026, ¿a qué presupuesto se aplica ese gasto?",
+      "opciones": [
+        "Al presupuesto de 2027, porque la reposición de fondos se hará en ese ejercicio.",
+        "A ningún presupuesto, porque los anticipos de caja fija son extrapresupuestarios.",
+        "Al presupuesto del ejercicio en que se liquide la caja, a elección de la habilitación.",
+        "Al capítulo II del presupuesto de 2026, año en que se realizó el gasto."
+      ],
+      "correcta": 3,
+      "explicacion": "La provisión de fondos es extrapresupuestaria, pero los gastos pagados con ella se aplican después al presupuesto: al capítulo de gastos corrientes en bienes y servicios «del presupuesto del año en que se realicen» (art. 78.1 LGP). Esto encaja con el principio de temporalidad de los créditos (art. 49 LGP; art. 8 BEP-ULL): solo se contraen obligaciones por gastos realizados en el año natural del ejercicio. El gasto de 14/12/2026 se aplica, por tanto, al capítulo II de 2026.",
+      "ref": "art. 78.1 LGP; art. 8 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Como ejercicio de cálculo, si se aplicara a la ULL el límite global de los anticipos de caja fija que el art. 78.3 LGP fija para ministerios y organismos autónomos, ¿cuál sería la cuantía máxima del conjunto de anticipos?",
+      "opciones": [
+        "1.433.775,16 € (5 % del capítulo II).",
+        "2.007.285,22 € (7 % del capítulo II).",
+        "2.867.550,31 € (10 % del capítulo II).",
+        "12.706.120,00 € (7 % del total del presupuesto)."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 78.3 LGP establece que la cuantía global de los anticipos de caja fija no puede superar el 7 % del total de créditos del capítulo de gastos corrientes en bienes y servicios del presupuesto vigente. Cálculo: 28.675.503,10 € × 0,07 = 2.007.285,22 €. La base es el capítulo II, no el total del presupuesto. El 10 % solo se contempla para el artículo 23 del programa 222A del Ministerio del Interior, y el 14 % para la AECID.",
+      "ref": "art. 78.3 LGP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿En qué supuestos permite el art. 79 LGP expedir libramientos «a justificar» como los de las profesoras Delgado y Pérez?",
+      "opciones": [
+        "Siempre que el importe no supere 5.000 €.",
+        "Solo para gastos de personal.",
+        "Cuando, excepcionalmente, no pueda aportarse la documentación justificativa en el momento del reconocimiento de la obligación; cuando los servicios se presten en el extranjero; y para gastos en localidades donde no haya dependencias del órgano.",
+        "Únicamente cuando lo autorice el Consejo Social."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 79.1 LGP permite libramientos a justificar cuando, excepcionalmente, no puedan aportarse los justificantes en el momento previsto para reconocer la obligación (art. 73.4), y cuando los servicios o prestaciones se realicen en el extranjero (caso de Cabo Verde). El art. 79.2 LGP da el mismo carácter a los pagos para gastos en una localidad sin dependencias del órgano (caso del taller en Gran Canaria).",
+      "ref": "art. 79.1 y 79.2 LGP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál es el plazo general de rendición de la cuenta justificativa del libramiento de la profesora Delgado (gastos en Cabo Verde), según la LGP?",
+      "opciones": [
+        "Tres meses, sin posibilidad de ampliación.",
+        "Seis meses, ampliable excepcionalmente hasta doce meses.",
+        "Un mes desde el regreso.",
+        "Dos meses, que es el plazo para aprobar la cuenta."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 79.4 LGP fija un plazo de rendición de tres meses, excepto para los pagos de expropiaciones y los pagos en el extranjero, que pueden rendirse en seis meses. Excepcionalmente, estos plazos pueden ampliarse a seis y doce meses, respectivamente, a propuesta del órgano gestor y con informe de la Intervención. Al ser un gasto en el extranjero, el plazo general es de seis meses, ampliable a doce.",
+      "ref": "art. 79.4 LGP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Y el plazo general de rendición de la cuenta del libramiento 2 (taller en Gran Canaria)?",
+      "opciones": [
+        "Seis meses, porque es un gasto fuera de la isla de Tenerife.",
+        "Doce meses.",
+        "Un mes.",
+        "Tres meses, ampliable excepcionalmente a seis."
+      ],
+      "correcta": 3,
+      "explicacion": "Gran Canaria es territorio nacional. No es un pago en el extranjero ni una expropiación, así que rige el plazo general de tres meses del art. 79.4 LGP, que excepcionalmente puede ampliarse a seis. Que la actividad sea fuera de la isla no convierte el pago en «pago en el extranjero».",
+      "ref": "art. 79.4 LGP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Qué debe hacerse con los 230 € del libramiento 2 que siguen sin invertir a 31 de diciembre de 2026?",
+      "opciones": [
+        "Justificarse mediante carta de pago que demuestre su reintegro, porque con cargo a los libramientos a justificar solo pueden imputarse obligaciones del ejercicio al que corresponden.",
+        "Pueden usarse libremente en 2027 para el mismo taller.",
+        "Se incorporan de oficio al anticipo de caja fija de la Facultad.",
+        "El profesor puede quedárselos como compensación por su dedicación."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 79.3 LGP dispone que con cargo a los libramientos a justificar solo pueden imputarse las obligaciones de actuaciones realizadas y exigibles en el ejercicio del libramiento. La cantidad no invertida en ese ejercicio se justifica con carta de pago que demuestre su reintegro. El mismo artículo exige incluir en toda propuesta de pago a justificar un calendario de las actuaciones que se van a financiar. La excepción del Consejo de Ministros para gastos en el extranjero no es aplicable aquí.",
+      "ref": "art. 79.3 LGP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Presentados los justificantes, ¿en qué plazo debe la autoridad competente aprobar o reparar la cuenta, según la LGP?",
+      "opciones": [
+        "En el plazo de diez días hábiles.",
+        "En el curso de los dos meses siguientes a la fecha de aportación de los documentos justificativos.",
+        "En el plazo de tres meses desde el libramiento.",
+        "Antes del 31 de diciembre del ejercicio siguiente."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 79.6 LGP establece que la aprobación o el reparo de la cuenta se hará en el curso de los dos meses siguientes a la fecha de aportación de los documentos justificativos. Además, los perceptores de las órdenes de pago a justificar responden de la custodia y el uso de los fondos y de la rendición de la cuenta (art. 79.5).",
+      "ref": "art. 79.5 y 79.6 LGP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según los Estatutos de la ULL, ¿qué órgano tiene competencia para regular los anticipos a justificar?",
+      "opciones": [
+        "El Consejo Social.",
+        "La Gerencia.",
+        "El Consejo de Gobierno.",
+        "El Claustro Universitario."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 15.j) EULL atribuye al Consejo de Gobierno la competencia de «regular los anticipos a justificar». También le corresponde aprobar las normas y procedimientos para el desarrollo y ejecución presupuestaria (art. 15.g) y aprobar o proponer las transferencias de crédito entre conceptos de gastos corrientes y de capital (art. 15.i).",
+      "ref": "art. 15.j) EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sobre la Intervención de la ULL, que ha formulado el reparo del apartado 3, señala la afirmación correcta:",
+      "opciones": [
+        "Depende orgánica y funcionalmente del Consejo Social y ejerce el control interno con autonomía respecto de los órganos cuya actividad controla.",
+        "Depende jerárquicamente de la Gerencia, que es la responsable de los servicios económicos.",
+        "Depende del Rector, que nombra libremente a su titular.",
+        "Es un órgano de la Comunidad Autónoma, ajeno a la Universidad."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 125 EULL atribuye a la Intervención el control interno de la gestión económico-financiera, bajo la supervisión del Consejo Social, del que depende orgánica y funcionalmente, con autonomía respecto de los órganos que controla. En el mismo sentido, el art. 14.3 de la Ley 11/2003 y el art. 38.1 del Decreto 215/2017. La LOSU exige que el órgano de control interno tenga autonomía funcional y no dependa de los órganos de gobierno unipersonales (art. 59.3 LOSU), y que el sistema incluya en todo caso una auditoría interna.",
+      "ref": "art. 125 EULL; art. 14.3 Ley 11/2003; art. 59.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Tras la jubilación de la Interventora, ¿cómo se nombra a su sustituto?",
+      "opciones": [
+        "Lo nombra el Consejo de Gobierno a propuesta de la Gerencia.",
+        "Lo elige el Claustro por mayoría absoluta.",
+        "Lo nombra la consejería competente en universidades del Gobierno de Canarias.",
+        "Lo nombra el Rector a propuesta del Consejo Social, entre funcionarios de carrera del Cuerpo Superior de Administradores de la Comunidad Autónoma de Canarias o de cuerpos o escalas de otras Administraciones con funciones similares."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 4.1.c) de la Ley 11/2003 atribuye al Consejo Social proponer al Rector el nombramiento o cese del responsable de la Intervención o del control interno. El art. 7.c) del Decreto 215/2017 (Reglamento del Consejo Social de la ULL) precisa que debe elegirse entre funcionarios de carrera del Cuerpo Superior de Administradores de la Comunidad Autónoma de Canarias o de cuerpos o escalas de otras Administraciones públicas con funciones similares, según criterios de mérito, capacidad e idoneidad. El art. 38.2 del Decreto 215/2017 lo reitera.",
+      "ref": "art. 4.1.c) Ley 11/2003; arts. 7.c) y 38.2 Decreto 215/2017",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El Decanato mantiene su discrepancia con el reparo de la Intervención. ¿Quién la resuelve con carácter general?",
+      "opciones": [
+        "El Consejo Social, en todo caso.",
+        "El Rector, que puede elevar el reparo al Consejo de Gobierno cuando lo estime oportuno.",
+        "La propia Intervención, cuya decisión es definitiva.",
+        "La Audiencia de Cuentas de Canarias."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 14.4 de la Ley 11/2003 (y el art. 38.4 del Decreto 215/2017), en relación con el art. 134 de la Ley 11/2006 de la Hacienda Pública Canaria, dispone que las discrepancias con los reparos del órgano de fiscalización interna las resuelve con carácter general el Rector, que puede elevar el reparo al Consejo de Gobierno si lo considera oportuno. El art. 23.n) EULL atribuye también al Rector «levantar motivadamente los reparos de la Intervención».",
+      "ref": "art. 14.4 Ley 11/2003; art. 23.n) EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué órgano debe aprobar el gasto plurianual del contrato de mantenimiento 2026-2028?",
+      "opciones": [
+        "El Rector, porque el contrato no supera 1.000.000 €.",
+        "La Gerencia, previa conformidad del Servicio de Gestión Económica y Financiera.",
+        "El Consejo Social, a propuesta del Consejo de Gobierno o del órgano en quien delegue, sea cual sea el número de anualidades.",
+        "No necesita aprobación como plurianual si cada anualidad es inferior a 50.000 €."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 20.4 BEP-ULL, en aplicación del art. 3 ter.1.m) de la Ley 11/2003, atribuye la autorización de gastos plurianuales al Consejo Social u órgano en quien delegue, con independencia del número de anualidades. El art. 21.6 BEP-ULL precisa que la aprobación corresponde al Consejo Social a propuesta del Consejo de Gobierno u órgano en quien delegue. El expediente debe incluir la propuesta de declaración de plurianualidad firmada por el responsable del centro de gasto y la conformidad del Servicio de Gestión Económica y Financiera (art. 21.5). Solo los gastos de contratación de personal están excluidos de la autorización plurianual (art. 21.7).",
+      "ref": "arts. 20.4 y 21 BEP-ULL; art. 3 ter.1.m) Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Salvo que el Consejo Social modifique los porcentajes, ¿cuál es el importe máximo del gasto plurianual del capítulo II que podría imputarse a 2027, primer ejercicio posterior al de autorización?",
+      "opciones": [
+        "14.337.751,55 €, el 50 % del crédito inicial del capítulo II.",
+        "11.470.201,24 €, el 40 % del crédito inicial del capítulo II.",
+        "8.602.650,93 €, el 30 % del crédito inicial del capítulo II.",
+        "28.675.503,10 €, el 100 % del crédito inicial."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 21.2 BEP-ULL limita el número de ejercicios a cuatro. Además, lo que se impute a cada ejercicio posterior no puede superar un porcentaje del crédito inicial a nivel de capítulo: 50 % en el ejercicio inmediato siguiente, 40 % en el segundo y 30 % en el tercero y el cuarto. Para 2027: 28.675.503,10 × 0,50 = 14.337.751,55 €. Para 2028 serían 11.470.201,24 € (40 %). El Consejo Social puede aprobar otros porcentajes (art. 21.3). Los límites no se aplican a los gastos con financiación afectada ni a los arrendamientos de inmuebles.",
+      "ref": "art. 21.2 y 21.3 BEP-ULL",
+      "dificultad": 3
+    }
+  ]
+}

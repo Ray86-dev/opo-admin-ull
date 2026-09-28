@@ -1,0 +1,203 @@
+{
+  "bloque": 1,
+  "titulo": "Contrato de mantenimiento de las zonas ajardinadas de los campus",
+  "temas": ["1-08", "1-09"],
+  "enunciado": "El **Vicerrectorado de Sostenibilidad e Infraestructuras** de la Universidad de La Laguna necesita contratar el **mantenimiento de las zonas ajardinadas de los campus de Guajara y Anchieta** (poda, riego, siega y reposición de plantas), prestación que una empresa especializada realizará de forma continuada. El **Servicio de Contratación** prepara el expediente con estos datos:\n\n- **Duración inicial:** 2 años, con posibilidad de **dos prórrogas de un año** cada una.\n- **Precio anual estimado:** 45.000 euros, **IGIC excluido** (tipo aplicable: 7 %).\n- El pliego de cláusulas administrativas particulares prevé una **modificación** al alza de hasta el **10 % del precio inicial** (9.000 euros) si se incorporan nuevas zonas verdes.\n- Criterios de adjudicación: precio (60 puntos) y criterios evaluables mediante juicio de valor (40 puntos).\n- El órgano de contratación **no** considera necesario exigir garantía provisional.\n\nPor la cuantía, la contratación no puede tramitarla el Vicerrectorado en virtud de la delegación de la Resolución de 12 de mayo de 2023, que alcanza hasta 50.000 euros.\n\nEl anuncio de licitación se publica en el **perfil de contratante** el **lunes 4 de mayo de 2026**. Presentan oferta cinco empresas. La mesa de contratación propone como mejor oferta la de **Jardines Atlánticos, S.L.**, por **80.000 euros (IGIC excluido) para los dos años**. El requerimiento de documentación se recibe por la empresa el **lunes 1 de junio de 2026**; la empresa aporta la documentación y la garantía el **miércoles 10 de junio**. El órgano de contratación adjudica el contrato y **remite la notificación** de la adjudicación a todos los licitadores el **miércoles 17 de junio de 2026**.\n\nUna de las empresas no adjudicatarias, **Verdes del Sur, S.A.**, está estudiando impugnar la adjudicación.\n\n*Recuerda que, conforme a la disposición adicional decimotercera LCSP, las referencias al IVA se entienden hechas al IGIC en Canarias. A efectos de cómputo, considera que en los periodos afectados no hay más días inhábiles que los sábados y domingos.*",
+  "preguntas": [
+    {
+      "enunciado": "¿Qué tipo de contrato es el que pretende celebrar la Universidad?",
+      "opciones": [
+        "Contrato de servicios, por tratarse de prestaciones de hacer consistentes en el desarrollo de una actividad distinta de una obra o un suministro",
+        "Contrato de obras, porque se actúa sobre bienes inmuebles",
+        "Contrato de concesión de servicios, porque la prestación es continuada",
+        "Contrato de suministro, porque incluye la reposición de plantas"
+      ],
+      "correcta": 0,
+      "explicacion": "Son contratos de servicios aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluidos aquellos en que el adjudicatario se obliga a ejecutar el servicio de forma sucesiva (art. 17 LCSP). No hay concesión porque el riesgo operacional no se transfiere al contratista: la ULL paga un precio.",
+      "ref": "art. 17 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál es el presupuesto base de licitación del contrato?",
+      "opciones": [
+        "90.000 euros",
+        "180.000 euros",
+        "96.300 euros",
+        "192.600 euros"
+      ],
+      "correcta": 2,
+      "explicacion": "El presupuesto base de licitación es el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el IVA (IGIC en Canarias), salvo disposición en contrario (art. 100.1 LCSP; DA 13.ª). Se calcula sobre la duración inicial, sin prórrogas ni modificaciones: 2 × 45.000 = 90.000 euros + 7 % de IGIC (6.300) = 96.300 euros.",
+      "ref": "art. 100.1 y DA 13.ª LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál es el valor estimado del contrato?",
+      "opciones": [
+        "90.000 euros",
+        "189.000 euros",
+        "180.000 euros",
+        "202.230 euros"
+      ],
+      "correcta": 1,
+      "explicacion": "El valor estimado es el importe total pagadero sin IVA/IGIC (art. 101.1.a LCSP), teniendo en cuenta las eventuales prórrogas (art. 101.2.a) y, si el pliego prevé modificaciones, el importe máximo que pueda alcanzar el contrato con todas las modificaciones al alza previstas (art. 101.2.c). Cálculo: 4 años × 45.000 = 180.000 euros + 9.000 euros de modificación prevista = 189.000 euros.",
+      "ref": "art. 101.1.a y 101.2 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Está el contrato sujeto a regulación armonizada?",
+      "opciones": [
+        "Sí, porque su valor estimado supera los 140.000 euros",
+        "Sí, porque su duración total supera los cuatro años",
+        "Sí, porque todos los contratos de servicios de las universidades públicas lo están",
+        "No, porque el umbral aplicable a entidades distintas de la Administración General del Estado es de 216.000 euros de valor estimado"
+      ],
+      "correcta": 3,
+      "explicacion": "Están sujetos a regulación armonizada los contratos de servicios cuyo valor estimado sea igual o superior a 216.000 euros cuando los adjudiquen entidades del sector público distintas de la AGE, sus organismos autónomos o las entidades gestoras y servicios comunes de la Seguridad Social (art. 22.1.b LCSP). El umbral de 140.000 euros (art. 22.1.a) solo rige para la AGE y esos organismos. Con 189.000 euros no hay regulación armonizada.",
+      "ref": "art. 22.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede adjudicarse el contrato por el procedimiento abierto simplificado?",
+      "opciones": [
+        "Sí, porque no está sujeto a regulación armonizada",
+        "Sí, y además por la tramitación sumaria del art. 159.6, al ser un servicio",
+        "No, porque para servicios exige un valor estimado inferior a 140.000 euros y, además, los criterios de juicio de valor (40 %) superan el 25 %",
+        "No, porque el procedimiento abierto simplificado solo se aplica a obras"
+      ],
+      "correcta": 2,
+      "explicacion": "El abierto simplificado exige, para suministros y servicios, un valor estimado inferior al importe del art. 22.1.a (140.000 euros) y que los criterios evaluables mediante juicio de valor no superen el 25 % (45 % en prestaciones intelectuales) (art. 159.1 LCSP). Aquí el valor estimado es 189.000 euros y el juicio de valor pesa un 40 %. La tramitación sumaria del art. 159.6 exige además un valor estimado inferior a 60.000 euros. Procede el procedimiento abierto (art. 131.2 LCSP).",
+      "ref": "arts. 131.2 y 159.1 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Publicado el anuncio en el perfil de contratante el lunes 4 de mayo de 2026, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+      "opciones": [
+        "Quince días hábiles, hasta el lunes 25 de mayo de 2026",
+        "Quince días naturales contados desde el día siguiente a la publicación, es decir, al menos hasta el martes 19 de mayo de 2026",
+        "Veintiséis días naturales, hasta el sábado 30 de mayo de 2026",
+        "Treinta y cinco días naturales, por ser un contrato de más de 100.000 euros"
+      ],
+      "correcta": 1,
+      "explicacion": "En los contratos de las Administraciones Públicas no sujetos a regulación armonizada, el plazo de presentación de proposiciones no será inferior a quince días desde el día siguiente a la publicación del anuncio en el perfil de contratante; el mínimo de veintiséis días es para obras y concesiones (art. 156.6 LCSP). Los plazos de la LCSP señalados por días son naturales salvo que se diga expresamente que son hábiles (DA 12.ª LCSP): del 5 al 19 de mayo.",
+      "ref": "art. 156.6 y DA 12.ª LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Por qué no puede actuar el Vicerrectorado de Sostenibilidad e Infraestructuras como órgano de contratación en este expediente?",
+      "opciones": [
+        "Porque la delegación de funciones de órgano de contratación en los Vicerrectorados solo alcanza hasta la cuantía de 50.000 euros",
+        "Porque los Vicerrectorados no pueden recibir delegaciones del Rector en materia de contratación",
+        "Porque el contrato está sujeto a regulación armonizada",
+        "Porque la contratación de servicios corresponde en exclusiva al Consejo Social"
+      ],
+      "correcta": 0,
+      "explicacion": "La Resolución de 12 de mayo de 2023 delega en el Vicerrectorado de Sostenibilidad e Infraestructuras las funciones de órgano de contratación en contratos de suministro, servicios y obras de su ámbito y de sus unidades de gasto hasta la cuantía de cincuenta mil euros (apartado Octavo, 6). Este contrato la supera ampliamente (PBL de 96.300 euros; valor estimado de 189.000 euros).",
+      "ref": "Resolución ULL 12/05/2023, apdo. Octavo.6",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sobre la mesa de contratación de este procedimiento, señala la afirmación CORRECTA:",
+      "opciones": [
+        "Es potestativa, porque el contrato no está sujeto a regulación armonizada",
+        "Sus miembros son elegidos por los licitadores",
+        "Su composición es reservada y no se publica hasta la adjudicación",
+        "Es obligatoria en el procedimiento abierto; la integran un Presidente, los vocales (entre ellos quien tenga atribuido el asesoramiento jurídico y un interventor o quien ejerza el control económico-presupuestario) y un Secretario"
+      ],
+      "correcta": 3,
+      "explicacion": "En los procedimientos abiertos, los órganos de contratación de las Administraciones Públicas están asistidos por una mesa de contratación (art. 326.1 LCSP). Está constituida por un Presidente, los vocales y un Secretario; entre los vocales figuran necesariamente un funcionario encargado del asesoramiento jurídico y un interventor, o quienes tengan atribuidas esas funciones (art. 326.3 y 5). Sus miembros los nombra el órgano de contratación y su composición se publica en el perfil de contratante (art. 326.3 y 4).",
+      "ref": "art. 326 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el órgano de contratación hubiera decidido, excepcionalmente y de forma motivada, exigir garantía provisional, ¿cuál sería su importe máximo?",
+      "opciones": [
+        "4.000 euros (5 % del precio ofertado)",
+        "2.700 euros (3 % del presupuesto base de licitación, IGIC excluido)",
+        "5.670 euros (3 % del valor estimado)",
+        "2.889 euros (3 % del presupuesto base de licitación, IGIC incluido)"
+      ],
+      "correcta": 1,
+      "explicacion": "La garantía provisional solo se exige excepcionalmente, por motivos de interés público justificados en el expediente, y su importe no puede superar el 3 % del presupuesto base de licitación, excluido el IVA/IGIC (art. 106.1 y 2 LCSP): 3 % de 90.000 = 2.700 euros.",
+      "ref": "art. 106 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué garantía definitiva debe constituir Jardines Atlánticos, S.L.?",
+      "opciones": [
+        "4.815 euros, 5 % del presupuesto base de licitación con IGIC",
+        "9.450 euros, 5 % del valor estimado",
+        "4.000 euros, 5 % del precio final ofertado, IGIC excluido",
+        "8.000 euros, 10 % del precio ofertado"
+      ],
+      "correcta": 2,
+      "explicacion": "El licitador que presente la mejor oferta debe constituir una garantía del 5 % del precio final ofertado, excluido el IVA/IGIC (art. 107.1 LCSP): 5 % de 80.000 = 4.000 euros. Solo en casos especiales puede exigirse una complementaria de hasta otro 5 % (art. 107.2). Puede prestarse en efectivo o valores de Deuda Pública, aval o seguro de caución (art. 108.1).",
+      "ref": "arts. 107.1 y 108 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La empresa recibió el requerimiento de documentación el lunes 1 de junio de 2026. ¿Hasta cuándo podía cumplimentarlo y qué ocurriría si no lo hiciera?",
+      "opciones": [
+        "Hasta el lunes 15 de junio de 2026; si no lo hace, se entiende que retira su oferta, se le exige una penalidad de 2.700 euros y se recaba la documentación al siguiente licitador",
+        "Hasta el jueves 11 de junio de 2026; si no lo hace, se declara desierta la licitación",
+        "Hasta el miércoles 1 de julio de 2026; si no lo hace, se le impone una penalidad del 5 % del precio ofertado",
+        "Hasta el lunes 15 de junio de 2026; si no lo hace, se le concede un nuevo plazo de subsanación de diez días"
+      ],
+      "correcta": 0,
+      "explicacion": "El licitador con la mejor oferta dispone de diez días hábiles desde el siguiente a la recepción del requerimiento (art. 150.2 LCSP): 2, 3, 4, 5, 8, 9, 10, 11, 12 y 15 de junio. Si no lo cumplimenta, se entiende que retira su oferta y se le exige el 3 % del presupuesto base de licitación, IVA/IGIC excluido (3 % de 90.000 = 2.700 euros), recabándose la documentación al siguiente licitador por orden de clasificación. No puede declararse desierta si hay alguna oferta admisible (art. 150.3).",
+      "ref": "art. 150.2 y 150.3 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Puede Verdes del Sur, S.A. interponer recurso especial en materia de contratación contra la adjudicación?",
+      "opciones": [
+        "No, porque el contrato no está sujeto a regulación armonizada; solo cabe recurso de alzada",
+        "No, porque el recurso especial solo procede contra los pliegos",
+        "Sí, pero previo pago de una tasa del 1 % del valor estimado",
+        "Sí, porque es un contrato de servicios de valor estimado superior a 100.000 euros; el recurso es potestativo y gratuito y el plazo es de quince días hábiles desde la notificación de la adjudicación"
+      ],
+      "correcta": 3,
+      "explicacion": "Son susceptibles de recurso especial, entre otros actos, los acuerdos de adjudicación de contratos de servicios de valor estimado superior a cien mil euros (art. 44.1.a y 2.c LCSP), con independencia de la regulación armonizada. El recurso es potestativo y gratuito (art. 44.7) y se interpone en quince días hábiles desde el día siguiente a la notificación de la adjudicación (art. 50.1.d). Contra esos actos no proceden los recursos administrativos ordinarios (art. 44.5).",
+      "ref": "arts. 44 y 50.1.d LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Remitida la notificación de la adjudicación el miércoles 17 de junio de 2026, ¿desde cuándo puede formalizarse el contrato?",
+      "opciones": [
+        "Desde el día siguiente, jueves 18 de junio de 2026",
+        "Desde el jueves 2 de julio de 2026, transcurridos quince días naturales",
+        "No antes de que transcurran quince días hábiles desde la remisión, que concluyen el miércoles 8 de julio; por tanto, a partir del jueves 9 de julio de 2026",
+        "Desde el viernes 17 de julio de 2026, transcurrido un mes"
+      ],
+      "correcta": 2,
+      "explicacion": "Si el contrato es susceptible de recurso especial, la formalización no podrá efectuarse antes de que transcurran quince días hábiles desde que se remita la notificación de la adjudicación (art. 153.3 LCSP). Días hábiles desde el 18 de junio: 18, 19, 22, 23, 24, 25, 26, 29, 30 de junio y 1, 2, 3, 6, 7 y 8 de julio. Después, se requiere al adjudicatario para formalizar en un plazo no superior a cinco días. No puede iniciarse la ejecución sin formalización (art. 153.6).",
+      "ref": "art. 153.3 y 153.6 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Sobre las prórrogas previstas, señala la afirmación CORRECTA:",
+      "opciones": [
+        "Se producen automáticamente si ninguna de las partes denuncia el contrato",
+        "Las acuerda el órgano de contratación y son obligatorias para el contratista si el preaviso se produce al menos con dos meses de antelación a la finalización del contrato; la duración total no puede superar cinco años",
+        "Requieren siempre el consentimiento expreso del contratista",
+        "Pueden sumar hasta seis años de duración total, por tratarse de un servicio de mantenimiento"
+      ],
+      "correcta": 1,
+      "explicacion": "La prórroga la acuerda el órgano de contratación y es obligatoria para el empresario siempre que el preaviso se produzca al menos con dos meses de antelación a la finalización del plazo, salvo que el pliego fije uno mayor; en ningún caso cabe la prórroga por consentimiento tácito (art. 29.2 LCSP). Los contratos de servicios de prestación sucesiva tienen un plazo máximo de cinco años incluidas las prórrogas (art. 29.4). Aquí 2 + 1 + 1 = 4 años.",
+      "ref": "art. 29.2 y 29.4 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el pliego no prevé penalidades específicas y la empresa incurre en demora imputable respecto del plazo total, ¿qué penalidad diaria podría imponer la Universidad?",
+      "opciones": [
+        "48 euros diarios (0,60 euros por cada 1.000 euros del precio del contrato, IGIC excluido)",
+        "60 euros diarios (0,60 euros por cada 1.000 euros del valor estimado redondeado)",
+        "113,40 euros diarios (0,60 euros por cada 1.000 euros del valor estimado)",
+        "Ninguna, porque previamente debe intimar al contratista para constituirlo en mora"
+      ],
+      "correcta": 0,
+      "explicacion": "Ante la demora imputable, la Administración puede resolver el contrato o imponer penalidades diarias de 0,60 euros por cada 1.000 euros del precio del contrato, IVA/IGIC excluido (art. 193.3 LCSP): 80.000 / 1.000 × 0,60 = 48 euros diarios. La constitución en mora no precisa intimación previa (art. 193.2), y cada vez que las penalidades alcancen un múltiplo del 5 % del precio puede resolverse el contrato (art. 193.4).",
+      "ref": "art. 193 LCSP",
+      "dificultad": 2
+    }
+  ]
+}

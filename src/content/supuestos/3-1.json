@@ -1,0 +1,203 @@
+{
+  "bloque": 3,
+  "titulo": "El presupuesto de la ULL para 2026: vinculación de créditos y modificaciones presupuestarias",
+  "temas": ["3-01"],
+  "enunciado": "Lucía Hernández Brito, funcionaria de la Escala Administrativa, acaba de incorporarse a la **Sección de Presupuestos del Servicio de Gestión Económica y Financiera** de la Universidad de La Laguna. Su jefa le pide que prepare un informe sobre varios expedientes del ejercicio **2026**. Dispone de los siguientes datos:\n\n1. **Elaboración y aprobación.** Los criterios básicos de presupuestación para 2026 fueron informados por el Consejo Social el 18 de septiembre de 2025, debatidos en el Claustro el 26 de septiembre y aprobados el jueves 9 de octubre de 2025. El presupuesto fue aprobado por el Pleno del Consejo Social el miércoles 17 de diciembre de 2025 y publicado en el BOC del lunes 29 de diciembre de 2025. El estado de gastos asciende a **181.516.000,00 €**: capítulo I, 140.677.307,35 €; capítulo II, 28.675.503,10 €; capítulo VI, 9.898.019,55 €; el resto, otros capítulos (entre ellos, 100.000 € de Fondo de contingencia en el capítulo V).\n\n2. **Departamento de Química.** Su director quiere comprar productos de laboratorio por 2.800 €, pero el subconcepto de «productos de laboratorio» está agotado. En cambio, en el subconcepto de «material de oficina» del mismo centro de gasto, subprograma y capítulo II le quedan 4.500 € sin comprometer. Además, en 2026 el Departamento ha constituido un tribunal para un concurso de acceso a plaza de Profesorado Titular y otro tribunal de tesis doctoral, y quiere destinar crédito a atenciones protocolarias (subconcepto 226.01).\n\n3. **Proyecto de investigación.** El martes 3 de marzo de 2026 la ULL recibe la resolución de concesión de la Agencia Canaria de Investigación de un proyecto de 85.000 € dirigido por la profesora Nieves Afonso Díaz, no previsto en el presupuesto inicial. De otro proyecto con financiación afectada terminado en 2025 quedaron 12.400 € de remanente sin gastar.\n\n4. **Obras urgentes.** Un temporal daña la cubierta de la Facultad de Educación. La reparación (62.000 €) no puede demorarse a 2027 y no existe crédito consignado para ese fin.\n\n5. **Otras propuestas.** El Vicerrectorado de Sostenibilidad e Infraestructuras plantea: a) transferir 40.000 € de un crédito del capítulo VI a gastos del capítulo II; b) transferir 25.000 € desde el capítulo II de un centro de gasto al capítulo VI de otro.\n\n6. **Factura de 2025.** Aparece una factura de 120.000 € por un suministro realizado en noviembre de 2025 que, por razones excepcionales debidamente justificadas, no fue aprobado en su momento.\n\n7. **Imprevisto.** A lo largo del año surge una necesidad no discrecional y no prevista que podría atenderse con el Fondo de contingencia.\n\nResponde aplicando la LOSU, los Estatutos de la ULL (EULL), la Ley 11/2003 de Consejos Sociales y las Bases de Ejecución del Presupuesto 2026 (BEP-ULL).",
+  "preguntas": [
+    {
+      "enunciado": "En su informe, Lucía debe explicar cómo se clasifican los créditos del estado de gastos del presupuesto de la ULL para 2026. Según las BEP-ULL, se clasifican atendiendo a los criterios:",
+      "opciones": [
+        "Orgánico y económico, únicamente.",
+        "Orgánico, funcional y económico.",
+        "Funcional y económico, únicamente.",
+        "Orgánico, funcional, económico y territorial."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 4 BEP-ULL dispone que las previsiones del estado de ingresos se estructuran con criterio orgánico y económico, mientras que los créditos del estado de gastos se clasifican con criterio orgánico (centro de gasto), funcional (programas como 422A Enseñanzas Universitarias o 541C Investigación y Transferencia) y económico (capítulos, artículos, conceptos y subconceptos). Ojo: la opción «orgánico y económico» es la del estado de ingresos. No existe clasificación territorial.",
+      "ref": "art. 4 BEP-ULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Con los datos del apartado 1, ¿qué órgano aprobó los criterios básicos de presupuestación para 2026 y qué trámites previos exigen los Estatutos?",
+      "opciones": [
+        "El Consejo Social, previo informe del Consejo de Gobierno y debate en el Claustro.",
+        "La Gerencia, previo informe del Consejo Social.",
+        "El Consejo de Gobierno, previo informe del Consejo Social y previo debate en el Claustro.",
+        "El Claustro, a propuesta del Consejo de Gobierno y previo informe de la Intervención."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el art. 122.2 EULL, la Gerencia elabora los criterios básicos de presupuestación y las directrices del presupuesto, que se elevan al Consejo de Gobierno para su aprobación, previo informe del Consejo Social y previo debate en el Claustro. Así ocurrió en el caso: informe del Consejo Social (18/9/2025), debate en el Claustro (26/9/2025) y aprobación por el Consejo de Gobierno (9/10/2025), como recoge la exposición de motivos de las BEP-ULL. Además, el art. 3 ter.1.d) de la Ley 11/2003 atribuye al Consejo Social informar esos criterios antes de su aprobación por el Consejo de Gobierno.",
+      "ref": "art. 122.2 EULL; art. 3 ter.1.d) Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Supón que, por un retraso en la financiación autonómica, el proyecto de presupuesto no hubiera podido presentarse al Consejo Social antes del 1 de enero de 2026. Según el art. 1 BEP-ULL y el art. 122.3 EULL:",
+      "opciones": [
+        "Debería presentarse antes del 30 de junio de 2026, y mientras tanto no podría realizarse ningún gasto.",
+        "Debería presentarse en el primer cuatrimestre de 2026 y las bases de ejecución quedarían sin efecto hasta su aprobación.",
+        "Debería aprobarse por el Consejo de Gobierno, que asumiría la competencia del Consejo Social en caso de retraso.",
+        "Debería presentarse necesariamente durante el primer trimestre de 2026; entretanto, el presupuesto se prorrogaría y las bases de ejecución regirían también en el período de prórroga."
+      ],
+      "correcta": 3,
+      "explicacion": "El proyecto se eleva al Consejo Social para su aprobación antes del inicio del ejercicio y, si no fuera posible, «deberá ser necesariamente presentado durante el primer trimestre del mismo» (art. 1 BEP-ULL y art. 122.3 EULL). El art. 5 BEP-ULL añade que, si el presupuesto hubiera de prorrogarse, las bases regirán asimismo en el período de prórroga. La aprobación sigue correspondiendo al Consejo Social (art. 47.2.g LOSU; art. 3 ter.1.f Ley 11/2003).",
+      "ref": "arts. 1 y 5 BEP-ULL; art. 122.3 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La LOSU obliga a las universidades a dedicar un porcentaje mínimo de su presupuesto a programas propios de investigación. Tomando como base el total del estado de gastos de 2026, ¿cuál es la cantidad mínima que debería destinar la ULL?",
+      "opciones": [
+        "9.075.800,00 €, al ser el 5 % del presupuesto.",
+        "18.151.600,00 €, al ser el 10 % del presupuesto.",
+        "3.630.320,00 €, al ser el 2 % del presupuesto.",
+        "1.433.775,16 €, al ser el 5 % del capítulo II."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 57.7 LOSU establece que las universidades dedicarán a programas propios de investigación un porcentaje de su presupuesto no inferior al 5 %. Cálculo: 181.516.000,00 € × 0,05 = 9.075.800,00 €. La base es el presupuesto, no un capítulo concreto.",
+      "ref": "art. 57.7 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El director del Departamento de Química quiere pagar los 2.800 € de productos de laboratorio con el saldo de «material de oficina» (apartado 2). ¿Qué debe hacerse?",
+      "opciones": [
+        "Tramitar una transferencia de crédito aprobada por el Consejo de Gobierno, porque los créditos del capítulo II vinculan a nivel de subconcepto.",
+        "Tramitar una generación de crédito, porque el subconcepto está agotado.",
+        "No hace falta ninguna modificación presupuestaria: los créditos del capítulo II vinculan a nivel de centro de gasto, subprograma y capítulo, y hay saldo suficiente dentro de ese nivel.",
+        "Solicitar al Consejo Social un suplemento de crédito, porque el crédito existente es insuficiente."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el art. 6 BEP-ULL, los créditos del capítulo II son vinculantes a nivel de centro de gasto, subprograma y capítulo (salvo el subconcepto 226.01, que vincula a nivel de subconcepto). Ambos subconceptos pertenecen al mismo centro de gasto, subprograma y capítulo II, y dentro de esa bolsa quedan 4.500 € disponibles, más que los 2.800 € necesarios. Por eso no hay que modificar el presupuesto: basta con imputar el gasto al subconcepto correspondiente dentro del nivel de vinculación.",
+      "ref": "art. 6 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál es el importe máximo que el Departamento de Química puede destinar en 2026 al subconcepto 226.01 «Atenciones protocolarias y representativas», con los datos del apartado 2?",
+      "opciones": [
+        "2.000 €.",
+        "2.600 €.",
+        "2.300 €.",
+        "El que solicite, previa justificación de la necesidad."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 35 BEP-ULL permite a los Departamentos asignar a este concepto un máximo fijo de 2.000 € más un máximo de 300 € por cada tribunal constituido para resolver concursos de acceso a plazas de los cuerpos docentes universitarios en el Departamento y por cada tribunal de tesis doctoral. Cálculo: 2.000 + (300 × 2 tribunales) = 2.600 €. La opción «el que solicite, previa justificación» corresponde al Rectorado, los Vicerrectorados, la Gerencia y el Consejo Social. Además, como el 226.01 vincula a nivel de subconcepto, el Departamento necesita una transferencia de crédito a esa partida.",
+      "ref": "arts. 6 y 35 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para disponer de los 85.000 € del proyecto concedido el 3 de marzo de 2026 (apartado 3), no previsto en el presupuesto inicial, ¿qué modificación presupuestaria procede?",
+      "opciones": [
+        "Una generación de crédito, porque se trata de recursos procedentes de otra Administración pública con compromiso firme de aportación.",
+        "Un crédito extraordinario, porque no existe crédito consignado para ese proyecto.",
+        "Una ampliación de crédito, porque los créditos de investigación son ampliables.",
+        "Una incorporación de remanentes, porque es financiación afectada."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 13 BEP-ULL permite generar crédito en el estado de gastos con los ingresos no previstos o superiores a los del presupuesto inicial, bien porque se hayan cobrado, bien porque exista un compromiso firme de aportación. Entre ellos, letra a), están los recursos procedentes de cualquier Administración pública. La resolución de concesión de la Agencia Canaria de Investigación es ese compromiso firme. El crédito extraordinario se reserva a gastos inaplazables sin crédito y sin un ingreso específico que los financie. Los créditos de investigación no figuran entre los ampliables del art. 6.",
+      "ref": "art. 13.a) BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué órgano es competente para aprobar la generación de crédito del proyecto de 85.000 €?",
+      "opciones": [
+        "El Consejo Social, a propuesta del Consejo de Gobierno.",
+        "La Gerencia, en todo caso.",
+        "El Rector, por atribución directa de los Estatutos, sin posibilidad de delegación.",
+        "El Consejo de Gobierno o el órgano en quien delegue."
+      ],
+      "correcta": 3,
+      "explicacion": "El último párrafo del art. 13 BEP-ULL dispone que la generación de crédito «compete al Consejo de Gobierno u órgano en quien delegue». Encaja con el art. 123.2 EULL: las modificaciones presupuestarias las acuerda el Consejo de Gobierno o el órgano en quien delegue, salvo las que la ley atribuya al Consejo Social (créditos extraordinarios, suplementos, transferencias que afecten a créditos de capital, incorporación de remanentes no afectados…).",
+      "ref": "art. 13 BEP-ULL; art. 123.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Una vez generado, ¿a qué nivel vinculan los créditos del proyecto de la profesora Afonso?",
+      "opciones": [
+        "Centro de gasto, subprograma y capítulo, como cualquier crédito del capítulo II.",
+        "Centro de gasto, subprograma, capítulo y proyecto.",
+        "Subconcepto, porque son créditos finalistas.",
+        "Centro de gasto, programa y capítulo, como los créditos del capítulo I."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 6 BEP-ULL establece que los créditos financiados con ingresos afectados vinculan a nivel de centro de gasto, subprograma, capítulo y proyecto. Así se garantiza que la financiación de un proyecto no se emplee en otro. El nivel «centro de gasto, programa y capítulo» es el del capítulo I, y el de subconcepto se aplica a excepciones concretas (150.00, 151.00 y 226.01).",
+      "ref": "art. 6 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para la reparación urgente de la cubierta de la Facultad de Educación (apartado 4), ¿qué figura y qué órgano de aprobación corresponden?",
+      "opciones": [
+        "Un suplemento de crédito aprobado por el Consejo de Gobierno.",
+        "Una generación de crédito aprobada por el Rector por delegación.",
+        "Un crédito extraordinario aprobado por el Consejo Social, a propuesta del Consejo de Gobierno y previo acuerdo favorable de este.",
+        "Una ampliación de crédito aprobada por la Gerencia."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el art. 11.1 BEP-ULL, cuando haya que hacer un gasto que no pueda demorarse al ejercicio siguiente y no exista crédito, se tramita un crédito extraordinario; si el crédito existe pero es insuficiente y no ampliable, un suplemento de crédito. Aquí no hay crédito consignado, así que procede un crédito extraordinario. Su aprobación corresponde al Consejo Social, previo acuerdo favorable del Consejo de Gobierno y a su propuesta (art. 11.3 BEP-ULL; art. 3 ter.1.g Ley 11/2003). El expediente debe indicar con qué recursos se financia el mayor gasto.",
+      "ref": "art. 11 BEP-ULL; art. 3 ter.1.g) Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre la propuesta a) del apartado 5 (transferir 40.000 € del capítulo VI al capítulo II), señala la respuesta correcta:",
+      "opciones": [
+        "Con carácter general no es posible, porque no pueden transferirse créditos de operaciones de capital a operaciones corrientes, salvo en los casos del art. 17.2 de la Ley de Presupuestos de la Comunidad Autónoma de Canarias para 2026.",
+        "Es posible siempre que la apruebe la Gerencia.",
+        "Es posible sin límite, porque ambos capítulos son de operaciones corrientes.",
+        "Solo es posible si la autoriza la Intervención, que tiene competencia para aprobar transferencias."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 12.2 BEP-ULL prohíbe transferir créditos de operaciones de capital a operaciones corrientes. Solo se admite en los casos del art. 17.2 de la Ley de Presupuestos de la Comunidad Autónoma de Canarias para 2026. El capítulo VI (inversiones reales) es operación de capital y el capítulo II (bienes corrientes y servicios) es operación corriente. La Intervención controla, pero no aprueba modificaciones.",
+      "ref": "art. 12 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La propuesta b) del apartado 5 incrementa en 25.000 € el capítulo VI de un centro de gasto con cargo al capítulo II de otro. ¿Qué órgano debe autorizarla?",
+      "opciones": [
+        "La Gerencia, porque afecta a dos centros de gasto.",
+        "El Consejo de Gobierno, en todo caso, porque es una transferencia entre capítulos de operaciones corrientes.",
+        "El Rector, porque tiene delegadas todas las modificaciones presupuestarias.",
+        "El Consejo Social, porque es una transferencia que afecta a créditos de gastos de capital; después se da cuenta al Consejo de Gobierno."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 12 BEP-ULL (en línea con el art. 3 ter.1.h de la Ley 11/2003) atribuye al Consejo Social autorizar las transferencias que afecten a los créditos de capital del presupuesto de gasto, en el marco del art. 54 LHPC. Al Consejo de Gobierno u órgano en quien delegue le corresponde aprobar o proponer las transferencias entre subconceptos de los capítulos. Además, «se dará cuenta al Consejo de Gobierno de toda transferencia aprobada», sea cual sea el órgano que la apruebe.",
+      "ref": "art. 12 BEP-ULL; art. 3 ter.1.h) Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los 12.400 € sobrantes del proyecto con financiación afectada terminado en 2025 quieren incorporarse al presupuesto de 2026. ¿Qué órgano lo autoriza?",
+      "opciones": [
+        "El Consejo Social, porque toda incorporación de remanentes es competencia suya.",
+        "El Consejo de Gobierno, competencia que actualmente tiene delegada expresamente en el Rector.",
+        "La Gerencia, sin necesidad de delegación.",
+        "Nadie: los créditos no afectados a obligaciones reconocidas el 31 de diciembre se anulan siempre de pleno derecho, sin excepción."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 14 BEP-ULL establece que los créditos no afectados al cumplimiento de obligaciones reconocidas se anulan de pleno derecho el último día del ejercicio. Sin embargo, corresponde al Consejo de Gobierno u órgano en quien delegue autorizar la incorporación al ejercicio siguiente de los remanentes con financiación afectada, y «actualmente rige delegación expresa en el Rector». Ojo con la trampa: la incorporación de remanentes NO afectados sí corresponde al Consejo Social (art. 3 ter.1.g Ley 11/2003).",
+      "ref": "art. 14 BEP-ULL; art. 3 ter.1.g) Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La factura de 120.000 € del suministro de noviembre de 2025, no aprobado en su momento por razones excepcionales (apartado 6), va a aplicarse al presupuesto de 2026. ¿Quién es competente para reconocer esa aplicación?",
+      "opciones": [
+        "El Rector, porque el importe es igual o superior a 100.000 €.",
+        "La Gerencia, porque es un gasto de un ejercicio cerrado.",
+        "El Consejo Social, porque afecta a un ejercicio ya liquidado.",
+        "El Consejo de Gobierno, previo informe de la Intervención."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 8 BEP-ULL (limitación temporal de los créditos) permite aplicar al presupuesto obligaciones de ejercicios anteriores derivadas de un gasto que, por razones excepcionales debidamente justificadas, no se aprobó antes. El reconocimiento corresponde al Rector cuando el importe sea igual o superior a 100.000 € y a la Gerencia en los demás casos. Como 120.000 € ≥ 100.000 €, es competente el Rector.",
+      "ref": "art. 8 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre el Fondo de contingencia del capítulo V (apartado 7), señala la afirmación correcta según las BEP-ULL:",
+      "opciones": [
+        "Puede destinarse a cualquier gasto discrecional que decida el Rector.",
+        "Solo puede utilizarse para gastos de personal del capítulo I.",
+        "Se destina a necesidades no discrecionales y no previstas en el presupuesto inicial, y su autorización y condiciones de aplicación las aprueba el Consejo de Gobierno.",
+        "Su aplicación la aprueba el Consejo Social mediante un crédito extraordinario."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 49 BEP-ULL dispone que el Fondo de contingencia (100.000 € en 2026, capítulo V) se destinará a atender, cuando proceda, necesidades de carácter no discrecional y no previstas en el presupuesto inicialmente aprobado que puedan presentarse durante el ejercicio, en cumplimiento del art. 31 LOEPSF. Su autorización y condiciones de aplicación deben aprobarse por el Consejo de Gobierno.",
+      "ref": "art. 49 BEP-ULL; art. 2 BEP-ULL",
+      "dificultad": 1
+    }
+  ]
+}

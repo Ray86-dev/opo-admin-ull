@@ -1,0 +1,1278 @@
+{
+  "claves": [
+    "El Consejo Social se rige por la LOSU (art. 47), la Ley canaria 11/2003 reformada por la Ley 3/2025, los Estatutos de la ULL y su Reglamento de Organización y Funcionamiento (Decreto 215/2017).",
+    "En caso de discrepancia prevalece la LOSU, después la Ley 11/2003 y, por último, los Estatutos y el Reglamento; la LOSU y los Estatutos remiten la composición a la ley autonómica.",
+    "Es el órgano de participación y representación de la sociedad en la universidad, instancia de rendición de cuentas y de protección de la integridad y espacio de colaboración universidad-sociedad.",
+    "Funciona con plena autonomía orgánica y funcional, integrado en la universidad pero sin participar en su estructura jerárquica.",
+    "Tiene 28 miembros: 6 de la comunidad universitaria y 22 de los intereses sociales.",
+    "Los vocales los designa el Parlamento de Canarias a iniciativa del Gobierno y los nombra el titular de la consejería competente, con publicación en el BOC; la representación social se renueva por completo cada cuatro años.",
+    "El Presidente lo nombra el Gobierno de Canarias entre los vocales de intereses sociales, por cuatro años renovables una sola vez.",
+    "El Vicepresidente lo designa el Pleno a propuesta del Presidente y el Secretario lo nombra el Rector a propuesta del Presidente.",
+    "El Consejo Social aprueba el presupuesto, las cuentas anuales, el plan plurianual de financiación, el límite de gasto y los gastos plurianuales, y da su conformidad al nombramiento del Gerente.",
+    "La Intervención o unidad de control interno depende del Consejo Social, que propone al Rector el nombramiento o cese de su responsable.",
+    "Sus informes son siempre previos y cualquier acuerdo que se separe de ellos debe motivarse.",
+    "El Pleno se reúne en sesión ordinaria una vez al trimestre y queda constituido con la mitad más uno de los miembros con voto o, en segunda convocatoria, con nueve.",
+    "Existen al menos cuatro comisiones: Permanente, Asuntos Económicos y Política Universitaria, Planificación y Calidad, y Relaciones con la Sociedad.",
+    "Dispone de un programa presupuestario propio dentro del presupuesto de la Universidad; ordena gastos y pagos el Presidente.",
+    "Los acuerdos del Pleno y los de las Comisiones por delegación agotan la vía administrativa."
+  ],
+  "plazos": [
+    {
+      "concepto": "Miembros del Consejo Social",
+      "valor": "28",
+      "ref": "art. 6.1 Ley 11/2003"
+    },
+    {
+      "concepto": "Miembros de la comunidad universitaria",
+      "valor": "6",
+      "ref": "art. 6.2 Ley 11/2003"
+    },
+    {
+      "concepto": "Miembros de intereses sociales",
+      "valor": "22",
+      "ref": "art. 6.3 Ley 11/2003"
+    },
+    {
+      "concepto": "Vocales propuestos por el Gobierno de Canarias",
+      "valor": "3",
+      "ref": "art. 6.3.a Ley 11/2003"
+    },
+    {
+      "concepto": "Vocales propuestos por los grupos parlamentarios",
+      "valor": "3",
+      "ref": "art. 6.3.b Ley 11/2003"
+    },
+    {
+      "concepto": "Vocales de los cabildos insulares",
+      "valor": "1 por cabildo (7)",
+      "ref": "art. 6.3.c Ley 11/2003"
+    },
+    {
+      "concepto": "Vocales sindicales y empresariales",
+      "valor": "2 y 2",
+      "ref": "art. 6.3.d y e Ley 11/2003"
+    },
+    {
+      "concepto": "Petición de propuestas antes del vencimiento del mandato",
+      "valor": "3 meses antes",
+      "ref": "art. 6.4 Ley 11/2003"
+    },
+    {
+      "concepto": "Incompatibilidad por participación en el capital de empresas contratadas",
+      "valor": "Más del 10 %",
+      "ref": "art. 7.2 Ley 11/2003"
+    },
+    {
+      "concepto": "Renovación de la representación social",
+      "valor": "Completa cada 4 años",
+      "ref": "art. 7.4 Ley 11/2003"
+    },
+    {
+      "concepto": "Mandato del Presidente",
+      "valor": "4 años, renovable una sola vez",
+      "ref": "art. 11.4 Ley 11/2003; art. 20.3 Reglamento"
+    },
+    {
+      "concepto": "Permanencia de los miembros tras la Ley 3/2025",
+      "valor": "4 años desde su entrada en vigor",
+      "ref": "DT 1.ª Ley 3/2025"
+    },
+    {
+      "concepto": "Adaptación del reglamento y de los estatutos a la Ley 3/2025",
+      "valor": "6 meses",
+      "ref": "DT 1.ª Ley 3/2025"
+    },
+    {
+      "concepto": "Envío del presupuesto aprobado a la consejería",
+      "valor": "Máximo 1 mes desde su aprobación",
+      "ref": "art. 3 ter.2 Ley 11/2003; art. 39.5 Reglamento"
+    },
+    {
+      "concepto": "Envío de las cuentas anuales a la consejería",
+      "valor": "Máximo 1 mes desde su aprobación",
+      "ref": "art. 4.2 Ley 11/2003; art. 40.2 Reglamento"
+    },
+    {
+      "concepto": "Aprobación de las cuentas anuales según el Reglamento",
+      "valor": "Dentro del primer cuatrimestre",
+      "ref": "art. 40.1 Reglamento"
+    },
+    {
+      "concepto": "Recepción del inventario actualizado",
+      "valor": "Primer trimestre del año natural",
+      "ref": "art. 4 bis.2 Ley 11/2003"
+    },
+    {
+      "concepto": "Comparecencia de la inspección de servicios ante el Consejo Social",
+      "valor": "Semestral o a petición del Consejo",
+      "ref": "art. 4 ter.1.e Ley 11/2003"
+    },
+    {
+      "concepto": "Memoria de responsabilidad social",
+      "valor": "Bienal",
+      "ref": "art. 4 ter.2 Ley 11/2003"
+    },
+    {
+      "concepto": "Plan de actuaciones de relación con el entorno",
+      "valor": "Trienal",
+      "ref": "art. 5.2 Ley 11/2003; art. 47.2.a LOSU"
+    },
+    {
+      "concepto": "Asignación autonómica suficiente para costes de personal",
+      "valor": "Como máximo el 50 %",
+      "ref": "art. 15.2.a Ley 11/2003"
+    },
+    {
+      "concepto": "Asignación con cargo a recursos propios de la universidad",
+      "valor": "Mínimo 0,25 % de su volumen total",
+      "ref": "art. 15.2.b Ley 11/2003"
+    },
+    {
+      "concepto": "Asignación finalista por captación de fondos",
+      "valor": "No superior al 15 % de lo captado",
+      "ref": "art. 15.2.b Ley 11/2003"
+    },
+    {
+      "concepto": "Comparecencia de la Presidencia ante el Parlamento",
+      "valor": "Segundo semestre de cada año",
+      "ref": "disp. adicional 5.ª Ley 11/2003"
+    },
+    {
+      "concepto": "Resolución del Gobierno de Canarias sobre creación de centros y enseñanzas",
+      "valor": "6 meses; desestimación por silencio si la pide la universidad",
+      "ref": "art. 24.1 Ley 11/2003"
+    },
+    {
+      "concepto": "Sesiones ordinarias del Pleno",
+      "valor": "Una vez al trimestre",
+      "ref": "art. 26 Reglamento"
+    },
+    {
+      "concepto": "Sesión extraordinaria a petición de los miembros",
+      "valor": "1/3 de los consejeros; celebración en 10 días",
+      "ref": "arts. 20.6.d y 26 Reglamento"
+    },
+    {
+      "concepto": "Sesiones de la Comisión Permanente",
+      "valor": "Al menos una vez cada trimestre",
+      "ref": "art. 28.5 Reglamento"
+    },
+    {
+      "concepto": "Antelación de la convocatoria",
+      "valor": "5 días hábiles; urgencia 2 días hábiles",
+      "ref": "art. 34.2 Reglamento"
+    },
+    {
+      "concepto": "Peticiones de inclusión en el orden del día",
+      "valor": "Al menos 10 días hábiles de antelación",
+      "ref": "art. 34.3 Reglamento"
+    },
+    {
+      "concepto": "Quórum del Pleno en primera convocatoria",
+      "valor": "Mitad más uno de los miembros con voto",
+      "ref": "art. 35.1 Reglamento"
+    },
+    {
+      "concepto": "Quórum del Pleno en segunda convocatoria",
+      "valor": "9 miembros con voto, 30 minutos más tarde",
+      "ref": "art. 35.1 Reglamento"
+    },
+    {
+      "concepto": "Quórum de la Comisión Permanente en segunda convocatoria",
+      "valor": "4 miembros con voto",
+      "ref": "art. 35.1 Reglamento"
+    },
+    {
+      "concepto": "Quórum de las demás comisiones",
+      "valor": "4 miembros y la Secretaría",
+      "ref": "art. 27.3 Reglamento"
+    },
+    {
+      "concepto": "Sesión universal del Pleno",
+      "valor": "Todos los miembros y acuerdo de 3/4",
+      "ref": "art. 35.2 Reglamento"
+    },
+    {
+      "concepto": "Mayoría para los acuerdos",
+      "valor": "Mayoría simple",
+      "ref": "art. 35.3 Reglamento"
+    },
+    {
+      "concepto": "Propuesta de cese de un consejero",
+      "valor": "2/3 de los votos de la totalidad del Pleno",
+      "ref": "art. 18.d Reglamento"
+    },
+    {
+      "concepto": "Plazo para resolver una incompatibilidad",
+      "valor": "2 meses",
+      "ref": "art. 18.a Reglamento"
+    },
+    {
+      "concepto": "Incumplimiento reiterado",
+      "valor": "Faltar sin justificar a más de la mitad de los Plenos en un año",
+      "ref": "art. 18.b Reglamento"
+    },
+    {
+      "concepto": "Delegación de voto",
+      "valor": "No más de 2 reuniones sucesivas o alternas en un año; 1 delegación por consejero y sesión",
+      "ref": "art. 15.a Reglamento"
+    },
+    {
+      "concepto": "Pleno para aprobar el presupuesto de la Universidad",
+      "valor": "20 días naturales si llega antes del 30/11; 20 días hábiles si llega después",
+      "ref": "art. 39.1 Reglamento"
+    },
+    {
+      "concepto": "Remisión de la documentación del presupuesto",
+      "valor": "Un mes antes del inicio del ejercicio",
+      "ref": "art. 39.1 Reglamento"
+    },
+    {
+      "concepto": "Cuentas de liquidación de títulos propios",
+      "valor": "3 meses desde la finalización de las enseñanzas",
+      "ref": "art. 9.9 Reglamento"
+    },
+    {
+      "concepto": "Reforma del Reglamento",
+      "valor": "Propuesta por 1/3; aprobación por mayoría absoluta del Pleno",
+      "ref": "art. 46 Reglamento"
+    },
+    {
+      "concepto": "Aprobación de normas de transparencia del Consejo Social",
+      "valor": "6 meses",
+      "ref": "disp. transitoria única Reglamento"
+    },
+    {
+      "concepto": "Miembros del Consejo Social en el Consejo de Gobierno de la ULL",
+      "valor": "3, no pertenecientes a la comunidad universitaria",
+      "ref": "art. 13 EULL"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Consejo Social",
+      "definicion": "Órgano colegiado de participación y representación de la sociedad en la universidad, de rendición de cuentas y de colaboración universidad-sociedad (art. 47 LOSU; art. 1 Ley 11/2003)."
+    },
+    {
+      "termino": "Pleno",
+      "definicion": "Máximo órgano de deliberación y decisión del Consejo Social, que ejerce todas sus competencias (art. 24 Reglamento)."
+    },
+    {
+      "termino": "Comisión Permanente",
+      "definicion": "Comisión con funciones ejecutivas y de seguimiento de los acuerdos del Pleno, que puede decidir en materias delegadas expresamente por este."
+    },
+    {
+      "termino": "Vocal de intereses sociales",
+      "definicion": "Miembro del Consejo Social que representa a la sociedad: son 22, propuestos por Gobierno, Parlamento, cabildos, sindicatos, patronal y otras entidades."
+    },
+    {
+      "termino": "Plan trienal de actuaciones",
+      "definicion": "Plan del Consejo Social para promover las relaciones de la universidad con su entorno y sus antiguos alumnos, con dotación identificada en el presupuesto."
+    },
+    {
+      "termino": "Plan plurianual de financiación",
+      "definicion": "Instrumento de programación económica que aprueba el Consejo Social a propuesta del Consejo de Gobierno."
+    },
+    {
+      "termino": "Límite de gasto anual",
+      "definicion": "Techo de gasto de la universidad, que aprueba el Consejo Social atendiendo a la estabilidad presupuestaria (art. 3 ter.1.e Ley 11/2003)."
+    },
+    {
+      "termino": "Intervención",
+      "definicion": "Unidad de control interno de la gestión económico-financiera de la universidad, que depende del Consejo Social y actúa con autonomía."
+    },
+    {
+      "termino": "Informe previo favorable",
+      "definicion": "Informe que debe emitirse antes de la decisión y cuyo sentido favorable es requisito para continuar; lo exige la ley, por ejemplo, para implantar enseñanzas oficiales."
+    },
+    {
+      "termino": "Delegación de voto",
+      "definicion": "Facultad de los vocales de intereses sociales de delegar por escrito su voto, con instrucciones, en la Presidencia o en otro miembro de su grupo."
+    },
+    {
+      "termino": "Sesión universal",
+      "definicion": "Sesión válida sin convocatoria formal cuando están todos los miembros y lo acuerdan las tres cuartas partes (art. 35.2 Reglamento)."
+    },
+    {
+      "termino": "Memoria de responsabilidad social",
+      "definicion": "Documento bienal que aprueba el Consejo Social para verificar la adecuación de la universidad a los derechos humanos, igualdad, sostenibilidad y ODS."
+    },
+    {
+      "termino": "Conferencia de Consejos Sociales de Canarias",
+      "definicion": "Órgano interuniversitario para el análisis conjunto del sistema universitario público canario, formado por las comisiones permanentes de los Consejos Sociales."
+    },
+    {
+      "termino": "Consejo Universitario de Canarias",
+      "definicion": "Órgano de consulta y asesoramiento del Gobierno de Canarias en coordinación universitaria, presidido por el titular de la consejería competente."
+    },
+    {
+      "termino": "Mecenazgo universitario",
+      "definicion": "Aportaciones de personas físicas o jurídicas a la financiación universitaria, que el Consejo Social incentiva o canaliza (arts. 1.2 y 5.1 Ley 11/2003)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "28 = 6 + 22",
+      "texto": "Seis de casa (Rector, Secretario, Gerente, profesor, PTGAS y estudiante) y veintidós de fuera: 3 Gobierno, 3 Parlamento, 7 islas, 2 sindicatos, 2 patronal y 5 sueltos (colegios, empresa colaboradora, empresa del Rector, prestigio, antiguos alumnos)."
+    },
+    {
+      "titulo": "Quién nombra a quién: G-P-R",
+      "texto": "Presidente: el Gobierno de Canarias. Vicepresidente: el Pleno. Secretario: el Rector. Los dos últimos, siempre a propuesta del Presidente."
+    },
+    {
+      "titulo": "Números del Pleno: 3 - 5 - 9",
+      "texto": "Se reúne una vez cada 3 meses, se convoca con 5 días hábiles y en segunda convocatoria basta con 9 miembros."
+    },
+    {
+      "titulo": "Cinco bloques de competencias",
+      "texto": "PRO-ECO-SER-INTE-SOC: programación y promoción, economía, servicios, integridad y sociedad."
+    },
+    {
+      "titulo": "Uno, dos, tres",
+      "texto": "Plan anual del Reglamento viejo, memoria de responsabilidad social cada dos años y plan de actuaciones trienal de la ley."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué ley canaria regula los Consejos Sociales?",
+      "reverso": "La Ley 11/2003, de 4 de abril, sobre Consejos Sociales y Coordinación del Sistema Universitario de Canarias, reformada por la Ley 3/2025, de 25 de julio.",
+      "ref": "Ley 11/2003"
+    },
+    {
+      "frente": "¿Qué decreto aprobó el Reglamento de Organización y Funcionamiento del Consejo Social de la ULL?",
+      "reverso": "El Decreto 215/2017, de 16 de octubre (BOC de 24/10/2017).",
+      "ref": "Decreto 215/2017"
+    },
+    {
+      "frente": "¿Quién aprueba el reglamento de organización y funcionamiento del Consejo Social?",
+      "reverso": "Lo elabora el Pleno y lo aprueba el Gobierno de Canarias, previo control de legalidad.",
+      "ref": "art. 10.1 Ley 11/2003"
+    },
+    {
+      "frente": "¿Qué norma prevalece si el Reglamento de 2017 contradice la Ley 11/2003 reformada?",
+      "reverso": "La ley, por jerarquía normativa y por ser posterior; el Reglamento debía adaptarse en seis meses.",
+      "ref": "DT 1.ª Ley 3/2025"
+    },
+    {
+      "frente": "Tres misiones del Consejo Social según la Ley 11/2003",
+      "reverso": "Participación y representación de la sociedad; rendición de cuentas y protección de la integridad; colaboración universidad-sociedad.",
+      "ref": "art. 1.1 Ley 11/2003"
+    },
+    {
+      "frente": "¿Participa el Consejo Social en la estructura jerárquica de la universidad?",
+      "reverso": "No: está integrado en la universidad, con plena autonomía orgánica y funcional, sin participar en su estructura jerárquica.",
+      "ref": "art. 1 bis.2 Ley 11/2003"
+    },
+    {
+      "frente": "¿Qué ocurre si un órgano universitario se aparta del informe del Consejo Social?",
+      "reverso": "Su acuerdo debe motivarse.",
+      "ref": "art. 1 ter.1 Ley 11/2003"
+    },
+    {
+      "frente": "¿Cuántos miembros tiene el Consejo Social?",
+      "reverso": "28: 6 de la comunidad universitaria y 22 de intereses sociales.",
+      "ref": "art. 6.1 Ley 11/2003"
+    },
+    {
+      "frente": "¿Quiénes son los 6 miembros universitarios?",
+      "reverso": "Rector, Secretario General, Gerente, un profesor y un PTGAS propuestos por el Consejo de Gobierno, y un representante del Consejo de Estudiantes propuesto por este.",
+      "ref": "art. 6.2 Ley 11/2003"
+    },
+    {
+      "frente": "¿Cuántos vocales proponen los cabildos?",
+      "reverso": "Uno por cada cabildo insular, a propuesta de su Pleno (siete).",
+      "ref": "art. 6.3.c Ley 11/2003"
+    },
+    {
+      "frente": "¿Quién designa a los vocales del Consejo Social?",
+      "reverso": "El Parlamento de Canarias, a iniciativa del Gobierno, oída la universidad; los nombra el titular de la consejería por resolución publicada en el BOC.",
+      "ref": "art. 7.1 Ley 11/2003"
+    },
+    {
+      "frente": "¿Cada cuánto se renueva la representación social?",
+      "reverso": "Por completo cada cuatro años.",
+      "ref": "art. 7.4 Ley 11/2003"
+    },
+    {
+      "frente": "¿Quién nombra al Presidente y por cuánto tiempo?",
+      "reverso": "El Gobierno de Canarias, a propuesta de la consejería, entre los vocales sociales; cuatro años renovable una sola vez.",
+      "ref": "art. 11 Ley 11/2003"
+    },
+    {
+      "frente": "¿Cómo se designa el Vicepresidente?",
+      "reverso": "Lo designa el Consejo Social (Pleno) a propuesta del Presidente, entre los vocales de intereses sociales.",
+      "ref": "art. 12 Ley 11/2003"
+    },
+    {
+      "frente": "¿Quién nombra al Secretario del Consejo Social?",
+      "reverso": "El Rector, a propuesta del Presidente; debe ser ajeno al Consejo y con titulación superior.",
+      "ref": "art. 13 Ley 11/2003"
+    },
+    {
+      "frente": "¿Tiene voto el Secretario del Consejo Social?",
+      "reverso": "No, asiste con voz y sin voto.",
+      "ref": "art. 13.3 Ley 11/2003"
+    },
+    {
+      "frente": "¿De quién depende la Intervención de la universidad?",
+      "reverso": "Del Consejo Social, con autonomía respecto de los órganos controlados.",
+      "ref": "art. 14.3 Ley 11/2003"
+    },
+    {
+      "frente": "¿Qué papel tiene el Consejo Social en el nombramiento del Gerente?",
+      "reverso": "Da su conformidad a la propuesta del Rector y puede proponer su cese por causa motivada.",
+      "ref": "art. 4.1.d Ley 11/2003"
+    },
+    {
+      "frente": "¿Qué informe exige la implantación de enseñanzas oficiales?",
+      "reverso": "Informe previo favorable del Consejo Social.",
+      "ref": "art. 3.d Ley 11/2003"
+    },
+    {
+      "frente": "¿Quién aprueba las normas de progreso y permanencia en Canarias?",
+      "reverso": "El Consejo Social, previo informe del Consejo Universitario de Canarias.",
+      "ref": "art. 3.k Ley 11/2003"
+    },
+    {
+      "frente": "¿Con qué periodicidad aprueba el Consejo Social la memoria de responsabilidad social?",
+      "reverso": "Bienal, oído el Consejo de Gobierno.",
+      "ref": "art. 4 ter.2 Ley 11/2003"
+    },
+    {
+      "frente": "¿Cada cuánto se reúne el Pleno en sesión ordinaria?",
+      "reverso": "Una vez al trimestre.",
+      "ref": "art. 26 Reglamento"
+    },
+    {
+      "frente": "¿Qué comisiones debe tener como mínimo el Consejo Social de la ULL?",
+      "reverso": "Permanente; Asuntos Económicos y Política Universitaria; Planificación y Calidad; Relaciones con la Sociedad.",
+      "ref": "art. 27 Reglamento"
+    },
+    {
+      "frente": "Antelación de la convocatoria de las sesiones",
+      "reverso": "Cinco días hábiles; en urgencia, dos días hábiles.",
+      "ref": "art. 34.2 Reglamento"
+    },
+    {
+      "frente": "Quórum del Pleno en segunda convocatoria",
+      "reverso": "Treinta minutos después, nueve miembros con derecho a voto, además de Presidencia y Secretaría.",
+      "ref": "art. 35.1 Reglamento"
+    },
+    {
+      "frente": "¿Qué mayoría exige la propuesta de cese de un consejero?",
+      "reverso": "Dos tercios de los votos de la totalidad del Pleno, con audiencia previa.",
+      "ref": "art. 18.d Reglamento"
+    },
+    {
+      "frente": "¿Quién ordena los gastos y pagos del presupuesto del Consejo Social?",
+      "reverso": "El Presidente; el Secretario materializa los pagos y lleva contabilidad y tesorería.",
+      "ref": "art. 15.4 Ley 11/2003"
+    },
+    {
+      "frente": "Porcentaje mínimo de los recursos propios de la universidad para el Consejo Social",
+      "reverso": "0,25 % de su volumen total.",
+      "ref": "art. 15.2.b Ley 11/2003"
+    },
+    {
+      "frente": "¿Dónde tiene su sede el Consejo Social de la ULL?",
+      "reverso": "En la ciudad de San Cristóbal de La Laguna.",
+      "ref": "art. 45 Reglamento"
+    },
+    {
+      "frente": "¿Cuándo comparecen las presidencias de los Consejos Sociales en el Parlamento?",
+      "reverso": "Dentro del segundo semestre de cada año, para presentar la memoria del año anterior.",
+      "ref": "disp. adicional 5.ª Ley 11/2003"
+    },
+    {
+      "frente": "¿Agotan la vía administrativa los acuerdos del Consejo Social?",
+      "reverso": "Sí, los del Pleno y los de las Comisiones por delegación; cabe reposición potestativa o contencioso.",
+      "ref": "art. 9.4 Ley 11/2003"
+    },
+    {
+      "frente": "¿Cuántos miembros del Consejo Social forman parte del Consejo de Gobierno de la ULL?",
+      "reverso": "Tres, no pertenecientes a la comunidad universitaria.",
+      "ref": "art. 13 EULL"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "El Reglamento de Organización y Funcionamiento del Consejo Social de la Universidad de La Laguna fue aprobado por:",
+      "opciones": [
+        "Decreto 215/2017, de 16 de octubre",
+        "Decreto 66/2022, de 24 de marzo",
+        "Decreto 89/2004, de 6 de julio",
+        "Resolución del Rector de 20 de marzo de 2017"
+      ],
+      "correcta": 0,
+      "explicacion": "Decreto 215/2017, de 16 de octubre (BOC nº 205, de 24/10/2017). El 66/2022 aprueba los Estatutos y el 89/2004 aprobó los Estatutos anteriores.",
+      "ref": "Decreto 215/2017",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según la Ley 11/2003, el reglamento de organización y funcionamiento del Consejo Social:",
+      "opciones": [
+        "Lo aprueba el Consejo de Gobierno de la universidad",
+        "Lo aprueba el Claustro por mayoría absoluta",
+        "Lo aprueba el Parlamento de Canarias",
+        "Lo elabora el Pleno del Consejo Social y lo aprueba el Gobierno de Canarias, previo control de legalidad"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 10.1 Ley 11/2003.",
+      "ref": "art. 10.1 Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La Ley 11/2003 fue modificada para adaptarla a la LOSU por:",
+      "opciones": [
+        "La Ley 3/2025, de 25 de julio",
+        "La Ley 5/2009, de 24 de abril",
+        "La Ley 12/2014, de 26 de diciembre",
+        "El Decreto 215/2017"
+      ],
+      "correcta": 0,
+      "explicacion": "Ley 3/2025, de 25 de julio (BOC de 4/8/2025). La Ley 5/2009 la adaptó a la reforma de la LOU de 2007.",
+      "ref": "Ley 3/2025",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el Reglamento del Consejo Social de 2017 contradice la Ley 11/2003 en su redacción dada por la Ley 3/2025:",
+      "opciones": [
+        "Prevalece el Reglamento por ser norma especial de la ULL",
+        "Debe resolver el Claustro",
+        "Prevalecen los Estatutos de la ULL",
+        "Prevalece la Ley 11/2003, por jerarquía normativa y por ser posterior"
+      ],
+      "correcta": 3,
+      "explicacion": "La ley prevalece sobre el reglamento (jerarquía) y además es posterior; la DT 1.ª de la Ley 3/2025 obligó a adaptar el reglamento en seis meses.",
+      "ref": "DT 1.ª Ley 3/2025",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la disposición transitoria primera de la Ley 3/2025, los miembros de los Consejos Sociales que lo fueran a su entrada en vigor:",
+      "opciones": [
+        "Permanecen en sus cargos durante los cuatro años siguientes, salvo remoción previa por causa legal",
+        "Cesaron automáticamente",
+        "Permanecen seis meses hasta la adaptación del reglamento",
+        "Permanecen hasta la aprobación de nuevos Estatutos"
+      ],
+      "correcta": 0,
+      "explicacion": "DT 1.ª Ley 3/2025. Además fijó seis meses para adaptar el reglamento y los estatutos.",
+      "ref": "DT 1.ª Ley 3/2025",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la Ley 11/2003, el Consejo Social funciona con plena autonomía orgánica y funcional:",
+      "opciones": [
+        "Como órgano externo adscrito a la consejería competente",
+        "Integrado en la universidad y dependiente jerárquicamente del Rector",
+        "Como órgano del Parlamento de Canarias",
+        "Integrado en la universidad, pero sin participar en la estructura jerárquica de esta"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 1 bis.2 Ley 11/2003.",
+      "ref": "art. 1 bis.2 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una de las misiones del Consejo Social según el art. 1 de la Ley 11/2003?",
+      "opciones": [
+        "Ser el órgano de participación y representación de la sociedad en la universidad",
+        "Actuar como instancia de rendición de cuentas y de protección de la integridad",
+        "Operar como espacio de colaboración universidad-sociedad",
+        "Ser el máximo órgano de representación de la comunidad universitaria"
+      ],
+      "correcta": 3,
+      "explicacion": "El máximo órgano de representación de la comunidad universitaria es el Claustro (art. 16 EULL; art. 45 LOSU).",
+      "ref": "art. 1.1 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley 11/2003, cualquier acuerdo de un órgano universitario que se separe del informe emitido por el Consejo Social:",
+      "opciones": [
+        "Requiere su motivación",
+        "Es nulo de pleno derecho",
+        "Debe ser ratificado por el Gobierno de Canarias",
+        "Requiere mayoría de dos tercios del Consejo de Gobierno"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 1 ter.1 Ley 11/2003.",
+      "ref": "art. 1 ter.1 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el expediente remitido al Consejo Social para informe está incompleto:",
+      "opciones": [
+        "El Consejo Social debe informar en el plazo previsto con lo que tenga",
+        "Debe devolverlo al Claustro",
+        "Se entiende emitido el informe en sentido favorable",
+        "Puede reclamar que se complete, quedando en suspenso la tramitación y el plazo del informe"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 1 ter.3 Ley 11/2003: puede reclamar que se complete e incluso retrotraer el procedimiento; el procedimiento y el plazo quedan en suspenso.",
+      "ref": "art. 1 ter.3 Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El Consejo Social de cada universidad pública canaria estará constituido por:",
+      "opciones": [
+        "Veintiocho miembros: seis de la comunidad universitaria y veintidós de intereses sociales",
+        "Veinticinco miembros: cinco universitarios y veinte sociales",
+        "Treinta miembros: diez universitarios y veinte sociales",
+        "Veintiocho miembros: ocho universitarios y veinte sociales"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 6.1 Ley 11/2003 y art. 11.1 del Reglamento.",
+      "ref": "art. 6.1 Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Tras la reforma de la Ley 11/2003 por la Ley 3/2025, el representante del estudiantado en el Consejo Social es:",
+      "opciones": [
+        "Un estudiante elegido por el Consejo de Gobierno de entre sus miembros",
+        "Un estudiante elegido por el Claustro",
+        "El Delegado de Estudiantes de mayor antigüedad",
+        "Un representante del Consejo de Estudiantes, propuesto por el propio Consejo de Estudiantes"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 6.2 Ley 11/2003 y art. 47.3 LOSU. Los Estatutos (art. 11.2) y el Reglamento de 2017 preveían la elección en el Consejo de Gobierno, pero prevalece la ley.",
+      "ref": "art. 6.2 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO es miembro nato del Consejo Social por la comunidad universitaria?",
+      "opciones": [
+        "El Rector",
+        "El Secretario General",
+        "El Gerente",
+        "El Vicerrector de Economía"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 6.2 Ley 11/2003: Rector, Secretario General y Gerente, más un profesor, un PTGAS y un representante del Consejo de Estudiantes.",
+      "ref": "art. 6.2 Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuántos vocales de intereses sociales se proponen por los grupos presentes en el Parlamento de Canarias?",
+      "opciones": [
+        "Uno",
+        "Dos",
+        "Siete",
+        "Tres"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 6.3.b Ley 11/2003: tres vocales, designados de forma proporcional a la representación de los grupos.",
+      "ref": "art. 6.3.b Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los cabildos insulares están representados en el Consejo Social por:",
+      "opciones": [
+        "Un vocal en representación de todos ellos",
+        "Dos vocales, uno por provincia",
+        "Un vocal por cada cabildo, a propuesta de sus respectivos Plenos",
+        "Tres vocales designados por la FECAI"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 6.3.c Ley 11/2003: un vocal en representación de cada uno de los cabildos (siete).",
+      "ref": "art. 6.3.c Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley 11/2003, el vocal de intereses sociales elegido entre las empresas que colaboren de forma estable en la financiación de la universidad lo propone:",
+      "opciones": [
+        "El Consejo Social saliente, en el momento de la renovación",
+        "El Rector",
+        "El Consejo de Gobierno",
+        "Las asociaciones empresariales más representativas"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 6.3.g Ley 11/2003 (o el vigente si hay vacante anticipada). El Reglamento de 2017 lo atribuía al Consejo de Gobierno; prevalece la ley.",
+      "ref": "art. 6.3.g Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuántos vocales de intereses sociales se proponen a iniciativa del Rector según la Ley 11/2003?",
+      "opciones": [
+        "Ninguno",
+        "Uno",
+        "Dos: uno entre fundaciones y empresas con convenios o contratos y otro entre personas de reconocido prestigio",
+        "Tres"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 6.3.h e i) Ley 11/2003.",
+      "ref": "art. 6.3 Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si no hay acuerdo entre las organizaciones sindicales para designar sus vocales en el Consejo Social:",
+      "opciones": [
+        "El Consejo Social elige por sorteo",
+        "La plaza queda vacante",
+        "Los designa el Rector",
+        "El Gobierno de Canarias propone la candidatura de la organización más representativa"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 6.5 Ley 11/2003, aplicable a las letras d) y e).",
+      "ref": "art. 6.5 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley 11/2003 reformada, la designación de los vocales del Consejo Social corresponde a:",
+      "opciones": [
+        "El Consejo de Gobierno de la universidad",
+        "El Rector, oído el Claustro",
+        "El Parlamento de Canarias, a iniciativa del Gobierno de Canarias, oída la universidad",
+        "La consejería competente en materia de universidades, sin intervención parlamentaria"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 7.1 Ley 11/2003, que cumple el art. 47.3 LOSU. El nombramiento lo realiza el titular de la consejería por resolución publicada en el BOC.",
+      "ref": "art. 7.1 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La representación social del Consejo Social se renueva:",
+      "opciones": [
+        "Por completo cada cuatro años",
+        "Por mitades cada dos años",
+        "Por completo cada seis años",
+        "Por tercios cada año"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 7.4 Ley 11/2003; art. 14.2 del Reglamento.",
+      "ref": "art. 7.4 Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La condición de miembro del Consejo Social es incompatible con la tenencia de participaciones en el capital de empresas contratadas por la universidad cuando superen el:",
+      "opciones": [
+        "5 % del capital social",
+        "25 % del capital social",
+        "15 % del capital social",
+        "10 % del capital social"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 7.2 Ley 11/2003 y art. 13.1 del Reglamento.",
+      "ref": "art. 7.2 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Un vocal puede formar parte de más de un Consejo Social de las universidades públicas canarias:",
+      "opciones": [
+        "Nunca",
+        "Siempre que lo autorice el Parlamento",
+        "Cuando represente a una institución o Administración pública",
+        "Cuando sea el Presidente de uno de ellos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 7.2 Ley 11/2003.",
+      "ref": "art. 7.2 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Entre las causas de cese de los vocales previstas en la Ley 11/2003 figura:",
+      "opciones": [
+        "La revocación de su representación por acuerdo del Parlamento de Canarias, a propuesta de quien los propuso",
+        "La decisión discrecional del Rector",
+        "El cambio de Gobierno de Canarias",
+        "La moción de censura aprobada por el Claustro"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 7.5.d Ley 11/2003.",
+      "ref": "art. 7.5 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La persona titular de la Presidencia del Consejo Social es nombrada:",
+      "opciones": [
+        "Por el Rector, a propuesta del Pleno",
+        "Por el Pleno del Consejo Social, entre sus vocales",
+        "Por acuerdo del Gobierno de Canarias, a propuesta del titular de la consejería, entre los vocales que representen intereses sociales",
+        "Por el Parlamento de Canarias"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 11.2 Ley 11/2003; art. 20.1 del Reglamento.",
+      "ref": "art. 11.2 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La duración del mandato del Presidente del Consejo Social es de:",
+      "opciones": [
+        "Cuatro años, renovable por una sola vez",
+        "Seis años improrrogables",
+        "Cuatro años sin posibilidad de renovación",
+        "Dos años renovables indefinidamente"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 11.4 Ley 11/2003; art. 20.3 del Reglamento.",
+      "ref": "art. 11.4 Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El Vicepresidente del Consejo Social:",
+      "opciones": [
+        "Lo designa el Consejo Social, a propuesta del Presidente, entre los vocales representantes de los intereses sociales",
+        "Lo nombra el Gobierno de Canarias",
+        "Es siempre el Rector",
+        "Lo nombra el Rector a propuesta del Presidente"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 12 Ley 11/2003; art. 21 del Reglamento. Sustituye al Presidente en caso de fallecimiento, vacante, ausencia o renuncia.",
+      "ref": "art. 12 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Secretario del Consejo Social es nombrado por:",
+      "opciones": [
+        "El Presidente del Consejo Social",
+        "El Gobierno de Canarias",
+        "El Pleno del Consejo Social",
+        "El Rector, a propuesta del Presidente"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 13.1 Ley 11/2003; art. 22.1 del Reglamento.",
+      "ref": "art. 13.1 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes requisitos NO corresponde a la Secretaría del Consejo Social?",
+      "opciones": [
+        "Recaer en persona ajena al Consejo Social",
+        "Titulación superior y acreditada solvencia técnica",
+        "Ser vocal de intereses sociales",
+        "Cargo de libre designación y remunerado"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 13.2 Ley 11/2003: debe ser ajena al Consejo. Solo en caso de vacante, ausencia o enfermedad la desempeña interinamente un representante de intereses sociales (art. 22.5 Reglamento).",
+      "ref": "art. 13 Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En el Pleno y las Comisiones del Consejo Social, el Secretario asiste:",
+      "opciones": [
+        "Con voz y voto",
+        "Con voto de calidad",
+        "Sin voz ni voto",
+        "Con voz y sin voto"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 13.3 Ley 11/2003. El voto de calidad para dirimir empates corresponde a la Presidencia (art. 20.6.f Reglamento).",
+      "ref": "art. 13.3 Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En relación con el Gerente de la universidad, corresponde al Consejo Social:",
+      "opciones": [
+        "Dar su conformidad a la propuesta del Rector para su nombramiento o cese",
+        "Nombrarlo directamente",
+        "Emitir un informe no vinculante",
+        "Nada, es competencia exclusiva del Rector"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 4.1.d Ley 11/2003; art. 50.1 LOSU; art. 31.2 EULL. Además puede proponer su cese por causa motivada.",
+      "ref": "art. 4.1.d Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto del responsable de la intervención o control interno de la universidad, el Consejo Social:",
+      "opciones": [
+        "Lo nombra directamente",
+        "Solo es informado de su nombramiento",
+        "Da su conformidad a la propuesta del Gerente",
+        "Propone al Rector su nombramiento o cese"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 4.1.c Ley 11/2003; art. 7.c del Reglamento. La Intervención depende del Consejo Social (art. 14.3 Ley; art. 125.3 EULL).",
+      "ref": "art. 4.1.c Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de la creación, modificación o supresión de escuelas de doctorado, el Consejo Social debe:",
+      "opciones": [
+        "Informarla con carácter previo favorable",
+        "Aprobarla",
+        "Ser informado a posteriori",
+        "Autorizarla por mayoría de dos tercios"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 3.c Ley 11/2003: informe previo favorable para institutos, escuelas de doctorado y otros centros o estructuras. Para facultades y escuelas el art. 3.b habla de informe previo.",
+      "ref": "art. 3.c Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La implantación y supresión de enseñanzas conducentes a títulos oficiales requiere del Consejo Social:",
+      "opciones": [
+        "Un informe con carácter previo favorable",
+        "Su aprobación definitiva",
+        "Un informe posterior",
+        "Ninguna intervención"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 3.d Ley 11/2003; también art. 24.1 (informe previo favorable al decreto del Gobierno de Canarias).",
+      "ref": "art. 3.d Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley 11/2003, las normas que regulan el progreso y la permanencia del estudiantado son aprobadas por el Consejo Social:",
+      "opciones": [
+        "Previo informe del Claustro",
+        "Previo informe del Consejo Universitario de Canarias",
+        "Previo informe del Consejo de Universidades del Estado",
+        "Sin necesidad de informe"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 3.k Ley 11/2003 reformada. El Reglamento de 2017 aludía al Consejo de Universidades; prevalece la ley.",
+      "ref": "art. 3.k Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes competencias corresponde al Consejo Social en materia de programación de la actividad económica?",
+      "opciones": [
+        "Elaborar el anteproyecto de presupuesto",
+        "Aprobar el límite de gasto de carácter anual de la universidad",
+        "Ordenar los pagos de la universidad",
+        "Levantar los reparos de la Intervención"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 3 ter.1.e Ley 11/2003. El anteproyecto lo elabora la Gerencia; ordena pagos y levanta reparos el Rector.",
+      "ref": "art. 3 ter Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las propuestas de operaciones de endeudamiento y aval que la universidad presente a la Comunidad Autónoma:",
+      "opciones": [
+        "Las aprueba el Claustro",
+        "Las autoriza el Consejo Social",
+        "Solo requieren informe de la Gerencia",
+        "Las aprueba el Rector sin más trámite"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 3 ter.1.i Ley 11/2003; art. 5.g del Reglamento.",
+      "ref": "art. 3 ter.1.i Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las transferencias que afecten a créditos de gastos de capital del presupuesto de gasto de la universidad:",
+      "opciones": [
+        "Las autoriza el Consejo Social",
+        "Las aprueba libremente el Gerente",
+        "Requieren ley del Parlamento",
+        "Las aprueba el Claustro"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 3 ter.1.h Ley 11/2003; además, el Consejo Social conoce previamente las que afecten al capítulo I.",
+      "ref": "art. 3 ter.1.h Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Una vez aprobado el presupuesto de la universidad, el Consejo Social debe enviarlo a la consejería competente en el plazo máximo de:",
+      "opciones": [
+        "Diez días",
+        "Quince días hábiles",
+        "Un mes",
+        "Tres meses"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 3 ter.2 Ley 11/2003; art. 39.5 del Reglamento. El mismo plazo rige para las cuentas anuales (art. 4.2).",
+      "ref": "art. 3 ter.2 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La memoria de responsabilidad social de la universidad es aprobada por el Consejo Social, oído el Consejo de Gobierno, con carácter:",
+      "opciones": [
+        "Anual",
+        "Bienal",
+        "Trienal",
+        "Cuatrienal"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 4 ter.2 Ley 11/2003.",
+      "ref": "art. 4 ter.2 Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU y la Ley 11/2003, el plan de actuaciones del Consejo Social para promover las relaciones de la universidad con su entorno es:",
+      "opciones": [
+        "Anual",
+        "Bienal",
+        "Trienal",
+        "Cuatrienal"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 47.2.a LOSU y art. 5.2 Ley 11/2003. El Reglamento de 2017 (art. 9.6) hablaba de un Plan Anual; prevalece la ley.",
+      "ref": "art. 5.2 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En relación con la inspección de servicios, la Ley 11/2003 atribuye al Consejo Social:",
+      "opciones": [
+        "Nombrar a su responsable",
+        "Dar su conformidad a la propuesta del Rector para el nombramiento o cese de quien desempeñe sus funciones",
+        "Dirigir sus actuaciones",
+        "Aprobar su Plan de Trabajo Anual"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 4 ter.1.d Ley 11/2003. El Plan de Trabajo Anual lo aprueba el Rector (art. 114.4 EULL).",
+      "ref": "art. 4 ter.1.d Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El Pleno del Consejo Social de la ULL se reúne en sesión ordinaria:",
+      "opciones": [
+        "Una vez al mes",
+        "Una vez cada dos meses",
+        "Una vez al trimestre",
+        "Una vez al semestre"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 26 del Reglamento, según el calendario aprobado a propuesta de la Presidencia.",
+      "ref": "art. 26 Reglamento",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El Pleno del Consejo Social puede reunirse con carácter extraordinario cuando lo considere la Presidencia o lo soliciten:",
+      "opciones": [
+        "Un cuarto de sus miembros",
+        "Un tercio de sus miembros mediante escrito dirigido a la Presidencia",
+        "La mitad de sus miembros",
+        "El Rector y el Gerente"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 26 del Reglamento; la reunión debe celebrarse dentro de los diez días siguientes a la solicitud (art. 20.6.d).",
+      "ref": "art. 26 Reglamento",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO figura entre las comisiones con las que, como mínimo, funcionará el Consejo Social de la ULL?",
+      "opciones": [
+        "Comisión Permanente",
+        "Comisión de Asuntos Económicos y Política Universitaria",
+        "Comisión de Planificación y Calidad",
+        "Comisión de Investigación y Transferencia"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 27.1 del Reglamento: Permanente, Asuntos Económicos y Política Universitaria, Planificación y Calidad, y Relaciones con la Sociedad.",
+      "ref": "art. 27 Reglamento",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La convocatoria de las sesiones del Consejo Social debe notificarse con una antelación mínima de:",
+      "opciones": [
+        "48 horas; en urgencia, 24 horas",
+        "Cinco días hábiles; en urgencia, dos días hábiles",
+        "Diez días naturales; en urgencia, cinco",
+        "Tres días hábiles; en urgencia, un día"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 34.2 del Reglamento.",
+      "ref": "art. 34.2 Reglamento",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para la válida constitución del Pleno en segunda convocatoria se requiere la presencia de:",
+      "opciones": [
+        "La mitad más uno de los miembros",
+        "Un tercio de los miembros",
+        "Nueve de los componentes con derecho a voto, treinta minutos más tarde",
+        "Cuatro de los componentes con derecho a voto"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 35.1 del Reglamento; además deben estar la Presidencia y la Secretaría. Cuatro es el quórum de la Comisión Permanente en segunda convocatoria.",
+      "ref": "art. 35.1 Reglamento",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Pleno quedará válidamente constituido aunque no se hayan cumplido los requisitos de la convocatoria cuando se hayan reunido todos sus miembros y así lo acuerden:",
+      "opciones": [
+        "La mayoría simple",
+        "La mayoría absoluta",
+        "Las tres cuartas partes",
+        "Por unanimidad"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 35.2 del Reglamento.",
+      "ref": "art. 35.2 Reglamento",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La votación en el Consejo Social se realizará mediante papeletas secretas:",
+      "opciones": [
+        "Siempre",
+        "Cuando lo solicite un miembro del Consejo Social o se trate de elección de personas o asuntos que afecten a personas concretas",
+        "Solo cuando lo decida la Presidencia",
+        "Solo para aprobar el presupuesto"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 36.1.c del Reglamento.",
+      "ref": "art. 36 Reglamento",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La propuesta de cese de un miembro del Consejo Social acordada por el Pleno requiere:",
+      "opciones": [
+        "Mayoría simple",
+        "Mayoría absoluta",
+        "Dos tercios de los votos de la totalidad del Pleno, válidamente emitidos, previa audiencia del interesado",
+        "Unanimidad"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 18.d del Reglamento.",
+      "ref": "art. 18 Reglamento",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "A efectos de proponer el cese, el Reglamento entiende por incumplimiento reiterado de los deberes:",
+      "opciones": [
+        "Faltar a tres sesiones consecutivas",
+        "La falta de concurrencia injustificada a más de la mitad de las sesiones plenarias en el periodo de un año",
+        "No votar en dos sesiones",
+        "Faltar a cualquier sesión sin avisar"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 18.b del Reglamento; no se aplica a los miembros universitarios.",
+      "ref": "art. 18.b Reglamento",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el Reglamento, la delegación de voto de los representantes del sector social:",
+      "opciones": [
+        "Está prohibida",
+        "Puede otorgarse sin límite",
+        "No puede conferirse para más de dos reuniones sucesivas o alternas en un año",
+        "Solo puede hacerse en el Rector"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 15.a del Reglamento: por escrito, para una reunión concreta, con instrucción de voto; sin instrucción se entiende abstención.",
+      "ref": "art. 15.a Reglamento",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La ordenación del gasto y de los pagos del programa presupuestario del Consejo Social corresponde a:",
+      "opciones": [
+        "El Gerente de la universidad",
+        "El Rector",
+        "El Presidente del Consejo Social",
+        "El Secretario del Consejo Social"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 15.4 Ley 11/2003 y art. 43 del Reglamento. Al Secretario le corresponde materializar los pagos, la contabilidad y la tesorería.",
+      "ref": "art. 15.4 Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Una de las partidas del programa presupuestario del Consejo Social es una asignación con cargo a los recursos propios de la universidad equivalente, como mínimo, al:",
+      "opciones": [
+        "0,10 %",
+        "0,25 %",
+        "0,50 %",
+        "1 %"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 15.2.b Ley 11/2003.",
+      "ref": "art. 15.2.b Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La reforma del Reglamento del Consejo Social puede proponerla:",
+      "opciones": [
+        "El Rector",
+        "Al menos un tercio de los miembros del Consejo Social, y se aprueba por mayoría absoluta del Pleno",
+        "La mitad de los miembros, y se aprueba por dos tercios",
+        "El Gobierno de Canarias de oficio"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 46 del Reglamento; después debe aprobarla el Gobierno de Canarias (art. 10.1 Ley 11/2003).",
+      "ref": "art. 46 Reglamento",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los acuerdos del Pleno del Consejo Social:",
+      "opciones": [
+        "Son recurribles en alzada ante el Rector",
+        "Son recurribles en alzada ante la consejería competente",
+        "Agotan la vía administrativa",
+        "Deben ser ratificados por el Consejo de Gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 9.4 Ley 11/2003; disp. final 2.ª del Reglamento; art. 10.3 EULL; art. 38.4 LOSU. Cabe reposición potestativa.",
+      "ref": "art. 9.4 Ley 11/2003",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el Reglamento, el Consejo Social de la ULL fija su sede en:",
+      "opciones": [
+        "Santa Cruz de Tenerife",
+        "San Cristóbal de La Laguna",
+        "El Paraninfo de la Universidad",
+        "La sede de la consejería competente"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 45.1 del Reglamento, sin perjuicio de celebrar sesiones en otra sede. El Paraninfo es la sede del Claustro.",
+      "ref": "art. 45 Reglamento",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según los Estatutos de la ULL, el Consejo Social, en defensa del carácter público de la Universidad:",
+      "opciones": [
+        "Fijará precios públicos máximos",
+        "Defenderá la moderación en los precios públicos y promoverá la igualdad de oportunidades en el acceso",
+        "Aprobará las becas del Ministerio",
+        "Designará a los miembros del Claustro"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 11.3 EULL, que añade que velará porque las subvenciones públicas repercutan en la función social.",
+      "ref": "art. 11.3 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las presidencias de los Consejos Sociales de las universidades públicas canarias comparecen ante el Parlamento de Canarias para presentar la memoria de actividades del año anterior:",
+      "opciones": [
+        "En el primer trimestre de cada año",
+        "Dentro del segundo semestre de cada año",
+        "Cada cuatro años, al renovarse",
+        "Solo cuando lo pida la Mesa"
+      ],
+      "correcta": 1,
+      "explicacion": "Disposición adicional quinta de la Ley 11/2003.",
+      "ref": "disp. adicional 5.ª Ley 11/2003",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Jornada Inicial - Jornadas de la Conferencia de Consejos Sociales de las Universidades Españolas",
+      "url": "https://www.youtube.com/watch?v=QaqsptSdBOw",
+      "canal": "Conferencia de Consejos Sociales de las Universidades Españolas (canal no verificado)"
+    },
+    {
+      "titulo": "Jornada Final - Jornadas de la Conferencia de Consejos Sociales de las Universidades Españolas",
+      "url": "https://www.youtube.com/watch?v=gcmcDgqQzJo",
+      "canal": "Conferencia de Consejos Sociales de las Universidades Españolas (canal no verificado)"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "Ley 11/2003, sobre Consejos Sociales y Coordinación del Sistema Universitario de Canarias (texto consolidado BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-10625"
+    },
+    {
+      "titulo": "Ley 3/2025, de 25 de julio, de modificación de la Ley 11/2003 (BOE)",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20901"
+    },
+    {
+      "titulo": "LOSU: Ley Orgánica 2/2023, del Sistema Universitario (texto consolidado BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500"
+    },
+    {
+      "titulo": "Consejo Social de la ULL: normativa",
+      "url": "https://www.ull.es/portal/consejo-social/normativa/"
+    },
+    {
+      "titulo": "Consejo Social de la ULL: plenos",
+      "url": "https://www.ull.es/portal/consejo-social/plenos/"
+    },
+    {
+      "titulo": "Secretaría del Consejo Social (ULL)",
+      "url": "https://www.ull.es/servicios/secretaria-del-consejo-social/"
+    }
+  ]
+}

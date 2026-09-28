@@ -1,0 +1,1538 @@
+{
+  "claves": [
+    "El sistema de Seguridad Social se basa en los principios de universalidad, unidad, solidaridad e igualdad (art. 2 LGSS).",
+    "El sistema se estructura en el Régimen General y los regímenes especiales; el de funcionarios se rige por leyes específicas (arts. 9-10 LGSS).",
+    "El PTGAS propio de las universidades está excluido de MUFACE (art. 3.2.h LSSFCE) y encuadrado en el Régimen General, tanto el funcionario como el laboral.",
+    "Desde el 1-1-2011 (RDL 13/2010, DA 3.ª LGSS) los nuevos funcionarios del Estado cotizan al RGSS a efectos de pensiones y siguen en MUFACE.",
+    "La afiliación es obligatoria, única y vitalicia; el alta se pide antes de iniciar la actividad y la baja y variaciones en 6 días naturales desde agosto de 2026.",
+    "Cotizan empresario y trabajador, salvo AT y EP (solo empresario); el empresario es el responsable del ingreso total.",
+    "La base de cotización es la remuneración total mensual con pagas extras prorrateadas, entre el tope mínimo (SMI + 1/6) y el máximo de la LPGE.",
+    "La TGSS es la caja única; los recargos van del 10 al 35 % y las deudas por cuotas prescriben a los 4 años.",
+    "Las prestaciones exigen alta o asimilada y, en su caso, carencia; no hay carencia en accidente ni enfermedad profesional.",
+    "La IT dura como máximo 545 días; en enfermedad común exige 180 días en 5 años y el empresario paga del día 4 al 15.",
+    "La jubilación exige 15 años cotizados (2 en los últimos 15) y en 2026 la edad es 66 años y 10 meses o 65 con 38 años y 3 meses.",
+    "El funcionario de carrera no tiene protección por desempleo; sí el interino y el personal laboral.",
+    "MUFACE es un organismo público que presta asistencia sanitaria, subsidios de IT y riesgos, prestaciones familiares y sociales, pero no pensiones.",
+    "Clases Pasivas cubre vejez, incapacidad y muerte con pensiones de jubilación, viudedad, orfandad y en favor de padres; exige 15 años de servicios.",
+    "La jubilación voluntaria en Clases Pasivas requiere 60 años y 30 de servicios; la forzosa del PTGAS en RGSS es la edad ordinaria del RGSS (art. 67.4 TREBEP)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Integración de nuevos funcionarios en el RGSS a efectos de pensiones",
+      "valor": "Desde el 1 de enero de 2011",
+      "ref": "DA 3.ª LGSS; RDL 13/2010"
+    },
+    {
+      "concepto": "Solicitud de alta",
+      "valor": "Previa al inicio de la actividad, no antes de 60 días naturales",
+      "ref": "art. 32.3 RD 84/1996"
+    },
+    {
+      "concepto": "Solicitud de baja y variaciones de datos",
+      "valor": "6 días naturales (desde el 1-8-2026; antes 3)",
+      "ref": "art. 32.3 RD 84/1996 (RD 643/2026)"
+    },
+    {
+      "concepto": "Tope mínimo de base de cotización",
+      "valor": "SMI + 1/6",
+      "ref": "art. 19.2 LGSS"
+    },
+    {
+      "concepto": "Tipo de cotización por contingencias comunes (LPGE)",
+      "valor": "28,30 % (23,60 empresa + 4,70 trabajador)",
+      "ref": "art. 145 LGSS y LPGE"
+    },
+    {
+      "concepto": "Aumento o reducción de primas AT/EP según prevención",
+      "valor": "Hasta 10 % (aumento hasta 20 % por reiteración)",
+      "ref": "art. 146.3 LGSS"
+    },
+    {
+      "concepto": "MEI 2026",
+      "valor": "0,90 % (0,75 empresa + 0,15 trabajador)",
+      "ref": "DT 43.ª LGSS"
+    },
+    {
+      "concepto": "Cotización de solidaridad sobre exceso de base máxima",
+      "valor": "5,5 %, 6 % y 7 % por tramos",
+      "ref": "art. 19 bis LGSS"
+    },
+    {
+      "concepto": "Contratos temporales con cotización adicional",
+      "valor": "Duración inferior a 30 días",
+      "ref": "art. 151 LGSS"
+    },
+    {
+      "concepto": "Recargo con documentos en plazo",
+      "valor": "10 % (1.er mes) / 20 % (después)",
+      "ref": "art. 30.1.a LGSS"
+    },
+    {
+      "concepto": "Recargo sin documentos en plazo",
+      "valor": "20 % / 35 %",
+      "ref": "art. 30.1.b LGSS"
+    },
+    {
+      "concepto": "Interés de demora",
+      "valor": "Interés legal + 25 %",
+      "ref": "art. 31.3 LGSS"
+    },
+    {
+      "concepto": "Exigibilidad del interés de demora tras providencia de apremio",
+      "valor": "15 días",
+      "ref": "art. 31.1 LGSS"
+    },
+    {
+      "concepto": "Prescripción de deudas por cuotas y sanciones",
+      "valor": "4 años",
+      "ref": "art. 24 LGSS"
+    },
+    {
+      "concepto": "Prescripción del reconocimiento de prestaciones",
+      "valor": "5 años (efectos 3 meses)",
+      "ref": "art. 53 LGSS"
+    },
+    {
+      "concepto": "Caducidad de prestaciones a tanto alzado",
+      "valor": "1 año",
+      "ref": "art. 54 LGSS"
+    },
+    {
+      "concepto": "Recargo por falta de medidas de seguridad",
+      "valor": "30 a 50 %",
+      "ref": "art. 164 LGSS"
+    },
+    {
+      "concepto": "Duración IT",
+      "valor": "365 días + 180 de prórroga (máximo 545)",
+      "ref": "arts. 169 y 174 LGSS"
+    },
+    {
+      "concepto": "Periodos de observación por enfermedad profesional",
+      "valor": "180 días + 180",
+      "ref": "art. 169.1.b LGSS"
+    },
+    {
+      "concepto": "Recaída en IT",
+      "valor": "Nueva baja en 180 días naturales",
+      "ref": "art. 169.2 LGSS"
+    },
+    {
+      "concepto": "Carencia IT enfermedad común",
+      "valor": "180 días en 5 años",
+      "ref": "art. 172 LGSS"
+    },
+    {
+      "concepto": "IT enfermedad común: pago por el empresario",
+      "valor": "Días 4.º a 15.º",
+      "ref": "art. 173.1 LGSS"
+    },
+    {
+      "concepto": "Cuantía IT contingencias comunes",
+      "valor": "60 % días 4-20; 75 % desde el 21",
+      "ref": "normativa de desarrollo (art. 171 LGSS)"
+    },
+    {
+      "concepto": "Disconformidad con alta del INSS tras 365 días",
+      "valor": "4 días naturales (propuesta del SPS 7; INSS 7)",
+      "ref": "art. 170.3 LGSS"
+    },
+    {
+      "concepto": "Calificación de IP tras agotar IT",
+      "valor": "90 días; máximo 730 días sumados",
+      "ref": "art. 174.2 LGSS"
+    },
+    {
+      "concepto": "Carencia nacimiento: menores de 21",
+      "valor": "Ninguna",
+      "ref": "art. 178.1.a LGSS"
+    },
+    {
+      "concepto": "Carencia nacimiento: 21 a 25 años",
+      "valor": "90 días en 7 años o 180 en la vida laboral",
+      "ref": "art. 178.1.b LGSS"
+    },
+    {
+      "concepto": "Carencia nacimiento: 26 o más",
+      "valor": "180 días en 7 años o 360 en la vida laboral",
+      "ref": "art. 178.1.c LGSS"
+    },
+    {
+      "concepto": "Subsidio no contributivo por nacimiento",
+      "valor": "100 % IPREM; +14 días en ciertos supuestos",
+      "ref": "art. 182 LGSS"
+    },
+    {
+      "concepto": "Corresponsabilidad lactante",
+      "valor": "De 9 a 12 meses",
+      "ref": "art. 183 LGSS"
+    },
+    {
+      "concepto": "Riesgo durante la lactancia natural",
+      "valor": "Hasta los 9 meses del hijo",
+      "ref": "art. 189 LGSS"
+    },
+    {
+      "concepto": "Cuidado de menores con cáncer",
+      "valor": "Reducción mínima 50 %; hasta 23 años (26 con discapacidad ≥65 %)",
+      "ref": "art. 190 LGSS"
+    },
+    {
+      "concepto": "Carencia IP parcial (enfermedad común)",
+      "valor": "1.800 días en 10 años",
+      "ref": "art. 195.2 LGSS"
+    },
+    {
+      "concepto": "Carencia pensiones IP (≥31 años)",
+      "valor": "1/4 desde los 20 años, mínimo 5 años",
+      "ref": "art. 195.3.b LGSS"
+    },
+    {
+      "concepto": "IP absoluta o gran incapacidad desde no alta",
+      "valor": "15 años cotizados",
+      "ref": "art. 195.4 LGSS"
+    },
+    {
+      "concepto": "Sustitución de IP total por tanto alzado",
+      "valor": "Menores de 60 años",
+      "ref": "art. 196.2 LGSS"
+    },
+    {
+      "concepto": "Complemento gran incapacidad",
+      "valor": "45 % base mínima + 30 % última base; mínimo 45 % de la pensión",
+      "ref": "art. 196.4 LGSS"
+    },
+    {
+      "concepto": "Paso de pensión de IP a jubilación",
+      "valor": "67 años",
+      "ref": "art. 200.4 LGSS"
+    },
+    {
+      "concepto": "Edad ordinaria de jubilación (régimen final)",
+      "valor": "67 años, o 65 con 38 años y 6 meses",
+      "ref": "art. 205.1.a LGSS"
+    },
+    {
+      "concepto": "Edad de jubilación en 2026",
+      "valor": "66 años y 10 meses, o 65 con 38 años y 3 meses",
+      "ref": "DT 7.ª LGSS"
+    },
+    {
+      "concepto": "Carencia jubilación",
+      "valor": "15 años, 2 en los últimos 15",
+      "ref": "art. 205.1.b LGSS"
+    },
+    {
+      "concepto": "Porcentaje por los primeros 15 años",
+      "valor": "50 %",
+      "ref": "art. 210.1 LGSS"
+    },
+    {
+      "concepto": "Base reguladora de jubilación en 2026",
+      "valor": "302 mejores bases de 304 meses / 352,33",
+      "ref": "DT 40.ª LGSS"
+    },
+    {
+      "concepto": "Jubilación anticipada involuntaria",
+      "valor": "4 años antes; 33 años cotizados; 6 meses demandante",
+      "ref": "art. 207 LGSS"
+    },
+    {
+      "concepto": "Jubilación anticipada voluntaria",
+      "valor": "2 años antes; 35 años cotizados",
+      "ref": "art. 208 LGSS"
+    },
+    {
+      "concepto": "Edad mínima con coeficientes reductores",
+      "valor": "52 años",
+      "ref": "arts. 206 y 206 bis LGSS"
+    },
+    {
+      "concepto": "Jubilación demorada",
+      "valor": "4 % por año adicional cotizado",
+      "ref": "art. 210.2 LGSS"
+    },
+    {
+      "concepto": "Viudedad: carencia en alta",
+      "valor": "500 días en 5 años",
+      "ref": "art. 219.1 LGSS"
+    },
+    {
+      "concepto": "Viudedad desde no alta",
+      "valor": "15 años cotizados",
+      "ref": "art. 219.1 LGSS"
+    },
+    {
+      "concepto": "Duración mínima del matrimonio (enfermedad común previa)",
+      "valor": "1 año (o hijos comunes; o 2 años con convivencia previa)",
+      "ref": "art. 219.2 LGSS"
+    },
+    {
+      "concepto": "Pareja de hecho",
+      "valor": "5 años de convivencia; inscripción 2 años antes",
+      "ref": "art. 221.2 LGSS"
+    },
+    {
+      "concepto": "Garantía al cónyuge superviviente en concurrencia",
+      "valor": "40 %",
+      "ref": "art. 220.2 LGSS"
+    },
+    {
+      "concepto": "Prestación temporal de viudedad",
+      "valor": "2 años",
+      "ref": "art. 222 LGSS"
+    },
+    {
+      "concepto": "Orfandad",
+      "valor": "Menores de 21; hasta 25 si no trabajan o ganan menos del SMI",
+      "ref": "art. 224 LGSS"
+    },
+    {
+      "concepto": "Favor de familiares (hijos o hermanos)",
+      "valor": "Mayores de 45 años",
+      "ref": "art. 226.2 LGSS"
+    },
+    {
+      "concepto": "Presunción de muerte por accidente de trabajo",
+      "valor": "Prueba si fallece en 5 años",
+      "ref": "art. 217.2 LGSS"
+    },
+    {
+      "concepto": "Desaparecidos en accidente",
+      "valor": "90 días naturales sin noticias",
+      "ref": "art. 217.3 LGSS"
+    },
+    {
+      "concepto": "Desempleo parcial",
+      "valor": "Reducción de jornada del 10 al 70 %",
+      "ref": "art. 262.3 LGSS"
+    },
+    {
+      "concepto": "Carencia desempleo",
+      "valor": "360 días en 6 años",
+      "ref": "arts. 266 y 269 LGSS"
+    },
+    {
+      "concepto": "Duración desempleo",
+      "valor": "120 a 720 días",
+      "ref": "art. 269 LGSS"
+    },
+    {
+      "concepto": "Cuantía desempleo",
+      "valor": "70 % (180 días) y 60 % después",
+      "ref": "art. 270.2 LGSS"
+    },
+    {
+      "concepto": "Tope máximo desempleo",
+      "valor": "175 %, 200 % o 225 % del IPREM",
+      "ref": "art. 270.3 LGSS"
+    },
+    {
+      "concepto": "Opción por mantener MUFACE tras promoción a cuerpo de CA",
+      "valor": "15 días desde la toma de posesión, una sola vez",
+      "ref": "art. 7.3 LSSFCE"
+    },
+    {
+      "concepto": "Cuota MUFACE",
+      "valor": "Anual / 14; doble en junio y diciembre",
+      "ref": "art. 10.4 LSSFCE"
+    },
+    {
+      "concepto": "Prescripción y devolución de cuotas MUFACE",
+      "valor": "4 años",
+      "ref": "art. 10.6-7 LSSFCE"
+    },
+    {
+      "concepto": "Recién nacido sin condición de beneficiario",
+      "valor": "Cubierto 15 días",
+      "ref": "art. 15.3 LSSFCE"
+    },
+    {
+      "concepto": "IT MUFACE: retribuciones íntegras",
+      "valor": "3 primeros meses",
+      "ref": "art. 21.1 LSSFCE"
+    },
+    {
+      "concepto": "Subsidio IT MUFACE desde el 4.º mes",
+      "valor": "Mayor de 80 % básicas o 75 % complementarias",
+      "ref": "art. 21.1.b LSSFCE"
+    },
+    {
+      "concepto": "Nuevo proceso patológico en MUFACE",
+      "valor": "Interrupción de licencias de 6 meses",
+      "ref": "art. 20.2 LSSFCE"
+    },
+    {
+      "concepto": "Riesgo embarazo/lactancia MUFACE",
+      "valor": "100 % retribuciones complementarias; lactancia hasta 9 meses",
+      "ref": "art. 22 LSSFCE"
+    },
+    {
+      "concepto": "Gran invalidez MUFACE",
+      "valor": "50 % de la pensión de jubilación",
+      "ref": "art. 26 LSSFCE"
+    },
+    {
+      "concepto": "Retroactividad de derechos pasivos",
+      "valor": "3 meses",
+      "ref": "art. 7.2 LCPE"
+    },
+    {
+      "concepto": "Cuota de derechos pasivos",
+      "valor": "3,86 % del haber regulador",
+      "ref": "art. 23 LCPE"
+    },
+    {
+      "concepto": "Jubilación forzosa funcionarios (TREBEP)",
+      "valor": "65 años; prolongación hasta 70",
+      "ref": "art. 67.3 TREBEP"
+    },
+    {
+      "concepto": "Jubilación forzosa funcionario en RGSS",
+      "valor": "Edad ordinaria de jubilación del RGSS",
+      "ref": "art. 67.4 TREBEP"
+    },
+    {
+      "concepto": "Prórroga por carencia en Clases Pasivas",
+      "valor": "Con 12 años de servicio hasta completar 15",
+      "ref": "art. 28.2.a LCPE"
+    },
+    {
+      "concepto": "Jubilación voluntaria Clases Pasivas",
+      "valor": "60 años y 30 de servicios",
+      "ref": "art. 28.2.b LCPE"
+    },
+    {
+      "concepto": "Carencia pensión de jubilación Clases Pasivas",
+      "valor": "15 años",
+      "ref": "art. 29 LCPE"
+    },
+    {
+      "concepto": "Porcentajes Clases Pasivas",
+      "valor": "26,92 % (15 años); 81,73 % (30); 100 % (35)",
+      "ref": "art. 31.1 LCPE"
+    },
+    {
+      "concepto": "Viudedad Clases Pasivas",
+      "valor": "50 % (25 % extraordinaria); +8 puntos con 65 años",
+      "ref": "art. 39.3 LCPE"
+    },
+    {
+      "concepto": "Orfandad Clases Pasivas",
+      "valor": "25 % un hijo; 10 % cada uno si varios",
+      "ref": "art. 42.2 LCPE"
+    },
+    {
+      "concepto": "Favor de padres Clases Pasivas",
+      "valor": "15 % cada uno (7,5 % extraordinaria)",
+      "ref": "art. 45.2 LCPE"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Afiliación",
+      "definicion": "Acto administrativo por el que la TGSS reconoce a una persona su inclusión en el sistema de Seguridad Social; es obligatoria, única y vitalicia."
+    },
+    {
+      "termino": "Alta",
+      "definicion": "Comunicación del inicio de la actividad en un régimen concreto; condiciona la aplicación del régimen y es requisito general de las prestaciones."
+    },
+    {
+      "termino": "Situación asimilada al alta",
+      "definicion": "Situación en la que, sin trabajar, se mantiene la protección (desempleo con prestación, vacaciones no disfrutadas, convenio especial, etc.)."
+    },
+    {
+      "termino": "Base de cotización",
+      "definicion": "Remuneración total mensual del trabajador, con pagas extraordinarias prorrateadas, sobre la que se aplica el tipo de cotización."
+    },
+    {
+      "termino": "Periodo de carencia",
+      "definicion": "Periodo mínimo de cotización exigido para causar derecho a una prestación."
+    },
+    {
+      "termino": "Base reguladora",
+      "definicion": "Cantidad calculada sobre las bases de cotización a la que se aplica un porcentaje para obtener la prestación."
+    },
+    {
+      "termino": "Contingencias comunes",
+      "definicion": "Enfermedad común y accidente no laboral."
+    },
+    {
+      "termino": "Contingencias profesionales",
+      "definicion": "Accidente de trabajo y enfermedad profesional; se cotizan solo por el empresario mediante tarifa de primas."
+    },
+    {
+      "termino": "Accidente in itinere",
+      "definicion": "Accidente sufrido al ir o volver del lugar de trabajo; se considera accidente de trabajo."
+    },
+    {
+      "termino": "Tesorería General de la Seguridad Social",
+      "definicion": "Servicio común y caja única del sistema, encargada de afiliación, cotización y recaudación."
+    },
+    {
+      "termino": "MUFACE",
+      "definicion": "Mutualidad General de Funcionarios Civiles del Estado: organismo público que gestiona el mutualismo administrativo."
+    },
+    {
+      "termino": "Mutualismo administrativo",
+      "definicion": "Mecanismo del régimen especial de funcionarios civiles del Estado que presta asistencia sanitaria, subsidios y prestaciones sociales."
+    },
+    {
+      "termino": "Clases Pasivas",
+      "definicion": "Régimen a través del cual el Estado protege a su personal frente a la vejez, la incapacidad y la muerte mediante pensiones."
+    },
+    {
+      "termino": "Haber regulador",
+      "definicion": "Cantidad fijada anualmente en la LPGE por grupo o subgrupo que sirve de base para las pensiones de Clases Pasivas y la cotización a MUFACE."
+    },
+    {
+      "termino": "Pensión extraordinaria",
+      "definicion": "Pensión de Clases Pasivas causada por lesión o muerte en acto de servicio o como consecuencia de él."
+    },
+    {
+      "termino": "Gran incapacidad",
+      "definicion": "Incapacidad permanente absoluta en la que la persona necesita la asistencia de otra para los actos esenciales de la vida."
+    },
+    {
+      "termino": "MEI",
+      "definicion": "Mecanismo de Equidad Intergeneracional: cotización finalista destinada al Fondo de Reserva (0,90 % en 2026)."
+    },
+    {
+      "termino": "Recaída",
+      "definicion": "Nueva baja por la misma o similar patología dentro de los 180 días naturales siguientes al alta anterior."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Principios del art. 2 LGSS",
+      "texto": "«U-U-S-I»: Universalidad, Unidad, Solidaridad, Igualdad."
+    },
+    {
+      "titulo": "Quién hace qué",
+      "texto": "La TGSS cobra, el INSS paga, el SEPE paga el paro, el IMSERSO las no contributivas e INGESA cura."
+    },
+    {
+      "titulo": "IT en enfermedad común",
+      "texto": "«180 en 5, del 4 al 15 el jefe»: 180 días cotizados en 5 años; el subsidio empieza el día 4 y del 4 al 15 lo paga el empresario."
+    },
+    {
+      "titulo": "Clases Pasivas 15-60-30-35",
+      "texto": "15 años para tener pensión; 60 de edad y 30 de servicio para la voluntaria; 35 años para el 100 %."
+    },
+    {
+      "titulo": "Prescripciones",
+      "texto": "«Cuatro para cobrar, cinco para pedir, nunca para jubilarse»: cuotas 4 años, prestaciones 5, jubilación imprescriptible."
+    },
+    {
+      "titulo": "Recargos del art. 30",
+      "texto": "«10-20 si avisas, 20-35 si callas»: con documentos en plazo, 10 % o 20 %; sin ellos, 20 % o 35 %."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Principios del sistema de Seguridad Social (art. 2 LGSS)?",
+      "reverso": "Universalidad, unidad, solidaridad e igualdad.",
+      "ref": "art. 2.1 LGSS"
+    },
+    {
+      "frente": "¿Qué entidad es la caja única del sistema?",
+      "reverso": "La Tesorería General de la Seguridad Social.",
+      "ref": "art. 21.1 LGSS"
+    },
+    {
+      "frente": "¿En qué régimen está el PTGAS funcionario propio de la ULL?",
+      "reverso": "En el Régimen General (excluido de MUFACE por el art. 3.2.h LSSFCE).",
+      "ref": "art. 3.2.h LSSFCE; art. 136.2.l LGSS"
+    },
+    {
+      "frente": "¿Desde cuándo los nuevos funcionarios del Estado cotizan al RGSS para pensiones?",
+      "reverso": "Desde el 1 de enero de 2011 (RDL 13/2010).",
+      "ref": "DA 3.ª LGSS"
+    },
+    {
+      "frente": "¿Qué conservan los funcionarios del Estado ingresados desde 2011?",
+      "reverso": "El mutualismo administrativo de MUFACE.",
+      "ref": "art. 2.2 LSSFCE"
+    },
+    {
+      "frente": "Caracteres de la afiliación",
+      "reverso": "Obligatoria, única y vitalicia para todo el sistema.",
+      "ref": "art. 15 LGSS"
+    },
+    {
+      "frente": "Plazo de solicitud del alta",
+      "reverso": "Previa al inicio de la actividad; no antes de 60 días naturales.",
+      "ref": "art. 32.3 RD 84/1996"
+    },
+    {
+      "frente": "Plazo de bajas y variaciones de datos desde el 1-8-2026",
+      "reverso": "6 días naturales (antes 3).",
+      "ref": "RD 643/2026"
+    },
+    {
+      "frente": "¿Tienen efectos retroactivos las altas fuera de plazo?",
+      "reverso": "No, ninguno.",
+      "ref": "art. 140.2 LGSS"
+    },
+    {
+      "frente": "¿Quién cotiza por AT y EP?",
+      "reverso": "Exclusivamente el empresario.",
+      "ref": "art. 141.3 LGSS"
+    },
+    {
+      "frente": "¿Cuándo se suspende la obligación de cotizar?",
+      "reverso": "En huelga y cierre patronal.",
+      "ref": "art. 144.5 LGSS"
+    },
+    {
+      "frente": "Tope mínimo de las bases de cotización",
+      "reverso": "SMI incrementado en un sexto.",
+      "ref": "art. 19.2 LGSS"
+    },
+    {
+      "frente": "Recargos por ingreso fuera de plazo con documentos presentados",
+      "reverso": "10 % en el primer mes; 20 % después.",
+      "ref": "art. 30 LGSS"
+    },
+    {
+      "frente": "Prescripción de deudas por cuotas",
+      "reverso": "4 años.",
+      "ref": "art. 24 LGSS"
+    },
+    {
+      "frente": "Prescripción del derecho a prestaciones",
+      "reverso": "5 años, con efectos de 3 meses antes de la solicitud.",
+      "ref": "art. 53 LGSS"
+    },
+    {
+      "frente": "Duración máxima de la IT",
+      "reverso": "365 días + 180 de prórroga = 545 días.",
+      "ref": "arts. 169 y 174 LGSS"
+    },
+    {
+      "frente": "Carencia de la IT por enfermedad común",
+      "reverso": "180 días en los 5 años anteriores.",
+      "ref": "art. 172 LGSS"
+    },
+    {
+      "frente": "¿Quién paga la IT por enfermedad común entre los días 4 y 15?",
+      "reverso": "El empresario.",
+      "ref": "art. 173.1 LGSS"
+    },
+    {
+      "frente": "Carencia del nacimiento y cuidado de menor con 26 años o más",
+      "reverso": "180 días en 7 años o 360 en toda la vida laboral.",
+      "ref": "art. 178 LGSS"
+    },
+    {
+      "frente": "Naturaleza del riesgo durante el embarazo",
+      "reverso": "Contingencia profesional: sin carencia, 100 % BR.",
+      "ref": "arts. 186-187 LGSS"
+    },
+    {
+      "frente": "Grados de la incapacidad permanente",
+      "reverso": "Parcial, total, absoluta y gran incapacidad.",
+      "ref": "art. 194 LGSS"
+    },
+    {
+      "frente": "Carencia de la jubilación contributiva",
+      "reverso": "15 años, 2 de ellos en los últimos 15.",
+      "ref": "art. 205.1.b LGSS"
+    },
+    {
+      "frente": "Edad de jubilación en 2026",
+      "reverso": "66 años y 10 meses, o 65 con 38 años y 3 meses cotizados.",
+      "ref": "DT 7.ª LGSS"
+    },
+    {
+      "frente": "Viudedad: carencia si el causante estaba en alta",
+      "reverso": "500 días en los 5 años anteriores.",
+      "ref": "art. 219 LGSS"
+    },
+    {
+      "frente": "Duración máxima del paro contributivo",
+      "reverso": "720 días.",
+      "ref": "art. 269 LGSS"
+    },
+    {
+      "frente": "¿Tienen desempleo los funcionarios de carrera?",
+      "reverso": "No; sí los interinos, eventuales y contratados administrativos.",
+      "ref": "art. 264.1.d LGSS"
+    },
+    {
+      "frente": "Mecanismos del régimen especial de funcionarios civiles",
+      "reverso": "Clases Pasivas y mutualismo administrativo (MUFACE).",
+      "ref": "art. 2.1 LSSFCE"
+    },
+    {
+      "frente": "IT en MUFACE: primeros 3 meses",
+      "reverso": "Retribuciones íntegras a cargo del órgano de personal.",
+      "ref": "art. 21 LSSFCE"
+    },
+    {
+      "frente": "Subsidio de IT de MUFACE desde el 4.º mes",
+      "reverso": "Mayor entre 80 % de básicas o 75 % de complementarias del 3.er mes.",
+      "ref": "art. 21.1.b LSSFCE"
+    },
+    {
+      "frente": "Cuota de MUFACE: pagas",
+      "reverso": "Cuota anual entre 14; doble en junio y diciembre.",
+      "ref": "art. 10.4 LSSFCE"
+    },
+    {
+      "frente": "Pensiones de Clases Pasivas",
+      "reverso": "Jubilación o retiro, viudedad, orfandad y en favor de los padres.",
+      "ref": "art. 18.2 LCPE"
+    },
+    {
+      "frente": "Jubilación voluntaria en Clases Pasivas",
+      "reverso": "60 años y 30 de servicios efectivos.",
+      "ref": "art. 28.2.b LCPE"
+    },
+    {
+      "frente": "Carencia en Clases Pasivas",
+      "reverso": "15 años de servicios efectivos.",
+      "ref": "art. 29 LCPE"
+    },
+    {
+      "frente": "Cuota de derechos pasivos",
+      "reverso": "3,86 % del haber regulador.",
+      "ref": "art. 23 LCPE"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el artículo 2 de la LGSS, el sistema de la Seguridad Social se fundamenta en los principios de:",
+      "opciones": [
+        "Universalidad, unidad, solidaridad e igualdad",
+        "Universalidad, suficiencia, contributividad e igualdad",
+        "Unidad, equidad, proporcionalidad y solidaridad",
+        "Universalidad, gratuidad, solidaridad y eficacia"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 2.1 LGSS enumera cuatro principios: universalidad, unidad, solidaridad e igualdad.",
+      "ref": "art. 2.1 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Conforme al artículo 10.2 de la LGSS, NO es un grupo que se encuadre en un régimen especial:",
+      "opciones": [
+        "Los trabajadores del mar",
+        "Los trabajadores por cuenta ajena de la industria",
+        "Los funcionarios públicos, civiles y militares",
+        "Los estudiantes"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 10.2 LGSS cita autónomos, trabajadores del mar, funcionarios públicos civiles y militares, estudiantes y los demás que determine el Ministerio. Los trabajadores por cuenta ajena de la industria están en el Régimen General.",
+      "ref": "art. 10.2 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 136.2 LGSS, el personal funcionario al servicio de las administraciones públicas queda incluido en el Régimen General:",
+      "opciones": [
+        "Solo una vez adquirida la condición de funcionario de carrera",
+        "Solo si ha ingresado después del 1 de enero de 2011",
+        "Incluido su periodo de prácticas, salvo que esté incluido en Clases Pasivas o en otro régimen por ley especial",
+        "Únicamente a efectos de asistencia sanitaria"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 136.2.l LGSS incluye al personal funcionario de las AAPP, incluido su periodo de prácticas, salvo que esté en Clases Pasivas o en otro régimen por ley especial.",
+      "ref": "art. 136.2.l LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO darán lugar a inclusión en el Régimen General, según el artículo 137 LGSS, los trabajos realizados por:",
+      "opciones": [
+        "El personal laboral de las universidades públicas",
+        "Los funcionarios en prácticas de las comunidades autónomas",
+        "Los altos cargos que no sean funcionarios",
+        "Los profesores universitarios eméritos"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 137.c LGSS excluye los trabajos de los profesores universitarios eméritos y del personal licenciado sanitario emérito.",
+      "ref": "art. 137.c LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El personal que acceda a la condición de funcionario de carrera de la Administración Civil del Estado a partir del 1 de enero de 2011 queda:",
+      "opciones": [
+        "Incluido en el Régimen General a efectos de pensiones, manteniendo el mutualismo administrativo",
+        "Incluido en Clases Pasivas y en MUFACE como hasta entonces",
+        "Excluido de MUFACE e incluido en el Régimen General a todos los efectos",
+        "Incluido en Clases Pasivas pero excluido de MUFACE"
+      ],
+      "correcta": 0,
+      "explicacion": "La DA 3.ª LGSS y el art. 2.2 LSSFCE (origen: art. 20 RDL 13/2010) lo integran en el RGSS a los exclusivos efectos de pensiones; sigue siendo mutualista de MUFACE.",
+      "ref": "DA 3.ª LGSS; art. 2.2 LSSFCE",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La norma que dispuso la integración en el Régimen General, a efectos de pensiones, de los funcionarios de nuevo ingreso desde el 1 de enero de 2011 fue:",
+      "opciones": [
+        "La Ley 27/2011, de 1 de agosto",
+        "El Real Decreto-ley 13/2010, de 3 de diciembre",
+        "El Real Decreto Legislativo 4/2000, de 23 de junio",
+        "La Ley 7/2007, de 12 de abril"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 20.1 del RDL 13/2010 es el origen de la integración; hoy la recoge la DA 3.ª LGSS.",
+      "ref": "art. 2.2 LSSFCE; DA 3.ª LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Un funcionario incluido en Clases Pasivas a 31 de diciembre de 2010 que, sin solución de continuidad, ingresa en 2015 en otro cuerpo que habría motivado su encuadramiento en Clases Pasivas:",
+      "opciones": [
+        "Pasa obligatoriamente al Régimen General",
+        "Puede optar en el plazo de un mes",
+        "Continúa incluido en el Régimen de Clases Pasivas",
+        "Pasa al Régimen General solo para la jubilación"
+      ],
+      "correcta": 2,
+      "explicacion": "La DA 3.ª.3 LGSS mantiene en Clases Pasivas a quien, estando incluido a 31-12-2010, ingresa o reingresa sin solución de continuidad en otro cuerpo de ese régimen.",
+      "ref": "DA 3.ª.3 LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el artículo 3.2 de la LSSFCE, el personal de administración y servicios propio de las universidades:",
+      "opciones": [
+        "Queda incluido obligatoriamente en MUFACE",
+        "Puede optar entre MUFACE y el Régimen General",
+        "Queda incluido en MUFACE solo si es funcionario de carrera",
+        "Queda excluido del régimen especial de los funcionarios civiles del Estado"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 3.2.h LSSFCE excluye expresamente al PAS propio de las universidades; su encuadramiento es el Régimen General.",
+      "ref": "art. 3.2.h LSSFCE",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Un funcionario de carrera de la Escala Administrativa de la Universidad de La Laguna recibe su asistencia sanitaria a través de:",
+      "opciones": [
+        "El Régimen General, mediante el Servicio Canario de la Salud",
+        "MUFACE, pudiendo elegir entidad concertada",
+        "MUGEJU",
+        "MUFACE durante el periodo de prácticas y luego el Régimen General"
+      ],
+      "correcta": 0,
+      "explicacion": "El PAS propio de las universidades está excluido de MUFACE (art. 3.2.h LSSFCE) y encuadrado en el RGSS (art. 136.2.l LGSS), cuya asistencia sanitaria presta el servicio público de salud.",
+      "ref": "art. 3.2.h LSSFCE; art. 136.2.l LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el empresario incumple la obligación de solicitar el alta del trabajador en el Régimen General:",
+      "opciones": [
+        "El alta solo puede practicarse por orden judicial",
+        "El trabajador puede instarla directamente y la Administración puede actuar de oficio",
+        "El trabajador pierde el derecho a las prestaciones hasta que el empresario la solicite",
+        "Solo la Inspección de Trabajo puede solicitarla"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 139.2 LGSS permite al trabajador instar su afiliación, alta o baja y a la Administración actuar de oficio.",
+      "ref": "art. 139.2 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La afiliación y las altas solicitadas fuera de plazo por el empresario o el trabajador:",
+      "opciones": [
+        "Tienen efectos desde el inicio de la actividad",
+        "Tienen efectos retroactivos de tres meses",
+        "No tienen efecto retroactivo alguno",
+        "Tienen efectos desde el día primero del mes en que se solicitan"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 140.2 LGSS dispone que no tendrán efecto retroactivo alguno.",
+      "ref": "art. 140.2 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el artículo 32.3 del Reglamento aprobado por RD 84/1996, la solicitud de alta de un trabajador debe presentarse:",
+      "opciones": [
+        "Dentro de los 3 días naturales siguientes al inicio de la actividad",
+        "Dentro de los 6 días naturales siguientes al inicio de la actividad",
+        "Con carácter previo, y no antes de los 30 días naturales anteriores",
+        "Con carácter previo al inicio de la prestación de servicios, y no antes de los 60 días naturales anteriores"
+      ],
+      "correcta": 3,
+      "explicacion": "El alta es previa al comienzo de la prestación de servicios y no puede solicitarse antes de los 60 días naturales anteriores a su inicio.",
+      "ref": "art. 32.3 RD 84/1996",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Tras la modificación del RD 84/1996 por el RD 643/2026 (vigente desde el 1 de agosto de 2026), las solicitudes de baja y de variaciones de datos deben presentarse:",
+      "opciones": [
+        "Dentro de los 6 días naturales siguientes al cese o a la variación",
+        "Dentro de los 3 días naturales siguientes al cese o a la variación",
+        "Dentro de los 6 días hábiles siguientes al cese o a la variación",
+        "Con carácter previo al cese"
+      ],
+      "correcta": 0,
+      "explicacion": "El RD 643/2026 amplió de tres a seis días naturales el plazo del art. 32.3.2.º del RD 84/1996 para bajas y variaciones de datos.",
+      "ref": "art. 32.3 RD 84/1996 (redacción RD 643/2026)",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La obligación de cotizar al Régimen General nace:",
+      "opciones": [
+        "Una vez superado el periodo de prueba",
+        "Con el inicio de la prestación del trabajo, incluido el periodo de prueba",
+        "El día primero del mes siguiente al alta",
+        "Con la firma del contrato, aunque no se haya iniciado el trabajo"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 144.1 LGSS la hace nacer con el inicio de la prestación del trabajo, incluido el periodo de prueba; la solicitud de alta produce idéntico efecto.",
+      "ref": "art. 144.1 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La cotización por accidentes de trabajo y enfermedades profesionales en el Régimen General corre a cargo:",
+      "opciones": [
+        "Del empresario y del trabajador por partes iguales",
+        "Del trabajador en un 20 % y del empresario en un 80 %",
+        "Exclusivamente del empresario",
+        "De la mutua colaboradora"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 141.3 LGSS atribuye la cotización completa por AT y EP exclusivamente a los empresarios.",
+      "ref": "art. 141.3 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si el empresario no descuenta al trabajador su aportación en el momento de pagarle el salario:",
+      "opciones": [
+        "Podrá descontarla en los tres meses siguientes",
+        "Podrá descontarla en la liquidación del finiquito",
+        "El trabajador deberá ingresarla directamente en la TGSS",
+        "No podrá hacerlo con posterioridad y deberá ingresar la totalidad a su cargo"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 142.2 LGSS lo impide y obliga al empresario a asumir la totalidad de las cuotas.",
+      "ref": "art. 142.2 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El tope mínimo de las bases de cotización es, salvo disposición en contrario:",
+      "opciones": [
+        "El salario mínimo interprofesional incrementado en un sexto",
+        "El salario mínimo interprofesional",
+        "El IPREM incrementado en un sexto",
+        "El que fije cada convenio colectivo"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 19.2 LGSS fija como tope mínimo el SMI incrementado en un sexto.",
+      "ref": "art. 19.2 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO se computan en la base de cotización por contingencias comunes:",
+      "opciones": [
+        "Las pagas extraordinarias prorrateadas",
+        "Las horas extraordinarias",
+        "Las retribuciones en especie",
+        "El complemento de destino"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 147.2.e LGSS excluye las horas extraordinarias, salvo para la cotización por AT y EP. Las pagas extraordinarias se prorratean en doce meses.",
+      "ref": "art. 147 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si un sujeto responsable que presentó en plazo los documentos de cotización paga las cuotas dentro del primer mes natural siguiente al vencimiento, el recargo es del:",
+      "opciones": [
+        "5 %",
+        "20 %",
+        "10 %",
+        "35 %"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 30.1.a.1.º LGSS: recargo del 10 % si se abonan en el primer mes natural siguiente; del 20 % a partir del segundo.",
+      "ref": "art. 30.1 LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El derecho de la Administración de la Seguridad Social para determinar las deudas por cuotas mediante liquidaciones prescribe a los:",
+      "opciones": [
+        "Cinco años",
+        "Tres años",
+        "Dos años",
+        "Cuatro años"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 24.1.a LGSS fija la prescripción en cuatro años.",
+      "ref": "art. 24.1 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El tipo de interés de demora por deudas con la Seguridad Social es, salvo que la Ley de Presupuestos establezca otro:",
+      "opciones": [
+        "El interés legal del dinero incrementado en un 25 %",
+        "El interés legal del dinero",
+        "El interés legal del dinero más dos puntos",
+        "El Euríbor incrementado en un 10 %"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 31.3 LGSS.",
+      "ref": "art. 31.3 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Mecanismo de Equidad Intergeneracional supone en el año 2026 una cotización de:",
+      "opciones": [
+        "0,80 puntos, 0,67 empresa y 0,13 trabajador",
+        "0,90 puntos, de los que 0,75 corresponden a la empresa y 0,15 al trabajador",
+        "1 punto, 0,83 empresa y 0,17 trabajador",
+        "1,2 puntos, 1 empresa y 0,2 trabajador"
+      ],
+      "correcta": 1,
+      "explicacion": "La DT 43.ª LGSS fija para 2026 el 0,90 % (0,75 + 0,15).",
+      "ref": "DT 43.ª LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "NO se exigen periodos previos de cotización para causar las prestaciones derivadas de:",
+      "opciones": [
+        "Enfermedad común",
+        "Jubilación",
+        "Accidente, sea o no de trabajo, o enfermedad profesional",
+        "Incapacidad permanente parcial por enfermedad común"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 165.4 LGSS, salvo disposición expresa en contrario.",
+      "ref": "art. 165.4 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El derecho al reconocimiento de las prestaciones de la Seguridad Social prescribe, con carácter general, a los:",
+      "opciones": [
+        "Cuatro años, con efectos de hasta un año antes",
+        "Tres años, con efectos desde el hecho causante",
+        "Un año, con efectos desde la solicitud",
+        "Cinco años, con efectos de hasta tres meses antes de la solicitud"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 53.1 LGSS. La jubilación, en cambio, es imprescriptible (art. 212).",
+      "ref": "art. 53.1 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las prestaciones económicas derivadas de accidente de trabajo por falta de medidas de seguridad se incrementan:",
+      "opciones": [
+        "De un 30 a un 50 %, a cargo directo del empresario infractor y sin posibilidad de aseguramiento",
+        "De un 10 a un 20 %, a cargo de la mutua",
+        "De un 30 a un 50 %, pudiendo asegurarse la responsabilidad",
+        "En un 25 % fijo, a cargo de la TGSS"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 164 LGSS establece el recargo del 30 al 50 % y declara nulo todo pacto para asegurarlo.",
+      "ref": "art. 164 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO tendrá la consideración de accidente de trabajo, según el artículo 156 LGSS:",
+      "opciones": [
+        "El sufrido al ir o volver del lugar de trabajo",
+        "El debido a imprudencia temeraria del trabajador accidentado",
+        "El causado por una insolación durante el trabajo",
+        "El debido a imprudencia profesional derivada de la confianza en el trabajo habitual"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 156.4.b excluye el dolo e imprudencia temeraria; la insolación no es fuerza mayor extraña (156.4.a) y la imprudencia profesional no impide la calificación (156.5.a).",
+      "ref": "art. 156 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La duración máxima de la incapacidad temporal por enfermedad común, incluida la prórroga, es de:",
+      "opciones": [
+        "365 días",
+        "540 días",
+        "545 días",
+        "730 días"
+      ],
+      "correcta": 2,
+      "explicacion": "365 días prorrogables por otros 180 (art. 169.1.a), con extinción a los 545 días naturales (art. 174.1).",
+      "ref": "arts. 169 y 174 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El periodo mínimo de cotización exigido para el subsidio de incapacidad temporal por enfermedad común es de:",
+      "opciones": [
+        "360 días dentro de los seis años anteriores",
+        "180 días dentro de los siete años anteriores",
+        "90 días dentro de los cinco años anteriores",
+        "180 días dentro de los cinco años anteriores al hecho causante"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 172.a LGSS.",
+      "ref": "art. 172.a LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En caso de enfermedad común, el subsidio de incapacidad temporal se abona:",
+      "opciones": [
+        "A partir del cuarto día de baja, a cargo del empresario del cuarto al decimoquinto día, ambos inclusive",
+        "Desde el día siguiente a la baja, a cargo de la entidad gestora",
+        "A partir del cuarto día, a cargo de la entidad gestora desde el primer día",
+        "A partir del día decimosexto, a cargo del empresario"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 173.1 LGSS, párrafo segundo.",
+      "ref": "art. 173.1 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Se considera recaída en un mismo proceso de incapacidad temporal la nueva baja por la misma o similar patología producida dentro de los:",
+      "opciones": [
+        "90 días naturales siguientes al alta médica anterior",
+        "180 días naturales siguientes al alta médica anterior",
+        "365 días naturales siguientes al alta médica anterior",
+        "6 meses siguientes a la última baja"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 169.2 LGSS.",
+      "ref": "art. 169.2 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Frente al alta médica emitida por el INSS una vez agotados los 365 días de IT, el interesado puede manifestar su disconformidad ante la inspección médica del servicio público de salud en el plazo máximo de:",
+      "opciones": [
+        "Siete días naturales",
+        "Diez días hábiles",
+        "Cuatro días naturales",
+        "Once días naturales"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 170.3 LGSS: 4 días naturales; la inspección del servicio público de salud puede proponer la reconsideración en 7 días naturales.",
+      "ref": "art. 170.3 LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Para la prestación contributiva por nacimiento y cuidado de menor, a una persona trabajadora de 23 años se le exige:",
+      "opciones": [
+        "Ningún periodo mínimo de cotización",
+        "180 días cotizados en los siete años anteriores o 360 en toda su vida laboral",
+        "180 días cotizados en los cinco años anteriores",
+        "90 días cotizados en los siete años anteriores o 180 días en toda su vida laboral"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 178.1.b LGSS para personas de 21 a 25 años.",
+      "ref": "art. 178.1 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La prestación económica por riesgo durante el embarazo:",
+      "opciones": [
+        "Tiene naturaleza de contingencia profesional y consiste en el 100 % de la base reguladora de la IT por contingencias profesionales",
+        "Tiene naturaleza de contingencia común y consiste en el 75 % de la base reguladora",
+        "Exige 180 días cotizados en los cinco años anteriores",
+        "La paga siempre el Servicio Público de Empleo Estatal"
+      ],
+      "correcta": 0,
+      "explicacion": "Arts. 186 y 187.3 LGSS.",
+      "ref": "arts. 186-187 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La prestación por riesgo durante la lactancia natural se extingue cuando el hijo cumple:",
+      "opciones": [
+        "Doce meses",
+        "Nueve meses",
+        "Seis meses",
+        "Dieciocho meses"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 189 LGSS.",
+      "ref": "art. 189 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La incapacidad permanente que inhabilita al trabajador para todas o las fundamentales tareas de su profesión habitual, siempre que pueda dedicarse a otra distinta, es la incapacidad permanente:",
+      "opciones": [
+        "Parcial",
+        "Absoluta",
+        "Total",
+        "Gran incapacidad"
+      ],
+      "correcta": 2,
+      "explicacion": "Definición de la DT 26.ª LGSS (redacción transitoria del art. 194).",
+      "ref": "DT 26.ª LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La pensión de incapacidad permanente total puede sustituirse excepcionalmente por una indemnización a tanto alzado cuando el beneficiario:",
+      "opciones": [
+        "Sea menor de cincuenta y cinco años",
+        "Tenga menos de quince años cotizados",
+        "Lo solicite la empresa",
+        "Sea menor de sesenta años"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 196.2 LGSS.",
+      "ref": "art. 196.2 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El periodo mínimo de cotización exigido para la incapacidad permanente parcial derivada de enfermedad común es de:",
+      "opciones": [
+        "1.800 días en los diez años anteriores a la extinción de la IT",
+        "1.800 días en los cinco años anteriores",
+        "Cinco años en los últimos diez",
+        "Quince años, dos de ellos en los últimos quince"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 195.2 LGSS.",
+      "ref": "art. 195.2 LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Para acceder a la pensión de jubilación contributiva se exige un periodo mínimo de cotización de:",
+      "opciones": [
+        "Quince años, de los cuales al menos cinco dentro de los últimos diez",
+        "Quince años, de los cuales al menos dos dentro de los quince inmediatamente anteriores",
+        "Diez años, de los cuales dos en los últimos cinco",
+        "Treinta y cinco años efectivos"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 205.1.b LGSS.",
+      "ref": "art. 205.1.b LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En el año 2026, la edad ordinaria de jubilación para quien acredite menos de 38 años y 3 meses de cotización es de:",
+      "opciones": [
+        "67 años",
+        "66 años y 8 meses",
+        "66 años y 10 meses",
+        "65 años"
+      ],
+      "correcta": 2,
+      "explicacion": "La DT 7.ª LGSS fija para 2026: 65 años con 38 años y 3 meses o más; 66 años y 10 meses con menos.",
+      "ref": "DT 7.ª LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La jubilación anticipada por voluntad del interesado exige, entre otros requisitos:",
+      "opciones": [
+        "Una edad inferior en cuatro años como máximo a la ordinaria y 33 años cotizados",
+        "Estar inscrito como demandante de empleo seis meses",
+        "Tener cumplidos 60 años y 30 de servicios",
+        "Una edad inferior en dos años como máximo a la ordinaria y 35 años de cotización efectiva"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 208.1 LGSS. Los 4 años y 33 cotizados corresponden a la involuntaria (art. 207).",
+      "ref": "art. 208.1 LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La percepción de la pensión contributiva de jubilación es incompatible con el desempeño de un puesto en el sector público, salvo en el caso de:",
+      "opciones": [
+        "Los profesores universitarios eméritos",
+        "El personal laboral fijo de las universidades",
+        "Los funcionarios interinos",
+        "Los altos cargos de la Administración General del Estado"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 213.2 LGSS exceptúa a los profesores universitarios eméritos y al personal licenciado sanitario emérito; el art. 213.3 declara la incompatibilidad con los altos cargos.",
+      "ref": "art. 213.2 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para la pensión de viudedad de parejas de hecho se exige, además de los requisitos generales, que la inscripción registral o el documento público de constitución se haya producido con una antelación mínima al fallecimiento de:",
+      "opciones": [
+        "Un año",
+        "Dos años",
+        "Cinco años",
+        "Seis meses"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 221.2 LGSS; la convivencia estable ha de ser de al menos cinco años, salvo hijos comunes.",
+      "ref": "art. 221.2 LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si el causante estaba en alta al fallecer por enfermedad común, la pensión de viudedad exige que hubiera cotizado:",
+      "opciones": [
+        "180 días dentro de los cinco años anteriores",
+        "Quince años en toda su vida laboral",
+        "500 días dentro de los cinco años anteriores",
+        "360 días dentro de los seis años anteriores"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 219.1 LGSS. Si no estaba en alta, se exigen quince años.",
+      "ref": "art. 219.1 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La duración máxima de la prestación contributiva por desempleo es de:",
+      "opciones": [
+        "360 días",
+        "540 días",
+        "900 días",
+        "720 días"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 269.1 LGSS: desde 2.160 días cotizados, 720 días de prestación.",
+      "ref": "art. 269.1 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La cuantía de la prestación contributiva por desempleo es:",
+      "opciones": [
+        "El 70 % de la base reguladora los primeros 180 días y el 60 % a partir del día 181",
+        "El 60 % los primeros 180 días y el 50 % después",
+        "El 75 % durante toda la prestación",
+        "El 80 % los primeros 90 días y el 70 % después"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 270.2 LGSS.",
+      "ref": "art. 270.2 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Están comprendidos en la protección por desempleo, según el artículo 264 LGSS:",
+      "opciones": [
+        "Los funcionarios de carrera de las comunidades autónomas",
+        "Los funcionarios interinos",
+        "Los funcionarios de carrera de las universidades",
+        "Los mutualistas de MUFACE en activo"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 264.1.d LGSS incluye a los funcionarios interinos, al personal eventual y al contratado en régimen administrativo, no a los funcionarios de carrera.",
+      "ref": "art. 264.1.d LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "MUFACE es, según el artículo 5 de la LSSFCE:",
+      "opciones": [
+        "Una mutua colaboradora con la Seguridad Social",
+        "Una entidad pública empresarial",
+        "Un organismo público con personalidad jurídica pública diferenciada que se rige por las previsiones relativas a los organismos autónomos",
+        "Un servicio común de la Seguridad Social"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 5.1 LSSFCE.",
+      "ref": "art. 5.1 LSSFCE",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los actos y resoluciones del Director General de MUFACE:",
+      "opciones": [
+        "Ponen fin a la vía administrativa y cabe reposición potestativa",
+        "Solo son recurribles ante la jurisdicción social",
+        "Son recurribles en alzada ante el Consejo General",
+        "No ponen fin a la vía administrativa y pueden recurrirse en alzada ante el Ministro"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 37.1 LSSFCE, salvo las excepciones del apartado 2 (materia de personal, etc.).",
+      "ref": "art. 37.1 LSSFCE",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Conserva la condición de mutualista de MUFACE con los mismos derechos y obligaciones que en servicio activo el funcionario que pasa a:",
+      "opciones": [
+        "Excedencia por cuidado de familiares",
+        "Excedencia voluntaria por interés particular",
+        "Excedencia voluntaria por agrupación familiar",
+        "Pérdida de la condición de funcionario"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 7.1 LSSFCE cita servicios especiales, servicios en CCAA, expectativa de destino, excedencia forzosa, excedencia por cuidado de familiares y suspensión. La excedencia voluntaria causa baja (art. 8.1.a).",
+      "ref": "arts. 7.1 y 8.1 LSSFCE",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La cuota mensual de cotización a MUFACE se obtiene:",
+      "opciones": [
+        "Dividiendo por doce la cuota anual",
+        "Dividiendo por catorce la cuota anual, abonándose doble en junio y diciembre",
+        "Aplicando el tipo a la retribución íntegra mensual",
+        "Dividiendo por catorce la cuota anual y abonándose doble en julio y diciembre"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 10.4 LSSFCE.",
+      "ref": "art. 10.4 LSSFCE",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la incapacidad temporal de un mutualista de MUFACE, a partir del cuarto mes de licencia percibe un subsidio a cargo de MUFACE cuya cuantía es la mayor de:",
+      "opciones": [
+        "El 75 % de las retribuciones básicas o el 80 % de las complementarias del tercer mes",
+        "El 60 % de las retribuciones íntegras del tercer mes",
+        "El 80 % de las retribuciones básicas o el 75 % de las complementarias del tercer mes",
+        "El 100 % de las retribuciones complementarias del primer mes"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 21.1.b LSSFCE. Durante los tres primeros meses percibe la totalidad de sus retribuciones.",
+      "ref": "art. 21.1 LSSFCE",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "NO es una prestación de MUFACE según el artículo 12 de la LSSFCE:",
+      "opciones": [
+        "La asistencia sanitaria",
+        "Las prestaciones familiares por hijo a cargo con discapacidad",
+        "Las ayudas económicas en los casos de parto múltiple",
+        "La pensión de viudedad"
+      ],
+      "correcta": 3,
+      "explicacion": "Las pensiones de viudedad corresponden a Clases Pasivas o al Régimen General, no a MUFACE.",
+      "ref": "art. 12 LSSFCE",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La gran invalidez de un mutualista de MUFACE da derecho a una cantidad mensual destinada a remunerar a la persona encargada de su asistencia equivalente al:",
+      "opciones": [
+        "50 % de la pensión de jubilación que le corresponda en Clases Pasivas",
+        "45 % de la base mínima de cotización",
+        "100 % de sus retribuciones complementarias",
+        "25 % de la pensión de jubilación"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 26 LSSFCE.",
+      "ref": "art. 26 LSSFCE",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los derechos pasivos, según el texto refundido de Clases Pasivas, son:",
+      "opciones": [
+        "Renunciables y prescriptibles a los cinco años",
+        "Inembargables, irrenunciables, inalienables e imprescriptibles",
+        "Embargables sin límite por deudas tributarias",
+        "Transmisibles por contrato"
+      ],
+      "correcta": 1,
+      "explicacion": "Arts. 6.1 y 6.2 LCPE.",
+      "ref": "art. 6 LCPE",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La jubilación voluntaria en el Régimen de Clases Pasivas exige tener cumplidos:",
+      "opciones": [
+        "Sesenta y cinco años y quince de servicios",
+        "Sesenta y un años y treinta y cinco de servicios",
+        "Sesenta años de edad y treinta años de servicios efectivos al Estado",
+        "Sesenta años y quince de servicios"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 28.2.b LCPE.",
+      "ref": "art. 28.2.b LCPE",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El periodo de carencia para causar pensión ordinaria de jubilación en Clases Pasivas es de:",
+      "opciones": [
+        "Diez años de servicios efectivos",
+        "Veinte años de servicios efectivos",
+        "Doce años de servicios efectivos",
+        "Quince años de servicios efectivos al Estado"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 29 LCPE. Si al llegar a la edad forzosa tiene 12 años puede pedir prórroga hasta completar los 15 (art. 28.2.a).",
+      "ref": "art. 29 LCPE",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La cuota de derechos pasivos del personal civil incluido en Clases Pasivas es del:",
+      "opciones": [
+        "3,86 % del haber regulador",
+        "1,93 % del haber regulador",
+        "4,70 % de la base de cotización",
+        "1,69 % del haber regulador"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 23.1 LCPE (1,93 % solo para determinado personal militar).",
+      "ref": "art. 23.1 LCPE",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En Clases Pasivas, la pensión de orfandad cuando existen varios hijos con derecho es, para cada uno, el:",
+      "opciones": [
+        "25 % de la base reguladora",
+        "10 % de la base reguladora",
+        "20 % de la base reguladora",
+        "15 % de la base reguladora"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 42.2 LCPE: 25 % si hay un solo hijo y 10 % cada uno si hay varios.",
+      "ref": "art. 42.2 LCPE",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Desde la reforma de 2020, el reconocimiento de los derechos pasivos del personal de Clases Pasivas corresponde a:",
+      "opciones": [
+        "La Dirección General de Costes de Personal del Ministerio de Hacienda",
+        "MUFACE",
+        "El Instituto Nacional de la Seguridad Social",
+        "La Tesorería General de la Seguridad Social"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 11.1 LCPE; el pago material corresponde a la TGSS (art. 12).",
+      "ref": "art. 11 LCPE",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "TEMA 3 Admvo. SS: Afiliación, altas, bajas, inscripción de empresas",
+      "url": "https://www.youtube.com/watch?v=G0Rep7SaDbk",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "AFILIACIÓN, ALTAS y BAJAS en Seguridad Social: todo lo que necesitas saber para tu oposición",
+      "url": "https://www.youtube.com/watch?v=0Hm9Q4KQWgY",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "Afiliación, altas, bajas y variaciones de datos. Seguridad Social. RD 84/1996",
+      "url": "https://www.youtube.com/watch?v=t6GubxgrpzQ",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "Qué es Clases Pasivas",
+      "url": "https://www.youtube.com/watch?v=BGI7fZZbKxE",
+      "canal": "Clases Pasivas.Net"
+    },
+    {
+      "titulo": "La jubilación de las Clases Pasivas del Estado",
+      "url": "https://www.youtube.com/watch?v=6yLYs21QrZI",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "La incapacidad para nuevos funcionarios (Régimen General)",
+      "url": "https://www.youtube.com/watch?v=EOkWtd_t2o0",
+      "canal": "YouTube"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "LGSS consolidada (RDLeg 8/2015) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724"
+    },
+    {
+      "titulo": "Ley de Seguridad Social de los Funcionarios Civiles del Estado (RDLeg 4/2000) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140"
+    },
+    {
+      "titulo": "Texto refundido de Clases Pasivas (RDLeg 670/1987) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636"
+    },
+    {
+      "titulo": "Reglamento de inscripción, afiliación, altas y bajas (RD 84/1996) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-4447"
+    },
+    {
+      "titulo": "Real Decreto 643/2026 (plazo de bajas y variaciones) - BOE",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16557"
+    },
+    {
+      "titulo": "Estructura de órganos de MUFACE (RD 577/1997) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-9874"
+    },
+    {
+      "titulo": "MUFACE",
+      "url": "https://www.muface.es"
+    },
+    {
+      "titulo": "Seguridad Social",
+      "url": "https://www.seg-social.es"
+    }
+  ]
+}

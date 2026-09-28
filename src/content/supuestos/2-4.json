@@ -1,0 +1,203 @@
+{
+  "bloque": 2,
+  "titulo": "Nombramiento de una funcionaria interina desde la lista de empleo, incapacidad temporal, nacimiento y cese",
+  "temas": ["2-01", "2-02", "2-04"],
+  "enunciado": "La Gerencia de la Universidad de La Laguna dispone de una **lista de empleo ordinaria** de la **Escala Administrativa** (C1), constituida conforme a los arts. 32 y 33 de la Ley canaria 2/2025 y con los mismos criterios que recogen las bases de la convocatoria de 2026 (base 10). Entre sus integrantes figuran:\n\n- **Sofía Ramos Cabrera**, de 27 años, que superó todos los ejercicios sin obtener plaza, con una media de **7,20**.\n- **Tomás Luis Acosta**, que también superó todos los ejercicios sin plaza, con una media de **6,90**.\n- **Iván García Díaz**, que solo superó el primer ejercicio, con **8,50** puntos en él.\n\nEn enero de 2026 se ofrece a Sofía una **sustitución transitoria** de una funcionaria en situación de permiso, que Sofía **rechaza**. Días después acepta un nombramiento como **funcionaria interina en una plaza vacante** del Servicio de Gestión Académica, y toma posesión el **lunes 2 de febrero de 2026**. Es su primer nombramiento desde esa lista. Sofía había trabajado tres años en una empresa privada y ya estaba afiliada a la Seguridad Social.\n\nEl **lunes 9 de marzo de 2026** Sofía inicia un proceso de **incapacidad temporal por enfermedad común** (gripe con complicaciones). Meses después, el **miércoles 14 de octubre de 2026**, da a luz a su primera hija.\n\nPor otra parte, el **1 de junio de 2026** se nombra a **Raúl Méndez Pérez** funcionario interino para atender un **exceso o acumulación de tareas** en el Servicio de Becas.\n\nFinalmente, un funcionario de carrera obtiene por concurso la plaza que ocupa Sofía y toma posesión el **lunes 1 de marzo de 2027**.\n\nSofía y Raúl están encuadrados, como el resto del PTGAS de la ULL, en el **Régimen General de la Seguridad Social**.",
+  "preguntas": [
+    {
+      "enunciado": "¿Cuál es el orden de Sofía, Tomás e Iván en la lista de empleo ordinaria?",
+      "opciones": [
+        "Iván, Sofía y Tomás, por la mayor puntuación individual en un ejercicio",
+        "Sofía, Tomás e Iván: primer turno (superaron todos los ejercicios) por media de mayor a menor, y después el segundo turno",
+        "Sofía, Iván y Tomás, por orden alfabético del primer apellido",
+        "Tomás, Sofía e Iván, por sorteo público"
+      ],
+      "correcta": 1,
+      "explicacion": "La lista se constituye con un primer turno de quienes superaron todos los ejercicios obligatorios y eliminatorios sin obtener plaza, ordenados por la media aritmética de los ejercicios de mayor a menor, y un segundo turno de quienes solo superaron los ejercicios exigidos para formar parte de la lista (en la convocatoria, el primer ejercicio), ordenados por su puntuación (base 10.4 de la convocatoria; art. 33 Ley 2/2025). Iván va detrás aunque su nota sea mayor, porque pertenece al segundo turno.",
+      "ref": "base 10.4 convocatoria ULL 2026; art. 33 Ley 2/2025",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué consecuencia tiene que Sofía rechazara la oferta de sustitución transitoria?",
+      "opciones": [
+        "Su exclusión definitiva de la lista",
+        "Su paso al último lugar del segundo turno",
+        "Una penalización de seis meses sin llamamientos",
+        "Ninguna: las personas del primer turno pueden rechazar sin consecuencias desfavorables las ofertas que no correspondan a un puesto vacante"
+      ],
+      "correcta": 3,
+      "explicacion": "Las personas integradas en el primer turno pueden rechazar, sin consecuencias desfavorables, las ofertas que no se correspondan con la cobertura de un puesto vacante; las de vacantes deben aceptarlas y ordenarlas por preferencia (base 10.4 de la convocatoria, conforme al art. 33 Ley 2/2025).",
+      "ref": "base 10.4 convocatoria ULL 2026",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto del periodo de prueba de Sofía, señala la afirmación CORRECTA:",
+      "opciones": [
+        "Es de tres meses por ser su primer nombramiento desde esa lista; si no lo supera, se acuerda su cese y la exclusión de la lista de empleo",
+        "Es de seis meses y su no superación solo implica pasar al final de la lista",
+        "No existe periodo de prueba para el personal interino",
+        "Es de un mes, prorrogable por otro"
+      ],
+      "correcta": 0,
+      "explicacion": "El personal funcionario interino queda sujeto a un periodo de prueba de tres meses respecto del primer nombramiento conferido desde una misma lista de empleo (art. 25.1 Ley 2/2025; base 10.5). La no superación determina el cese y la exclusión de la lista (art. 25.4 Ley 2/2025; base 10.5). Si tras el periodo no se emite en plazo (un mes) el informe de desempeño, se entiende favorable (art. 25.2).",
+      "ref": "art. 25 Ley 2/2025; base 10.5 convocatoria ULL 2026",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sofía fue nombrada para una plaza vacante. ¿Cuál es el límite temporal de ese nombramiento según el TREBEP?",
+      "opciones": [
+        "Nueve meses dentro de un periodo de dieciocho",
+        "No tiene límite mientras la plaza siga vacante",
+        "Tres años desde el nombramiento; excepcionalmente puede permanecer si dentro de ese plazo se publicó la convocatoria para cubrir la plaza, hasta su resolución",
+        "Cinco años, prorrogables por otros tres"
+      ],
+      "correcta": 2,
+      "explicacion": "El nombramiento por vacante no cubrible por funcionario de carrera tiene un máximo de tres años (art. 10.1.a TREBEP). Transcurridos tres años desde el nombramiento se produce el fin de la interinidad, salvo que dentro de ese plazo se haya publicado la convocatoria correspondiente, en cuyo caso puede permanecer hasta su resolución, sin compensación económica por el cese (art. 10.4 TREBEP).",
+      "ref": "art. 10.1.a y 10.4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál es la duración máxima del nombramiento de Raúl, efectuado por exceso o acumulación de tareas?",
+      "opciones": [
+        "Tres años, ampliables doce meses",
+        "Seis meses dentro de un periodo de doce",
+        "Doce meses dentro de un periodo de dieciocho",
+        "Nueve meses dentro de un periodo de dieciocho meses"
+      ],
+      "correcta": 3,
+      "explicacion": "Por exceso o acumulación de tareas, el nombramiento de interino tiene un plazo máximo de nueve meses dentro de un periodo de dieciocho meses (art. 10.1.d TREBEP). Los tres años ampliables doce meses corresponden a la ejecución de programas de carácter temporal (art. 10.1.c).",
+      "ref": "art. 10.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Como funcionaria interina, ¿cuál de los siguientes derechos NO puede ejercer Sofía?",
+      "opciones": [
+        "Las vacaciones anuales retribuidas",
+        "La excedencia voluntaria por interés particular",
+        "El permiso por asuntos particulares",
+        "El permiso por nacimiento"
+      ],
+      "correcta": 1,
+      "explicacion": "Al personal interino se le aplica el régimen general de los funcionarios de carrera en cuanto sea adecuado a la naturaleza de su condición temporal, salvo los derechos inherentes a la condición de funcionario de carrera (art. 10.5 TREBEP). Las situaciones de excedencia se regulan para los funcionarios de carrera (art. 89.1 TREBEP), mientras que vacaciones y permisos son derechos de todos los funcionarios (arts. 48 a 50 TREBEP).",
+      "ref": "arts. 10.5 y 89.1 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sofía ya estaba afiliada a la Seguridad Social por su trabajo en la empresa privada. ¿Qué debe hacer la Universidad al nombrarla?",
+      "opciones": [
+        "Solicitar una nueva afiliación, porque cambia de empleador",
+        "Nada, porque el personal interino no se incluye en el Régimen General",
+        "Comunicar su alta en el Régimen General, ya que la afiliación es única y para toda la vida, sin perjuicio de las altas y bajas",
+        "Tramitar su inclusión en MUFACE"
+      ],
+      "correcta": 2,
+      "explicacion": "La afiliación es obligatoria y única para toda la vida y para todo el sistema, sin perjuicio de las altas y bajas en los distintos regímenes (art. 15 LGSS). El empresario está obligado a comunicar el ingreso de los trabajadores para que sean dados de alta en el Régimen General y, en su caso, a solicitar la afiliación de quienes no lo estén (art. 139.1 LGSS). El PTGAS propio de las universidades está excluido de MUFACE (art. 3.2.h RDLeg 4/2000).",
+      "ref": "arts. 15 y 139.1 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si la Universidad no hubiera comunicado el alta de Sofía, señala la afirmación CORRECTA:",
+      "opciones": [
+        "Sofía podría instar directamente su alta ante la Administración de la Seguridad Social, pero el alta solicitada fuera de plazo no tendría efecto retroactivo",
+        "El alta se produciría automáticamente con efectos desde el nombramiento",
+        "Sofía no podría hacer nada hasta que la Universidad cumpliera su obligación",
+        "La Tesorería no podría actuar de oficio en ningún caso"
+      ],
+      "correcta": 0,
+      "explicacion": "Si el empresario incumple, el trabajador puede instar su afiliación, alta o baja directamente ante el organismo competente, que también puede actuar de oficio (art. 139.2 LGSS; art. 16.3 y 16.4). La afiliación y las altas solicitadas fuera de plazo por el empresario o el trabajador no tienen efecto retroactivo alguno (art. 140.2 LGSS).",
+      "ref": "arts. 16, 139.2 y 140.2 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para tener derecho al subsidio por la incapacidad temporal por enfermedad común iniciada el 9 de marzo de 2026, ¿qué periodo de cotización debe acreditar Sofía?",
+      "opciones": [
+        "Ninguno",
+        "Ciento ochenta días dentro de los cinco años inmediatamente anteriores al hecho causante",
+        "Trescientos sesenta días a lo largo de su vida laboral",
+        "Un año dentro de los últimos siete"
+      ],
+      "correcta": 1,
+      "explicacion": "En caso de enfermedad común se exigen ciento ochenta días cotizados dentro de los cinco años inmediatamente anteriores al hecho causante (art. 172.a LGSS). En accidente, sea o no de trabajo, y en enfermedad profesional no se exige cotización previa (art. 172.b). Sofía, con tres años cotizados en la empresa privada, cumple el requisito.",
+      "ref": "art. 172 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Desde qué día se abona el subsidio por la incapacidad temporal de Sofía y quién lo soporta?",
+      "opciones": [
+        "Desde el mismo día de la baja, a cargo del INSS",
+        "Desde el día siguiente a la baja, a cargo de la Universidad",
+        "Desde el día 16 de baja, sin que la Universidad abone nada",
+        "Desde el cuarto día de baja (12 de marzo); del cuarto al decimoquinto (12 a 23 de marzo) a cargo de la Universidad como empleadora y, desde el día 16 (24 de marzo), a cargo de la entidad gestora o colaboradora"
+      ],
+      "correcta": 3,
+      "explicacion": "En caso de enfermedad común o accidente no laboral, el subsidio se abona a partir del cuarto día de baja; desde el día cuarto al decimoquinto, ambos inclusive, está a cargo del empresario (art. 173.1 LGSS). Contando el 9 de marzo como primer día de baja: día 4 = 12 de marzo, día 15 = 23 de marzo y día 16 = 24 de marzo. En accidente de trabajo o enfermedad profesional se abona desde el día siguiente a la baja.",
+      "ref": "art. 173.1 LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál es la duración máxima de la situación de incapacidad temporal por enfermedad común?",
+      "opciones": [
+        "Trescientos sesenta y cinco días, prorrogables por otros ciento ochenta cuando se presuma que durante ellos puede producirse el alta por curación",
+        "Dieciocho meses improrrogables",
+        "Ciento ochenta días, prorrogables por otros ciento ochenta",
+        "Dos años"
+      ],
+      "correcta": 0,
+      "explicacion": "La incapacidad temporal por enfermedad o accidente tiene una duración máxima de trescientos sesenta y cinco días, prorrogables por otros ciento ochenta cuando se presuma que durante ellos el trabajador puede ser dado de alta por curación (art. 169.1.a LGSS). El derecho al subsidio se extingue, entre otras causas, al transcurrir 545 días naturales desde la baja (art. 174.1). Los 180 + 180 días son para los periodos de observación por enfermedad profesional (art. 169.1.b).",
+      "ref": "arts. 169 y 174 LGSS",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sofía tiene 27 años en la fecha del parto. ¿Qué periodo mínimo de cotización necesita para el subsidio por nacimiento y cuidado de menor?",
+      "opciones": [
+        "Ninguno",
+        "Noventa días dentro de los siete años anteriores o ciento ochenta a lo largo de su vida laboral",
+        "Ciento ochenta días dentro de los siete años inmediatamente anteriores al inicio del descanso o, alternativamente, trescientos sesenta a lo largo de su vida laboral",
+        "Ciento ochenta días dentro de los cinco años anteriores"
+      ],
+      "correcta": 2,
+      "explicacion": "Con veintiséis años cumplidos o más en la fecha del nacimiento se exigen ciento ochenta días cotizados dentro de los siete años inmediatamente anteriores al inicio del descanso o, alternativamente, trescientos sesenta días a lo largo de la vida laboral (art. 178.1.c LGSS). Con menos de 21 años no se exige cotización y entre 21 y 26, noventa días en siete años o ciento ochenta en la vida laboral.",
+      "ref": "art. 178.1 LGSS",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿En qué consiste la prestación económica por nacimiento y cuidado de menor que percibirá Sofía, con una hija nacida el 14 de octubre de 2026?",
+      "opciones": [
+        "En un subsidio del 75 % de la base reguladora",
+        "En un subsidio del 60 % de la base reguladora durante las seis primeras semanas y del 100 % después",
+        "En una cantidad a tanto alzado fijada anualmente",
+        "En un subsidio del 100 % de la base reguladora, que con carácter general es la base de cotización por contingencias comunes del mes inmediatamente anterior al mes previo al del hecho causante (agosto de 2026), dividida entre los días a que se refiera"
+      ],
+      "correcta": 3,
+      "explicacion": "La prestación consiste en un subsidio equivalente al 100 % de la base reguladora, que con carácter general es la base de cotización por contingencias comunes del mes inmediatamente anterior al mes previo al del hecho causante, dividida entre el número de días a que se refiera; si la retribución es mensual y ha estado en alta todo el mes, se divide entre treinta (art. 179.1 LGSS). Hecho causante en octubre: mes previo, septiembre; mes inmediatamente anterior, agosto.",
+      "ref": "art. 179.1 LGSS",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Con la toma de posesión del funcionario de carrera que obtiene la plaza de Sofía el 1 de marzo de 2027, ¿qué ocurre con el nombramiento de Sofía?",
+      "opciones": [
+        "La Administración formaliza de oficio la finalización de su interinidad por la cobertura reglada del puesto, sin derecho a compensación alguna",
+        "Sofía pasa a ser funcionaria de carrera por haber superado el primer ejercicio",
+        "Sofía tiene derecho a una indemnización de veinte días por año de servicio",
+        "Sofía permanece en el puesto hasta cumplir tres años de nombramiento"
+      ],
+      "correcta": 0,
+      "explicacion": "La Administración formaliza de oficio la finalización de la interinidad, sin derecho a compensación alguna, por la cobertura reglada del puesto por personal funcionario de carrera a través de cualquiera de los procedimientos legalmente establecidos, entre otras causas (art. 10.3.a TREBEP). El nombramiento como interino nunca da lugar al reconocimiento de la condición de funcionario de carrera (art. 10.2).",
+      "ref": "art. 10.2 y 10.3 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si Sofía aprueba en el futuro la oposición y es nombrada funcionaria de carrera, ¿cuál de los siguientes NO es un requisito para adquirir esa condición?",
+      "opciones": [
+        "La superación del proceso selectivo",
+        "El nombramiento por el órgano competente, publicado en el diario oficial correspondiente",
+        "La superación de un periodo de prueba de tres meses en el puesto adjudicado",
+        "La toma de posesión dentro del plazo establecido, que según las bases es de quince días naturales desde la publicación del nombramiento (un mes si supone cambio de localidad de residencia)"
+      ],
+      "correcta": 2,
+      "explicacion": "La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de: superación del proceso selectivo, nombramiento publicado en el diario oficial, acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía y del resto del ordenamiento, y toma de posesión en plazo (art. 62.1 TREBEP). Las bases fijan quince días naturales, o un mes si hay cambio de localidad de residencia (base 9.6). El periodo de prueba de tres meses es propio del personal interino (art. 25 Ley 2/2025).",
+      "ref": "art. 62.1 TREBEP; base 9.6 convocatoria ULL 2026",
+      "dificultad": 2
+    }
+  ]
+}

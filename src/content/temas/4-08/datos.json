@@ -1,0 +1,1288 @@
+{
+  "claves": [
+    "El personal investigador es quien, con la titulación exigida, realiza trabajo creativo sistemático para incrementar el conocimiento, usarlo en nuevas aplicaciones, transferirlo y divulgarlo (art. 13.1 LCTI).",
+    "El personal investigador puede vincularse por relación administrativa o laboral: funcionario de carrera o interino, o laboral fijo o temporal.",
+    "La participación del personal investigador en los beneficios de la explotación de sus resultados no tiene en ningún caso la consideración de retribución o salario.",
+    "Tras la Ley 17/2022, las modalidades específicas de contrato del personal investigador son cuatro: predoctoral, de acceso de personal investigador doctor, de investigador/a distinguido/a y de actividades científico-técnicas.",
+    "El contrato predoctoral exige Grado de al menos 300 ECTS o Máster y admisión a un programa de doctorado; dura entre 1 y 4 años (6 con discapacidad) a tiempo completo.",
+    "La retribución del predoctoral no puede ser inferior al 56 % del salario de referencia los dos primeros años, al 60 % el tercero y al 75 % el cuarto, ni al SMI.",
+    "El contrato de acceso de personal investigador doctor dura entre 3 y 6 años (8 con discapacidad), permite hasta 100 horas anuales de docencia y abre la evaluación que conduce al certificado R3, que concede la AEI.",
+    "El certificado R3 da acceso preferente a plazas estables: reserva mínima del 25 % en los OPI y del 15 % en las universidades.",
+    "El contrato de investigador distinguido tiene la duración pactada y puede extinguirse por desistimiento del empleador con preaviso de tres meses e indemnización de despido improcedente.",
+    "El contrato de actividades científico-técnicas es indefinido, no forma parte de la Oferta de Empleo Público ni está limitado por la masa salarial.",
+    "El EPIPF (RD 103/2019, modificado por el RD 1251/2024) desarrolla el contrato predoctoral y se aplica con independencia de la naturaleza pública o privada de la entidad contratante.",
+    "El personal predoctoral puede colaborar en docencia hasta 180 horas en todo el contrato y nunca más de 60 horas anuales, sin merma de la carga docente del departamento.",
+    "El contrato predoctoral se prorroga automáticamente salvo informe desfavorable motivado de la comisión académica del programa de doctorado.",
+    "El contrato predoctoral se extingue por obtener el doctorado, por expiración del tiempo o por no superar la evaluación; en los dos primeros casos hay indemnización del art. 49 ET.",
+    "La LOSU permite a las universidades contratar las cuatro modalidades de la LCTI con financiación interna o externa, sin necesidad de autorización autonómica de costes."
+  ],
+  "plazos": [
+    {
+      "concepto": "Antigüedad mínima para la excedencia temporal del personal de investigación",
+      "valor": "5 años",
+      "ref": "art. 17.3 y 17.4 LCTI"
+    },
+    {
+      "concepto": "Duración máxima de la excedencia temporal",
+      "valor": "5 años",
+      "ref": "art. 17.3 y 17.4 LCTI"
+    },
+    {
+      "concepto": "Espera para una nueva excedencia por la misma causa",
+      "valor": "Al menos 2 años desde el reingreso",
+      "ref": "art. 17.3 y 17.4 LCTI"
+    },
+    {
+      "concepto": "Silencio en la concesión de excedencias del art. 17",
+      "valor": "Desestimatorio",
+      "ref": "art. 17.3 y 17.4 LCTI"
+    },
+    {
+      "concepto": "Estancias formativas autorizadas",
+      "valor": "Máximo 2 años acumulados cada 5 años",
+      "ref": "art. 17.6 LCTI"
+    },
+    {
+      "concepto": "Titulación para el contrato predoctoral",
+      "valor": "Licenciado, Ingeniero, Arquitecto, Grado de al menos 300 ECTS o Máster, y admisión en doctorado",
+      "ref": "art. 21.a) LCTI; art. 1.2 EPIPF"
+    },
+    {
+      "concepto": "Orientación postdoctoral en el contrato predoctoral",
+      "valor": "Máximo 12 meses",
+      "ref": "art. 21.a) LCTI; art. 4.1 EPIPF"
+    },
+    {
+      "concepto": "Duración del contrato predoctoral",
+      "valor": "Mínimo 1 año; máximo 4 años",
+      "ref": "art. 21.c) LCTI; art. 6.1 EPIPF"
+    },
+    {
+      "concepto": "Duración máxima del predoctoral con discapacidad",
+      "valor": "6 años, prórrogas incluidas",
+      "ref": "art. 21.c) LCTI; art. 6.1 EPIPF"
+    },
+    {
+      "concepto": "Duración mínima de las prórrogas del predoctoral",
+      "valor": "1 año (salvo prórroga para orientación postdoctoral)",
+      "ref": "art. 6.1 EPIPF"
+    },
+    {
+      "concepto": "Retribución mínima del predoctoral, años 1 y 2",
+      "valor": "56 % del salario de categorías equivalentes",
+      "ref": "art. 21.d) LCTI; art. 7.1 EPIPF"
+    },
+    {
+      "concepto": "Retribución mínima del predoctoral, año 3",
+      "valor": "60 %",
+      "ref": "art. 21.d) LCTI; art. 7.1 EPIPF"
+    },
+    {
+      "concepto": "Retribución mínima del predoctoral, año 4",
+      "valor": "75 %",
+      "ref": "art. 21.d) LCTI; art. 7.1 EPIPF"
+    },
+    {
+      "concepto": "Suelo retributivo absoluto del predoctoral",
+      "valor": "Salario mínimo interprofesional",
+      "ref": "art. 21.d) LCTI; art. 7.1 EPIPF"
+    },
+    {
+      "concepto": "Categoría de referencia retributiva mínima",
+      "valor": "Grupo M3 del convenio único de personal laboral de la AGE",
+      "ref": "art. 7.2 EPIPF"
+    },
+    {
+      "concepto": "Indemnización a la finalización del predoctoral y del contrato de acceso",
+      "valor": "La de los contratos de duración determinada del art. 49 ET (12 días de salario por año)",
+      "ref": "arts. 21.e) y 22.1.g) LCTI; art. 9.2 EPIPF; art. 49.1.c) ET"
+    },
+    {
+      "concepto": "Colaboración docente del predoctoral",
+      "valor": "Máximo 180 horas en total y 60 horas anuales",
+      "ref": "art. 4.2 EPIPF"
+    },
+    {
+      "concepto": "Comunicación del contrato predoctoral a la oficina de empleo",
+      "valor": "10 días siguientes a su concertación",
+      "ref": "art. 5.3 EPIPF"
+    },
+    {
+      "concepto": "Copia básica a la representación legal",
+      "valor": "10 días desde la celebración",
+      "ref": "art. 5.3 EPIPF"
+    },
+    {
+      "concepto": "Interrupción del cómputo por reclamación contra la dirección de tesis",
+      "valor": "Máximo 4 meses",
+      "ref": "art. 6.3 EPIPF"
+    },
+    {
+      "concepto": "Plazo para resolver la reclamación contra la dirección de tesis",
+      "valor": "Máximo 3 meses",
+      "ref": "art. 6.3 EPIPF"
+    },
+    {
+      "concepto": "Plazo para cambiar la dirección de la tesis tras resolución favorable",
+      "valor": "Máximo 1 mes",
+      "ref": "art. 6.3 EPIPF"
+    },
+    {
+      "concepto": "Bonificación en la cotización del contrato predoctoral",
+      "valor": "115 euros/mes (efectos desde el 1-9-2023)",
+      "ref": "disp. adic. única EPIPF; art. 27 RDL 1/2023"
+    },
+    {
+      "concepto": "Duración del contrato de acceso de personal investigador doctor",
+      "valor": "Mínimo 3 años; máximo 6 años",
+      "ref": "art. 22.1.d) LCTI"
+    },
+    {
+      "concepto": "Duración máxima del contrato de acceso con discapacidad",
+      "valor": "8 años",
+      "ref": "art. 22.1.d) LCTI"
+    },
+    {
+      "concepto": "Prórrogas del contrato de acceso",
+      "valor": "No inferiores a 1 año",
+      "ref": "art. 22.1.d) LCTI"
+    },
+    {
+      "concepto": "Docencia en el contrato de acceso de doctor",
+      "valor": "Máximo 100 horas anuales",
+      "ref": "art. 22.1.f) LCTI"
+    },
+    {
+      "concepto": "Evaluación de la actividad en el contrato de acceso",
+      "valor": "A partir de la finalización del segundo año",
+      "ref": "art. 22.2 LCTI"
+    },
+    {
+      "concepto": "Experiencia postdoctoral evaluable por financiadores sin contrato de acceso",
+      "valor": "Más de 3 años",
+      "ref": "art. 22.2 LCTI"
+    },
+    {
+      "concepto": "Silencio en la concesión del certificado R3",
+      "valor": "Desestimatorio",
+      "ref": "art. 22.3 LCTI"
+    },
+    {
+      "concepto": "Reserva de plazas en OPI para R3/I3",
+      "valor": "Mínimo 25 % dentro de la tasa de reposición",
+      "ref": "art. 22 bis.2 LCTI"
+    },
+    {
+      "concepto": "Reserva de plazas en universidades para R3/I3",
+      "valor": "Mínimo 15 %",
+      "ref": "art. 22 bis.3 LCTI; art. 71.1.c) LOSU"
+    },
+    {
+      "concepto": "Preaviso de desistimiento en el contrato de investigador distinguido",
+      "valor": "3 meses, por escrito",
+      "ref": "art. 23.f) LCTI"
+    },
+    {
+      "concepto": "Indemnización por desistimiento en el contrato de investigador distinguido",
+      "valor": "La del despido improcedente (33 días por año, máximo 24 mensualidades)",
+      "ref": "art. 23.f) LCTI; art. 56.1 ET"
+    },
+    {
+      "concepto": "Docencia del investigador distinguido",
+      "valor": "Máximo 100 horas anuales",
+      "ref": "art. 23.g) LCTI"
+    },
+    {
+      "concepto": "Docencia del Profesor Distinguido (LOSU)",
+      "valor": "Máximo 180 horas lectivas por curso",
+      "ref": "art. 84.b) LOSU"
+    },
+    {
+      "concepto": "Duración del contrato de actividades científico-técnicas",
+      "valor": "Indefinida",
+      "ref": "art. 23 bis.2 LCTI"
+    },
+    {
+      "concepto": "Plazo del Gobierno para aprobar el estatuto del personal investigador en formación",
+      "valor": "2 años desde la entrada en vigor de la LCTI",
+      "ref": "disp. adic. 2.ª LCTI"
+    },
+    {
+      "concepto": "Entrada en vigor del RD 103/2019",
+      "valor": "Día siguiente a su publicación en el BOE (15-3-2019)",
+      "ref": "disp. final quinta EPIPF"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Personal investigador",
+      "definicion": "Quien, con la titulación exigida, realiza trabajo creativo sistemático para incrementar el conocimiento, crear aplicaciones, transferirlo y divulgarlo; incluye al PDI con funciones investigadoras (art. 13.1 LCTI)."
+    },
+    {
+      "termino": "Personal investigador predoctoral en formación",
+      "definicion": "Titulado (Grado de al menos 300 ECTS, Máster o equivalente) admitido en un programa de doctorado y vinculado a una entidad mediante contrato predoctoral (art. 1.2 EPIPF)."
+    },
+    {
+      "termino": "Contrato predoctoral",
+      "definicion": "Modalidad laboral de 1 a 4 años a tiempo completo para realizar investigación en un proyecto específico y novedoso y las actividades del doctorado (art. 21 LCTI)."
+    },
+    {
+      "termino": "Contrato de acceso de personal investigador doctor",
+      "definicion": "Contrato temporal de 3 a 6 años para doctores, dentro de un itinerario de acceso estable al sistema de ciencia (art. 22 LCTI)."
+    },
+    {
+      "termino": "Itinerario de acceso estable",
+      "definicion": "Trayectoria postdoctoral (tenure track) en la que se enmarca el contrato de acceso y que, tras evaluación positiva y certificado R3, facilita la incorporación estable."
+    },
+    {
+      "termino": "Certificado R3",
+      "definicion": "Certificación como investigador/a establecido/a que concede la Agencia Estatal de Investigación y que exime o compensa la evaluación curricular en procesos selectivos estables (arts. 22.3 y 22 bis LCTI)."
+    },
+    {
+      "termino": "Programa I3",
+      "definicion": "Programa de Incentivación de la Incorporación e Intensificación de la Actividad Investigadora; su evaluación positiva equivale al R3 a efectos de las reservas de plazas."
+    },
+    {
+      "termino": "Investigador/a distinguido/a",
+      "definicion": "Doctor o tecnólogo de reputación internacional contratado para dirigir equipos, centros o instalaciones singulares, con la duración pactada (art. 23 LCTI)."
+    },
+    {
+      "termino": "Contrato de actividades científico-técnicas",
+      "definicion": "Contrato indefinido para actividades vinculadas a líneas de investigación o servicios científico-técnicos, fuera de la OEP y de la masa salarial (art. 23 bis LCTI)."
+    },
+    {
+      "termino": "Línea de investigación",
+      "definicion": "Conjunto de conocimientos, inquietudes, productos y proyectos construidos sistemáticamente alrededor de un eje temático en el que confluyen uno o más grupos (art. 23 bis.1 LCTI)."
+    },
+    {
+      "termino": "Orientación postdoctoral",
+      "definicion": "Período de hasta 12 meses tras el doctorado que puede incluirse en el contrato predoctoral sin exceder su duración máxima."
+    },
+    {
+      "termino": "Comisión académica del programa de doctorado",
+      "definicion": "Órgano que evalúa anualmente la actividad del personal predoctoral; su informe desfavorable motivado impide la prórroga automática."
+    },
+    {
+      "termino": "Excedencia temporal (art. 17 LCTI)",
+      "definicion": "Situación del personal investigador fijo con 5 años de antigüedad para incorporarse hasta 5 años a otro agente, con reserva de puesto y sin retribución de origen."
+    },
+    {
+      "termino": "Agencia Estatal de Investigación (AEI)",
+      "definicion": "Órgano competente, en todos los casos, para evaluar los requisitos y conceder el certificado R3."
+    },
+    {
+      "termino": "Carta Europea del Investigador",
+      "definicion": "Recomendación de la Comisión Europea que, junto al Código de Conducta para la Selección de Investigadores, fija derechos y obligaciones del personal investigador (art. 11 EPIPF)."
+    },
+    {
+      "termino": "Doctorado con mención industrial",
+      "definicion": "Doctorado desarrollado mediante convenio con la universidad, que puede articularse con el contrato predoctoral del art. 21 LCTI (art. 9.7 LOSU)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Las cuatro modalidades: Pre-Acceso-Distinguido-Técnico",
+      "texto": "El que se forma (predoctoral), el que se consolida (acceso de doctor), la estrella internacional (distinguido) y el que sostiene líneas y servicios (actividades científico-técnicas, indefinido)."
+    },
+    {
+      "titulo": "Sueldo del predoctoral: 56-56-60-75",
+      "texto": "Los dos primeros años al 56 %, el tercero al 60 % y el cuarto al 75 % del salario de referencia; nunca por debajo del SMI."
+    },
+    {
+      "titulo": "Duraciones: 1-4-6 y 3-6-8",
+      "texto": "Predoctoral: mínimo 1, máximo 4, con discapacidad 6. Acceso de doctor: mínimo 3, máximo 6, con discapacidad 8."
+    },
+    {
+      "titulo": "Horas de docencia: 60, 180 y 100",
+      "texto": "Predoctoral: 60 al año y 180 en total. Acceso de doctor e investigador distinguido: 100 al año. Profesor Distinguido LOSU: 180 por curso."
+    },
+    {
+      "titulo": "Reservas R3: 25 y 15",
+      "texto": "OPI, el cuarto (25 %); universidades, el 15 %."
+    },
+    {
+      "titulo": "Integridad: VeHo ReRe",
+      "texto": "Veracidad, Honestidad, Respeto y Responsabilidad: principios del Código Europeo de conducta para la integridad en la investigación (art. 11.2 EPIPF)."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué es personal investigador según la LCTI?",
+      "reverso": "Quien, con la titulación exigida, realiza trabajo creativo sistemático para incrementar el conocimiento, su aplicación, transferencia y divulgación.",
+      "ref": "art. 13.1 LCTI"
+    },
+    {
+      "frente": "¿A qué entidades se aplica el capítulo I del título II de la LCTI?",
+      "reverso": "Universidades públicas, OPI de la AGE y organismos de investigación de otras Administraciones Públicas.",
+      "ref": "art. 12 LCTI"
+    },
+    {
+      "frente": "¿Es salario la participación en los beneficios de la explotación de resultados?",
+      "reverso": "No; en ningún caso tiene la consideración de retribución o salario.",
+      "ref": "art. 14.1.i) LCTI"
+    },
+    {
+      "frente": "Cuatro modalidades contractuales específicas del personal investigador",
+      "reverso": "Predoctoral, acceso de personal investigador doctor, investigador/a distinguido/a y actividades científico-técnicas.",
+      "ref": "art. 20.1 LCTI"
+    },
+    {
+      "frente": "¿Qué pone fin a la etapa de formación del personal investigador?",
+      "reverso": "La consecución del título de doctorado, que inicia la etapa postdoctoral.",
+      "ref": "art. 20.4 LCTI"
+    },
+    {
+      "frente": "Requisitos de titulación del contrato predoctoral",
+      "reverso": "Licenciado, Ingeniero, Arquitecto, Grado de al menos 300 ECTS o Máster (o equivalente) y admisión a un programa de doctorado.",
+      "ref": "art. 21.a) LCTI"
+    },
+    {
+      "frente": "Duración del contrato predoctoral",
+      "reverso": "Entre 1 y 4 años (hasta 6 con discapacidad), a tiempo completo.",
+      "ref": "art. 21.c) LCTI; art. 6.1 EPIPF"
+    },
+    {
+      "frente": "Retribución mínima del predoctoral por años",
+      "reverso": "56 % años 1 y 2; 60 % año 3; 75 % año 4; nunca inferior al SMI.",
+      "ref": "art. 21.d) LCTI; art. 7.1 EPIPF"
+    },
+    {
+      "frente": "¿Quién evalúa anualmente al personal predoctoral?",
+      "reverso": "La comisión académica del programa de doctorado o, en su caso, la escuela de doctorado.",
+      "ref": "art. 21.c) LCTI; art. 10.2 EPIPF"
+    },
+    {
+      "frente": "Máximo de colaboración docente del predoctoral",
+      "reverso": "180 horas en todo el contrato y nunca más de 60 horas anuales.",
+      "ref": "art. 4.2 EPIPF"
+    },
+    {
+      "frente": "Duración máxima de la orientación postdoctoral en el contrato predoctoral",
+      "reverso": "12 meses.",
+      "ref": "art. 4.1 EPIPF"
+    },
+    {
+      "frente": "¿Cuándo se prorroga automáticamente el contrato predoctoral?",
+      "reverso": "Siempre que sea prorrogable, salvo informe desfavorable motivado de la comisión académica del programa de doctorado.",
+      "ref": "art. 6.1 EPIPF"
+    },
+    {
+      "frente": "Reclamación por incumplimiento de la dirección de tesis: efectos",
+      "reverso": "Interrumpe el cómputo del contrato hasta un máximo de 4 meses; resolución en 3 meses; cambio de director en 1 mes.",
+      "ref": "art. 6.3 EPIPF"
+    },
+    {
+      "frente": "Categoría de referencia retributiva mínima del EPIPF",
+      "reverso": "Grupo M3 de personal laboral del convenio único de la Administración General del Estado.",
+      "ref": "art. 7.2 EPIPF"
+    },
+    {
+      "frente": "Causas de extinción del contrato predoctoral",
+      "reverso": "Obtener el doctorado (o fin de la orientación postdoctoral), expiración del tiempo (máx. 4 o 6 años) y no prórroga por evaluación desfavorable.",
+      "ref": "art. 9.1 EPIPF"
+    },
+    {
+      "frente": "¿En qué extinciones hay indemnización en el predoctoral?",
+      "reverso": "Por obtener el doctorado y por expiración del tiempo convenido: la del art. 49 ET.",
+      "ref": "art. 9.2 EPIPF"
+    },
+    {
+      "frente": "Plazo para comunicar el contrato predoctoral a la oficina de empleo",
+      "reverso": "10 días siguientes a su concertación.",
+      "ref": "art. 5.3 EPIPF"
+    },
+    {
+      "frente": "Bonificación de la cotización del contrato predoctoral",
+      "reverso": "115 euros al mes durante toda la vigencia (RDL 1/2023).",
+      "ref": "disp. adic. única EPIPF"
+    },
+    {
+      "frente": "¿Qué norma derogó el RD 103/2019?",
+      "reverso": "El Real Decreto 63/2006, anterior Estatuto del personal investigador en formación.",
+      "ref": "disp. derogatoria única EPIPF"
+    },
+    {
+      "frente": "Duración del contrato de acceso de personal investigador doctor",
+      "reverso": "Al menos 3 años, prorrogable hasta 6 (8 con discapacidad); prórrogas de al menos 1 año.",
+      "ref": "art. 22.1.d) LCTI"
+    },
+    {
+      "frente": "Docencia máxima del contrato de acceso de doctor",
+      "reverso": "100 horas anuales.",
+      "ref": "art. 22.1.f) LCTI"
+    },
+    {
+      "frente": "¿Desde cuándo puede evaluarse la actividad en el contrato de acceso?",
+      "reverso": "Desde la finalización del segundo año de contrato.",
+      "ref": "art. 22.2 LCTI"
+    },
+    {
+      "frente": "¿Quién evalúa al contratado de acceso por una universidad pública (fuera de programas financiados)?",
+      "reverso": "ANECA o las agencias autonómicas de evaluación del profesorado.",
+      "ref": "art. 22.2.d) LCTI"
+    },
+    {
+      "frente": "¿Quién concede el certificado R3?",
+      "reverso": "La Agencia Estatal de Investigación, en todos los casos.",
+      "ref": "art. 22.3 LCTI"
+    },
+    {
+      "frente": "Reservas de plazas para personal con R3 o I3",
+      "reverso": "Mínimo 25 % en los OPI y mínimo 15 % en las universidades.",
+      "ref": "art. 22 bis LCTI; art. 71.1.c) LOSU"
+    },
+    {
+      "frente": "Duración del contrato de investigador distinguido",
+      "reverso": "La que acuerden las partes.",
+      "ref": "art. 23.b) LCTI"
+    },
+    {
+      "frente": "Desistimiento del empleador en el contrato de investigador distinguido",
+      "reverso": "Por escrito con preaviso de 3 meses; indemnización de despido improcedente y, si se incumple el preaviso, los salarios del período incumplido.",
+      "ref": "art. 23.f) LCTI"
+    },
+    {
+      "frente": "Rasgos del contrato de actividades científico-técnicas",
+      "reverso": "Indefinido, fuera de la OEP y de la masa salarial, con convocatoria pública.",
+      "ref": "art. 23 bis LCTI"
+    },
+    {
+      "frente": "Excedencia temporal del art. 17 LCTI: requisitos y duración",
+      "reverso": "5 años de antigüedad como funcionario de carrera o laboral fijo; máximo 5 años; otra solo tras 2 años.",
+      "ref": "art. 17.3 LCTI"
+    },
+    {
+      "frente": "Límite de las estancias formativas",
+      "reverso": "Duración acumulada máxima de 2 años cada 5 años.",
+      "ref": "art. 17.6 LCTI"
+    },
+    {
+      "frente": "¿Necesitan autorización autonómica de costes los contratos de la LCTI en la universidad?",
+      "reverso": "No, a diferencia del resto de costes de personal.",
+      "ref": "art. 57.6 LOSU"
+    },
+    {
+      "frente": "Principios de integridad del art. 11.2 EPIPF",
+      "reverso": "Veracidad, honestidad, respeto y responsabilidad.",
+      "ref": "art. 11.2 EPIPF"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según la Ley 14/2011, el personal investigador que presta servicios en una universidad pública puede estar vinculado mediante:",
+      "opciones": [
+        "Únicamente una relación funcionarial",
+        "Una relación sujeta al Derecho administrativo o al Derecho laboral, como funcionario de carrera, interino o laboral fijo o temporal",
+        "Únicamente una relación laboral de carácter especial",
+        "Una relación de beca, sin vínculo laboral"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 13.2 LCTI admite la relación administrativa o laboral y las figuras de funcionario de carrera, interino y laboral fijo o temporal.",
+      "ref": "art. 13.2 LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿A cuál de las siguientes entidades NO se refiere el art. 12 LCTI al delimitar el ámbito del capítulo I del título II?",
+      "opciones": [
+        "Universidades públicas",
+        "Organismos Públicos de Investigación de la AGE",
+        "Organismos de investigación de otras Administraciones Públicas",
+        "Empresas privadas con departamento de I+D"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 12 menciona universidades públicas, OPI de la AGE y organismos de investigación de otras Administraciones. Las entidades privadas solo quedan afectadas en los casos de la disp. adic. 1.ª.",
+      "ref": "art. 12 LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La participación del personal investigador en los beneficios obtenidos por su entidad por la explotación de los resultados de su investigación:",
+      "opciones": [
+        "No tendrá en ningún caso la consideración de retribución o salario",
+        "Se integra en el complemento específico",
+        "Tiene naturaleza salarial y cotiza como tal",
+        "Solo corresponde al personal funcionario"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 14.1.i) LCTI: dicha participación no tendrá en ningún caso la consideración de retribución o salario.",
+      "ref": "art. 14.1.i) LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes es un DEBER, y no un derecho, del personal investigador según el art. 15 LCTI?",
+      "opciones": [
+        "Formular iniciativas de investigación",
+        "Participar en los programas de conciliación",
+        "Evitar el plagio y la apropiación indebida de la autoría de trabajos de terceros",
+        "Ser reconocido en la autoría de los trabajos"
+      ],
+      "correcta": 2,
+      "explicacion": "Evitar el plagio es un deber (art. 15.1.b). Las demás opciones son derechos del art. 14.1.",
+      "ref": "art. 15.1.b) LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Entre los principios de los procesos de selección del personal investigador del art. 16.2 LCTI figura que:",
+      "opciones": [
+        "Se valorarán especialmente las publicaciones de los últimos dos años",
+        "No serán objeto de consideración las eventuales interrupciones de la carrera investigadora y sus efectos en los currículos",
+        "Los órganos de selección estarán formados exclusivamente por miembros externos",
+        "Se dará preferencia a los candidatos de la propia entidad"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 16.2.g) LCTI.",
+      "ref": "art. 16.2.g) LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para ser declarado en excedencia temporal para incorporarse a otros agentes públicos del Sistema Español de Ciencia, el personal de investigación debe tener una antigüedad mínima de:",
+      "opciones": [
+        "Tres años",
+        "Dos años",
+        "Diez años",
+        "Cinco años"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 17.3 LCTI: funcionario de carrera o laboral fijo con antigüedad mínima de cinco años.",
+      "ref": "art. 17.3 LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La duración de la excedencia temporal del art. 17.3 LCTI no podrá ser superior a:",
+      "opciones": [
+        "Cinco años, sin nueva excedencia por la misma causa hasta pasados dos años desde el reingreso",
+        "Tres años, prorrogables por otros tres",
+        "Dos años, sin posibilidad de repetición",
+        "Diez años"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 17.3 LCTI.",
+      "ref": "art. 17.3 LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La duración acumulada de las autorizaciones de estancias formativas concedidas a una persona no podrá superar:",
+      "opciones": [
+        "Un año cada tres años",
+        "Seis meses cada año",
+        "Dos años cada cinco años",
+        "Tres años cada diez años"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 17.6 LCTI; el personal conserva su régimen retributivo.",
+      "ref": "art. 17.6 LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El vencimiento del plazo máximo para resolver la concesión de la excedencia del art. 17 LCTI sin resolución expresa tiene carácter:",
+      "opciones": [
+        "Estimatorio",
+        "Estimatorio si hay informe favorable del organismo de origen",
+        "Suspensivo",
+        "Desestimatorio"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 17.3 y 17.4 LCTI.",
+      "ref": "art. 17.3 LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La prestación de servicios del personal investigador en sociedades mercantiles creadas o participadas por su universidad:",
+      "opciones": [
+        "Está prohibida por la Ley 53/1984",
+        "Se considera actividad de interés general y puede autorizarse mediante contrato laboral a tiempo parcial",
+        "Solo se permite en excedencia voluntaria",
+        "Exige autorización del Consejo de Ministros"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 18.1 LCTI.",
+      "ref": "art. 18.1 LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una modalidad de contrato de trabajo específica del personal investigador según el art. 20.1 LCTI vigente?",
+      "opciones": [
+        "Contrato predoctoral",
+        "Contrato de investigador/a distinguido/a",
+        "Contrato de actividades científico-técnicas",
+        "Contrato de investigador visitante"
+      ],
+      "correcta": 3,
+      "explicacion": "Las cuatro modalidades son: predoctoral, acceso de personal investigador doctor, investigador/a distinguido/a y actividades científico-técnicas.",
+      "ref": "art. 20.1 LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 20.4 LCTI, la etapa de formación del personal investigador finaliza:",
+      "opciones": [
+        "Con la obtención del título de Máster",
+        "Con la consecución de la titulación de doctorado",
+        "A los cuatro años del contrato predoctoral",
+        "Con la obtención del certificado R3"
+      ],
+      "correcta": 1,
+      "explicacion": "La consecución del doctorado pone fin a la etapa de formación y da comienzo a la etapa postdoctoral.",
+      "ref": "art. 20.4 LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los programas de ayudas de las Administraciones Públicas para tareas de investigación en régimen de prestación de servicios por personal no fijo:",
+      "opciones": [
+        "Deberán requerir la contratación laboral por parte de las entidades beneficiarias",
+        "Pueden articularse como becas sin relación laboral",
+        "Solo pueden dirigirse a funcionarios",
+        "Requieren autorización del Consejo de Universidades"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 20.5 LCTI y disp. adic. 28.ª.",
+      "ref": "art. 20.5 LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para celebrar un contrato predoctoral se exige estar en posesión, entre otros, del título de:",
+      "opciones": [
+        "Grado de al menos 240 ECTS",
+        "Grado de al menos 180 ECTS y Máster",
+        "Grado de al menos 300 ECTS o Máster Universitario, y haber sido admitido a un programa de doctorado",
+        "Doctor"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 21.a) LCTI y art. 1.2 EPIPF.",
+      "ref": "art. 21.a) LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El contrato predoctoral podrá tener también por objeto la orientación postdoctoral por un período máximo de:",
+      "opciones": [
+        "Seis meses",
+        "Doce meses",
+        "Dieciocho meses",
+        "Dos años"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 21.a) LCTI y art. 4.1 EPIPF: doce meses, sin exceder la duración máxima del contrato.",
+      "ref": "art. 21.a) LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La duración del contrato predoctoral, con carácter general:",
+      "opciones": [
+        "No podrá ser inferior a un año ni exceder de cuatro años",
+        "No podrá ser inferior a seis meses ni exceder de tres años",
+        "Será de cuatro años exactos",
+        "No podrá exceder de cinco años"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 21.c) LCTI y art. 6.1 EPIPF.",
+      "ref": "art. 6.1 EPIPF",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando el contrato predoctoral se concierta con una persona con discapacidad, su duración máxima, prórrogas incluidas, será de:",
+      "opciones": [
+        "Cinco años",
+        "Ocho años",
+        "Cuatro años",
+        "Seis años"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 21.c) LCTI y art. 6.1 EPIPF. Los ocho años corresponden al contrato de acceso de doctor.",
+      "ref": "art. 6.1 EPIPF",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La retribución del contrato predoctoral durante el tercer año no podrá ser inferior al:",
+      "opciones": [
+        "56 % del salario de las categorías equivalentes",
+        "75 % del salario de las categorías equivalentes",
+        "60 % del salario de las categorías equivalentes",
+        "65 % del salario de las categorías equivalentes"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 21.d) LCTI y art. 7.1 EPIPF: 56 % los dos primeros años, 60 % el tercero y 75 % el cuarto.",
+      "ref": "art. 7.1 EPIPF",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Durante el cuarto año, la retribución del personal investigador predoctoral no podrá ser inferior al:",
+      "opciones": [
+        "60 %",
+        "80 %",
+        "70 %",
+        "75 %"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 21.d) LCTI y art. 7.1 EPIPF.",
+      "ref": "art. 7.1 EPIPF",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Tras la modificación del RD 1251/2024, la referencia retributiva mínima del contrato predoctoral es la categoría correspondiente:",
+      "opciones": [
+        "Al Grupo A1 de funcionarios",
+        "Al Grupo M3 de personal laboral del convenio único de la AGE",
+        "Al Profesor Ayudante Doctor",
+        "Al salario mínimo interprofesional incrementado en un 20 %"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 7.2 EPIPF, en la redacción del RD 1251/2024.",
+      "ref": "art. 7.2 EPIPF",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "A la finalización del contrato predoctoral por expiración del tiempo convenido, la persona trabajadora tiene derecho a:",
+      "opciones": [
+        "Una indemnización equivalente a la prevista para los contratos de duración determinada en el art. 49 ET",
+        "Ninguna indemnización, por tratarse de un contrato formativo",
+        "La indemnización del despido improcedente",
+        "Una indemnización de un mes de salario por año"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 21.e) LCTI y art. 9.2 EPIPF (doce días de salario por año de servicio, art. 49.1.c ET).",
+      "ref": "art. 9.2 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La actividad del personal investigador predoctoral en formación será evaluada anualmente por:",
+      "opciones": [
+        "La Agencia Estatal de Investigación",
+        "El director o directora de la tesis",
+        "La comisión académica del programa de doctorado o, en su caso, la escuela de doctorado",
+        "El Vicerrectorado de Investigación"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 21.c) LCTI y art. 10.2 EPIPF; el contrato puede resolverse si no se supera la evaluación.",
+      "ref": "art. 21.c) LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes situaciones INTERRUMPE el cómputo de la duración del contrato predoctoral?",
+      "opciones": [
+        "Una reducción de jornada por guarda legal",
+        "Un permiso a tiempo parcial por nacimiento",
+        "La realización de una estancia de investigación en el extranjero",
+        "La incapacidad temporal"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 6.2 EPIPF: la incapacidad temporal y los permisos a tiempo completo interrumpen el cómputo; los permisos a tiempo parcial y las reducciones de jornada dan lugar a prórroga por el tiempo equivalente.",
+      "ref": "art. 6.2 EPIPF",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Una reducción de jornada por lactancia durante el contrato predoctoral:",
+      "opciones": [
+        "Interrumpe el cómputo de la duración del contrato",
+        "Da lugar a la prórroga del contrato por el tiempo equivalente a la jornada reducida",
+        "No tiene efecto alguno sobre la duración",
+        "Reduce proporcionalmente la duración máxima"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 6.2, segundo párrafo, EPIPF.",
+      "ref": "art. 6.2 EPIPF",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El personal investigador predoctoral en formación podrá colaborar en tareas docentes hasta un máximo de:",
+      "opciones": [
+        "180 horas durante la extensión total del contrato, sin superar 60 horas anuales",
+        "60 horas durante todo el contrato",
+        "100 horas anuales",
+        "240 horas totales, sin superar 80 anuales"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 4.2 EPIPF, sin merma de la carga docente del departamento.",
+      "ref": "art. 4.2 EPIPF",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el EPIPF, cuando el contrato predoctoral resulte prorrogable:",
+      "opciones": [
+        "Solo se prorroga a petición expresa del trabajador",
+        "Requiere autorización de la entidad financiadora cada año",
+        "Se prorroga automáticamente, salvo informe desfavorable de evaluación motivado de la comisión académica del programa de doctorado",
+        "Se prorroga por períodos de seis meses"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 6.1 EPIPF.",
+      "ref": "art. 6.1 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las prórrogas del contrato predoctoral no pueden tener una duración inferior a un año, salvo que:",
+      "opciones": [
+        "El trabajador tenga discapacidad",
+        "Lo autorice el director de la tesis",
+        "Se trate de la última prórroga",
+        "La prórroga tenga por objeto la orientación postdoctoral"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 6.1 EPIPF. También cabe contratar o prorrogar por el tiempo que reste hasta el máximo si es inferior a un año.",
+      "ref": "art. 6.1 EPIPF",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si el personal predoctoral reclama por incumplimiento de las tareas de dirección de la tesis, el cómputo de la duración del contrato se interrumpe con un límite máximo de:",
+      "opciones": [
+        "Dos meses",
+        "Cuatro meses",
+        "Seis meses",
+        "Tres meses"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 6.3 EPIPF (RD 1251/2024): máximo cuatro meses; la resolución se dicta en tres meses y, si es favorable, el cambio de dirección se acuerda en un mes.",
+      "ref": "art. 6.3 EPIPF",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La entidad empleadora debe comunicar a la oficina pública de empleo el contenido del contrato predoctoral y sus prórrogas en el plazo de:",
+      "opciones": [
+        "Los diez días siguientes a su concertación",
+        "Un mes",
+        "Los quince días siguientes",
+        "Tres días hábiles"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 5.3 EPIPF, conforme al art. 8.3 ET.",
+      "ref": "art. 5.3 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El contrato predoctoral vinculado en su totalidad a financiación externa o de convocatorias de ayudas públicas en concurrencia competitiva:",
+      "opciones": [
+        "Requiere autorización del Consejo Social",
+        "Debe incluirse en la Oferta de Empleo Público",
+        "No requiere trámite alguno de autorización previa",
+        "Requiere informe de la Comunidad Autónoma"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 21.b) LCTI y art. 5.1 EPIPF.",
+      "ref": "art. 5.1 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Real Decreto 103/2019 se aplica a la contratación predoctoral:",
+      "opciones": [
+        "Solo cuando la entidad contratante sea pública",
+        "Solo en las universidades públicas",
+        "Solo en las convocatorias FPU",
+        "Con independencia de la naturaleza pública o privada de la entidad contratante"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 2.1 EPIPF.",
+      "ref": "art. 2.1 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Queda excluida del ámbito del EPIPF:",
+      "opciones": [
+        "La actividad de titulados beneficiarios de ayudas de especialización no vinculadas a estudios oficiales de doctorado",
+        "La contratación predoctoral por entidades privadas",
+        "La contratación predoctoral de personas con discapacidad",
+        "La contratación predoctoral en el doctorado industrial"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 2.3 EPIPF; también quienes estén contratados con otra modalidad distinta de la predoctoral.",
+      "ref": "art. 2.3 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con carácter supletorio, el contrato predoctoral se rige por:",
+      "opciones": [
+        "La Ley 39/2015",
+        "El TREBEP",
+        "El Estatuto de los Trabajadores, la demás legislación laboral y los convenios colectivos",
+        "El Real Decreto 99/2011"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 3 EPIPF; sin que puedan establecerse condiciones menos favorables al trabajador.",
+      "ref": "art. 3 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una causa de extinción del contrato predoctoral prevista en el art. 9.1 EPIPF?",
+      "opciones": [
+        "La obtención del título de Doctorado",
+        "La expiración del tiempo convenido",
+        "La no realización de la prórroga por evaluación desfavorable",
+        "La obtención de una plaza de profesor asociado"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 9.1 recoge las tres primeras; además cabe la extinción por las demás causas del art. 49 ET (art. 9.3).",
+      "ref": "art. 9.1 EPIPF",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La jornada, descansos, vacaciones y permisos del personal investigador predoctoral son:",
+      "opciones": [
+        "Los fijados en el propio contrato, libremente",
+        "Los del convenio colectivo de la entidad para el personal titulado con acceso a doctorado y, en su defecto, los del Estatuto de los Trabajadores",
+        "Los del TREBEP",
+        "Los que determine la comisión académica"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 8 EPIPF.",
+      "ref": "art. 8 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Entre los principios del Código Europeo de conducta para la integridad en la investigación que recoge el art. 11.2 EPIPF NO figura:",
+      "opciones": [
+        "La veracidad",
+        "La honestidad",
+        "La confidencialidad absoluta de los resultados",
+        "La responsabilidad y rendición de cuentas"
+      ],
+      "correcta": 2,
+      "explicacion": "Los principios son veracidad, honestidad, respeto y responsabilidad.",
+      "ref": "art. 11.2 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los derechos de propiedad industrial del personal investigador predoctoral:",
+      "opciones": [
+        "Tienen naturaleza salarial",
+        "Se regirán por lo que disponga la convocatoria, en el marco de la Ley de Patentes, y no tienen en ningún caso naturaleza salarial",
+        "Corresponden siempre en exclusiva al investigador",
+        "Corresponden siempre al director de la tesis"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 12.h) EPIPF.",
+      "ref": "art. 12.h) EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El derecho del personal predoctoral a que el centro de adscripción ponga en marcha protocolos específicos frente al acoso sexual y por razón de sexo:",
+      "opciones": [
+        "Fue añadido al art. 12 EPIPF por el RD 1251/2024",
+        "Estaba en la redacción original de 2019",
+        "No está reconocido en el EPIPF",
+        "Solo se aplica en entidades privadas"
+      ],
+      "correcta": 0,
+      "explicacion": "El RD 1251/2024 añadió las letras m) y n) del art. 12 EPIPF.",
+      "ref": "art. 12.m) EPIPF",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El contrato predoctoral da derecho a una bonificación en la cotización a la Seguridad Social de:",
+      "opciones": [
+        "El 30 % de la cuota empresarial",
+        "100 euros al mes",
+        "115 euros al mes",
+        "Ninguna, pues la bonificación fue suprimida"
+      ],
+      "correcta": 2,
+      "explicacion": "Disp. adic. única EPIPF, conforme al art. 27 del RDL 1/2023, con efectos desde el 1-9-2023.",
+      "ref": "disp. adic. única EPIPF",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El RD 103/2019 derogó expresamente:",
+      "opciones": [
+        "El Real Decreto 1326/2003, Estatuto del becario de investigación",
+        "El Real Decreto 99/2011",
+        "El Real Decreto 63/2006, Estatuto del personal investigador en formación",
+        "La disposición adicional segunda de la LCTI"
+      ],
+      "correcta": 2,
+      "explicacion": "Disposición derogatoria única del RD 103/2019.",
+      "ref": "disp. derogatoria única EPIPF",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El contrato de acceso de personal investigador doctor tendrá una duración:",
+      "opciones": [
+        "De al menos un año y máximo cuatro",
+        "De al menos dos años y máximo cinco",
+        "Indefinida",
+        "De al menos tres años, prorrogable hasta un máximo de seis"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 22.1.d) LCTI; hasta ocho años con discapacidad.",
+      "ref": "art. 22.1.d) LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El personal contratado con un contrato de acceso de personal investigador doctor podrá realizar actividad docente hasta un máximo de:",
+      "opciones": [
+        "60 horas anuales",
+        "100 horas anuales",
+        "180 horas anuales",
+        "240 horas anuales"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 22.1.f) LCTI, previo acuerdo con el departamento y aprobación de la entidad.",
+      "ref": "art. 22.1.f) LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El personal con contrato de acceso de personal investigador doctor puede optar a la evaluación de su actividad investigadora:",
+      "opciones": [
+        "A partir de la finalización del segundo año de contrato",
+        "Desde el primer día del contrato",
+        "Solo al finalizar el contrato",
+        "A partir del cuarto año"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 22.2 LCTI.",
+      "ref": "art. 22.2 LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Fuera de los programas postdoctorales financiados, la evaluación del personal con contrato de acceso de una universidad pública podrá realizarla:",
+      "opciones": [
+        "El Instituto de Salud Carlos III",
+        "La propia universidad mediante su Consejo de Gobierno",
+        "ANECA o las agencias de evaluación del profesorado de ámbito autonómico",
+        "El Consejo de Universidades"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 22.2.d) LCTI.",
+      "ref": "art. 22.2.d) LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El órgano competente para evaluar los requisitos y conceder el certificado R3 como investigador/a establecido/a es:",
+      "opciones": [
+        "ANECA",
+        "El Consejo de Universidades",
+        "La agencia autonómica correspondiente",
+        "La Agencia Estatal de Investigación"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 22.3 LCTI: en todos los casos, la Agencia Estatal de Investigación; el silencio es desestimatorio.",
+      "ref": "art. 22.3 LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la Oferta de Empleo Público de las universidades, la reserva de plazas para personal investigador doctor con certificado R3 o evaluación I3 será como mínimo del:",
+      "opciones": [
+        "15 %",
+        "25 %",
+        "10 %",
+        "33 %"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 22 bis.3 LCTI y art. 71.1.c) LOSU. En los OPI la reserva mínima es del 25 %.",
+      "ref": "art. 22 bis.3 LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los Organismos Públicos de Investigación, la reserva de plazas para personal investigador con R3 o I3 procedente de programas postdoctorales será como mínimo del:",
+      "opciones": [
+        "15 %",
+        "20 %",
+        "25 %",
+        "50 %"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 22 bis.2 LCTI.",
+      "ref": "art. 22 bis.2 LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En el ámbito universitario, el certificado R3 permite acceder a los procesos selectivos de plazas de:",
+      "opciones": [
+        "Profesorado asociado y sustituto",
+        "Profesorado titular y profesorado contratado doctor",
+        "Profesorado ayudante doctor",
+        "Personal técnico de gestión"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 22 bis.1.b) LCTI.",
+      "ref": "art. 22 bis.1 LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El personal laboral postdoctoral contratado por las universidades públicas con contrato de acceso tiene la consideración de:",
+      "opciones": [
+        "Personal técnico de apoyo",
+        "Personal investigador en formación",
+        "Personal docente e investigador a efectos del desarrollo de la función investigadora",
+        "Profesorado visitante"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 22.4 LCTI.",
+      "ref": "art. 22.4 LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El contrato de investigador/a distinguido/a tendrá una duración:",
+      "opciones": [
+        "De cinco años como máximo",
+        "De tres a seis años",
+        "Indefinida",
+        "La que las partes acuerden"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 23.b) LCTI.",
+      "ref": "art. 23.b) LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El contrato de investigador/a distinguido/a puede extinguirse por desistimiento del empleador comunicado por escrito con un preaviso de:",
+      "opciones": [
+        "Un mes",
+        "Tres meses",
+        "Quince días",
+        "Seis meses"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 23.f) LCTI; además, indemnización de despido improcedente y, si se incumple el preaviso, los salarios del período incumplido.",
+      "ref": "art. 23.f) LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En caso de desistimiento del empleador, el investigador distinguido tiene derecho a percibir:",
+      "opciones": [
+        "La indemnización prevista para el despido improcedente en el Estatuto de los Trabajadores",
+        "La indemnización de los contratos temporales (12 días por año)",
+        "Ninguna indemnización si se respeta el preaviso",
+        "Una mensualidad por año sin límite"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 23.f) LCTI, sin perjuicio de la indemnización por incumplimiento del preaviso.",
+      "ref": "art. 23.f) LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los contratos de actividades científico-técnicas del art. 23 bis LCTI:",
+      "opciones": [
+        "Son de duración determinada, máximo seis años",
+        "Forman parte de la Oferta de Empleo Público",
+        "Solo pueden celebrarse con doctores",
+        "Son de duración indefinida y no forman parte de la Oferta de Empleo Público ni están limitados por la masa salarial"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 23 bis.2 LCTI; pueden celebrarse desde el título de Técnico hasta el de Doctor.",
+      "ref": "art. 23 bis.2 LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según la LOSU, los costes del personal de las universidades deben ser autorizados por la Comunidad Autónoma, salvo en el caso de:",
+      "opciones": [
+        "El profesorado asociado",
+        "Los contratos previstos en la Ley 14/2011 de la Ciencia",
+        "El personal técnico, de gestión y de administración y servicios",
+        "El profesorado funcionario interino"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 57.6 LOSU.",
+      "ref": "art. 57.6 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las Profesoras y Profesores Distinguidos de la LOSU, cuyo régimen remite a la modalidad de investigador distinguido de la LCTI, pueden desarrollar tareas docentes hasta un máximo de:",
+      "opciones": [
+        "100 horas anuales",
+        "60 horas anuales",
+        "180 horas lectivas por curso académico",
+        "240 horas por curso"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 84.b) LOSU. No confundir con las 100 horas anuales del art. 23.g) LCTI.",
+      "ref": "art. 84 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la disposición adicional segunda de la LCTI, el Gobierno debía elaborar un estatuto del personal investigador en formación en el plazo de:",
+      "opciones": [
+        "Dos años desde la entrada en vigor de la ley, previo informe del Consejo de Política Científica, Tecnológica y de Innovación",
+        "Seis meses, previo informe del Consejo de Universidades",
+        "Un año, previo dictamen del Consejo de Estado",
+        "Tres años, previo acuerdo de la Conferencia General de Política Universitaria"
+      ],
+      "correcta": 0,
+      "explicacion": "Disp. adic. 2.ª LCTI.",
+      "ref": "disp. adic. 2.ª LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El contrato predoctoral tiene por objeto la realización simultánea de tareas de investigación y actividades del programa de doctorado:",
+      "opciones": [
+        "Pudiendo exigirse cualquier otra tarea que precise el grupo de investigación",
+        "Pudiendo asignarse docencia sin límite",
+        "Sin que pueda exigírsele la realización de cualquier otra actividad que desvirtúe su finalidad investigadora y formativa",
+        "Con una dedicación a tiempo parcial"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 4.1 EPIPF; la dedicación es siempre a tiempo completo (art. 6.1).",
+      "ref": "art. 4.1 EPIPF",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El doctorado con mención industrial, según la LOSU, podrá desarrollarse mediante:",
+      "opciones": [
+        "Un contrato de actividades científico-técnicas",
+        "El contrato predoctoral del art. 21 LCTI, por entidades públicas o por empresas beneficiarias de ayudas para esta modalidad",
+        "Una beca de colaboración",
+        "Un contrato de profesor asociado"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 9.7 LOSU, supuesto al que el RD 1251/2024 extendió el objeto del EPIPF (art. 1.1).",
+      "ref": "art. 9.7 LOSU; art. 1.1 EPIPF",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En el Consejo de Departamento de la Universidad de La Laguna, la representación del estudiantado de doctorado y del personal investigador en formación adscrito al departamento suma el:",
+      "opciones": [
+        "10 %",
+        "20 %",
+        "65 %",
+        "5 %"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 46 EULL: 5 %; el resto del estudiantado, 20 %; el PTGAS (PAS), 10 %.",
+      "ref": "art. 46 EULL",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Estatuto del personal investigador predoctoral en formación",
+      "url": "https://www.youtube.com/watch?v=Qp6mvBS-Nck",
+      "canal": "Campmany Abogados"
+    },
+    {
+      "titulo": "Ley 14/2011, de la Ciencia, la Tecnología y la Innovación",
+      "url": "https://www.youtube.com/watch?v=PJaOymTzF0g",
+      "canal": "Falcatrúas"
+    },
+    {
+      "titulo": "Contrato indefinido en el Sistema Público de Ciencia",
+      "url": "https://www.youtube.com/watch?v=RKo1eJefvWQ",
+      "canal": "Ministerio de Ciencia, Innovación y Universidades"
+    },
+    {
+      "titulo": "El Gobierno aprueba la reforma de la Ley de Ciencia, Tecnología e Innovación",
+      "url": "https://www.youtube.com/watch?v=vYgnPW1rYa0",
+      "canal": "Ministerio de Ciencia, Innovación y Universidades"
+    },
+    {
+      "titulo": "Modificación de la Ley de Ciencia, Tecnología e Innovación",
+      "url": "https://www.youtube.com/watch?v=sBFDrtqeQzg",
+      "canal": "Congreso - Canal Parlamento"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "BOE: Ley 14/2011, de la Ciencia, la Tecnología y la Innovación (texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-9617"
+    },
+    {
+      "titulo": "BOE: Real Decreto 103/2019, Estatuto del personal investigador predoctoral en formación (texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3700"
+    },
+    {
+      "titulo": "BOE: Real Decreto 1251/2024, de 10 de diciembre (modifica el EPIPF)",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-25795"
+    },
+    {
+      "titulo": "BOE: Ley 17/2022, de 5 de septiembre (reforma de la Ley de la Ciencia)",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14581"
+    },
+    {
+      "titulo": "BOE: Ley Orgánica 2/2023, del Sistema Universitario (texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500"
+    }
+  ]
+}

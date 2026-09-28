@@ -1,0 +1,203 @@
+{
+  "bloque": 4,
+  "titulo": "Contratación de una investigadora predoctoral y de un investigador doctor",
+  "temas": ["4-08"],
+  "enunciado": "El grupo de investigación del profesor **Andrés Galván Reyes** ha obtenido un proyecto del Plan Estatal de Investigación, financiado íntegramente con fondos externos obtenidos en concurrencia competitiva. Con él va a contratar personal en la Universidad de La Laguna. Trabajas en el **Servicio de Investigación**.\n\n**1. Contrato predoctoral.** Se presentan cuatro aspirantes:\n\n- **Laura Méndez Sosa:** Graduada en Biología (240 ECTS) y Máster Universitario en Biotecnología (60 ECTS). Admitida en el Programa de Doctorado en Ciencias Médicas y Farmacéuticas, Desarrollo y Calidad de Vida.\n- **Pablo Rivero Luis:** Graduado en Biología (240 ECTS), sin Máster, no admitido en ningún programa de doctorado.\n- **Nerea Hernández Gil:** Máster Universitario, pero no ha solicitado la admisión en ningún programa de doctorado.\n- **Tomás Perdomo Afonso:** Graduado en Farmacia (300 ECTS), a la espera de que se resuelva su admisión en el doctorado.\n\nSe selecciona a Laura. Su contrato empieza el **lunes 1 de junio de 2026**, con una duración inicial de **un año**. A efectos del supuesto, el salario anual de la categoría de referencia del convenio colectivo aplicable es de **28.000 €**. El Departamento quiere que Laura colabore en docencia 75 horas en el curso 2026-2027. Está previsto que Laura disfrute de un permiso por nacimiento a tiempo completo en 2027.\n\n**2. Contrato de acceso de personal investigador doctor.** El **jueves 1 de octubre de 2026** se contrata al doctor **Hugo Santana Cabrera** por un período inicial de **tres años**. Antes trabajó **dos años** en otro organismo con la extinta modalidad de contrato de acceso al Sistema Español de Ciencia, Tecnología e Innovación. El Departamento quiere que imparta docencia.\n\n**3. Técnico de apoyo.** El grupo necesita un técnico con título de Técnico Superior para gestionar la plataforma de secuenciación del proyecto, vinculado a la línea de investigación.\n\nResponde aplicando la Ley 14/2011, de la Ciencia, la Tecnología y la Innovación (LCTI), el Estatuto del Personal Investigador Predoctoral en Formación (EPIPF, RD 103/2019), la LOSU, las BEP-ULL 2026 y la Resolución de delegación de competencias de la ULL de 12 de mayo de 2023.",
+  "preguntas": [
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una de las modalidades de contrato de trabajo específicas del personal investigador del art. 20 LCTI?",
+      "opciones": [
+        "El contrato predoctoral.",
+        "El contrato de acceso de personal investigador doctor.",
+        "El contrato de actividades científico-técnicas.",
+        "El contrato de investigador visitante."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 20.1 LCTI enumera cuatro modalidades: a) contrato predoctoral; b) contrato de acceso de personal investigador doctor; c) contrato de investigador/a distinguido/a; y d) contrato de actividades científico-técnicas. El profesorado visitante es una figura de la LOSU (art. 83), no una modalidad de la LCTI. Las universidades públicas pueden usar estas modalidades (art. 20.2.b) además de las del Estatuto de los Trabajadores.",
+      "ref": "art. 20 LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los cuatro aspirantes cumple los requisitos para firmar un contrato predoctoral?",
+      "opciones": [
+        "Laura Méndez.",
+        "Pablo Rivero.",
+        "Nerea Hernández.",
+        "Tomás Perdomo."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 21.a) LCTI y el art. 1.2 EPIPF exigen dos requisitos: estar en posesión del título de Licenciado, Ingeniero, Arquitecto, Graduado con Grado de al menos 300 ECTS o Máster Universitario (o equivalente), y haber sido admitido en un programa de doctorado. Laura tiene Máster y está admitida. Pablo solo tiene un Grado de 240 ECTS y no está admitido. Nerea no está admitida. Tomás tiene un Grado de 300 ECTS, pero su admisión no está resuelta. Además, el contrato debe acompañarse del escrito de admisión al programa (art. 21.b LCTI).",
+      "ref": "art. 21.a) y b) LCTI; art. 1.2 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El contrato de Laura empieza el 1 de junio de 2026 con una duración de un año. ¿Cuál de estas prórrogas NO sería válida, con carácter general?",
+      "opciones": [
+        "Una prórroga de un año.",
+        "Una prórroga de tres años, que completa el máximo de cuatro.",
+        "Una prórroga de seis meses para continuar la tesis, cuando todavía le quedan tres años hasta el máximo.",
+        "Una prórroga de dos años."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el art. 21.c) LCTI y el art. 6.1 EPIPF, el contrato dura entre uno y cuatro años. Si se concierta por menos de cuatro, puede prorrogarse sucesivamente, pero las prórrogas no pueden ser inferiores a un año. Solo se admiten prórrogas más cortas si tienen por objeto la orientación postdoctoral o si lo que queda hasta el máximo es menos de un año. Una prórroga de seis meses para continuar la tesis, cuando quedan tres años, no es válida.",
+      "ref": "art. 21.c) LCTI; art. 6.1 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Al terminar el primer año, ¿cómo se prorroga el contrato de Laura?",
+      "opciones": [
+        "Solo si lo solicita expresamente el director de la tesis.",
+        "Automáticamente, salvo informe de evaluación desfavorable y motivado de la comisión académica del programa de doctorado (o, en su caso, de la escuela de doctorado), hasta completar la duración máxima.",
+        "Por acuerdo del Consejo de Gobierno.",
+        "Debe firmarse un contrato nuevo cada año, previa convocatoria pública."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 6.1 EPIPF dispone que, cuando el contrato sea prorrogable, se prorrogará automáticamente, salvo informe desfavorable de evaluación motivado de la comisión académica del programa de doctorado o de la escuela de doctorado, hasta completar su duración máxima. La actividad del personal predoctoral se evalúa cada año, y el contrato puede resolverse si no se supera esa evaluación (art. 21.c LCTI; arts. 9.1.c y 10.2 EPIPF).",
+      "ref": "art. 6.1 EPIPF; art. 21.c) LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con un salario de referencia de 28.000 € anuales, ¿cuál es la retribución anual mínima de Laura en el tercer año de contrato?",
+      "opciones": [
+        "15.680 €.",
+        "21.000 €.",
+        "28.000 €.",
+        "16.800 €."
+      ],
+      "correcta": 3,
+      "explicacion": "Según el art. 21.d) LCTI y el art. 7.1 EPIPF, la retribución no puede ser inferior al 56 % del salario de las categorías equivalentes en los dos primeros años, al 60 % el tercero y al 75 % el cuarto, ni al salario mínimo interprofesional. Tercer año: 28.000 × 0,60 = 16.800 €. Los 15.680 € (56 %) son el mínimo de los dos primeros años, y los 21.000 € (75 %), el del cuarto. La referencia mínima es la categoría del Grupo M3 del convenio único del personal laboral de la AGE (art. 7.2 EPIPF).",
+      "ref": "art. 21.d) LCTI; art. 7 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede Laura colaborar en docencia las 75 horas que propone el Departamento para el curso 2026-2027?",
+      "opciones": [
+        "Sí, porque el límite es de 100 horas anuales.",
+        "No, porque puede colaborar hasta 180 horas en toda la duración del contrato, pero nunca más de 60 horas al año.",
+        "Sí, porque el límite es de 180 horas anuales.",
+        "No, porque el personal predoctoral no puede colaborar en docencia."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 4.2 EPIPF permite al personal predoctoral colaborar en tareas docentes, sin que eso reduzca la carga docente del departamento, hasta un máximo de 180 horas en toda la duración del contrato y sin superar en ningún caso 60 horas anuales. Como 75 > 60, la propuesta no es posible. Las 100 horas anuales son el límite del personal con contrato de acceso de investigador doctor o de investigador distinguido (arts. 22.1.f y 23.g LCTI).",
+      "ref": "art. 4.2 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué efecto tiene sobre la duración del contrato el permiso por nacimiento a tiempo completo que Laura disfrutará en 2027?",
+      "opciones": [
+        "Interrumpe el cómputo de la duración del contrato, de modo que ese tiempo no cuenta para el máximo de cuatro años.",
+        "Ninguno: el contrato vence en la fecha prevista.",
+        "Extingue el contrato, que debe firmarse de nuevo.",
+        "Reduce proporcionalmente la retribución del cuarto año."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 21.c) LCTI y el art. 6.2 EPIPF establecen que la incapacidad temporal y los permisos a tiempo completo (entre otros, gestación, riesgo durante el embarazo y la lactancia o nacimiento) interrumpen el cómputo de la duración del contrato. Los permisos a tiempo parcial y las reducciones de jornada dan lugar, en cambio, a una prórroga por el tiempo equivalente a la jornada reducida.",
+      "ref": "art. 21.c) LCTI; art. 6.2 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Supón que Laura defiende su tesis y obtiene el título de Doctora antes de cumplir el tercer año de contrato. Según el EPIPF:",
+      "opciones": [
+        "El contrato continúa hasta los cuatro años, porque la duración pactada es obligatoria.",
+        "El contrato se convierte automáticamente en un contrato de acceso de personal investigador doctor.",
+        "El contrato se extingue por obtener el título de Doctorado, salvo que se haya acordado un período de orientación postdoctoral (máximo doce meses y sin superar la duración máxima). Al extinguirse tiene derecho a la indemnización prevista para los contratos de duración determinada en el art. 49 ET.",
+        "El contrato se extingue sin indemnización."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 9.1.a) EPIPF establece que el contrato se extingue al obtener el título de Doctorado o al terminar el período de orientación postdoctoral, si se acordó. El art. 4.1 EPIPF limita ese período a doce meses como máximo y a la duración máxima del contrato (art. 21.a LCTI). En los supuestos de las letras a) y b) del art. 9.1, la persona trabajadora tiene derecho a la indemnización de los contratos de duración determinada del art. 49 ET (art. 9.2 EPIPF; art. 21.e LCTI).",
+      "ref": "arts. 4.1 y 9 EPIPF; art. 21 LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Respecto a la formalización del contrato de Laura, señala la afirmación correcta:",
+      "opciones": [
+        "Puede ser verbal si el contrato dura solo un año.",
+        "Debe comunicarse a la oficina pública de empleo en el plazo de un mes.",
+        "Se formaliza como nombramiento administrativo de personal funcionario interino.",
+        "Debe formalizarse por escrito, acompañado del escrito de admisión al programa de doctorado, identificando el proyecto o línea de investigación y la duración. Además, debe comunicarse a la oficina pública de empleo en los diez días siguientes, previa entrega de copia básica a la representación legal."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 5.1 EPIPF exige que el contrato se celebre por escrito entre la persona investigadora y la entidad, acompañado del escrito de admisión al programa de doctorado, e identificando el proyecto o línea de investigación y la duración pactada. El art. 5.3 obliga a comunicarlo a la oficina pública de empleo en los diez días siguientes a su celebración y, antes de esa remisión, a entregar copia básica a la representación legal del personal investigador en formación. Es un contrato laboral (art. 3 EPIPF).",
+      "ref": "arts. 3 y 5 EPIPF",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Hugo Santana ya trabajó dos años con el extinto contrato de acceso al Sistema Español de Ciencia, Tecnología e Innovación. Si su nuevo contrato de acceso de personal investigador doctor dura inicialmente tres años, ¿cuánto podría prorrogarse como máximo?",
+      "opciones": [
+        "Un año, porque ese tiempo anterior cuenta para el máximo de seis años.",
+        "Tres años, hasta completar seis años en la ULL.",
+        "No puede prorrogarse, porque la duración máxima es de tres años.",
+        "Cinco años, porque cada entidad tiene su propio límite."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 22.1.d) LCTI establece que el contrato dura al menos tres años y puede prorrogarse hasta un máximo de seis. Nadie puede ser contratado con esta modalidad, en la misma o distinta entidad, por más de seis años (ocho para personas con discapacidad), y el tiempo trabajado con el extinto contrato de acceso al SECTI cuenta para ese máximo. Cálculo: 6 − 2 (anteriores) − 3 (iniciales) = 1 año de prórroga como máximo. Aunque las prórrogas no pueden ser inferiores a un año, si lo que queda es menos de un año puede concertarse por ese tiempo.",
+      "ref": "art. 22.1.d) LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Desde cuándo puede Hugo pedir la evaluación de su actividad investigadora del art. 22.2 LCTI, y quién podría hacerla al ser contratado por una universidad pública (fuera de programas de incorporación postdoctoral)?",
+      "opciones": [
+        "Desde el primer día de contrato, ante la Comisión Electoral.",
+        "Solo al terminar el contrato, ante el Consejo Social.",
+        "A partir de la finalización del segundo año de contrato, ante la ANECA o las agencias autonómicas de evaluación del profesorado. Si es positiva, puede servirle para obtener el certificado R3, que concede la Agencia Estatal de Investigación.",
+        "A partir del cuarto año, ante la Agencia Estatal de Investigación, que es la única competente."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 22.2 LCTI permite optar a la evaluación de la actividad investigadora a partir de la finalización del segundo año de contrato. Para el personal contratado por universidades públicas, fuera de los programas de incorporación postdoctoral (que evalúa el organismo financiador), la evaluación puede hacerla la ANECA o las agencias autonómicas de evaluación del profesorado (letra d). Superada, puede obtenerse el certificado R3 de investigador establecido, cuya concesión corresponde a la Agencia Estatal de Investigación (art. 22.3).",
+      "ref": "art. 22.2 y 22.3 LCTI",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuántas horas de docencia puede impartir Hugo como máximo y con qué condiciones?",
+      "opciones": [
+        "60 horas anuales, sin necesidad de acuerdo.",
+        "Hasta 100 horas anuales, previo acuerdo en su caso con el departamento implicado, con aprobación de la entidad y sometimiento a la normativa de incompatibilidades.",
+        "180 horas en toda la duración del contrato.",
+        "Ninguna, porque su contrato es exclusivamente investigador."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 22.1.f) LCTI permite al personal con contrato de acceso de investigador doctor impartir docencia hasta un máximo de cien horas anuales, previo acuerdo en su caso con el departamento, con la aprobación de la entidad para la que trabaja y con sometimiento a la normativa de incompatibilidades. Los límites de 60 horas anuales y 180 totales son los del personal predoctoral (art. 4.2 EPIPF).",
+      "ref": "art. 22.1.f) LCTI",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Como los contratos de Laura y Hugo se financian íntegramente con fondos externos obtenidos en concurrencia competitiva y duran varios ejercicios, señala la afirmación correcta:",
+      "opciones": [
+        "Necesitan autorización previa de sus costes por la Comunidad Autónoma y autorización de gasto plurianual del Consejo Social.",
+        "Solo necesitan autorización de gasto plurianual del Consejo Social.",
+        "Solo necesitan autorización previa de la Comunidad Autónoma.",
+        "No necesitan autorización previa, porque están vinculados en su totalidad a financiación externa. Los costes de los contratos LCTI no precisan autorización de la Comunidad Autónoma, y los gastos plurianuales de contratación de personal no requieren autorización de gasto plurianual."
+      ],
+      "correcta": 3,
+      "explicacion": "Los arts. 21.b) y 22.1.e) LCTI (y el art. 5.1 EPIPF) eximen de autorización previa los contratos vinculados en su totalidad a financiación externa o a convocatorias competitivas. El art. 57.6 LOSU exige que la Comunidad Autónoma autorice los costes de personal, salvo los de los contratos de la Ley 14/2011. El art. 21.7 BEP-ULL establece que los gastos de varios ejercicios por contratación de personal no requieren autorización de gasto plurianual.",
+      "ref": "arts. 21.b) y 22.1.e) LCTI; art. 57.6 LOSU; art. 21.7 BEP-ULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Para el técnico de la plataforma de secuenciación (apartado 3), la ULL opta por un contrato de actividades científico-técnicas. Señala la afirmación correcta:",
+      "opciones": [
+        "Es un contrato de duración indefinida que no forma parte de la Oferta de Empleo Público ni está limitado por la masa salarial del personal laboral; la selección debe hacerse por convocatoria pública con igualdad, mérito, capacidad, publicidad y concurrencia.",
+        "Es un contrato temporal de tres años como máximo.",
+        "Solo puede celebrarse con doctores.",
+        "Exige que la plaza figure en la Oferta de Empleo Público del año."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 23 bis LCTI dispone que los contratos de actividades científico-técnicas son de duración indefinida, no forman parte de la Oferta de Empleo Público y su convocatoria no está limitada por la masa salarial del personal laboral. Pueden celebrarse con titulados de Licenciatura, Grado, Máster, Técnico Superior o Técnico, o con doctores. La selección se hace siempre por convocatoria pública que garantice igualdad, mérito, capacidad, publicidad y concurrencia (apartado 2.b).",
+      "ref": "art. 23 bis LCTI",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Dentro de la ULL, ¿qué órgano gestiona, por delegación del Rector, los programas y convocatorias propios de contratación de personal investigador pre y postdoctoral?",
+      "opciones": [
+        "La Gerencia.",
+        "El Vicerrectorado de Investigación y Transferencia.",
+        "El Vicerrectorado de Personal Docente e Investigador.",
+        "La Escuela de Doctorado y Estudios de Posgrado."
+      ],
+      "correcta": 1,
+      "explicacion": "El apartado segundo.2 de la Resolución de 12 de mayo de 2023 delega en el Vicerrectorado de Investigación y Transferencia la política de personal investigador. En concreto, le delega el impulso y la gestión de la incorporación de personal investigador en formación y postdoctoral, y la gestión de los programas y convocatorias propios de contratación de personal investigador pre y postdoctoral (letras a, b y c). El Vicerrectorado de PDI tiene delegadas las materias del profesorado.",
+      "ref": "Resolución ULL 12/5/2023, apdo. segundo.2",
+      "dificultad": 2
+    }
+  ]
+}

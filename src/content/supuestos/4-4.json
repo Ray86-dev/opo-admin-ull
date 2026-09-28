@@ -1,0 +1,203 @@
+{
+  "bloque": 4,
+  "titulo": "Sesión del Consejo Social que aprueba el presupuesto y los precios",
+  "temas": ["4-07", "3-01"],
+  "enunciado": "Trabajas en la **Secretaría del Consejo Social de la Universidad de La Laguna**, que tiene 28 miembros. Estás preparando la sesión plenaria que debe aprobar el **presupuesto de la ULL para 2027**.\n\n**1. Documentación.** El lunes 23 de noviembre de 2026 tiene entrada en el Consejo Social la documentación remitida por el Consejo de Gobierno: el proyecto de presupuesto, que incluye la relación de puestos de trabajo; los informes de impacto por razón de género y de impacto medioambiental; el informe de la Intervención; y el informe favorable del órgano correspondiente del Gobierno de Canarias sobre los costes de personal.\n\n**2. Convocatoria.** La Presidencia fija el Pleno para el **viernes 11 de diciembre de 2026**: primera convocatoria a las 10:00 y segunda a las 10:30. El orden del día incluye:\n\n- a) Aprobación del presupuesto de 2027.\n- b) Precios de las enseñanzas propias. Entre ellos, un Máster de Formación Permanente presencial de 60 créditos, que el Centro propone a **160 € por crédito**.\n- c) Precios por la cesión de uso de instalaciones universitarias.\n- d) Límite a partir del cual es necesaria autorización expresa para contratar por procedimiento negociado.\n\n**3. Asistencia y delegaciones.**\n\n- A las 10:00 están presentes 13 miembros con derecho a voto, entre ellos la Presidenta. También está el Secretario.\n- A las 10:30 siguen los mismos.\n- Dos vocales de representación social (uno propuesto por las organizaciones sindicales y otro por las asociaciones empresariales) han delegado su voto por escrito, dirigido a la Presidencia, cada uno en el otro vocal de su mismo grupo, que sí está presente. Uno de ellos indica que vota «sí» al presupuesto; el otro no da instrucciones.\n- La Gerente, vocal nata, no puede asistir y quiere delegar su voto en el Rector.\n\n**4. Petición de un vocal.** Un vocal pide debatir y votar en la misma sesión la creación de una empresa de base tecnológica, asunto que no está en el orden del día.\n\n**5. Votación del presupuesto.** Entre los 13 presentes: 7 votos a favor, 5 en contra y 1 abstención. A ellos hay que sumar las dos delegaciones válidas.\n\nResponde aplicando la LOSU, la Ley 11/2003, de Consejos Sociales y Coordinación del Sistema Universitario de Canarias; el Decreto 215/2017 (Reglamento de Organización y Funcionamiento del Consejo Social de la ULL); y las BEP-ULL.",
+  "preguntas": [
+    {
+      "enunciado": "De los 28 miembros del Consejo Social, ¿quiénes representan a la comunidad universitaria según la Ley 11/2003?",
+      "opciones": [
+        "El Rector, el Secretario General y la Gerente, únicamente.",
+        "Diez miembros elegidos por el Claustro.",
+        "Seis: el Rector, el Secretario General y la Gerente; un representante del profesorado y otro del PTGAS, propuestos por el Consejo de Gobierno de entre sus miembros; y un representante del Consejo de Estudiantes, propuesto por el propio Consejo.",
+        "Seis, todos elegidos por el Parlamento de Canarias."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 6.1 de la Ley 11/2003 fija 28 miembros: seis de la comunidad universitaria y veintidós de los intereses sociales. El art. 6.2 enumera los seis de la comunidad universitaria: rector, secretario general y gerente; un representante del profesorado y otro del PTGAS, propuestos por el Consejo de Gobierno de entre sus miembros; y un representante del Consejo de Estudiantes, propuesto por el propio consejo. El art. 47.3 LOSU coincide.",
+      "ref": "art. 6 Ley 11/2003; art. 47.3 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La documentación entró el lunes 23 de noviembre de 2026. Según el Reglamento del Consejo Social, ¿en qué plazo debe procurarse celebrar el Pleno de aprobación del presupuesto?",
+      "opciones": [
+        "En un plazo no superior a 20 días naturales, es decir, a más tardar el domingo 13 de diciembre de 2026. La sesión del viernes 11 de diciembre cumple.",
+        "En un plazo de 20 días hábiles, porque la documentación llegó en noviembre.",
+        "En un plazo de un mes desde la entrada.",
+        "Antes del 31 de diciembre, sin plazo específico."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 39.1 del Decreto 215/2017 dispone que el Consejo de Gobierno remite la documentación con un mes de antelación al inicio del ejercicio. Si se recibe antes del 30 de noviembre, se procurará que el Pleno se celebre en un plazo no superior a 20 días naturales. Si se recibe a partir del 30 de noviembre, el plazo es de 20 días hábiles desde la recepción. Cómputo: 23 de noviembre + 20 días naturales = 13 de diciembre de 2026.",
+      "ref": "art. 39.1 Decreto 215/2017",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Con qué antelación mínima debe notificarse la convocatoria del Pleno a sus miembros?",
+      "opciones": [
+        "Cuarenta y ocho horas.",
+        "Cinco días hábiles, salvo urgencia, en cuyo caso bastan dos días hábiles.",
+        "Diez días naturales.",
+        "Setenta y dos horas."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 34.2 del Decreto 215/2017 dispone que la convocatoria se notifica a los miembros con una antelación mínima de cinco días hábiles, salvo urgencia, en que basta con dos días hábiles. La documentación está disponible en la web del Consejo Social desde la convocatoria (art. 34.1). Las 48 y 72 horas son las antelaciones que fijan los EULL para otros órganos colegiados y para el Claustro (art. 9.1 EULL).",
+      "ref": "art. 34 Decreto 215/2017",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con 13 miembros con derecho a voto presentes a las 10:00, ¿queda válidamente constituido el Pleno en primera convocatoria?",
+      "opciones": [
+        "Sí, porque 13 es más de un tercio de 28.",
+        "Sí, porque basta con que estén la Presidencia y la Secretaría.",
+        "Sí, porque las delegaciones de voto cuentan para el quórum.",
+        "No, porque en primera convocatoria deben estar presentes la mitad más uno de los miembros con derecho a voto, es decir, 15."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 35.1 del Decreto 215/2017 exige en primera convocatoria la presencia de la mitad más uno de los miembros con derecho a voto. Cálculo: 28 / 2 + 1 = 15, y hay 13 presentes. Además, deben estar la Presidencia y la Secretaría (o quienes las sustituyan), y el quórum debe mantenerse toda la sesión. Las delegaciones no equivalen a presencia. El Secretario, ajeno al Consejo y sin voto, no cuenta.",
+      "ref": "art. 35.1 Decreto 215/2017",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Y en segunda convocatoria, a las 10:30, con los mismos asistentes?",
+      "opciones": [
+        "Sí, porque en segunda convocatoria, treinta minutos después, bastan nueve componentes con derecho a voto, además de la Presidencia y la Secretaría.",
+        "No, porque en segunda convocatoria hace falta un tercio más uno de los miembros.",
+        "No, porque la segunda convocatoria debe celebrarse otro día.",
+        "Sí, pero solo para asuntos de trámite, no para aprobar el presupuesto."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 35.1 del Decreto 215/2017 establece que en segunda convocatoria, treinta minutos más tarde, el Pleno queda válidamente constituido con nueve componentes con derecho a voto. Como hay 13 (≥ 9), y están la Presidencia y la Secretaría, el Pleno se constituye y puede adoptar todos los acuerdos del orden del día.",
+      "ref": "art. 35.1 Decreto 215/2017",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sobre las dos delegaciones de voto de los vocales de representación social, señala la afirmación correcta:",
+      "opciones": [
+        "Las dos son nulas, porque el voto en el Consejo Social es indelegable.",
+        "La que no tiene instrucciones cuenta como voto a favor de la propuesta de la Presidencia.",
+        "Son válidas, porque las hicieron vocales de representación social, por escrito, en otro miembro de su mismo grupo. La que no tiene instrucciones cuenta como abstención.",
+        "Solo podrían haberse hecho en el Rector."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 15.a) del Decreto 215/2017 permite a los representantes del sector social delegar su voto por escrito dirigido a la Presidencia, para una reunión concreta, en la Presidencia o en otro miembro de su mismo grupo. La delegación debe incluir instrucción de voto para cada punto; si no la incluye, se entiende que el delegante se abstiene. No puede conferirse para más de dos reuniones sucesivas o alternas en un año, y cada consejero, salvo la Presidencia, solo puede asumir una delegación por sesión.",
+      "ref": "art. 15.a) Decreto 215/2017",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede la Gerente, vocal nata, delegar su voto en el Rector?",
+      "opciones": [
+        "Sí, porque ambos pertenecen a la comunidad universitaria.",
+        "Sí, siempre que lo haga por escrito con instrucciones de voto.",
+        "Sí, pero solo para la votación del presupuesto.",
+        "No, porque el Reglamento solo permite delegar el voto a los representantes del sector social; los miembros de la comunidad universitaria deben ejercer el cargo personalmente."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 15.a) del Decreto 215/2017 reconoce el derecho a desempeñar el cargo personalmente y solo permite delegar el voto a «los representantes del sector social». La Gerente es vocal de la comunidad universitaria (art. 6.2 Ley 11/2003), así que no puede delegar. En la misma línea, el art. 8 EULL establece que la condición de miembro de un órgano colegiado de la Universidad es personal e indelegable.",
+      "ref": "art. 15.a) Decreto 215/2017",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede el Pleno debatir y votar la creación de la empresa de base tecnológica, que no está en el orden del día?",
+      "opciones": [
+        "Sí, si lo propone cualquier vocal y lo acepta la Presidencia.",
+        "No, salvo que estén presentes todos los miembros del Consejo Social y se declare la urgencia del asunto por mayoría. Con 13 de 28 presentes, no es posible.",
+        "Sí, si lo aprueba la mayoría absoluta de los presentes.",
+        "Sí, porque las cuestiones económicas urgentes se pueden incluir siempre."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 34.4 del Decreto 215/2017 dispone que no puede deliberarse ni acordarse ningún asunto que no figure en el orden del día, salvo que estén presentes todos los miembros del Consejo (en el Pleno) y se declare la urgencia por el voto favorable de la mayoría. Como no están los 28, no es posible. Además, el orden del día lo fija la Presidencia teniendo en cuenta las peticiones de los miembros hechas con al menos diez días hábiles de antelación (art. 34.3). La competencia sobre estas empresas corresponde al Consejo Social (art. 3 ter.1.k Ley 11/2003).",
+      "ref": "art. 34.3 y 34.4 Decreto 215/2017",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con los datos del apartado 5, ¿cuál es el resultado de la votación del presupuesto?",
+      "opciones": [
+        "Se aprueba por mayoría simple: 8 votos a favor, 5 en contra y 2 abstenciones.",
+        "No se aprueba, porque hace falta la mayoría absoluta de los miembros del Pleno (15 votos).",
+        "Se aprueba con 9 votos a favor, porque la delegación sin instrucciones sigue al delegado.",
+        "Hay empate y decide el voto de calidad de la Presidencia."
+      ],
+      "correcta": 0,
+      "explicacion": "Presentes: 7 sí, 5 no, 1 abstención. La delegación con instrucción suma un «sí», y la que no tiene instrucción cuenta como abstención (art. 15.a Decreto 215/2017). Resultado: 8 a favor, 5 en contra y 2 abstenciones. El art. 35.3 exige mayoría simple de votos favorables, salvo otros supuestos del Reglamento (por ejemplo, la reforma del Reglamento exige mayoría absoluta, art. 46.3). Solo si hubiera empate decidiría el voto de calidad de la Presidencia (art. 20.6.f).",
+      "ref": "arts. 15.a), 20.6.f) y 35.3 Decreto 215/2017",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Entre la documentación que debe tener el Consejo Social para aprobar el presupuesto, ¿cuál de estas afirmaciones es correcta?",
+      "opciones": [
+        "Basta con el proyecto aprobado por el Consejo de Gobierno.",
+        "Es imprescindible un dictamen del Consejo Consultivo de Canarias.",
+        "Debe figurar el informe favorable preceptivo del órgano correspondiente del Gobierno de Canarias que autorice todos los costes de personal incluidos en el presupuesto y, en su caso, las operaciones de endeudamiento, además de los informes de impacto por razón de género y medioambiental.",
+        "Solo hace falta el informe de la Intervención."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 3 ter.2 de la Ley 11/2003 exige que el Consejo de Gobierno remita toda la documentación legalmente preceptiva, incluidos los informes de impacto por razón de género y medioambiental, entre ella el informe favorable preceptivo del órgano del Gobierno de Canarias que autorice todos los costes de personal y las operaciones de endeudamiento. El art. 57.3 LOSU exige esos informes de impacto, y el art. 39.2 del Decreto 215/2017 añade el informe de la Intervención de la ULL.",
+      "ref": "art. 3 ter.2 Ley 11/2003; art. 57.3 LOSU; art. 39.2 Decreto 215/2017",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Una vez aprobado el presupuesto, ¿qué debe hacer el Consejo Social con él?",
+      "opciones": [
+        "Remitirlo al Parlamento de Canarias para su ratificación en tres meses.",
+        "Publicarlo en el BOE en diez días.",
+        "Nada más: la publicación corresponde al Claustro.",
+        "Enviarlo a la consejería competente en materia de universidades en el plazo máximo de un mes desde su aprobación."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 3 ter.2 de la Ley 11/2003 y el art. 39.5 del Decreto 215/2017 establecen que, una vez aprobado, el Consejo Social envía el presupuesto a la consejería competente en materia de universidades en el plazo máximo de un mes desde su aprobación. La publicación en el BOC la ordena el Rectorado: así se hizo con el presupuesto de 2026, aprobado el 17/12/2025 y publicado el 29/12/2025.",
+      "ref": "art. 3 ter.2 Ley 11/2003; art. 39.5 Decreto 215/2017",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sobre los precios de los puntos b) y c) del orden del día, señala la afirmación correcta:",
+      "opciones": [
+        "El Consejo Social fija también los precios públicos de las titulaciones oficiales de Grado y Máster.",
+        "Corresponde al Consejo Social establecer y aprobar los precios de las enseñanzas propias y los de uso o cesión de instalaciones universitarias. En cambio, los precios públicos de los títulos oficiales los fija la Comunidad Autónoma.",
+        "Todos los precios los aprueba el Consejo de Gobierno sin intervención del Consejo Social.",
+        "Los precios de las enseñanzas propias los fija el Ministerio de Universidades."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 4.1.g) de la Ley 11/2003 atribuye al Consejo Social establecer y aprobar los precios de las enseñanzas propias, cursos de especialización y actividades de la universidad. El art. 4 bis.1.c) le atribuye los precios y exenciones por el uso o cesión de instalaciones. Los precios públicos de los títulos oficiales los fija la Comunidad Autónoma (art. 57.4.b LOSU; art. 12 RD 822/2021), y los de enseñanzas propias se aprueban junto con el presupuesto en que se aplican (art. 57.4.c LOSU).",
+      "ref": "arts. 4.1.g) y 4 bis.1.c) Ley 11/2003; art. 57.4 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si las BEP-ULL de 2027 mantienen los límites de 2026, ¿puede aprobarse el precio de 160 € por crédito propuesto para el Máster de Formación Permanente presencial?",
+      "opciones": [
+        "Sí, porque no existe límite para los precios de enseñanzas propias.",
+        "Sí, si el Máster se imparte en inglés.",
+        "No, porque los precios públicos de las enseñanzas propias deben estar entre 45 € y 150 € por crédito, y solo pueden reducirse hasta 25 € en los títulos semipresenciales.",
+        "No, porque el precio máximo es de 100 € por crédito."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 50.2 BEP-ULL establece que el precio de la matrícula de las enseñanzas propias se calcula por créditos y debe estar entre 45 € y 150 € por crédito, y puede reducirse hasta 25 € en los títulos semipresenciales. Si se financia con convenios, puede llegar a 0 €. Como 160 € supera el máximo de 150 €, habría que rebajar la propuesta. Con 150 €, la matrícula de 60 créditos costaría 9.000 €.",
+      "ref": "art. 50.2 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre el punto d) del orden del día, ¿qué prevén el Reglamento del Consejo Social y las BEP-ULL 2026?",
+      "opciones": [
+        "Que el Consejo Social, al mismo tiempo que aprueba el presupuesto, autoriza el importe a partir del cual es necesaria autorización expresa para contratar por procedimiento negociado. Para 2026 se fijó en 1.000.000 €.",
+        "Que ese límite lo fija el Rector cada año por resolución.",
+        "Que el procedimiento negociado está prohibido en las universidades.",
+        "Que el límite es de 50.000 €, como las delegaciones de contratación en los Vicerrectorados."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 9.5 del Decreto 215/2017 atribuye al Pleno autorizar, al mismo tiempo que aprueba el presupuesto, el importe a partir del cual es necesaria autorización expresa para contratar por procedimiento negociado. En aplicación de ese precepto, el art. 29.7 BEP-ULL fijó para 2026 el importe de 1.000.000 € para los supuestos del art. 169 LCSP. Los 50.000 € son el límite de las delegaciones de contratación en los Vicerrectorados (Resolución de 12/5/2023).",
+      "ref": "art. 9.5 Decreto 215/2017; art. 29.7 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Un sindicato quiere impugnar el acuerdo de aprobación del presupuesto. ¿Qué vía procede?",
+      "opciones": [
+        "Recurso de alzada ante el Rector.",
+        "Recurso de alzada ante la consejería competente en universidades.",
+        "Reclamación previa ante el Claustro.",
+        "Recurso potestativo de reposición ante el propio Consejo Social o recurso contencioso-administrativo directo, porque los acuerdos del Pleno agotan la vía administrativa."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 9.4 de la Ley 11/2003 establece que los acuerdos del Pleno del Consejo Social y los que adopten las Comisiones por su delegación agotan la vía administrativa y son directamente impugnables ante la jurisdicción contencioso-administrativa. La disposición final segunda del Decreto 215/2017 admite además el recurso potestativo de reposición ante el mismo órgano. En el mismo sentido, el art. 10.3 EULL.",
+      "ref": "art. 9.4 Ley 11/2003; DF 2.ª Decreto 215/2017; art. 10.3 EULL",
+      "dificultad": 1
+    }
+  ]
+}

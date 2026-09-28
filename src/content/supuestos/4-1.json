@@ -1,0 +1,203 @@
+{
+  "bloque": 4,
+  "titulo": "Elecciones a Rector o Rectora en la Universidad de La Laguna",
+  "temas": ["4-01", "4-04"],
+  "enunciado": "Supuesto ficticio. Termina el mandato del Rector de la Universidad de La Laguna y el **martes 3 de marzo de 2026** se convocan elecciones ordinarias a Rector o Rectora. La Secretaría General te encarga apoyar a la **Comisión Electoral General**.\n\nA efectos del supuesto, considera que:\n\n- La ULL todavía no ha fijado en sus Estatutos los méritos de investigación, docencia y gestión que exige el art. 51.1 LOSU.\n- El régimen electoral de los Estatutos vigentes (Decreto 66/2022, EULL) se aplica en lo que no contradiga a la LOSU.\n\n**1. Aspirantes.** Todos son catedráticos o catedráticas de Universidad de la ULL:\n\n| Aspirante | Dedicación | Sexenios | Quinquenios | Gestión universitaria |\n|---|---|---|---|---|\n| Pilar Alonso Rivero | Tiempo completo | 5 | 5 | 3 años como Vicerrectora |\n| Ramón Bethencourt Luis | Tiempo completo | 2 | 6 | 8 años como Decano |\n| Beatriz Oramas Ruiz | Tiempo completo | 3 | 3 | 4 años y 2 meses como Directora de Departamento |\n| Diego Torres Mesa | Tiempo parcial | 6 | 6 | 6 años como Director de Instituto |\n\nFinalmente se proclaman tres candidaturas que cumplen los requisitos: **Beatriz Oramas**, **Juan Quintero Díaz** y **Sofía Vera Llanos**.\n\n**2. Censo.** El martes 10 de marzo de 2026 se incorpora a la ULL un técnico de laboratorio con contrato laboral. Pregunta si puede votar.\n\n**3. Primera vuelta.** Se celebra el **martes 21 de abril de 2026**. Votos válidos a candidaturas en cada sector:\n\n| Sector (ponderación EULL) | Oramas | Quintero | Vera | Total |\n|---|---|---|---|---|\n| PDI doctor con vinculación permanente (51 %) | 500 | 300 | 200 | 1.000 |\n| Resto de PDI y personal investigador (9 %) | 100 | 200 | 100 | 400 |\n| PAS / PTGAS (10 %) | 200 | 400 | 200 | 800 |\n| Estudiantado (30 %) | 1.000 | 2.500 | 1.500 | 5.000 |\n\n**4. Reclamación.** Tras la proclamación, una de las candidaturas presenta una reclamación por supuestas irregularidades en una mesa.",
+  "preguntas": [
+    {
+      "enunciado": "Aplicando el art. 51.1 LOSU y los mínimos de la disposición transitoria primera.3 LOSU, ¿cuál de los cuatro aspirantes del apartado 1 cumple los requisitos para ser candidato?",
+      "opciones": [
+        "Pilar Alonso, por tener más sexenios y quinquenios que el mínimo.",
+        "Ramón Bethencourt, por su larga experiencia de gestión.",
+        "Beatriz Oramas.",
+        "Diego Torres, porque es quien más méritos acumula."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 51.1 LOSU exige que los candidatos sean PDI permanente doctor a tiempo completo y reúnan los méritos que fijen los Estatutos. Mientras no se fijen, la DT 1.ª.3 LOSU exige como mínimo tres sexenios, tres quinquenios y cuatro años de gestión universitaria en algún cargo unipersonal. Pilar Alonso solo tiene 3 años de gestión; Ramón Bethencourt, 2 sexenios; Diego Torres está a tiempo parcial (el art. 44.3 LOSU exige además dedicación a tiempo completo para los órganos unipersonales). Beatriz Oramas cumple los tres mínimos y está a tiempo completo.",
+      "ref": "art. 51.1 y DT 1.ª.3 LOSU; art. 44.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las elecciones se convocaron el martes 3 de marzo de 2026. Según los EULL, ¿cuál de estas fechas es válida para la votación?",
+      "opciones": [
+        "Martes 21 de abril de 2026.",
+        "Martes 28 de abril de 2026.",
+        "Martes 5 de mayo de 2026.",
+        "Martes 12 de mayo de 2026."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 130.1 EULL dispone que la fecha de celebración no puede exceder, en ningún caso, de cincuenta días desde la convocatoria, y que las votaciones se celebran en días lectivos. Del 3 de marzo de 2026, 50 días nos llevan al miércoles 22 de abril de 2026. Solo el 21 de abril está dentro del plazo. Además, las elecciones ordinarias a Rector se celebran en abril o mayo (art. 130.2 EULL).",
+      "ref": "art. 130 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de estas personas NO forma parte del censo electoral?",
+      "opciones": [
+        "Una estudiante matriculada en el Grado en Derecho desde septiembre de 2025.",
+        "Un profesor contratado doctor a tiempo completo.",
+        "Una funcionaria de la Escala Administrativa en servicio activo en la ULL.",
+        "El técnico de laboratorio que se incorporó el 10 de marzo de 2026."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 129.3 EULL dispone que son electoras y elegibles todas las personas que presten servicios en la ULL en la fecha de convocatoria de las elecciones, así como el estudiantado matriculado en esa fecha. La convocatoria es del 3 de marzo de 2026, y el técnico se incorporó el 10 de marzo, después de esa fecha, así que no está en el censo.",
+      "ref": "art. 129.3 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre el programa de gobierno de las candidaturas, señala la afirmación correcta según los EULL:",
+      "opciones": [
+        "Se presenta el día de la votación y basta con que recoja los objetivos generales.",
+        "Se presenta al comienzo de la campaña y debe darse a conocer al Claustro y a la comunidad universitaria al menos veinte días naturales antes de la votación (a más tardar, el 1 de abril de 2026); debe incluir los nombres de quienes ocuparán los Vicerrectorados, la Gerencia y la Secretaría General.",
+        "Debe presentarse con diez días hábiles de antelación y no puede incluir nombres de personas.",
+        "Solo es obligatorio en la segunda vuelta."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 24 EULL dispone que el programa de gobierno se presenta al comienzo de la campaña y se da a conocer al Claustro y a la comunidad universitaria con al menos veinte días naturales de antelación al día de la votación. Debe contener un plan general de política universitaria, detallado por sectores, con los objetivos del mandato y los nombres de quienes ocupen los Vicerrectorados, la Gerencia y la Secretaría General. Cómputo: 21 de abril menos 20 días naturales = 1 de abril de 2026.",
+      "ref": "art. 24 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Tras aplicar la ponderación de los EULL a los resultados del apartado 3, ¿qué porcentaje ponderado obtiene Juan Quintero?",
+      "opciones": [
+        "36,25 %.",
+        "48,57 %.",
+        "23,95 %.",
+        "39,80 %."
+      ],
+      "correcta": 3,
+      "explicacion": "Se aplica a cada sector el porcentaje de voto válido a candidatura por su coeficiente (arts. 24.3 EULL y 51.2 LOSU). PDI permanente: 300/1.000 = 30 % × 0,51 = 15,30. Resto de PDI: 200/400 = 50 % × 0,09 = 4,50. PAS: 400/800 = 50 % × 0,10 = 5,00. Estudiantado: 2.500/5.000 = 50 % × 0,30 = 15,00. Total: 15,30 + 4,50 + 5,00 + 15,00 = 39,80 %. Oramas obtiene 25,50 + 2,25 + 2,50 + 6,00 = 36,25 %, y Vera 10,20 + 2,25 + 2,50 + 9,00 = 23,95 %. El 48,57 % sería el porcentaje de votos sin ponderar (3.400 / 7.000), que no es el que cuenta.",
+      "ref": "art. 24.3 EULL; art. 51.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "A la vista de los resultados ponderados, ¿qué ocurre después de la primera vuelta?",
+      "opciones": [
+        "Nadie supera el 50 % de los votos ponderados, así que hay segunda votación entre Quintero y Oramas quince días naturales después, el miércoles 6 de mayo de 2026, y en ella gana quien obtenga la mayoría simple ponderada.",
+        "Quintero queda proclamado Rector por haber obtenido más votos que nadie.",
+        "Se repiten las elecciones con las tres candidaturas en el plazo de un mes.",
+        "Hay segunda votación entre Quintero y Vera, porque Vera ganó en más votos directos del estudiantado que Oramas."
+      ],
+      "correcta": 0,
+      "explicacion": "Según el art. 51.2 LOSU (y el art. 24.2 EULL), si ninguna candidatura supera la mitad de los votos válidamente emitidos una vez ponderados, se hace una segunda votación entre las dos más votadas según esa ponderación: Quintero (39,80 %) y Oramas (36,25 %). En la segunda vuelta gana la mayoría simple ponderada. Según el art. 24.2 EULL, se celebra a los quince días naturales: 21 de abril + 15 días = miércoles 6 de mayo de 2026.",
+      "ref": "art. 51.2 LOSU; art. 24.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué mayoría habría necesitado una candidatura para ser proclamada en la primera vuelta?",
+      "opciones": [
+        "Dos tercios de los votos ponderados.",
+        "La mayoría absoluta del censo electoral de cada sector.",
+        "Más de la mitad de los votos válidamente emitidos, una vez aplicadas las ponderaciones.",
+        "La mayoría simple de los votos, sin ponderar."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 51.2 LOSU dispone que se proclama Rector o Rectora en primera vuelta a quien logre el apoyo de más de la mitad de los votos válidamente emitidos, una vez aplicadas las ponderaciones de los Estatutos. El art. 24.2 EULL habla de «mayoría absoluta de los votos ponderados a candidaturas válidamente emitidos». Si solo se hubiera presentado una candidatura, habría una única vuelta.",
+      "ref": "art. 51.2 LOSU; art. 24.2 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los EULL (2022) fijan un mandato de cuatro años, con un máximo de dos mandatos consecutivos. ¿Cuál será la duración del mandato de quien resulte elegido?",
+      "opciones": [
+        "Cuatro años, renovable una sola vez, como dicen los Estatutos.",
+        "Seis años, improrrogables y no renovables, porque así lo impone la LOSU.",
+        "Seis años, renovables una vez.",
+        "Cuatro años, prorrogables por dos más si lo acuerda el Claustro."
+      ],
+      "correcta": 1,
+      "explicacion": "Los arts. 44.3 y 51.2 LOSU establecen que el mandato de los titulares de órganos unipersonales electos, y en concreto del Rector o Rectora, es de seis años improrrogables y no renovables. Como ley orgánica, la LOSU prevalece sobre el art. 25 EULL, dictado bajo la normativa anterior, que queda desplazado en este punto.",
+      "ref": "arts. 44.3 y 51.2 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Proclamado el candidato electo, ¿quién le nombra Rector?",
+      "opciones": [
+        "El órgano correspondiente de la Comunidad Autónoma de Canarias.",
+        "El Claustro Universitario.",
+        "El Consejo Social.",
+        "El Ministerio competente en materia de universidades."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 51.3 LOSU dispone que el Rector o Rectora será nombrado por el órgano correspondiente de la Comunidad Autónoma. El art. 24.1 EULL lo reitera: «su nombramiento se realizará por el órgano correspondiente de la Comunidad Autónoma».",
+      "ref": "art. 51.3 LOSU; art. 24.1 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Quién resuelve la reclamación del apartado 4 y qué recursos caben contra su decisión?",
+      "opciones": [
+        "La resuelve el Rector en funciones, y contra su resolución cabe recurso de alzada ante el Consejo de Gobierno.",
+        "La resuelve la mesa electoral, y contra su decisión cabe recurso de alzada ante el Claustro.",
+        "La resuelve el Consejo Social, y su decisión no es recurrible.",
+        "La resuelve la Comisión Electoral General; sus acuerdos agotan la vía administrativa, y contra ellos cabe recurso potestativo de reposición o recurso contencioso-administrativo directo."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 131.2.c) EULL atribuye a la Comisión Electoral General resolver las reclamaciones y recursos de las elecciones a Rector, Claustro y Consejo de Gobierno. Según el art. 10.3 EULL, los acuerdos de la Comisión Electoral General (como las resoluciones del Rector y los acuerdos del Claustro, el Consejo de Gobierno y el Consejo Social) agotan la vía administrativa. Contra ellos cabe recurso potestativo de reposición ante el mismo órgano o impugnación directa ante la jurisdicción contencioso-administrativa.",
+      "ref": "arts. 10.3 y 131.2.c) EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Ya elegido, el nuevo Rector debe formar su Equipo de Gobierno. Señala la afirmación correcta según la LOSU y la Ley 11/2003:",
+      "opciones": [
+        "Puede nombrar Vicerrectores a cualquier persona doctora, aunque no sea PDI.",
+        "Los Vicerrectores se nombran entre funcionarios de los cuerpos docentes universitarios y Profesorado Permanente Laboral; la persona titular de la Gerencia se nombra de acuerdo con el Consejo Social, cuya conformidad es necesaria.",
+        "La Gerencia la elige el Claustro por mayoría absoluta.",
+        "La persona titular de la Secretaría General tiene que ser siempre Catedrática de Universidad."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 50.1 LOSU dispone que las personas titulares de las Vicerrectorías se nombran entre funcionarios de los cuerpos docentes universitarios y Profesorado Permanente Laboral. La Gerencia se nombra de acuerdo con el Consejo Social, según criterios de competencia profesional y experiencia en gestión, y quien la ocupa no puede ejercer funciones docentes ni investigadoras. La Secretaría General se nombra entre PDI funcionario doctor o PTGAS funcionario con titulación universitaria. El art. 4.1.d) de la Ley 11/2003 exige la conformidad del Consejo Social para nombrar o cesar al Gerente.",
+      "ref": "art. 50.1 LOSU; art. 4.1.d) Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cómo está compuesta la Comisión Electoral General de la ULL según los EULL?",
+      "opciones": [
+        "Por nueve integrantes elegidos por el Claustro, con un mandato de cuatro años.",
+        "Por el Rector, la Secretaría General y la Gerencia.",
+        "Por seis integrantes, dos por sector, elegidos por sus representantes en el Consejo de Gobierno, con un mandato de dos años.",
+        "Por cinco integrantes designados por el Rector."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el art. 131.1 EULL, la Comisión Electoral General está formada por seis integrantes, dos por sector, elegidos por sus representantes en el Consejo de Gobierno, con un mandato de dos años. Entre sus competencias (art. 131.2) están organizar y supervisar las elecciones a Rector, Claustro y Consejo de Gobierno, instruir a la Secretaría General sobre el censo y resolver reclamaciones. Según el art. 50.1 LOSU, la Secretaría General preside la Comisión Electoral.",
+      "ref": "art. 131 EULL; art. 50.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Supón que el Rector saliente estaba en su primer mandato de cuatro años cuando entró en vigor la LOSU. Según su régimen transitorio:",
+      "opciones": [
+        "Tuvo que cesar al entrar en vigor la LOSU.",
+        "Podía terminar su mandato, pero no presentarse a la reelección.",
+        "Podía terminar su mandato y presentarse a la reelección para otro mandato de cuatro años, renovable.",
+        "Podía terminar su mandato y presentarse a la reelección para un período de seis años improrrogable y no renovable."
+      ],
+      "correcta": 3,
+      "explicacion": "La DT 1.ª.2 LOSU dispone que los cargos unipersonales electos que, al entrar en vigor la ley, estuvieran en su primer mandato de cuatro años pueden terminarlo y presentarse a la reelección por un período de seis años improrrogable y no renovable. Quienes estuvieran en su segundo mandato pueden terminarlo, pero no presentarse de nuevo.",
+      "ref": "DT 1.ª.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Supón ahora que, meses después de la toma de posesión, un grupo de claustrales quiere forzar elecciones extraordinarias a Rector. Según el art. 45.2.e) LOSU:",
+      "opciones": [
+        "La iniciativa requiere un tercio de los claustrales, con al menos un 30 % de personal de los cuerpos docentes universitarios y Profesorado Permanente Laboral; su aprobación requiere al menos dos tercios del Claustro, y conlleva la disolución del Claustro y el cese del Rector, que sigue en funciones hasta que tome posesión quien le suceda.",
+        "Basta la mayoría absoluta del Claustro, y el Rector cesa de inmediato sin quedar en funciones.",
+        "La iniciativa corresponde al Consejo de Gobierno por mayoría de tres quintos.",
+        "Requiere la iniciativa de la mitad de los claustrales y la aprobación de la mayoría simple, sin que se disuelva el Claustro."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 45.2.e) LOSU permite al Claustro convocar con carácter extraordinario elecciones a Rector a iniciativa de un tercio de sus componentes, que incluya al menos un 30 % del personal de los cuerpos docentes universitarios funcionarios y Profesorado Permanente Laboral. Si la aprueban al menos dos tercios del Claustro, este se disuelve y el Rector cesa, aunque sigue en funciones hasta la toma de posesión de quien le suceda. Si la iniciativa no se aprueba, sus firmantes no pueden promover otra igual hasta pasado un año. El art. 21.3 EULL fija un plazo máximo de treinta días naturales para celebrar esas elecciones.",
+      "ref": "art. 45.2.e) LOSU; art. 21 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según los EULL, ¿qué peso tiene el voto de cada sector en la elección de Rector, y es compatible con la LOSU?",
+      "opciones": [
+        "PDI 60 %, PAS 10 %, estudiantado 30 %; incompatible con la LOSU, porque esta exige el 75 % para el PDI.",
+        "PDI doctor con vinculación permanente 51 %; resto de PDI y personal investigador 9 %; PAS 10 %; estudiantado 30 %. Es compatible con la LOSU, que exige que la representatividad del personal de los cuerpos docentes y del Profesorado Permanente Laboral no sea inferior al 51 %.",
+        "Todos los sectores votan con el mismo peso, porque el sufragio es universal e igual.",
+        "PDI doctor con vinculación permanente 40 %; estudiantado 40 %; PAS 20 %."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 24.3 EULL fija estos pesos: 51 % para el PDI doctor con vinculación permanente; 9 % para el PDI doctor sin vinculación permanente, el PDI no doctor y el personal investigador contratado; 10 % para el PAS; y 30 % para el estudiantado. El art. 51.2 LOSU deja la ponderación a los Estatutos, pero exige que la representatividad de los cuerpos docentes universitarios y del Profesorado Permanente Laboral no sea inferior al 51 %. El voto es personal y no puede delegarse (art. 24.1 EULL).",
+      "ref": "art. 24.3 EULL; art. 51.2 LOSU",
+      "dificultad": 2
+    }
+  ]
+}

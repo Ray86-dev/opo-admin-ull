@@ -1,0 +1,203 @@
+{
+  "bloque": 2,
+  "titulo": "Plaza de personal laboral del convenio: tribunal equilibrado, contratación y régimen disciplinario",
+  "temas": ["2-01", "2-03", "2-05", "2-06"],
+  "enunciado": "La Universidad de La Laguna necesita cubrir con carácter definitivo una plaza vacante de **Técnico Especialista de Laboratorio** (grupo profesional de técnicos especialistas) en el Servicio General de Apoyo a la Investigación, sujeta al **II Convenio Colectivo del PAS Laboral de las Universidades Públicas Canarias**.\n\nLa Gerencia prepara la convocatoria y una primera propuesta de tribunal con **cinco miembros**, de los que **cuatro son hombres y una mujer**. Entre ellos figuran:\n\n- Luis Mendoza, **funcionario interino** del Servicio de Investigación.\n- Marcos Hernández, delegado sindical, propuesto para actuar «**en representación de su sindicato**».\n\nAdemás, el Comité de Empresa ha propuesto a dos personas para formar parte del tribunal. En el informe de la convocatoria se sugiere incluir una medida que favorezca la contratación de mujeres, dado que en esa especialidad están notablemente infrarrepresentadas en la ULL.\n\nTras el proceso, se contrata como **personal laboral fijo** a **Nerea Pérez Álamo**, con efectos del **lunes 1 de junio de 2026**. El contrato fija un periodo de prueba. Durante él, Nerea comunica que está **embarazada**, y su responsable propone «no superar el periodo de prueba» por ese motivo. Nerea había trabajado antes dos años como personal laboral temporal en el Cabildo de Tenerife.\n\nEn el mismo Servicio trabaja **Jorge Castro Rivero**, técnico especialista laboral fijo, que en **marzo de 2026** faltó al trabajo **tres días** sin causa justificada. Otra trabajadora ha denunciado, además, que un compañero le hace de forma reiterada comentarios de naturaleza sexual que crean un entorno intimidatorio.\n\nPara resolver el supuesto aplica el convenio colectivo citado, el Estatuto de los Trabajadores, el TREBEP y la LO 3/2007, de igualdad efectiva de mujeres y hombres.",
+  "preguntas": [
+    {
+      "enunciado": "Según el convenio, ¿en qué orden deben aplicarse los procedimientos ordinarios de provisión definitiva de la plaza vacante?",
+      "opciones": [
+        "Concurso-oposición libre, concurso-oposición restringido y concurso de traslados",
+        "Concurso-oposición restringido, concurso de traslados y concurso-oposición libre",
+        "Concurso de traslados, concurso-oposición restringido y concurso-oposición libre, sucesivamente y por riguroso orden de prelación",
+        "Cualquiera de ellos, a elección de la Gerencia"
+      ],
+      "correcta": 2,
+      "explicacion": "Los procedimientos ordinarios de provisión definitiva de puestos vacantes de PAS laboral se aplican sucesivamente y por riguroso orden de prelación: a) concurso de traslados; b) concurso-oposición restringido; c) concurso-oposición libre (art. 23.1 del convenio). La provisión temporal sigue otro orden: desempeño temporal por PAS laboral fijo y, después, contratación temporal (art. 23.2).",
+      "ref": "art. 23 Convenio PAS laboral",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cómo debe estar compuesto el tribunal según el convenio colectivo?",
+      "opciones": [
+        "Cinco miembros nombrados por el Rector o persona en quien delegue, dos de ellos propuestos por el Comité de Empresa, y un funcionario que actúa como Secretario con voz pero sin voto; el Presidente solo vota en caso de empate",
+        "Tres miembros nombrados por la Gerencia y dos por el Comité de Empresa, todos con voto",
+        "Siete miembros elegidos por sorteo entre el personal laboral fijo",
+        "Cinco miembros nombrados por el Comité de Empresa, uno de los cuales actúa como Secretario"
+      ],
+      "correcta": 0,
+      "explicacion": "Los tribunales son colegiados, se ajustan a los principios de imparcialidad y profesionalidad y tienden a la paridad entre mujer y hombre. Están formados por cinco miembros nombrados por el Rector o persona en quien delegue, dos propuestos por el Comité de Empresa, y un funcionario que actúa como Secretario con voz pero sin voto; el Presidente solo vota en caso de empate (art. 28.1 del convenio).",
+      "ref": "art. 28.1 Convenio PAS laboral",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede formar parte del tribunal Luis Mendoza, funcionario interino?",
+      "opciones": [
+        "Sí, si posee la titulación adecuada",
+        "Sí, pero solo como Secretario",
+        "Sí, si lo propone el Comité de Empresa",
+        "No, porque los funcionarios interinos, al igual que el personal de elección o designación política y el personal eventual, no pueden formar parte de los órganos de selección"
+      ],
+      "correcta": 3,
+      "explicacion": "El personal de elección o de designación política, los funcionarios interinos y el personal eventual no pueden formar parte de los órganos de selección (art. 60.2 TREBEP), regla que se aplica a la selección de todo el personal de las Administraciones Públicas.",
+      "ref": "art. 60.2 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Respecto de Marcos Hernández, propuesto para actuar «en representación de su sindicato», señala la afirmación CORRECTA:",
+      "opciones": [
+        "Es válido, porque el convenio permite que los sindicatos designen representantes en el tribunal",
+        "La pertenencia al tribunal es siempre a título individual, sin que pueda ostentarse en representación o por cuenta de nadie",
+        "Es válido si actúa con voz pero sin voto",
+        "Solo es válido en los concursos de traslados"
+      ],
+      "correcta": 1,
+      "explicacion": "La pertenencia a los órganos de selección es siempre a título individual, sin que pueda ostentarse en representación o por cuenta de nadie (art. 60.3 TREBEP; art. 28.1 del convenio). Que dos miembros sean propuestos por el Comité de Empresa no convierte su pertenencia en representación.",
+      "ref": "art. 60.3 TREBEP; art. 28.1 Convenio PAS laboral",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para que el tribunal de cinco miembros tenga una composición equilibrada en el sentido de la LO 3/2007, ¿cuántas mujeres debe tener como mínimo?",
+      "opciones": [
+        "Una",
+        "Dos",
+        "Tres",
+        "Cuatro"
+      ],
+      "correcta": 1,
+      "explicacion": "Se entiende por composición equilibrada la presencia de mujeres y hombres de forma que las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento (DA 1.ª LOIEMH). En un órgano de cinco miembros, cada sexo debe tener 2 o 3 personas (40 % o 60 %). Con una sola mujer (20 %) no se cumple. Las Administraciones deben promover la presencia equilibrada en los órganos de selección (art. 51.d LOIEMH) y los tribunales tienden a la paridad (art. 60.1 TREBEP).",
+      "ref": "DA 1.ª y art. 51.d LOIEMH; art. 60.1 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿En qué precepto de la LO 3/2007 podría ampararse una medida específica que favorezca a las mujeres en esa especialidad y qué condiciones debe cumplir?",
+      "opciones": [
+        "En las acciones positivas: medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad de hecho, aplicables mientras subsistan y razonables y proporcionadas al objetivo",
+        "En la discriminación indirecta, que la ley permite sin límites",
+        "En el principio de presencia equilibrada, que obliga a contratar siempre a una mujer",
+        "En ninguno: la ley prohíbe cualquier trato diferenciado por razón de sexo"
+      ],
+      "correcta": 0,
+      "explicacion": "Con el fin de hacer efectivo el derecho constitucional de igualdad, los poderes públicos adoptarán medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres; serán aplicables en tanto subsistan dichas situaciones y habrán de ser razonables y proporcionadas en relación con el objetivo perseguido (art. 11.1 LOIEMH).",
+      "ref": "art. 11 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el convenio no fija la duración del periodo de prueba, ¿cuál es la duración máxima que puede pactarse con Nerea como técnica especialista (no técnica titulada)?",
+      "opciones": [
+        "Seis meses",
+        "Tres meses",
+        "Un mes",
+        "Dos meses"
+      ],
+      "correcta": 3,
+      "explicacion": "En defecto de pacto en convenio, el periodo de prueba no puede exceder de seis meses para los técnicos titulados ni de dos meses para los demás trabajadores; el límite de tres meses solo rige para los no titulados en empresas de menos de veinticinco trabajadores (art. 14.1 ET). La ULL supera ampliamente esa plantilla.",
+      "ref": "art. 14.1 ET",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué valor tendría una resolución del contrato de Nerea durante el periodo de prueba motivada por su embarazo?",
+      "opciones": [
+        "Sería válida, porque durante el periodo de prueba cualquiera de las partes puede resolver libremente",
+        "Sería válida si se abona una indemnización de 20 días por año",
+        "Sería nula, porque la resolución empresarial durante el periodo de prueba es nula por razón de embarazo, y todo trato desfavorable relacionado con el embarazo es discriminación directa por razón de sexo",
+        "Sería anulable, a instancia del Comité de Empresa"
+      ],
+      "correcta": 2,
+      "explicacion": "La resolución a instancia empresarial durante el periodo de prueba es nula en el caso de las trabajadoras por razón de embarazo, desde su inicio hasta el comienzo de la suspensión por nacimiento, salvo que concurran motivos no relacionados con el embarazo (art. 14.2 ET). Además, constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad (art. 8 LOIEMH).",
+      "ref": "art. 14.2 ET; art. 8 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "A efectos del complemento de antigüedad de Nerea, ¿qué servicios se reconocen según el convenio?",
+      "opciones": [
+        "Los servicios previos prestados en la Administración Pública (incluidos los dos años en el Cabildo) y los del periodo de prueba",
+        "Solo los prestados como personal laboral fijo en la ULL, una vez superado el periodo de prueba",
+        "Solo los servicios prestados en universidades públicas canarias",
+        "Ninguno hasta que cumpla tres años en la ULL"
+      ],
+      "correcta": 0,
+      "explicacion": "Se reconocen, a efectos de antigüedad, los servicios previos prestados a la Administración Pública y los del periodo de prueba (art. 45.2 del convenio). El complemento de antigüedad es una cuantía fija mensual por cada tres años de servicios efectivos, continuos o discontinuos (art. 45.1). El ET también computa el periodo de prueba en la antigüedad (art. 14.3 ET).",
+      "ref": "art. 45 Convenio PAS laboral; art. 14.3 ET",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si en el futuro Nerea solicitara una excedencia voluntaria por interés particular, ¿qué régimen prevé el convenio?",
+      "opciones": [
+        "Requiere cinco años de servicios y dura entre dos y quince años",
+        "Requiere un año de antigüedad y dura entre cuatro meses y cinco años, como en el Estatuto de los Trabajadores",
+        "No existe esta excedencia para el personal laboral",
+        "Requiere al menos un año de antigüedad en la Universidad, dura entre cuatro meses y diez años, no puede volver a ejercerse hasta pasados dos años desde la anterior y no procede si se le instruye expediente disciplinario"
+      ],
+      "correcta": 3,
+      "explicacion": "La excedencia voluntaria puede solicitarse con un año al menos de antigüedad en la Universidad, con duración no inferior a cuatro meses ni superior a diez años, y solo puede volver a ejercerse transcurridos dos años desde el final de la anterior; no procede si se instruye expediente disciplinario; no se devengan retribuciones ni computa a efectos de antigüedad, promoción y Seguridad Social, y se conserva un derecho preferente al reingreso (art. 62 del convenio), que mejora el máximo de cinco años del art. 46.2 ET.",
+      "ref": "art. 62 Convenio PAS laboral",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cómo se califican las tres faltas de asistencia injustificadas de Jorge en marzo de 2026?",
+      "opciones": [
+        "Falta leve",
+        "Falta grave",
+        "Falta muy grave",
+        "No son falta si recupera las horas"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el convenio, la falta de asistencia sin causa justificada de uno o dos días al mes es leve (art. 65.1.4); durante tres días al mes es grave (art. 65.2.4); y durante más de tres días al mes es muy grave (art. 65.3.17).",
+      "ref": "art. 65 Convenio PAS laboral",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Qué sanción puede imponerse a Jorge por esa falta?",
+      "opciones": [
+        "Amonestación o suspensión de empleo y sueldo de hasta cinco días",
+        "Despido disciplinario",
+        "Suspensión de empleo y sueldo de seis días hasta tres meses",
+        "Reducción de sus vacaciones en tres días"
+      ],
+      "correcta": 2,
+      "explicacion": "Por faltas graves puede imponerse suspensión de empleo y sueldo de seis días hasta tres meses (art. 66.1.b del convenio). La amonestación y la suspensión de hasta cinco días son para faltas leves, y el despido para faltas muy graves en los supuestos previstos. No pueden imponerse sanciones que reduzcan las vacaciones o los descansos ni multas de haber (art. 66.2).",
+      "ref": "art. 66 Convenio PAS laboral",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿En qué plazo prescribe la falta grave de Jorge?",
+      "opciones": [
+        "A los dos años desde su comisión",
+        "A los veinte días desde que la Universidad tuvo conocimiento y, en todo caso, a los seis meses de su comisión",
+        "A los seis meses desde su comisión",
+        "A los tres años desde su comisión"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el convenio, las faltas leves prescriben a los seis meses, las graves a los dos años y las muy graves a los tres años, desde su comisión o desde el cese de su comisión si son continuadas (art. 70 del convenio), en coherencia con el art. 97 TREBEP, cuyo régimen disciplinario se aplica también al personal laboral de las Administraciones (art. 93.1 TREBEP). Los plazos de 10, 20 y 60 días del Estatuto de los Trabajadores no son los que rigen aquí.",
+      "ref": "art. 70 Convenio PAS laboral; art. 97 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los comentarios reiterados de naturaleza sexual que crean un entorno intimidatorio a la compañera, ¿cómo deben calificarse?",
+      "opciones": [
+        "Como acoso por razón de sexo, falta grave",
+        "Como falta leve de incorrección con los compañeros",
+        "Como falta grave por ofensas verbales",
+        "Como acoso sexual, que es siempre discriminatorio y constituye falta muy grave; el despido está previsto en el convenio cuando el acoso sea físico"
+      ],
+      "correcta": 3,
+      "explicacion": "Constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando crea un entorno intimidatorio, degradante u ofensivo, y se considera en todo caso discriminatorio (art. 7.1 y 7.3 LOIEMH). El acoso sexual es falta muy grave (art. 95.2.b TREBEP; art. 65.3.1 del convenio), y el convenio prevé el despido cuando el acoso o abuso sexual sea físico (art. 66.1.c).",
+      "ref": "art. 7 LOIEMH; art. 95.2.b TREBEP; arts. 65.3.1 y 66 Convenio PAS laboral",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si se despidiera por una falta muy grave a un trabajador laboral fijo de la ULL y el despido fuera declarado improcedente, ¿qué ocurriría?",
+      "opciones": [
+        "La Universidad podría optar libremente entre readmitirlo o indemnizarlo",
+        "El trabajador tendría derecho solo a una indemnización de 33 días por año",
+        "Procedería la readmisión del trabajador",
+        "El contrato se convertiría en indefinido no fijo"
+      ],
+      "correcta": 2,
+      "explicacion": "Procederá la readmisión del personal laboral fijo cuando sea declarado improcedente el despido acordado como consecuencia de la incoación de un expediente disciplinario por la comisión de una falta muy grave (art. 96.2 TREBEP). El despido disciplinario solo sanciona faltas muy graves y comporta la inhabilitación para un nuevo contrato con funciones similares (art. 96.1.b).",
+      "ref": "art. 96 TREBEP",
+      "dificultad": 2
+    }
+  ]
+}

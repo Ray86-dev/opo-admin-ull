@@ -1,0 +1,1156 @@
+{
+  "claves": [
+    "La LO 3/2007 desarrolla los artículos 9.2 y 14 CE y persigue hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres.",
+    "Sus derechos alcanzan a todas las personas y sus obligaciones a toda persona física o jurídica que se encuentre o actúe en territorio español (art. 2).",
+    "La composición equilibrada exige que ningún sexo supere el 60 % ni baje del 40 % (disposición adicional primera).",
+    "La discriminación directa es un trato menos favorable por razón de sexo; la indirecta nace de criterios aparentemente neutros que perjudican a un sexo sin justificación objetiva (art. 6).",
+    "El acoso sexual tiene naturaleza sexual; el acoso por razón de sexo se produce en función del sexo; ambos son siempre discriminatorios (art. 7).",
+    "Todo trato desfavorable relacionado con el embarazo o la maternidad es discriminación directa (art. 8).",
+    "Los actos discriminatorios son nulos y sin efecto y generan reparación y sanciones (art. 10).",
+    "Las acciones positivas en favor de las mujeres son temporales, razonables y proporcionadas (art. 11).",
+    "En los procesos por discriminación la persona demandada debe probar su ausencia, salvo en los procesos penales; en acoso solo está legitimada la persona acosada (arts. 12 y 13).",
+    "Los poderes públicos actúan conforme a doce criterios generales, entre ellos el lenguaje no sexista y la transversalidad de la igualdad (arts. 14 y 15).",
+    "Los proyectos normativos y planes relevantes que aprueba el Consejo de Ministros incorporan un informe de impacto de género (art. 19).",
+    "Todas las Administraciones deben remover obstáculos, facilitar la conciliación, formar en igualdad, equilibrar sus órganos de selección, proteger frente al acoso, eliminar la brecha retributiva y evaluar la igualdad (art. 51).",
+    "Las Administraciones negocian un protocolo frente al acoso sexual y por razón de sexo con al menos cuatro principios (art. 62).",
+    "Cada Administración aprueba al inicio de cada legislatura un Plan de Igualdad negociado y evaluado anualmente (art. 64 LOIEMH y DA 7.ª TREBEP).",
+    "La ULL cuenta con una Unidad de Igualdad de Género regulada en sus Estatutos y con un II Plan de Igualdad de Género 2022-2026."
+  ],
+  "plazos": [
+    {
+      "concepto": "Entrada en vigor de la LOIEMH",
+      "valor": "Día siguiente a su publicación en el BOE (23/3/2007)",
+      "ref": "DF 8.ª LOIEMH"
+    },
+    {
+      "concepto": "Entrada en vigor del art. 71.2",
+      "valor": "31 de diciembre de 2008",
+      "ref": "DF 8.ª LOIEMH"
+    },
+    {
+      "concepto": "Composición equilibrada",
+      "valor": "Cada sexo entre el 40 % y el 60 %",
+      "ref": "DA 1.ª LOIEMH"
+    },
+    {
+      "concepto": "Candidaturas electorales",
+      "valor": "Cada sexo al menos el 40 % de la lista",
+      "ref": "art. 44 bis LOREG (DA 2.ª LOIEMH)"
+    },
+    {
+      "concepto": "Criterios generales de actuación de los Poderes Públicos",
+      "valor": "12",
+      "ref": "art. 14 LOIEMH"
+    },
+    {
+      "concepto": "Contratos de la AGE con condiciones de igualdad",
+      "valor": "Los determina anualmente el Consejo de Ministros",
+      "ref": "art. 34.1 LOIEMH"
+    },
+    {
+      "concepto": "Empresas obligadas a tener plan de igualdad",
+      "valor": "50 o más trabajadores",
+      "ref": "art. 45.2 LOIEMH"
+    },
+    {
+      "concepto": "Materias mínimas del diagnóstico del plan de igualdad",
+      "valor": "9",
+      "ref": "art. 46.2 LOIEMH"
+    },
+    {
+      "concepto": "Criterios de actuación de las AAPP en el empleo público",
+      "valor": "7 (letras a a g)",
+      "ref": "art. 51 LOIEMH"
+    },
+    {
+      "concepto": "Informe de impacto de género en convocatorias de acceso",
+      "valor": "Obligatorio, salvo casos de urgencia",
+      "ref": "art. 55 LOIEMH"
+    },
+    {
+      "concepto": "Preferencia en cursos de formación tras permisos o excedencias por cuidado",
+      "valor": "Durante un año",
+      "ref": "art. 60.1 LOIEMH"
+    },
+    {
+      "concepto": "Reserva de plazas en cursos para acceso a puestos directivos",
+      "valor": "Al menos el 40 % para las empleadas",
+      "ref": "art. 60.2 LOIEMH"
+    },
+    {
+      "concepto": "Principios mínimos del protocolo de acoso",
+      "valor": "4",
+      "ref": "art. 62 LOIEMH"
+    },
+    {
+      "concepto": "Remisión de información sobre igualdad de ministerios y organismos",
+      "valor": "Al menos anualmente",
+      "ref": "art. 63 LOIEMH"
+    },
+    {
+      "concepto": "Aprobación del Plan de Igualdad de la AGE",
+      "valor": "Al inicio de cada legislatura; evaluación anual por el Consejo de Ministros",
+      "ref": "art. 64 LOIEMH"
+    },
+    {
+      "concepto": "Plan de Igualdad de cada Administración",
+      "valor": "Al inicio de cada legislatura; evaluación anual",
+      "ref": "DA 7.ª TREBEP"
+    },
+    {
+      "concepto": "Permiso por nacimiento de la madre biológica",
+      "valor": "19 semanas (32 en monoparentalidad)",
+      "ref": "art. 49.a TREBEP"
+    },
+    {
+      "concepto": "Descanso obligatorio tras el parto",
+      "valor": "6 semanas ininterrumpidas a jornada completa",
+      "ref": "art. 49.a TREBEP"
+    },
+    {
+      "concepto": "Aprobación del II Plan de Igualdad de Género de la ULL",
+      "valor": "Consejo de Gobierno, 10 de enero de 2022 (vigencia 2022-2026)",
+      "ref": "Consejo de Gobierno ULL"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Principio de igualdad de trato",
+      "definicion": "Ausencia de toda discriminación, directa o indirecta, por razón de sexo, especialmente por maternidad, obligaciones familiares y estado civil (art. 3 LOIEMH)."
+    },
+    {
+      "termino": "Discriminación directa",
+      "definicion": "Situación de una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable (art. 6.1 LOIEMH)."
+    },
+    {
+      "termino": "Discriminación indirecta",
+      "definicion": "Situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular, salvo justificación objetiva (art. 6.2 LOIEMH)."
+    },
+    {
+      "termino": "Acoso sexual",
+      "definicion": "Comportamiento verbal o físico de naturaleza sexual que tiene el propósito o produce el efecto de atentar contra la dignidad de una persona (art. 7.1 LOIEMH)."
+    },
+    {
+      "termino": "Acoso por razón de sexo",
+      "definicion": "Comportamiento realizado en función del sexo de una persona con el propósito o efecto de atentar contra su dignidad y crear un entorno intimidatorio, degradante u ofensivo (art. 7.2 LOIEMH)."
+    },
+    {
+      "termino": "Indemnidad frente a represalias",
+      "definicion": "Consideración como discriminación de cualquier trato adverso sufrido por presentar una queja, denuncia o recurso para exigir la igualdad (art. 9 LOIEMH)."
+    },
+    {
+      "termino": "Acción positiva",
+      "definicion": "Medida específica en favor de las mujeres para corregir desigualdades de hecho, aplicable mientras subsistan y razonable y proporcionada (art. 11 LOIEMH)."
+    },
+    {
+      "termino": "Composición equilibrada",
+      "definicion": "Presencia de mujeres y hombres en la que ningún sexo supera el 60 % ni queda por debajo del 40 % (DA 1.ª LOIEMH)."
+    },
+    {
+      "termino": "Transversalidad",
+      "definicion": "Integración activa del principio de igualdad en todas las normas, presupuestos, políticas y actividades de los poderes públicos (art. 15 LOIEMH)."
+    },
+    {
+      "termino": "Informe de impacto de género",
+      "definicion": "Informe que acompaña a proyectos normativos, planes relevantes y convocatorias de acceso para valorar sus efectos sobre mujeres y hombres (arts. 19 y 55 LOIEMH)."
+    },
+    {
+      "termino": "Plan de igualdad",
+      "definicion": "Conjunto ordenado de medidas, adoptadas tras un diagnóstico, para alcanzar la igualdad de trato y oportunidades y eliminar la discriminación por razón de sexo (art. 46 LOIEMH)."
+    },
+    {
+      "termino": "Requisito profesional esencial y determinante",
+      "definicion": "Característica relacionada con el sexo que, por la naturaleza de la actividad, justifica una diferencia de trato en el acceso al empleo si el objetivo es legítimo y el requisito proporcionado (art. 5 LOIEMH)."
+    },
+    {
+      "termino": "Unidades de igualdad",
+      "definicion": "Unidades universitarias encargadas de asesorar, coordinar y evaluar la incorporación transversal de la igualdad y la perspectiva de género (art. 43 LOSU)."
+    },
+    {
+      "termino": "Unidad de Igualdad de Género de la ULL",
+      "definicion": "Unidad que promueve políticas activas de igualdad en la ULL, impulsa y evalúa sus planes de igualdad y participa en el anteproyecto de presupuesto (arts. 112 y 113 EULL)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "60-40",
+      "texto": "Composición equilibrada: nadie pasa del 60 ni baja del 40. La misma cifra del 40 % reaparece en las candidaturas electorales y en la reserva de plazas en cursos para directivas."
+    },
+    {
+      "titulo": "Directa o indirecta",
+      "texto": "Directa: te tratan peor por ser mujer (y el embarazo siempre es directa). Indirecta: una norma aparentemente neutra que acaba perjudicando a un sexo."
+    },
+    {
+      "titulo": "Acción positiva ETRP",
+      "texto": "Específica en favor de las mujeres, Temporal, Razonable y Proporcionada."
+    },
+    {
+      "titulo": "Siete del art. 51",
+      "texto": "Remueve obstáculos, concilia, forma, equilibra tribunales, protege del acoso, iguala sueldos y evalúa."
+    },
+    {
+      "titulo": "Protocolo CIRI",
+      "texto": "Compromiso de no tolerar, Instrucción al personal, Reserva en el tratamiento de denuncias e Identificación de responsables (art. 62)."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué artículos de la Constitución desarrolla la LO 3/2007?",
+      "reverso": "Los artículos 9.2 y 14 CE.",
+      "ref": "art. 1 LOIEMH"
+    },
+    {
+      "frente": "¿Qué directivas europeas incorpora la LO 3/2007?",
+      "reverso": "La Directiva 2002/73/CE y la Directiva 2004/113/CE.",
+      "ref": "Exposición de motivos y DF LOIEMH"
+    },
+    {
+      "frente": "¿A quién se aplican las obligaciones de la LO 3/2007?",
+      "reverso": "A toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que sea su nacionalidad, domicilio o residencia.",
+      "ref": "art. 2.2 LOIEMH"
+    },
+    {
+      "frente": "¿Qué se entiende por composición equilibrada?",
+      "reverso": "Que en el conjunto las personas de cada sexo no superen el 60 % ni sean menos del 40 %.",
+      "ref": "DA 1.ª LOIEMH"
+    },
+    {
+      "frente": "¿Qué discriminaciones se mencionan especialmente en el principio de igualdad de trato?",
+      "reverso": "Las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+      "ref": "art. 3 LOIEMH"
+    },
+    {
+      "frente": "¿Qué carácter tiene el principio de igualdad en el ordenamiento?",
+      "reverso": "Es un principio informador que se integra en la interpretación y aplicación de las normas.",
+      "ref": "art. 4 LOIEMH"
+    },
+    {
+      "frente": "¿Cuándo no es discriminatoria una diferencia de trato por sexo en el acceso al empleo?",
+      "reverso": "Cuando la característica es un requisito profesional esencial y determinante, con objetivo legítimo y requisito proporcionado.",
+      "ref": "art. 5 LOIEMH"
+    },
+    {
+      "frente": "Define discriminación indirecta.",
+      "reverso": "Disposición, criterio o práctica aparentemente neutros que ponen a un sexo en desventaja particular, salvo justificación objetiva con finalidad legítima y medios necesarios y adecuados.",
+      "ref": "art. 6.2 LOIEMH"
+    },
+    {
+      "frente": "¿Es discriminatoria una orden de discriminar?",
+      "reverso": "Sí, en cualquier caso.",
+      "ref": "art. 6.3 LOIEMH"
+    },
+    {
+      "frente": "¿Qué diferencia el acoso sexual del acoso por razón de sexo?",
+      "reverso": "El acoso sexual tiene naturaleza sexual; el acoso por razón de sexo es un comportamiento realizado en función del sexo de la persona.",
+      "ref": "art. 7 LOIEMH"
+    },
+    {
+      "frente": "¿Qué tipo de discriminación es el trato desfavorable por embarazo?",
+      "reverso": "Discriminación directa por razón de sexo.",
+      "ref": "art. 8 LOIEMH"
+    },
+    {
+      "frente": "¿Qué efecto tienen las cláusulas discriminatorias?",
+      "reverso": "Son nulas y sin efecto y generan responsabilidad y, en su caso, sanciones.",
+      "ref": "art. 10 LOIEMH"
+    },
+    {
+      "frente": "¿Qué requisitos tienen las acciones positivas?",
+      "reverso": "Se aplican mientras subsistan las situaciones de desigualdad y deben ser razonables y proporcionadas.",
+      "ref": "art. 11 LOIEMH"
+    },
+    {
+      "frente": "¿Quién está legitimado en los litigios sobre acoso sexual?",
+      "reverso": "Únicamente la persona acosada.",
+      "ref": "art. 12.3 LOIEMH"
+    },
+    {
+      "frente": "¿Se invierte la carga de la prueba en los procesos penales por discriminación?",
+      "reverso": "No. La regla del art. 13.1 no se aplica a los procesos penales.",
+      "ref": "art. 13.2 LOIEMH"
+    },
+    {
+      "frente": "¿Cuántos criterios generales de actuación de los Poderes Públicos recoge el art. 14?",
+      "reverso": "Doce.",
+      "ref": "art. 14 LOIEMH"
+    },
+    {
+      "frente": "¿Qué criterio del art. 14 se refiere al lenguaje?",
+      "reverso": "La implantación de un lenguaje no sexista en el ámbito administrativo y su fomento en las relaciones sociales, culturales y artísticas.",
+      "ref": "art. 14.11 LOIEMH"
+    },
+    {
+      "frente": "¿Qué deben incorporar los proyectos de disposiciones generales que aprueba el Consejo de Ministros?",
+      "reverso": "Un informe sobre su impacto por razón de género.",
+      "ref": "art. 19 LOIEMH"
+    },
+    {
+      "frente": "¿Cómo puede justificarse no incluir la variable sexo en una estadística?",
+      "reverso": "Solo excepcionalmente, mediante informe motivado y aprobado por el órgano competente.",
+      "ref": "art. 20 LOIEMH"
+    },
+    {
+      "frente": "¿Qué promoverán las Administraciones en la educación superior?",
+      "reverso": "Enseñanzas de igualdad en los planes de estudio, postgrados específicos y estudios e investigaciones especializadas.",
+      "ref": "art. 25 LOIEMH"
+    },
+    {
+      "frente": "¿Quién determina los contratos de la AGE que deben incluir condiciones de igualdad?",
+      "reverso": "El Consejo de Ministros, anualmente.",
+      "ref": "art. 34.1 LOIEMH"
+    },
+    {
+      "frente": "¿Qué empresas están obligadas a tener plan de igualdad?",
+      "reverso": "Las de cincuenta o más trabajadores (y otras si lo exige el convenio o la autoridad laboral).",
+      "ref": "art. 45 LOIEMH"
+    },
+    {
+      "frente": "¿Qué criterio del art. 51 se refiere a los tribunales de oposición?",
+      "reverso": "Promover la presencia equilibrada de mujeres y hombres en los órganos de selección y valoración (letra d).",
+      "ref": "art. 51.d LOIEMH"
+    },
+    {
+      "frente": "¿Cuándo pueden los tribunales de la AGE no ser equilibrados?",
+      "reverso": "Por razones fundadas y objetivas, debidamente motivadas.",
+      "ref": "art. 53 LOIEMH"
+    },
+    {
+      "frente": "¿Cuándo puede omitirse el informe de impacto de género en una convocatoria de acceso?",
+      "reverso": "En casos de urgencia.",
+      "ref": "art. 55 LOIEMH"
+    },
+    {
+      "frente": "¿Qué se computa en los concursos de provisión por conciliación?",
+      "reverso": "El tiempo en situaciones de permisos, excedencias o reducciones de jornada por conciliación, a efectos de valorar el trabajo desarrollado y los méritos.",
+      "ref": "art. 57 LOIEMH"
+    },
+    {
+      "frente": "¿Qué ocurre si las vacaciones coinciden con una IT por embarazo?",
+      "reverso": "Se disfrutan en fecha distinta, aunque haya terminado el año natural.",
+      "ref": "art. 59 LOIEMH"
+    },
+    {
+      "frente": "¿Qué porcentaje de plazas se reserva a las empleadas en cursos para puestos directivos?",
+      "reverso": "Al menos el 40 %.",
+      "ref": "art. 60.2 LOIEMH"
+    },
+    {
+      "frente": "¿Cuáles son los principios mínimos del protocolo frente al acoso?",
+      "reverso": "Compromiso de prevenir y no tolerar, instrucción a todo el personal, tratamiento reservado de las denuncias e identificación de responsables.",
+      "ref": "art. 62 LOIEMH"
+    },
+    {
+      "frente": "¿Cuándo se aprueba el Plan de Igualdad de la AGE y quién lo evalúa?",
+      "reverso": "Al inicio de cada legislatura; lo evalúa anualmente el Consejo de Ministros.",
+      "ref": "art. 64 LOIEMH"
+    },
+    {
+      "frente": "¿Qué establece la DA 7.ª TREBEP?",
+      "reverso": "Que las Administraciones aprueben al inicio de cada legislatura un Plan para la Igualdad, negociado y evaluado anualmente, y crea un Registro de Planes de Igualdad.",
+      "ref": "DA 7.ª TREBEP"
+    },
+    {
+      "frente": "¿Qué dice el TREBEP sobre la composición de los órganos de selección?",
+      "reverso": "Que se ajustará a la imparcialidad y profesionalidad y se tenderá a la paridad entre mujer y hombre.",
+      "ref": "art. 60.1 TREBEP"
+    },
+    {
+      "frente": "¿Cómo califica el TREBEP el acoso sexual y por razón de sexo?",
+      "reverso": "Como falta muy grave.",
+      "ref": "art. 95.2.b TREBEP"
+    },
+    {
+      "frente": "¿Qué unidades básicas exige la LOSU en materia de igualdad?",
+      "reverso": "Unidades de igualdad y de diversidad, conjuntas o separadas.",
+      "ref": "art. 43.1 LOSU"
+    },
+    {
+      "frente": "¿A qué se asimila la Dirección de la Unidad de Igualdad de Género de la ULL?",
+      "reverso": "A una Dirección de Secretariado.",
+      "ref": "art. 113.2 EULL"
+    },
+    {
+      "frente": "¿Cuándo aprobó la ULL su II Plan de Igualdad de Género?",
+      "reverso": "El Consejo de Gobierno lo aprobó el 10 de enero de 2022, para el periodo 2022-2026.",
+      "ref": "II Plan de Igualdad de Género ULL"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "La Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, se dicta en desarrollo de los artículos de la Constitución:",
+      "opciones": [
+        "9.2 y 14",
+        "1.1 y 10",
+        "14 y 35",
+        "9.3 y 103"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 1.1 LOIEMH dice expresamente que se dicta en el desarrollo de los arts. 9.2 y 14 CE.",
+      "ref": "art. 1.1 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 1 de la LO 3/2007, la finalidad última de hacer efectivo el derecho de igualdad es alcanzar una sociedad:",
+      "opciones": [
+        "Más justa, más próspera y más inclusiva",
+        "Más libre, más igualitaria y más plural",
+        "Más democrática, más justa y más solidaria",
+        "Más democrática, más plural y más sostenible"
+      ],
+      "correcta": 2,
+      "explicacion": "Es el tenor literal del art. 1.1 LOIEMH.",
+      "ref": "art. 1.1 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las obligaciones establecidas en la LO 3/2007 serán de aplicación:",
+      "opciones": [
+        "Solo a los ciudadanos españoles",
+        "A las personas residentes en España con nacionalidad de un Estado de la UE",
+        "Solo a las Administraciones públicas",
+        "A toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo establece el art. 2.2 LOIEMH.",
+      "ref": "art. 2.2 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "A efectos de la LO 3/2007, se entiende por composición equilibrada la presencia de mujeres y hombres de forma que las personas de cada sexo:",
+      "opciones": [
+        "Representen exactamente el 50 %",
+        "No superen el 60 % ni sean menos del 40 %",
+        "No superen el 70 % ni sean menos del 30 %",
+        "No superen el 55 % ni sean menos del 45 %"
+      ],
+      "correcta": 1,
+      "explicacion": "La disposición adicional primera fija el intervalo 40-60 %.",
+      "ref": "DA 1.ª LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 3 de la LO 3/2007, el principio de igualdad de trato supone la ausencia de toda discriminación por razón de sexo, y especialmente las derivadas de:",
+      "opciones": [
+        "La edad, la discapacidad y el origen",
+        "La nacionalidad, el domicilio y la residencia",
+        "La religión, la ideología y la orientación sexual",
+        "La maternidad, la asunción de obligaciones familiares y el estado civil"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 3 menciona especialmente la maternidad, las obligaciones familiares y el estado civil.",
+      "ref": "art. 3 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La igualdad de trato y de oportunidades entre mujeres y hombres es, según el artículo 4 de la LO 3/2007:",
+      "opciones": [
+        "Un principio informador del ordenamiento jurídico que se integrará en la interpretación y aplicación de las normas",
+        "Un derecho de configuración legal sin eficacia interpretativa",
+        "Un objetivo programático sin eficacia directa",
+        "Un principio aplicable solo en el ámbito laboral"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 4 lo configura como principio informador del ordenamiento jurídico.",
+      "ref": "art. 4 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "No constituirá discriminación en el acceso al empleo una diferencia de trato basada en una característica relacionada con el sexo cuando:",
+      "opciones": [
+        "Lo acuerde el órgano de selección por mayoría",
+        "Constituya un requisito profesional esencial y determinante, el objetivo sea legítimo y el requisito proporcionado",
+        "Lo solicite la representación de los trabajadores",
+        "Se trate de empleo público"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la excepción del segundo párrafo del art. 5 LOIEMH.",
+      "ref": "art. 5 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular respecto de las del otro, sin justificación objetiva, se denomina:",
+      "opciones": [
+        "Discriminación directa",
+        "Acoso por razón de sexo",
+        "Discriminación indirecta",
+        "Acción positiva"
+      ],
+      "correcta": 2,
+      "explicacion": "Es la definición de discriminación indirecta del art. 6.2 LOIEMH.",
+      "ref": "art. 6.2 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Se considera discriminación directa por razón de sexo la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo:",
+      "opciones": [
+        "Conforme a un criterio aparentemente neutro",
+        "De forma distinta en cualquier caso",
+        "De manera menos favorable que otra en situación comparable",
+        "Con desventaja justificada objetivamente"
+      ],
+      "correcta": 2,
+      "explicacion": "Definición del art. 6.1 LOIEMH.",
+      "ref": "art. 6.1 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según la LO 3/2007, la orden de discriminar por razón de sexo:",
+      "opciones": [
+        "Solo es discriminatoria si se ejecuta",
+        "Solo tiene relevancia penal",
+        "Es discriminación indirecta",
+        "Se considera en cualquier caso discriminatoria"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 6.3 dispone que se considera en cualquier caso discriminatoria.",
+      "ref": "art. 6.3 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona constituye, a efectos de la LO 3/2007:",
+      "opciones": [
+        "Acoso sexual",
+        "Acoso por razón de sexo",
+        "Acoso moral",
+        "Discriminación indirecta"
+      ],
+      "correcta": 0,
+      "explicacion": "Es la definición de acoso sexual del art. 7.1 LOIEMH.",
+      "ref": "art. 7.1 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Constituye acoso por razón de sexo:",
+      "opciones": [
+        "Cualquier comportamiento de naturaleza sexual no deseado",
+        "Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo",
+        "Cualquier diferencia retributiva entre mujeres y hombres",
+        "La negativa a conceder un permiso de conciliación"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la definición del art. 7.2 LOIEMH.",
+      "ref": "art. 7.2 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual se considerará:",
+      "opciones": [
+        "Acto de discriminación por razón de sexo",
+        "Infracción administrativa leve",
+        "Irrelevante si no llega a producirse el acoso",
+        "Discriminación indirecta justificada"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 7.4 LOIEMH.",
+      "ref": "art. 7.4 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad constituye:",
+      "opciones": [
+        "Discriminación indirecta por razón de sexo",
+        "Acoso por razón de sexo",
+        "Discriminación directa por razón de sexo",
+        "Una infracción solo si es reiterada"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 8 LOIEMH lo califica de discriminación directa.",
+      "ref": "art. 8 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El trato adverso que sufre una persona como consecuencia de haber presentado una denuncia para exigir el cumplimiento del principio de igualdad se regula en la LO 3/2007 bajo la denominación de:",
+      "opciones": [
+        "Acción positiva",
+        "Tutela cautelar",
+        "Discriminación múltiple",
+        "Indemnidad frente a represalias"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 9 LOIEMH regula la indemnidad frente a represalias, considerándola discriminación por razón de sexo.",
+      "ref": "art. 9 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán:",
+      "opciones": [
+        "Anulables a instancia de parte",
+        "Nulos y sin efecto",
+        "Válidos, pero generarán indemnización",
+        "Irregularidades no invalidantes"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 10 LOIEMH declara su nulidad y ausencia de efectos.",
+      "ref": "art. 10 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho, según el artículo 11 de la LO 3/2007:",
+      "opciones": [
+        "Tienen carácter permanente",
+        "Requieren autorización previa del Instituto de las Mujeres",
+        "Solo pueden adoptarlas los Poderes Públicos",
+        "Serán aplicables en tanto subsistan dichas situaciones y habrán de ser razonables y proporcionadas"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 11.1 exige temporalidad, razonabilidad y proporcionalidad; el 11.2 permite también a los particulares adoptarlas.",
+      "ref": "art. 11 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los litigios sobre acoso sexual y acoso por razón de sexo, según la LO 3/2007, estará legitimada:",
+      "opciones": [
+        "Únicamente la persona acosada",
+        "Cualquier persona con interés legítimo",
+        "La persona acosada y los sindicatos más representativos",
+        "El Ministerio Fiscal de forma exclusiva"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 12.3 establece que la persona acosada será la única legitimada.",
+      "ref": "art. 12.3 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La tutela judicial del derecho a la igualdad entre mujeres y hombres podrá recabarse:",
+      "opciones": [
+        "Solo mientras se mantenga la relación en la que se produjo la discriminación",
+        "Incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación",
+        "Solo ante la jurisdicción social",
+        "Solo tras agotar la vía administrativa"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 12.1 LOIEMH lo permite incluso tras la terminación de la relación.",
+      "ref": "art. 12.1 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los procedimientos en que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias por razón de sexo, corresponderá probar la ausencia de discriminación:",
+      "opciones": [
+        "A la parte actora",
+        "Al Ministerio Fiscal",
+        "A la persona demandada, salvo en los procesos penales",
+        "Al órgano judicial de oficio"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 13 invierte la carga de la prueba, pero su apartado 2 excluye los procesos penales.",
+      "ref": "art. 13 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuántos criterios generales de actuación de los Poderes Públicos enumera el artículo 14 de la LO 3/2007?",
+      "opciones": [
+        "Diez",
+        "Once",
+        "Doce",
+        "Quince"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 14 enumera doce criterios.",
+      "ref": "art. 14 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "NO figura entre los criterios generales de actuación de los Poderes Públicos del artículo 14 de la LO 3/2007:",
+      "opciones": [
+        "La implantación de un lenguaje no sexista en el ámbito administrativo",
+        "La protección de la maternidad",
+        "La participación equilibrada en las candidaturas electorales y en la toma de decisiones",
+        "La reserva obligatoria del 50 % de los puestos de trabajo públicos para mujeres"
+      ],
+      "correcta": 3,
+      "explicacion": "La ley no establece ninguna reserva del 50 % de puestos; los demás son criterios de los números 11, 7 y 4 del art. 14.",
+      "ref": "art. 14 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El principio de igualdad informará, con carácter transversal, la actuación de todos los Poderes Públicos. Este principio de transversalidad se recoge en el artículo:",
+      "opciones": [
+        "15 LOIEMH",
+        "11 LOIEMH",
+        "19 LOIEMH",
+        "51 LOIEMH"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 15 regula la transversalidad del principio de igualdad.",
+      "ref": "art. 15 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los proyectos de disposiciones de carácter general y los planes de especial relevancia económica, social, cultural y artística que se sometan a la aprobación del Consejo de Ministros deberán incorporar:",
+      "opciones": [
+        "Un informe del Consejo de Estado",
+        "Un informe sobre su impacto por razón de género",
+        "Un dictamen del Consejo de Participación de la Mujer",
+        "Una memoria de la Comisión Interministerial de Igualdad"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo exige el art. 19 LOIEMH.",
+      "ref": "art. 19 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El Plan Estratégico de Igualdad de Oportunidades lo aprueba, según el artículo 17 de la LO 3/2007:",
+      "opciones": [
+        "El Gobierno, periódicamente, en las materias de competencia del Estado",
+        "Las Cortes Generales, cada legislatura",
+        "El Instituto de las Mujeres, anualmente",
+        "La Conferencia Sectorial de la Mujer"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 17 atribuye al Gobierno su aprobación periódica.",
+      "ref": "art. 17 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el artículo 20 de la LO 3/2007, el incumplimiento de las obligaciones sobre inclusión de la variable de sexo en estadísticas y estudios:",
+      "opciones": [
+        "Nunca puede justificarse",
+        "Puede justificarse libremente por razones presupuestarias",
+        "Solo excepcionalmente, mediante informe motivado y aprobado por el órgano competente, podrá justificarse",
+        "Requiere autorización del Consejo de Ministros"
+      ],
+      "correcta": 2,
+      "explicacion": "El último párrafo del art. 20 admite la excepción con informe motivado.",
+      "ref": "art. 20 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En el ámbito de la educación superior, el artículo 25 de la LO 3/2007 establece que las Administraciones públicas promoverán, entre otras medidas:",
+      "opciones": [
+        "La supresión de los estudios con infrarrepresentación femenina",
+        "La reserva de plazas de profesorado para mujeres",
+        "La paridad obligatoria del estudiantado",
+        "La creación de postgrados específicos en materia de igualdad"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 25.2 enumera la inclusión de enseñanzas en los planes de estudio, la creación de postgrados específicos y la realización de estudios e investigaciones.",
+      "ref": "art. 25 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Conferencia Sectorial en cuyo seno pueden adoptarse planes y programas conjuntos entre la AGE y las Comunidades Autónomas en materia de igualdad es:",
+      "opciones": [
+        "La Conferencia Sectorial de Igualdad de Trato",
+        "La Conferencia Sectorial de la Mujer",
+        "La Conferencia de Presidentes",
+        "La Conferencia Sectorial de Administración Pública"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el art. 21.1 LOIEMH, es la Conferencia Sectorial de la Mujer.",
+      "ref": "art. 21.1 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el artículo 34 de la LO 3/2007, los contratos de la AGE que obligatoriamente deberán incluir condiciones de ejecución para promover la igualdad los determinará:",
+      "opciones": [
+        "Cada órgano de contratación en sus pliegos",
+        "El Ministerio de Igualdad cada legislatura",
+        "La Junta Consultiva de Contratación Pública del Estado",
+        "Anualmente, el Consejo de Ministros"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 34.1 atribuye esa determinación anual al Consejo de Ministros.",
+      "ref": "art. 34.1 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La publicidad que comporte una conducta discriminatoria de acuerdo con la LO 3/2007 se considerará:",
+      "opciones": [
+        "Publicidad ilícita",
+        "Publicidad engañosa",
+        "Publicidad desleal",
+        "Infracción penal"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 41 LOIEMH la considera publicidad ilícita.",
+      "ref": "art. 41 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según la LO 3/2007, están obligadas a elaborar y aplicar un plan de igualdad, en todo caso, las empresas de:",
+      "opciones": [
+        "Veinticinco o más trabajadores",
+        "Cincuenta o más trabajadores",
+        "Cien o más trabajadores",
+        "Doscientos cincuenta o más trabajadores"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 45.2 fija el umbral en cincuenta o más trabajadores.",
+      "ref": "art. 45.2 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "NO es una de las materias que debe contener, al menos, el diagnóstico previo del plan de igualdad según el artículo 46.2 de la LO 3/2007:",
+      "opciones": [
+        "Retribuciones",
+        "Prevención del acoso sexual y por razón de sexo",
+        "Política de dividendos de la empresa",
+        "Infrarrepresentación femenina"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 46.2 enumera nueve materias entre las que no figura la política de dividendos.",
+      "ref": "art. 46.2 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el artículo 51 de la LO 3/2007, las Administraciones públicas deberán facilitar la conciliación de la vida personal, familiar y laboral:",
+      "opciones": [
+        "Solo para el personal funcionario de carrera",
+        "Siempre que no afecte a las necesidades del servicio",
+        "Sin menoscabo de la promoción profesional",
+        "Con cargo a las retribuciones complementarias"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 51.b) exige facilitar la conciliación sin menoscabo de la promoción profesional.",
+      "ref": "art. 51.b LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO figura entre los criterios de actuación de las Administraciones públicas del artículo 51 de la LO 3/2007:",
+      "opciones": [
+        "Promover la presencia equilibrada en los órganos de selección y valoración",
+        "Establecer medidas efectivas para eliminar cualquier discriminación retributiva",
+        "Evaluar periódicamente la efectividad del principio de igualdad",
+        "Reservar un cupo mínimo del 40 % de las plazas de cada oferta de empleo público para mujeres"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 51 no establece cupos en la oferta de empleo; las otras opciones son sus letras d), f) y g).",
+      "ref": "art. 51 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los tribunales y órganos de selección del personal de la AGE responderán al principio de presencia equilibrada de mujeres y hombres:",
+      "opciones": [
+        "Salvo por razones fundadas y objetivas, debidamente motivadas",
+        "En todo caso y sin excepción",
+        "Solo en los procesos de promoción interna",
+        "Solo si lo solicitan las organizaciones sindicales"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 53 LOIEMH.",
+      "ref": "art. 53 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La aprobación de convocatorias de pruebas selectivas para el acceso al empleo público deberá acompañarse de un informe de impacto de género:",
+      "opciones": [
+        "En todo caso",
+        "Salvo en casos de urgencia",
+        "Solo cuando el número de plazas supere diez",
+        "Solo si lo solicita el Instituto de las Mujeres"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 55 LOIEMH exceptúa los casos de urgencia.",
+      "ref": "art. 55 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En las bases de los concursos de provisión de puestos de trabajo de la AGE, el tiempo que las personas candidatas hayan permanecido en situaciones de permisos o excedencias por conciliación:",
+      "opciones": [
+        "Se computa a efectos de valoración del trabajo desarrollado y de los correspondientes méritos",
+        "No se computa",
+        "Se computa solo en la antigüedad",
+        "Se computa al 50 %"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 57 LOIEMH.",
+      "ref": "art. 57 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cuando el periodo de vacaciones de una empleada pública de la AGE coincida con una incapacidad temporal derivada del embarazo:",
+      "opciones": [
+        "Perderá las vacaciones si ha terminado el año natural",
+        "Se le abonarán económicamente",
+        "Tendrá derecho a disfrutarlas en fecha distinta, aunque haya terminado el año natural",
+        "Podrá disfrutarlas solo hasta el 31 de enero del año siguiente"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 59 LOIEMH reconoce el derecho a disfrutarlas en fecha distinta aunque haya terminado el año.",
+      "ref": "art. 59 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Quienes se hayan incorporado al servicio activo procedentes del permiso de maternidad o paternidad tendrán preferencia en la adjudicación de plazas en cursos de formación durante:",
+      "opciones": [
+        "Seis meses",
+        "El resto del año natural",
+        "Dos años",
+        "Un año"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 60.1 LOIEMH fija la preferencia durante un año.",
+      "ref": "art. 60.1 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Para facilitar el acceso de las empleadas públicas a puestos directivos en la AGE, en las convocatorias de los correspondientes cursos de formación se reservará para ellas al menos:",
+      "opciones": [
+        "El 30 % de las plazas",
+        "El 40 % de las plazas",
+        "El 50 % de las plazas",
+        "El 60 % de las plazas"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 60.2 LOIEMH fija una reserva de al menos el 40 %.",
+      "ref": "art. 60.2 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El protocolo de actuación frente al acoso sexual y al acoso por razón de sexo en las Administraciones públicas:",
+      "opciones": [
+        "Lo aprueba unilateralmente el órgano de personal",
+        "Solo es obligatorio en la AGE",
+        "Lo dicta el Instituto de las Mujeres",
+        "Se negocia con la representación legal de las trabajadoras y trabajadores"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 62 establece que las Administraciones públicas negociarán el protocolo con la representación legal del personal.",
+      "ref": "art. 62 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "NO es uno de los principios mínimos que debe comprender el protocolo de actuación frente al acoso según el artículo 62 de la LO 3/2007:",
+      "opciones": [
+        "La publicación en el diario oficial de la identidad de la persona denunciada",
+        "La identificación de las personas responsables de atender a quienes formulen una queja o denuncia",
+        "La instrucción a todo el personal de su deber de respetar la dignidad de las personas",
+        "El tratamiento reservado de las denuncias"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 62 exige el tratamiento reservado de las denuncias, no su publicación.",
+      "ref": "art. 62 LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los Departamentos Ministeriales y Organismos Públicos remitirán información sobre la aplicación del principio de igualdad, con datos desagregados por sexo:",
+      "opciones": [
+        "Cada legislatura",
+        "Al menos anualmente",
+        "Semestralmente",
+        "Solo cuando se les requiera"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 63 LOIEMH exige su remisión al menos anualmente.",
+      "ref": "art. 63 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado se aprobará:",
+      "opciones": [
+        "Cada cuatro años por el Ministerio de Igualdad",
+        "Anualmente por las Cortes Generales",
+        "Al inicio de cada legislatura por el Gobierno, y su cumplimiento será evaluado anualmente por el Consejo de Ministros",
+        "Cada dos años por la Comisión Interministerial de Igualdad"
+      ],
+      "correcta": 2,
+      "explicacion": "Así lo establece el art. 64 LOIEMH.",
+      "ref": "art. 64 LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la disposición adicional séptima del TREBEP, las Administraciones Públicas aprobarán un Plan para la Igualdad entre mujeres y hombres:",
+      "opciones": [
+        "Cada año",
+        "Cada cinco años",
+        "Al inicio de cada legislatura",
+        "Cuando lo exija la autoridad laboral"
+      ],
+      "correcta": 2,
+      "explicacion": "La DA 7.ª.2 TREBEP fija la aprobación al inicio de cada legislatura, con evaluación anual.",
+      "ref": "DA 7.ª TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La disposición adicional séptima del TREBEP crea un Registro de Planes de Igualdad al que las Administraciones deberán remitir:",
+      "opciones": [
+        "Las convocatorias de oposiciones",
+        "Sus relaciones de puestos de trabajo",
+        "Las sanciones disciplinarias impuestas",
+        "Sus planes de igualdad y sus protocolos frente al acoso sexual y por razón de sexo"
+      ],
+      "correcta": 3,
+      "explicacion": "La DA 7.ª.3 TREBEP incluye planes de igualdad y protocolos de acoso.",
+      "ref": "DA 7.ª.3 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el artículo 60.1 del TREBEP, la composición de los órganos de selección:",
+      "opciones": [
+        "Se ajustará a los principios de imparcialidad y profesionalidad y se tenderá a la paridad entre mujer y hombre",
+        "Deberá ser paritaria en todo caso",
+        "Reservará la presidencia a una mujer",
+        "Será designada por las organizaciones sindicales"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 60.1 TREBEP dice que se tenderá a la paridad.",
+      "ref": "art. 60.1 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el TREBEP, toda actuación que suponga discriminación por razón de sexo, así como el acoso por razón de sexo y el acoso sexual, constituye:",
+      "opciones": [
+        "Falta leve",
+        "Falta muy grave",
+        "Falta grave",
+        "Infracción de buen gobierno"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 95.2.b) TREBEP la tipifica como falta muy grave.",
+      "ref": "art. 95.2.b TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según la LOSU, las universidades contarán con unidades de igualdad, que serán las encargadas de:",
+      "opciones": [
+        "Asesorar, coordinar y evaluar la incorporación transversal de la igualdad entre mujeres y hombres en las políticas universitarias",
+        "Tramitar los expedientes disciplinarios por acoso",
+        "Aprobar el plan de igualdad de la universidad",
+        "Resolver las reclamaciones de los estudiantes"
+      ],
+      "correcta": 0,
+      "explicacion": "Es la función que les atribuye el art. 43.2 LOSU; el plan lo impulsa el Consejo de Gobierno (art. 46.2.j).",
+      "ref": "art. 43.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según los Estatutos de la Universidad de La Laguna, la persona que ocupe la Dirección de la Unidad de Igualdad de Género:",
+      "opciones": [
+        "Es elegida por el Claustro",
+        "Es nombrada por el Consejo de Gobierno entre el PTGAS",
+        "Es nombrada por el Rector o la Rectora entre PDI con experiencia en igualdad, vinculación permanente y dedicación a tiempo completo, y se asimila a una Dirección de Secretariado",
+        "Se asimila a un Vicerrectorado"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo establece el art. 113.2 EULL. La Subdirección se asimila a un Vicedecanato.",
+      "ref": "art. 113 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Entre las funciones de la Unidad de Igualdad de Género de la ULL recogidas en sus Estatutos figura:",
+      "opciones": [
+        "Nombrar los tribunales de selección",
+        "Imponer sanciones por acoso",
+        "Aprobar el Plan de Igualdad",
+        "Participar en la elaboración del anteproyecto de presupuesto para garantizar la perspectiva de género"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 112.1.g) EULL le atribuye esa función; no tiene potestad sancionadora ni aprueba el plan.",
+      "ref": "art. 112.1 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El II Plan de Igualdad de Género de la Universidad de La Laguna fue aprobado por:",
+      "opciones": [
+        "El Claustro Universitario en 2020",
+        "El Consejo de Gobierno el 10 de enero de 2022",
+        "El Consejo Social en 2023",
+        "El Gobierno de Canarias por decreto"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo aprobó el Consejo de Gobierno de la ULL el 10 de enero de 2022, para el periodo 2022-2026.",
+      "ref": "II Plan de Igualdad de Género ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La LO 3/2007 incorpora al ordenamiento español, entre otras, la Directiva:",
+      "opciones": [
+        "2014/24/UE, de contratación pública",
+        "95/46/CE, de protección de datos",
+        "2006/123/CE, de servicios",
+        "2002/73/CE, relativa a la igualdad de trato en el acceso al empleo, la formación y la promoción profesionales y las condiciones de trabajo"
+      ],
+      "correcta": 3,
+      "explicacion": "La ley incorpora las Directivas 2002/73/CE y 2004/113/CE.",
+      "ref": "DF LOIEMH",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La LO 3/2007 entró en vigor:",
+      "opciones": [
+        "El día siguiente al de su publicación en el BOE, salvo el artículo 71.2",
+        "A los veinte días de su publicación",
+        "El 1 de enero de 2008",
+        "A los tres meses de su publicación"
+      ],
+      "correcta": 0,
+      "explicacion": "La DF 8.ª fija la entrada en vigor al día siguiente, salvo el art. 71.2, que lo hizo el 31 de diciembre de 2008.",
+      "ref": "DF 8.ª LOIEMH",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La licencia por riesgo durante el embarazo de una funcionaria incluida en el mutualismo administrativo garantiza, según el artículo 58 de la LO 3/2007:",
+      "opciones": [
+        "El 75 % de sus retribuciones",
+        "La plenitud de sus derechos económicos durante toda la duración de la licencia",
+        "Solo las retribuciones básicas",
+        "El subsidio de incapacidad temporal"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 58 garantiza la plenitud de los derechos económicos y se aplica también durante la lactancia natural.",
+      "ref": "art. 58 LOIEMH",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El órgano colegiado de consulta y asesoramiento que sirve de cauce para la participación de las mujeres en la consecución del principio de igualdad es:",
+      "opciones": [
+        "La Comisión Interministerial de Igualdad",
+        "La Unidad de Igualdad ministerial",
+        "El Consejo de Participación de la Mujer",
+        "El Observatorio de la Igualdad"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo crea el art. 78 LOIEMH. La Comisión Interministerial (art. 76) coordina las políticas ministeriales.",
+      "ref": "art. 78 LOIEMH",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres",
+      "url": "https://www.youtube.com/watch?v=DWr0z9t0zRk",
+      "canal": "Instituto Nacional de Administración Pública INAP"
+    },
+    {
+      "titulo": "Ley Orgánica 3 2007 Igualdad efectiva hombres y mujeres",
+      "url": "https://www.youtube.com/watch?v=PMkd7Mo7Ptc",
+      "canal": "GoKoan Oposiciones"
+    },
+    {
+      "titulo": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "url": "https://www.youtube.com/watch?v=IShjqQwb1uE",
+      "canal": "La Academia de Trabajo Social"
+    },
+    {
+      "titulo": "LEY ORGÁNICA 3/2007: sobre la IGUALDAD (todo con ejemplos y sencillo)",
+      "url": "https://www.youtube.com/watch?v=7D857BU9RNw",
+      "canal": "Derecho Virtual"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "LO 3/2007, para la igualdad efectiva de mujeres y hombres (BOE, texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+    },
+    {
+      "titulo": "TREBEP, RDLeg 5/2015 (BOE, texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    },
+    {
+      "titulo": "Ley 1/2010, Canaria de Igualdad entre Mujeres y Hombres (BOE)",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4518"
+    },
+    {
+      "titulo": "Unidad de Igualdad de Género de la ULL",
+      "url": "https://www.ull.es/servicios/igualdad/"
+    },
+    {
+      "titulo": "Normativa de igualdad de la ULL",
+      "url": "https://www.ull.es/servicios/igualdad/normativa/"
+    },
+    {
+      "titulo": "Noticia ULL: aprobación del II Plan de Igualdad",
+      "url": "https://www.ull.es/portal/noticias/2022/el-consejo-de-gobierno-aprueba-el-segundo-plan-de-igualdad-de-la-universidad-de-la-laguna/"
+    }
+  ]
+}

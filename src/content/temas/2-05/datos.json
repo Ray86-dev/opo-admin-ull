@@ -1,0 +1,1632 @@
+{
+  "claves": [
+    "El personal laboral presta servicios en las AAPP mediante contrato de trabajo escrito y puede ser fijo, por tiempo indefinido o temporal (art. 11 TREBEP).",
+    "Las funciones que implican potestades públicas o salvaguardia de intereses generales están reservadas a funcionarios (art. 9.2 TREBEP).",
+    "El laboral se rige por la legislación laboral, los convenios y los preceptos del TREBEP que así lo dispongan; los permisos de nacimiento, lactancia y parental, por el TREBEP (art. 7).",
+    "El PTGAS laboral se rige por la LOSU, el ET, el TREBEP, la legislación laboral, los convenios y los Estatutos (art. 89.3 LOSU).",
+    "El laboral fijo accede por oposición, concurso-oposición o concurso de méritos (art. 61.7 TREBEP); la provisión y las situaciones se rigen por el convenio (arts. 83 y 92).",
+    "El despido disciplinario solo sanciona faltas muy graves y, si es improcedente, el laboral fijo debe ser readmitido (art. 96 TREBEP).",
+    "Tras el RDL 32/2021 el contrato se presume indefinido y el temporal solo cabe por circunstancias de la producción o sustitución (art. 15 ET).",
+    "El II Convenio del PAS laboral de las Universidades Públicas Canarias se publicó en el BOC de 18-11-2013 y sigue aplicándose prorrogado.",
+    "La Comisión Paritaria (8 + 8) interpreta, vigila, estudia y aplica el convenio; acuerda por mayoría absoluta de cada parte.",
+    "Hay siete grupos profesionales en cinco niveles retributivos, desde titulados superiores (nivel 1) hasta auxiliares (nivel 5).",
+    "La provisión definitiva sigue el orden traslados, concurso-oposición restringido y concurso-oposición libre; la temporal nunca acude a ETT.",
+    "La jornada es de 37,5 horas semanales con horario ordinario de 7:45 a 15:15, y las vacaciones de 22 días hábiles.",
+    "Las faltas prescriben a los 6 meses, 2 años y 3 años; las sanciones graves van de 6 días a 3 meses de suspensión.",
+    "La acción social incluye un Fondo del 0,5 % de la masa salarial, indemnizaciones de 18.000 y 12.000 euros, complemento de IT y matrícula gratuita."
+  ],
+  "plazos": [
+    {
+      "concepto": "Compensación por incumplimiento de plazos de temporalidad",
+      "valor": "20 días/año, máx. 12 mensualidades",
+      "ref": "DA 17.ª TREBEP"
+    },
+    {
+      "concepto": "Suspensión de empleo y sueldo (TREBEP)",
+      "valor": "Máximo 6 años",
+      "ref": "art. 96.1.c TREBEP"
+    },
+    {
+      "concepto": "Prescripción de faltas (TREBEP)",
+      "valor": "Muy graves 3 años; graves 2 años; leves 6 meses",
+      "ref": "art. 97 TREBEP"
+    },
+    {
+      "concepto": "Prescripción de sanciones (TREBEP)",
+      "valor": "Muy graves 3 años; graves 2 años; leves 1 año",
+      "ref": "art. 97 TREBEP"
+    },
+    {
+      "concepto": "Permiso por nacimiento (TREBEP, aplicable al laboral)",
+      "valor": "19 semanas",
+      "ref": "arts. 7 y 49 TREBEP"
+    },
+    {
+      "concepto": "Contrato por circunstancias de la producción imprevisibles",
+      "valor": "6 meses (1 año por convenio sectorial)",
+      "ref": "art. 15.2 ET"
+    },
+    {
+      "concepto": "Contrato por circunstancias previsibles",
+      "valor": "90 días al año, no continuados",
+      "ref": "art. 15.2 ET"
+    },
+    {
+      "concepto": "Sustitución durante el proceso de selección",
+      "valor": "Máximo 3 meses",
+      "ref": "art. 15.3 ET"
+    },
+    {
+      "concepto": "Coincidencia máxima en sustitución anticipada",
+      "valor": "15 días",
+      "ref": "art. 15.3 ET"
+    },
+    {
+      "concepto": "Encadenamiento de contratos",
+      "valor": "Más de 18 meses en 24",
+      "ref": "art. 15.5 ET"
+    },
+    {
+      "concepto": "Periodo de prueba (ET)",
+      "valor": "6 meses titulados; 2 meses resto; 1 mes temporales de hasta 6 meses",
+      "ref": "art. 14 ET"
+    },
+    {
+      "concepto": "Jornada máxima ordinaria (ET)",
+      "valor": "40 horas semanales de promedio anual",
+      "ref": "art. 34.1 ET"
+    },
+    {
+      "concepto": "Descanso entre jornadas (ET)",
+      "valor": "12 horas",
+      "ref": "art. 34.3 ET"
+    },
+    {
+      "concepto": "Máximo diario ordinario (ET)",
+      "valor": "9 horas",
+      "ref": "art. 34.3 ET"
+    },
+    {
+      "concepto": "Pausa en jornada continuada (ET)",
+      "valor": "15 minutos si supera 6 horas",
+      "ref": "art. 34.4 ET"
+    },
+    {
+      "concepto": "Horas extraordinarias (ET)",
+      "valor": "Máximo 80 al año",
+      "ref": "art. 35.2 ET"
+    },
+    {
+      "concepto": "Vacaciones mínimas (ET)",
+      "valor": "30 días naturales",
+      "ref": "art. 38.1 ET"
+    },
+    {
+      "concepto": "Indemnización fin de contrato temporal",
+      "valor": "12 días por año",
+      "ref": "art. 49.1.c ET"
+    },
+    {
+      "concepto": "Despido objetivo",
+      "valor": "20 días/año, máx. 12 mensualidades; preaviso 15 días",
+      "ref": "art. 53 ET"
+    },
+    {
+      "concepto": "Despido improcedente",
+      "valor": "33 días/año, máx. 24 mensualidades; opción en 5 días",
+      "ref": "art. 56 ET"
+    },
+    {
+      "concepto": "Nuevo despido por defectos formales",
+      "valor": "20 días",
+      "ref": "art. 55.2 ET"
+    },
+    {
+      "concepto": "Caducidad de la acción de despido",
+      "valor": "20 días hábiles",
+      "ref": "art. 59.3 ET"
+    },
+    {
+      "concepto": "Prescripción de faltas (ET común)",
+      "valor": "10, 20 y 60 días; máximo 6 meses",
+      "ref": "art. 60.2 ET"
+    },
+    {
+      "concepto": "Publicación del II Convenio",
+      "valor": "BOC 222, 18-11-2013",
+      "ref": "Resolución DG Trabajo 4-11-2013"
+    },
+    {
+      "concepto": "Vigencia del Convenio",
+      "valor": "3 años desde el día siguiente a su publicación",
+      "ref": "art. 6 Convenio"
+    },
+    {
+      "concepto": "Denuncia del Convenio",
+      "valor": "1 mes antes del término; prórrogas anuales",
+      "ref": "art. 7 Convenio"
+    },
+    {
+      "concepto": "Composición Comisión Paritaria",
+      "valor": "8 + 8",
+      "ref": "art. 11.2 Convenio"
+    },
+    {
+      "concepto": "Constitución de la Comisión Paritaria",
+      "valor": "Mes siguiente a la publicación",
+      "ref": "art. 11.3 Convenio"
+    },
+    {
+      "concepto": "Reunión ordinaria de la Comisión Paritaria",
+      "valor": "Al menos cada 3 meses",
+      "ref": "art. 13.2 Convenio"
+    },
+    {
+      "concepto": "Reunión extraordinaria",
+      "valor": "A petición del 40 % de una parte; antes de 15 días",
+      "ref": "art. 13.2 Convenio"
+    },
+    {
+      "concepto": "Rotación por funciones de grupo inferior",
+      "valor": "Si supera 2 meses, turnos bimestrales",
+      "ref": "art. 18.4 Convenio"
+    },
+    {
+      "concepto": "Residencia valorada en concurso-oposición libre",
+      "valor": "5 años en Canarias",
+      "ref": "art. 26 Convenio"
+    },
+    {
+      "concepto": "Plazo de instancias",
+      "valor": "15 a 30 días naturales",
+      "ref": "art. 27.3.c Convenio"
+    },
+    {
+      "concepto": "Peso de méritos y pruebas",
+      "valor": "Méritos mínimo 20 %; pruebas máximo 80 %",
+      "ref": "art. 27.3.g-h Convenio"
+    },
+    {
+      "concepto": "Intervalo entre ejercicios",
+      "valor": "Mínimo 72 horas; máximo 45 días naturales",
+      "ref": "art. 27.3.l Convenio"
+    },
+    {
+      "concepto": "Publicación de fecha de pruebas",
+      "valor": "En el mes siguiente al fin de instancias; pruebas no antes de 15 días",
+      "ref": "art. 27.5 Convenio"
+    },
+    {
+      "concepto": "Resolución y formalización de contratos",
+      "valor": "Resolución en 1 mes; contratos en 15 días",
+      "ref": "art. 27.7-8 Convenio"
+    },
+    {
+      "concepto": "Periodo de prueba (Convenio)",
+      "valor": "3 meses niveles I y II; 1 mes resto",
+      "ref": "art. 27.9 Convenio"
+    },
+    {
+      "concepto": "Movilidad por violencia de género",
+      "valor": "Reserva del puesto 1 año",
+      "ref": "art. 31.2 Convenio"
+    },
+    {
+      "concepto": "Permutas",
+      "valor": "Máximo 3 años",
+      "ref": "art. 33 Convenio"
+    },
+    {
+      "concepto": "Jornada",
+      "valor": "37,5 horas semanales (35 h en DA 4.ª)",
+      "ref": "art. 35.1 Convenio"
+    },
+    {
+      "concepto": "Jornada partida",
+      "valor": "Pausa mínima 1,5 horas; máximo 10 % de la plantilla",
+      "ref": "art. 35.2.d Convenio"
+    },
+    {
+      "concepto": "Jornada especial",
+      "valor": "Máx. 9 h diarias y 37,5 semanales; 12 h entre jornadas",
+      "ref": "art. 35.2.e Convenio"
+    },
+    {
+      "concepto": "Horario ordinario",
+      "valor": "7:45-15:15 y 13:45-21:15; 15 min de cortesía",
+      "ref": "art. 36.1 Convenio"
+    },
+    {
+      "concepto": "Descanso diario y semanal",
+      "valor": "30 minutos; 48 horas ininterrumpidas",
+      "ref": "art. 37 Convenio"
+    },
+    {
+      "concepto": "Compensación de hora extra",
+      "valor": "1,75 horas",
+      "ref": "art. 38.2 Convenio"
+    },
+    {
+      "concepto": "Disponibilidad horaria",
+      "valor": "Máx. 80 h/año retribuidas; máx. 5 % de plantilla; fuera de cobertura máx. 1 hora",
+      "ref": "art. 40 Convenio"
+    },
+    {
+      "concepto": "Antigüedad",
+      "valor": "Trienios (cada 3 años)",
+      "ref": "art. 45 Convenio"
+    },
+    {
+      "concepto": "Nocturnidad",
+      "valor": "22:00-6:00; +25 % sobre hora extra",
+      "ref": "art. 47.3 Convenio"
+    },
+    {
+      "concepto": "Jornada rotatoria retribuida",
+      "valor": "Al menos 5 días en el mes",
+      "ref": "art. 47.5 Convenio"
+    },
+    {
+      "concepto": "Pagas extraordinarias",
+      "valor": "3: junio, septiembre y diciembre",
+      "ref": "art. 48 Convenio"
+    },
+    {
+      "concepto": "Indemnización por residencia",
+      "valor": "12 pagas",
+      "ref": "art. 49 Convenio"
+    },
+    {
+      "concepto": "Vacaciones",
+      "valor": "22 días hábiles; fraccionables en 5; 30 hábiles fuera de junio-septiembre",
+      "ref": "art. 52 Convenio"
+    },
+    {
+      "concepto": "Calendario de vacaciones",
+      "valor": "Al menos 2 meses antes",
+      "ref": "art. 52.5 Convenio"
+    },
+    {
+      "concepto": "Vacaciones tras IT común",
+      "valor": "Hasta 18 meses desde el final del año",
+      "ref": "art. 52.5 Convenio"
+    },
+    {
+      "concepto": "Instrucción anual de vacaciones y permisos",
+      "valor": "Antes del 15 de diciembre",
+      "ref": "art. 52.9 Convenio"
+    },
+    {
+      "concepto": "Asuntos particulares",
+      "valor": "3 días",
+      "ref": "art. 53.1 Convenio"
+    },
+    {
+      "concepto": "Semana Santa y Navidad",
+      "valor": "7 días naturales consecutivos",
+      "ref": "art. 53.2 Convenio"
+    },
+    {
+      "concepto": "Matrimonio o unión de hecho",
+      "valor": "20 días naturales; desde 15 días antes hasta 3 meses después",
+      "ref": "art. 53.3 Convenio"
+    },
+    {
+      "concepto": "Fallecimiento o enfermedad grave hasta 2.º grado",
+      "valor": "3 días laborables; 5 fuera de la isla",
+      "ref": "art. 53.4 Convenio"
+    },
+    {
+      "concepto": "Traslado de domicilio",
+      "valor": "1 día (mismo municipio); 2 (otro)",
+      "ref": "art. 53.5 Convenio"
+    },
+    {
+      "concepto": "Aviso por exámenes",
+      "valor": "5 días (o 48 h si se fija con menos antelación)",
+      "ref": "art. 53.6 Convenio"
+    },
+    {
+      "concepto": "Lactancia",
+      "valor": "Menor de 14 meses; 1 hora diaria",
+      "ref": "art. 53.8 Convenio"
+    },
+    {
+      "concepto": "Hijos prematuros",
+      "valor": "Hasta 2 horas diarias",
+      "ref": "art. 53.10 Convenio"
+    },
+    {
+      "concepto": "Reducción por guarda legal",
+      "valor": "Menor de 12 años; entre 1/8 y 1/2 de jornada",
+      "ref": "art. 54.1.a Convenio"
+    },
+    {
+      "concepto": "Reducción por familiar muy grave",
+      "valor": "Hasta 50 %, retribuida, máximo 1 mes",
+      "ref": "art. 54.1.b Convenio"
+    },
+    {
+      "concepto": "Licencias sin sueldo",
+      "valor": "Con 1 año de servicios; de 7 días a 1 año; máx. 1 año cada 3",
+      "ref": "art. 55 Convenio"
+    },
+    {
+      "concepto": "Suspensión por maternidad (texto del Convenio)",
+      "valor": "17 semanas (hoy 19 por TREBEP)",
+      "ref": "art. 56.2 Convenio"
+    },
+    {
+      "concepto": "Reingreso tras excedencia forzosa",
+      "valor": "2 meses desde el cese",
+      "ref": "art. 57.2 Convenio"
+    },
+    {
+      "concepto": "Excedencia por cuidado",
+      "valor": "Hasta 3 años por sujeto causante",
+      "ref": "art. 58 Convenio"
+    },
+    {
+      "concepto": "Excedencia violencia de género",
+      "valor": "Reserva 6 meses, prorrogable por 3 hasta 18; 2 meses retribuidos",
+      "ref": "art. 59 Convenio"
+    },
+    {
+      "concepto": "Reingreso tras excedencia por incompatibilidad",
+      "valor": "1 mes",
+      "ref": "art. 60.1 Convenio"
+    },
+    {
+      "concepto": "Excedencia por agrupación familiar",
+      "valor": "Reserva el primer año",
+      "ref": "art. 61.2 Convenio"
+    },
+    {
+      "concepto": "Excedencia voluntaria",
+      "valor": "1 año de antigüedad; 4 meses a 10 años; nueva tras 2 años",
+      "ref": "art. 62.1 Convenio"
+    },
+    {
+      "concepto": "Faltas de asistencia",
+      "valor": "1-2 días/mes leve; 3 grave; más de 3 muy grave",
+      "ref": "art. 65 Convenio"
+    },
+    {
+      "concepto": "Faltas de puntualidad",
+      "valor": "3-5 días/mes leve; más de 5 y menos de 10 grave",
+      "ref": "art. 65 Convenio"
+    },
+    {
+      "concepto": "Reincidencia",
+      "valor": "3 leves en un trimestre = grave; 3 graves en 6 meses = muy grave",
+      "ref": "art. 65 Convenio"
+    },
+    {
+      "concepto": "Sanciones leves",
+      "valor": "Amonestación o suspensión hasta 5 días",
+      "ref": "art. 66.1.a Convenio"
+    },
+    {
+      "concepto": "Sanciones graves",
+      "valor": "Suspensión de 6 días a 3 meses",
+      "ref": "art. 66.1.b Convenio"
+    },
+    {
+      "concepto": "Sanciones muy graves",
+      "valor": "Suspensión de 91 días a 6 meses; traslado forzoso; despido; inhabilitación para mando hasta 3 años",
+      "ref": "art. 66.1.c Convenio"
+    },
+    {
+      "concepto": "Alegaciones al acuerdo de incoación",
+      "valor": "10 días hábiles (y 10 a la representación del personal)",
+      "ref": "art. 68.2 Convenio"
+    },
+    {
+      "concepto": "Periodo de prueba en el expediente",
+      "valor": "Entre 10 días hábiles y 1 mes",
+      "ref": "art. 68.3 Convenio"
+    },
+    {
+      "concepto": "Actuaciones complementarias",
+      "valor": "Alegaciones 5 días; práctica en 15 días hábiles",
+      "ref": "art. 68.5 Convenio"
+    },
+    {
+      "concepto": "Resolución del expediente",
+      "valor": "10 días hábiles desde la propuesta",
+      "ref": "art. 68.6 Convenio"
+    },
+    {
+      "concepto": "Suspensión provisional",
+      "valor": "Máximo 1 mes",
+      "ref": "art. 68.7 Convenio"
+    },
+    {
+      "concepto": "Procedimiento por faltas leves",
+      "valor": "15 días hábiles; resolución en 3 días hábiles",
+      "ref": "art. 69 Convenio"
+    },
+    {
+      "concepto": "Prescripción de faltas",
+      "valor": "Leves 6 meses; graves 2 años; muy graves 3 años",
+      "ref": "art. 70 Convenio"
+    },
+    {
+      "concepto": "Prescripción de sanciones",
+      "valor": "Leves 1 año; graves 2 años; muy graves 3 años",
+      "ref": "art. 70 Convenio"
+    },
+    {
+      "concepto": "Información sobre igualdad al comité",
+      "valor": "Semestral",
+      "ref": "art. 76 Convenio"
+    },
+    {
+      "concepto": "Fondo de formación",
+      "valor": "Mínimo 0,5 % de la masa salarial",
+      "ref": "art. 79.3 Convenio"
+    },
+    {
+      "concepto": "Permiso de formación",
+      "valor": "20 a 40 horas anuales, acumulables 5 años",
+      "ref": "art. 82.2 Convenio"
+    },
+    {
+      "concepto": "Partida de prevención de riesgos",
+      "valor": "Mínimo 25 euros por trabajador y año",
+      "ref": "art. 88 Convenio"
+    },
+    {
+      "concepto": "Reserva por movilidad por salud",
+      "valor": "1 año (2 en IP total revisable)",
+      "ref": "art. 92.6 Convenio"
+    },
+    {
+      "concepto": "Reconocimiento médico tras ausencia",
+      "valor": "Ausencia por salud superior a 3 meses",
+      "ref": "art. 98.2.e Convenio"
+    },
+    {
+      "concepto": "Fondo de Ayuda Social",
+      "valor": "Mínimo 0,5 % de la masa salarial",
+      "ref": "art. 100 Convenio"
+    },
+    {
+      "concepto": "Indemnización accidente laboral",
+      "valor": "No inferior a 18.000 euros",
+      "ref": "art. 101 Convenio"
+    },
+    {
+      "concepto": "Indemnización IP absoluta, gran invalidez o muerte",
+      "valor": "Mínimo 12.000 euros",
+      "ref": "art. 102 Convenio"
+    },
+    {
+      "concepto": "Matrícula gratuita de hijos",
+      "valor": "Hasta el curso en que cumplan 30 años",
+      "ref": "art. 105.3 Convenio"
+    },
+    {
+      "concepto": "Premio por jubilación",
+      "valor": "Con 5 años de antigüedad: 2 mensualidades + 1 por cada 5 años o fracción",
+      "ref": "art. 106 Convenio"
+    },
+    {
+      "concepto": "Jubilación anticipada",
+      "valor": "Solicitud 2 meses antes; 5.000 euros (2 años) o 4.000 (1 año)",
+      "ref": "art. 107 Convenio"
+    },
+    {
+      "concepto": "Asambleas",
+      "valor": "Preaviso 48 h; 30 h anuales; convoca comité o 20 % plantilla",
+      "ref": "art. 112 Convenio"
+    },
+    {
+      "concepto": "Reunión en negociación del convenio",
+      "valor": "6 horas al mes; preaviso 24 h",
+      "ref": "art. 115 Convenio"
+    },
+    {
+      "concepto": "Garantías tras el cese como miembro del comité",
+      "valor": "4 años",
+      "ref": "art. 117.5 Convenio"
+    },
+    {
+      "concepto": "Delegados sindicales (sindicatos con 10 %)",
+      "valor": "1 (250-750); 2 (751-2.000); 3 (2.001-5.000); 4 (más de 5.000)",
+      "ref": "art. 118 Convenio"
+    },
+    {
+      "concepto": "Asambleas de afiliados",
+      "valor": "20 horas anuales",
+      "ref": "art. 118.1.e Convenio"
+    },
+    {
+      "concepto": "Convocatoria de provisión definitiva",
+      "valor": "Cada 2 años como máximo",
+      "ref": "DA 3.ª Convenio"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Personal laboral",
+      "definicion": "Empleado público vinculado a la Administración por contrato de trabajo escrito, fijo, por tiempo indefinido o temporal (art. 11 TREBEP)."
+    },
+    {
+      "termino": "Indefinido no fijo",
+      "definicion": "Trabajador de la Administración cuya contratación temporal irregular lo convierte en indefinido, sin adquirir la condición de fijo por no haber superado un proceso de acceso."
+    },
+    {
+      "termino": "Convenio colectivo",
+      "definicion": "Acuerdo negociado entre representantes de trabajadores y empresarios que regula las condiciones de trabajo y obliga a todos en su ámbito."
+    },
+    {
+      "termino": "Comisión Paritaria",
+      "definicion": "Órgano 8 + 8 de interpretación, vigilancia, estudio y aplicación del Convenio del PAS laboral canario, equivalente a la CIVEA de otros convenios públicos."
+    },
+    {
+      "termino": "CIVEA",
+      "definicion": "Comisión de Interpretación, Vigilancia, Estudio y Aplicación de un convenio colectivo, denominación usada en el Convenio Único de la AGE."
+    },
+    {
+      "termino": "Grupo profesional",
+      "definicion": "Agrupación de aptitudes, formación, titulación de acceso y contenido general de la prestación (art. 22 ET; art. 16 Convenio)."
+    },
+    {
+      "termino": "Especialidad profesional",
+      "definicion": "Conjunto de tareas de una profesión, oficio o rama de actividad dentro de un grupo profesional."
+    },
+    {
+      "termino": "Nivel retributivo",
+      "definicion": "Escalón salarial al que se adscribe cada grupo profesional; en el Convenio canario hay cinco."
+    },
+    {
+      "termino": "Concurso de traslados",
+      "definicion": "Primer procedimiento de provisión definitiva, reservado al PAS laboral fijo del mismo grupo y especialidad."
+    },
+    {
+      "termino": "Concurso-oposición restringido",
+      "definicion": "Procedimiento de promoción interna para el PAS laboral fijo de la universidad convocante."
+    },
+    {
+      "termino": "Bolsa de trabajo",
+      "definicion": "Lista de aspirantes derivada del concurso-oposición libre o de convocatoria pública para contrataciones temporales."
+    },
+    {
+      "termino": "Disponibilidad horaria",
+      "definicion": "Situación de localización fuera de jornada para atender urgencias; no es tiempo de trabajo."
+    },
+    {
+      "termino": "Relación de Puestos de Trabajo (RPT)",
+      "definicion": "Instrumento que ordena los puestos; en el PAS laboral se negocia entre Gerencia y Comité de Empresa."
+    },
+    {
+      "termino": "Comité de Empresa",
+      "definicion": "Órgano de representación unitaria de los trabajadores de la universidad, con funciones de negociación e informe."
+    },
+    {
+      "termino": "Despido disciplinario",
+      "definicion": "Extinción del contrato por incumplimiento grave y culpable del trabajador (art. 54 ET); en la AP solo por falta muy grave."
+    },
+    {
+      "termino": "Ultraactividad",
+      "definicion": "Mantenimiento de la vigencia de un convenio denunciado mientras no se alcance otro (art. 86 ET; art. 7.2 Convenio)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Clases de laboral",
+      "texto": "«FIT»: Fijo, Indefinido, Temporal (art. 11.1 TREBEP)."
+    },
+    {
+      "titulo": "Orden de provisión definitiva",
+      "texto": "«T-R-L»: Traslados, Restringido, Libre."
+    },
+    {
+      "titulo": "Niveles retributivos",
+      "texto": "«Su-Me-Téc-Of-Aux» del 1 al 5: Superiores, Medios, Técnicos, Oficiales, Auxiliares."
+    },
+    {
+      "titulo": "Ausencias y gravedad",
+      "texto": "«Uno-dos leve, tres grave, más de tres muy grave»."
+    },
+    {
+      "titulo": "Prescripción disciplinaria",
+      "texto": "«Seis-dos-tres»: faltas leves 6 meses, graves 2 años, muy graves 3 años."
+    },
+    {
+      "titulo": "Jornada canaria",
+      "texto": "«37 y medio, de 7 y 45 a 3 y cuarto»: 37,5 horas; de 7:45 a 15:15."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "Definición de personal laboral (TREBEP)",
+      "reverso": "El que presta servicios retribuidos en virtud de contrato de trabajo formalizado por escrito.",
+      "ref": "art. 11.1 TREBEP"
+    },
+    {
+      "frente": "Clases de personal laboral por duración",
+      "reverso": "Fijo, por tiempo indefinido o temporal.",
+      "ref": "art. 11.1 TREBEP"
+    },
+    {
+      "frente": "Funciones reservadas a funcionarios",
+      "reverso": "Las que implican participación en potestades públicas o salvaguardia de intereses generales.",
+      "ref": "art. 9.2 TREBEP"
+    },
+    {
+      "frente": "Normativa del personal laboral",
+      "reverso": "Legislación laboral, convenios y preceptos del TREBEP que lo dispongan.",
+      "ref": "art. 7 TREBEP"
+    },
+    {
+      "frente": "Permisos del laboral que se rigen por el TREBEP",
+      "reverso": "Nacimiento, adopción, progenitor diferente de la madre biológica, lactancia y parental.",
+      "ref": "art. 7 TREBEP"
+    },
+    {
+      "frente": "Sistemas selectivos del laboral fijo",
+      "reverso": "Oposición, concurso-oposición o concurso de valoración de méritos.",
+      "ref": "art. 61.7 TREBEP"
+    },
+    {
+      "frente": "Provisión de puestos del laboral",
+      "reverso": "Por convenio; en su defecto, sistema funcionarial.",
+      "ref": "art. 83 TREBEP"
+    },
+    {
+      "frente": "Readmisión obligatoria",
+      "reverso": "Del laboral fijo si el despido por falta muy grave es improcedente.",
+      "ref": "art. 96.2 TREBEP"
+    },
+    {
+      "frente": "Compensación por abuso de temporalidad (laboral)",
+      "reverso": "Hasta 20 días por año, máx. 12 mensualidades, menos la indemnización.",
+      "ref": "DA 17.ª TREBEP"
+    },
+    {
+      "frente": "Causas de contrato temporal (ET)",
+      "reverso": "Circunstancias de la producción o sustitución.",
+      "ref": "art. 15.1 ET"
+    },
+    {
+      "frente": "Encadenamiento que convierte en fijo",
+      "reverso": "Más de 18 meses en 24 con contratos por circunstancias de la producción.",
+      "ref": "art. 15.5 ET"
+    },
+    {
+      "frente": "Periodo de prueba legal",
+      "reverso": "6 meses técnicos titulados; 2 meses el resto.",
+      "ref": "art. 14 ET"
+    },
+    {
+      "frente": "Indemnización por despido improcedente",
+      "reverso": "33 días por año, máximo 24 mensualidades.",
+      "ref": "art. 56 ET"
+    },
+    {
+      "frente": "Plazo para demandar por despido",
+      "reverso": "20 días hábiles (caducidad).",
+      "ref": "art. 59.3 ET"
+    },
+    {
+      "frente": "Publicación del II Convenio PAS laboral canario",
+      "reverso": "BOC nº 222, de 18 de noviembre de 2013.",
+      "ref": "BOC 222/2013"
+    },
+    {
+      "frente": "Partes del Convenio",
+      "reverso": "ULL y ULPGC; IC, UGT, CCOO y COBAS.",
+      "ref": "art. 2 Convenio"
+    },
+    {
+      "frente": "Vigencia y denuncia del Convenio",
+      "reverso": "3 años; prórroga anual salvo denuncia con 1 mes de antelación.",
+      "ref": "arts. 6-7 Convenio"
+    },
+    {
+      "frente": "Composición de la Comisión Paritaria",
+      "reverso": "8 representantes sindicales y 8 de las universidades.",
+      "ref": "art. 11 Convenio"
+    },
+    {
+      "frente": "Mayoría de la Comisión Paritaria",
+      "reverso": "Mayoría absoluta de cada una de las partes.",
+      "ref": "art. 13.3 Convenio"
+    },
+    {
+      "frente": "Grupos del nivel 3",
+      "reverso": "Técnicos de mantenimiento, técnicos especialistas y técnicos de laboratorio.",
+      "ref": "art. 42 Convenio"
+    },
+    {
+      "frente": "Orden de provisión definitiva",
+      "reverso": "Traslados, concurso-oposición restringido, concurso-oposición libre.",
+      "ref": "art. 23 Convenio"
+    },
+    {
+      "frente": "Composición de los tribunales",
+      "reverso": "5 miembros (2 a propuesta del Comité) y secretario funcionario sin voto.",
+      "ref": "art. 28 Convenio"
+    },
+    {
+      "frente": "Jornada del PAS laboral",
+      "reverso": "37,5 horas semanales en cómputo anual.",
+      "ref": "art. 35 Convenio"
+    },
+    {
+      "frente": "Horario de mañana",
+      "reverso": "7:45 a 15:15, con 15 minutos de cortesía.",
+      "ref": "art. 36 Convenio"
+    },
+    {
+      "frente": "Hora extra compensada",
+      "reverso": "1,75 horas de descanso.",
+      "ref": "art. 38 Convenio"
+    },
+    {
+      "frente": "Pagas extraordinarias",
+      "reverso": "Tres: junio, septiembre y diciembre.",
+      "ref": "art. 48 Convenio"
+    },
+    {
+      "frente": "Vacaciones",
+      "reverso": "22 días hábiles (sábados no hábiles).",
+      "ref": "art. 52 Convenio"
+    },
+    {
+      "frente": "Asuntos particulares",
+      "reverso": "3 días al año.",
+      "ref": "art. 53.1 Convenio"
+    },
+    {
+      "frente": "Permiso por matrimonio",
+      "reverso": "20 días naturales consecutivos.",
+      "ref": "art. 53.3 Convenio"
+    },
+    {
+      "frente": "Excedencia voluntaria por interés particular",
+      "reverso": "Con 1 año de antigüedad; de 4 meses a 10 años.",
+      "ref": "art. 62 Convenio"
+    },
+    {
+      "frente": "Sanción por falta grave",
+      "reverso": "Suspensión de empleo y sueldo de 6 días a 3 meses.",
+      "ref": "art. 66 Convenio"
+    },
+    {
+      "frente": "Prescripción de faltas en el Convenio",
+      "reverso": "Leves 6 meses; graves 2 años; muy graves 3 años.",
+      "ref": "art. 70 Convenio"
+    },
+    {
+      "frente": "Formación: fondo mínimo",
+      "reverso": "0,5 % de la masa salarial.",
+      "ref": "art. 79.3 Convenio"
+    },
+    {
+      "frente": "Fondo de Ayuda Social",
+      "reverso": "Mínimo 0,5 % de la masa salarial.",
+      "ref": "art. 100 Convenio"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el artículo 11.1 del TREBEP, es personal laboral el que presta servicios retribuidos por las Administraciones Públicas en virtud de:",
+      "opciones": [
+        "Nombramiento legal, en una relación estatutaria regulada por el Derecho Administrativo",
+        "Contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de la legislación laboral",
+        "Contrato administrativo de servicios",
+        "Contrato de trabajo, que podrá ser verbal en los contratos de duración inferior a cuatro semanas"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 11.1 TREBEP exige contrato de trabajo formalizado por escrito.",
+      "ref": "art. 11.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En función de la duración del contrato, el personal laboral de las Administraciones Públicas puede ser:",
+      "opciones": [
+        "Fijo, por tiempo indefinido o temporal",
+        "Fijo o temporal, exclusivamente",
+        "Fijo, interino o eventual",
+        "De carrera, interino o temporal"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 11.1 TREBEP, en concordancia con el art. 8.2.c.",
+      "ref": "art. 11.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas corresponde:",
+      "opciones": [
+        "Al personal laboral fijo y a los funcionarios",
+        "Al personal eventual",
+        "A cualquier empleado público con la titulación exigida",
+        "Exclusivamente a los funcionarios públicos"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 9.2 TREBEP.",
+      "ref": "art. 9.2 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 7 del TREBEP, el personal laboral al servicio de las Administraciones públicas se rige:",
+      "opciones": [
+        "Exclusivamente por el Estatuto de los Trabajadores",
+        "Por el TREBEP y, supletoriamente, por el convenio colectivo",
+        "Por la legislación laboral, las demás normas convencionalmente aplicables y los preceptos del TREBEP que así lo dispongan",
+        "Por las leyes de función pública autonómicas en todo caso"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 7 TREBEP.",
+      "ref": "art. 7 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En materia de permiso por nacimiento, el personal laboral de las Administraciones públicas se rige:",
+      "opciones": [
+        "Por el Estatuto de los Trabajadores, como el resto de trabajadores",
+        "Por lo previsto en el TREBEP, sin que le sean aplicables las suspensiones del contrato del Estatuto de los Trabajadores",
+        "Por el convenio colectivo, que prevalece sobre el TREBEP",
+        "Por la LGSS exclusivamente"
+      ],
+      "correcta": 1,
+      "explicacion": "El párrafo segundo del art. 7 TREBEP remite a este Estatuto los permisos de nacimiento, adopción, del progenitor diferente de la madre biológica, de lactancia y parental.",
+      "ref": "art. 7 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los sistemas selectivos del personal laboral fijo, según el artículo 61.7 del TREBEP, son:",
+      "opciones": [
+        "La oposición, el concurso-oposición o el concurso de valoración de méritos",
+        "Únicamente la oposición y el concurso-oposición",
+        "El concurso-oposición y la libre designación",
+        "El concurso de valoración de méritos solo si lo autoriza una ley"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 61.7 TREBEP. Para los funcionarios el concurso es excepcional y exige ley (art. 61.6).",
+      "ref": "art. 61.7 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La provisión de puestos y movilidad del personal laboral se realizará, según el artículo 83 TREBEP:",
+      "opciones": [
+        "Siempre por el sistema del personal funcionario",
+        "Por libre designación de la Gerencia",
+        "Conforme al Estatuto de los Trabajadores, sin intervención del convenio",
+        "De conformidad con los convenios colectivos y, en su defecto, por el sistema de provisión del personal funcionario de carrera"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 83 TREBEP.",
+      "ref": "art. 83 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el TREBEP, la sanción de despido disciplinario del personal laboral:",
+      "opciones": [
+        "Puede sancionar faltas graves y muy graves",
+        "Comporta la inhabilitación para cualquier empleo público durante seis años",
+        "Solo puede sancionar faltas muy graves y comporta la inhabilitación para ser titular de un nuevo contrato con funciones similares",
+        "Solo puede imponerse al personal laboral temporal"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 96.1.b TREBEP.",
+      "ref": "art. 96.1.b TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si se declara improcedente el despido de un trabajador laboral fijo acordado como consecuencia de un expediente disciplinario por falta muy grave:",
+      "opciones": [
+        "La Administración puede optar entre readmisión o indemnización de 33 días por año",
+        "Procede su readmisión",
+        "Se le indemniza con 45 días por año",
+        "Se convierte en suspensión de empleo y sueldo de seis meses"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 96.2 TREBEP (y art. 66.4 del Convenio).",
+      "ref": "art. 96.2 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La duración máxima de la sanción de suspensión de empleo y sueldo del personal laboral prevista en el TREBEP es de:",
+      "opciones": [
+        "Seis años",
+        "Seis meses",
+        "Tres años",
+        "Un año"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 96.1.c TREBEP. El convenio canario fija, para las faltas muy graves, de 91 días a 6 meses.",
+      "ref": "art. 96.1.c TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las infracciones muy graves prescriben, según el artículo 97 TREBEP, a los:",
+      "opciones": [
+        "Dos años",
+        "Seis meses",
+        "Cuatro años",
+        "Tres años"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 97 TREBEP: muy graves 3 años, graves 2 años, leves 6 meses.",
+      "ref": "art. 97 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Conforme a la disposición adicional 17.ª del TREBEP, el incumplimiento de los plazos máximos de permanencia del personal laboral temporal da derecho a una compensación calculada sobre:",
+      "opciones": [
+        "Treinta y tres días por año con el límite de veinticuatro mensualidades",
+        "Doce días por año de servicio sin límite",
+        "Un máximo de veinte días de salario fijo por año de servicio con el límite de doce mensualidades, descontando la indemnización por extinción",
+        "Cuarenta y cinco días por año con el límite de cuarenta y dos mensualidades"
+      ],
+      "correcta": 2,
+      "explicacion": "DA 17.ª.5 TREBEP.",
+      "ref": "DA 17.ª TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, el personal técnico, de gestión y de administración y servicios laboral de las universidades públicas se rige:",
+      "opciones": [
+        "Exclusivamente por el convenio colectivo",
+        "Por la LOSU, el Estatuto de los Trabajadores, el TREBEP, la demás legislación laboral y los convenios colectivos aplicables",
+        "Por la LOSU y el TREBEP, sin aplicación del Estatuto de los Trabajadores",
+        "Por la legislación de función pública canaria"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 89.3 LOSU, párrafo segundo; también por los Estatutos de la universidad.",
+      "ref": "art. 89.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el Estatuto de los Trabajadores, el contrato de trabajo de duración determinada solo podrá celebrarse:",
+      "opciones": [
+        "Por circunstancias de la producción o por sustitución de persona trabajadora",
+        "Por obra o servicio determinado o por circunstancias de la producción",
+        "Por interinidad, eventualidad u obra o servicio",
+        "Cuando lo acuerden libremente las partes"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 15.1 ET tras el RDL 32/2021.",
+      "ref": "art. 15.1 ET",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La duración máxima del contrato por circunstancias de la producción debidas a un incremento ocasional e imprevisible de la actividad es, salvo ampliación por convenio sectorial, de:",
+      "opciones": [
+        "Tres meses",
+        "Un año",
+        "Noventa días",
+        "Seis meses"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 15.2 ET: seis meses, ampliables hasta un año por convenio sectorial.",
+      "ref": "art. 15.2 ET",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Adquieren la condición de fijas, según el artículo 15.5 ET, las personas trabajadoras que hayan estado contratadas mediante dos o más contratos por circunstancias de la producción:",
+      "opciones": [
+        "Más de veinticuatro meses en un periodo de treinta",
+        "Más de doce meses en un periodo de dieciocho",
+        "Más de dieciocho meses en un periodo de veinticuatro",
+        "Más de seis meses en un periodo de doce"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 15.5 ET. En la Administración la consecuencia es la condición de indefinido no fijo.",
+      "ref": "art. 15.5 ET",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En defecto de pacto en convenio, el periodo de prueba de un técnico titulado no podrá exceder de:",
+      "opciones": [
+        "Dos meses",
+        "Seis meses",
+        "Tres meses",
+        "Un mes"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 14.1 ET: seis meses técnicos titulados; dos meses los demás.",
+      "ref": "art. 14.1 ET",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Entre el final de una jornada y el comienzo de la siguiente deberán mediar, según el Estatuto de los Trabajadores, como mínimo:",
+      "opciones": [
+        "Doce horas",
+        "Diez horas",
+        "Ocho horas",
+        "Catorce horas"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 34.3 ET.",
+      "ref": "art. 34.3 ET",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Declarado improcedente un despido, el empresario podrá optar entre la readmisión o una indemnización de:",
+      "opciones": [
+        "Veinte días de salario por año, hasta doce mensualidades",
+        "Cuarenta y cinco días por año, hasta cuarenta y dos mensualidades",
+        "Doce días por año de servicio",
+        "Treinta y tres días de salario por año de servicio, hasta un máximo de veinticuatro mensualidades"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 56.1 ET; la opción se ejerce en cinco días desde la notificación de la sentencia.",
+      "ref": "art. 56.1 ET",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La acción contra el despido caduca a los:",
+      "opciones": [
+        "Treinta días naturales",
+        "Dos meses",
+        "Veinte días hábiles siguientes a aquel en que se hubiera producido",
+        "Un año"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 59.3 ET.",
+      "ref": "art. 59.3 ET",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO es un incumplimiento contractual que justifique el despido disciplinario según el artículo 54.2 ET:",
+      "opciones": [
+        "La indisciplina o desobediencia en el trabajo",
+        "La ineptitud del trabajador sobrevenida con posterioridad a su colocación",
+        "La transgresión de la buena fe contractual",
+        "La disminución continuada y voluntaria en el rendimiento"
+      ],
+      "correcta": 1,
+      "explicacion": "La ineptitud es causa de despido objetivo (art. 52.a ET), no disciplinario.",
+      "ref": "arts. 52 y 54 ET",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El II Convenio Colectivo del PAS laboral de las Universidades Públicas Canarias se publicó en:",
+      "opciones": [
+        "El Boletín Oficial de Canarias de 18 de noviembre de 2013",
+        "El Boletín Oficial del Estado de 18 de noviembre de 2013",
+        "El Boletín Oficial de Canarias de 26 de junio de 2013",
+        "El Boletín Oficial de la Provincia de Santa Cruz de Tenerife en 2013"
+      ],
+      "correcta": 0,
+      "explicacion": "BOC núm. 222, de 18-11-2013, por Resolución de la DG de Trabajo de 4-11-2013; se firmó el 26-6-2013.",
+      "ref": "BOC 222/2013",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO es parte firmante del II Convenio Colectivo del PAS laboral de las Universidades Públicas Canarias:",
+      "opciones": [
+        "La Universidad de La Laguna",
+        "Intersindical Canaria",
+        "Comisiones de Base de Canarias (COBAS)",
+        "La Consejería competente en materia de universidades"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 2 del Convenio: ULL y ULPGC, por sus Rectores, e IC, UGT, CCOO y COBAS.",
+      "ref": "art. 2 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Convenio tiene una vigencia de tres años y se prorroga automáticamente por periodos anuales salvo denuncia expresa de alguna de las partes con una antelación mínima de:",
+      "opciones": [
+        "Tres meses",
+        "Quince días",
+        "Un mes",
+        "Seis meses"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 7.1 del Convenio.",
+      "ref": "art. 7.1 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Queda expresamente excluido del ámbito del Convenio el personal:",
+      "opciones": [
+        "Laboral fijo de nivel retributivo 5",
+        "Contratado al amparo de la Ley 14/2011, de la Ciencia, la Tecnología y la Innovación",
+        "Laboral temporal contratado mediante bolsa de sustituciones",
+        "Que preste servicios en centros creados tras la firma del convenio"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 3.2 del Convenio: también los vinculados a proyectos de investigación o acciones con financiación finalista.",
+      "ref": "art. 3.2 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Comisión Paritaria del Convenio está integrada por:",
+      "opciones": [
+        "Ocho representantes de la parte social y ocho de las universidades",
+        "Seis representantes de cada parte",
+        "Cuatro representantes de cada universidad y cuatro sindicales",
+        "Diez representantes sindicales y cinco de las universidades"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 11.2 del Convenio.",
+      "ref": "art. 11.2 Convenio",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La Comisión Paritaria se reunirá en sesión ordinaria:",
+      "opciones": [
+        "Al menos una vez al mes",
+        "Al menos cada seis meses",
+        "Una vez al año",
+        "Al menos cada tres meses"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 13.2 del Convenio; en extraordinaria cuando lo solicite al menos el 40 % de una de las partes.",
+      "ref": "art. 13.2 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los acuerdos de la Comisión Paritaria requieren:",
+      "opciones": [
+        "La mayoría simple de los asistentes",
+        "La unanimidad",
+        "La mayoría absoluta de cada una de las partes",
+        "La mayoría de dos tercios del total de miembros"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 13.3 del Convenio; son vinculantes y se incorporan como anexo.",
+      "ref": "art. 13.3 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La reunión extraordinaria de la Comisión Paritaria solicitada por al menos el 40 % de una de las partes deberá tener lugar:",
+      "opciones": [
+        "Antes de los diez días hábiles siguientes",
+        "Antes de los quince días siguientes a la solicitud",
+        "En el plazo de un mes",
+        "En las cuarenta y ocho horas siguientes"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 13.2 del Convenio.",
+      "ref": "art. 13.2 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "NO es competencia de la Comisión Paritaria según el artículo 12 del Convenio:",
+      "opciones": [
+        "Imponer las sanciones por faltas muy graves",
+        "Conocer e informar los conflictos colectivos antes de su solución judicial o extrajudicial",
+        "Crear, modificar o suprimir grupos y especialidades profesionales",
+        "Definir las funciones conforme a la clasificación profesional"
+      ],
+      "correcta": 0,
+      "explicacion": "Las sanciones las impone el Rectorado (art. 63.1).",
+      "ref": "arts. 12 y 63 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El grupo profesional de oficiales se encuadra en el nivel retributivo:",
+      "opciones": [
+        "3",
+        "5",
+        "2",
+        "4"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 42.1 del Convenio.",
+      "ref": "art. 42.1 Convenio",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los procedimientos ordinarios para la provisión definitiva de puestos de PAS laboral se aplican por el siguiente orden de prelación:",
+      "opciones": [
+        "Concurso-oposición libre, concurso de traslados y concurso-oposición restringido",
+        "Concurso-oposición restringido, concurso de traslados y concurso-oposición libre",
+        "Concurso de traslados, concurso-oposición restringido y concurso-oposición libre",
+        "Concurso de traslados, concurso-oposición libre y libre designación"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 23.1 del Convenio.",
+      "ref": "art. 23.1 Convenio",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En la fase de concurso del concurso-oposición libre se valora:",
+      "opciones": [
+        "La residencia en la isla del centro de trabajo durante tres años",
+        "La residencia en Canarias durante un periodo mínimo de cinco años",
+        "El empadronamiento en Canarias durante diez años",
+        "El conocimiento de la historia de Canarias"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 26 del Convenio.",
+      "ref": "art. 26 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En las convocatorias de provisión de puestos, el plazo de presentación de instancias:",
+      "opciones": [
+        "Nunca será inferior a quince días ni superior a treinta días naturales",
+        "Será de veinte días hábiles",
+        "Nunca será inferior a diez días ni superior a veinte días hábiles",
+        "Será de un mes"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 27.3.c del Convenio.",
+      "ref": "art. 27.3.c Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el concurso-oposición, el baremo de méritos constituirá como mínimo el:",
+      "opciones": [
+        "40 % de la puntuación total",
+        "10 % de la puntuación total",
+        "20 % de la puntuación total, pudiendo computarse para superar las pruebas",
+        "20 % de la puntuación total, y no podrá computarse para superar las pruebas"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 27.3.g del Convenio; las pruebas suponen como máximo el 80 %.",
+      "ref": "art. 27.3.g Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Desde la conclusión de un ejercicio hasta el comienzo del siguiente deberá transcurrir un plazo:",
+      "opciones": [
+        "Mínimo de 48 horas y máximo de 30 días naturales",
+        "Mínimo de 5 días hábiles y máximo de 20",
+        "Mínimo de 72 horas y máximo de 45 días naturales",
+        "Mínimo de 72 horas y máximo de 3 meses"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 27.3.l del Convenio.",
+      "ref": "art. 27.3.l Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En las convocatorias de concurso-oposición libre, el periodo de prueba para los grupos incluidos en los niveles retributivos I y II no podrá superar:",
+      "opciones": [
+        "Seis meses",
+        "Tres meses",
+        "Un mes",
+        "Dos meses"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 27.9 del Convenio; un mes para los restantes niveles.",
+      "ref": "art. 27.9 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los órganos de selección previstos en el Convenio están formados por:",
+      "opciones": [
+        "Cinco miembros nombrados por el Rector, dos de ellos a propuesta del Comité de Empresa, y un funcionario secretario con voz pero sin voto",
+        "Cinco miembros designados por el Comité de Empresa",
+        "Tres miembros nombrados por la Gerencia y dos por los sindicatos, todos con voto",
+        "Siete miembros nombrados por el Consejo de Gobierno"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 28.1 del Convenio; el Presidente solo vota en caso de empate.",
+      "ref": "art. 28.1 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para la provisión temporal de puestos, cuando no existan bolsas de trabajo, el Convenio prevé:",
+      "opciones": [
+        "La contratación a través de empresas de trabajo temporal",
+        "La libre designación por la Gerencia",
+        "La contratación directa por el Rector sin convocatoria",
+        "La oferta genérica al Servicio Público de Empleo, sin acudir en ningún caso a empresas de trabajo temporal"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 29.2.º.e del Convenio.",
+      "ref": "art. 29 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La jornada de trabajo del PAS laboral según el Convenio es de:",
+      "opciones": [
+        "35 horas semanales",
+        "40 horas semanales",
+        "37,5 horas semanales de trabajo efectivo de promedio en cómputo anual",
+        "37 horas semanales en cómputo mensual"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 35.1 del Convenio; la DA 4.ª prevé 35 horas cuando el marco normativo lo permita.",
+      "ref": "art. 35.1 Convenio",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El horario normal de la jornada ordinaria en turno de mañana es:",
+      "opciones": [
+        "De 8:00 a 15:00 horas",
+        "De 7:45 a 15:15 horas, con un cuarto de hora de margen de cortesía",
+        "De 7:30 a 15:00 horas, con diez minutos de cortesía",
+        "De 8:00 a 15:30 horas"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 36.1 del Convenio; turno de tarde de 13:45 a 21:15.",
+      "ref": "art. 36.1 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando las horas extraordinarias se compensan con tiempo libre, cada hora extraordinaria equivale a:",
+      "opciones": [
+        "1,75 horas de jornada ordinaria",
+        "1,5 horas",
+        "2 horas",
+        "1,25 horas"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 38.2 del Convenio.",
+      "ref": "art. 38.2 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La situación de disponibilidad horaria:",
+      "opciones": [
+        "Es tiempo de trabajo efectivo y afecta como máximo al 10 % de la plantilla",
+        "Es obligatoria para los grupos de oficiales",
+        "Se retribuye como horas extraordinarias",
+        "No tiene la consideración de tiempo de trabajo y no podrá afectar a más del 5 % de la plantilla"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 40 del Convenio; máximo 80 horas anuales retribuidas.",
+      "ref": "art. 40 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El complemento de nocturnidad retribuye el trabajo entre las 22:00 y las 6:00 horas con un incremento del:",
+      "opciones": [
+        "25 % sobre el salario base",
+        "50 % sobre el valor de la hora ordinaria",
+        "25 % sobre el valor de la hora extraordinaria",
+        "15 % sobre la hora extraordinaria"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 47.3 del Convenio.",
+      "ref": "art. 47.3 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El complemento de antigüedad del PAS laboral consiste en:",
+      "opciones": [
+        "Un porcentaje del salario base por cada cinco años",
+        "Una cuantía fija mensual y consolidable, igual para todos los grupos, por cada tres años de servicios",
+        "Una cuantía diferente según el grupo por cada tres años",
+        "Una paga única cada seis años"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 45.1 del Convenio.",
+      "ref": "art. 45.1 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las vacaciones anuales retribuidas del PAS laboral son de:",
+      "opciones": [
+        "Veintidós días hábiles, sin que los sábados se consideren hábiles",
+        "Treinta días naturales",
+        "Veintidós días naturales",
+        "Veinticinco días hábiles"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 52.1 del Convenio. Si por necesidades del servicio no se disfrutan de junio a septiembre, 30 días hábiles.",
+      "ref": "art. 52.1 Convenio",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La instrucción de vacaciones, permisos y licencias del año entrante debe presentarse por las Gerencias:",
+      "opciones": [
+        "Antes del 31 de enero del año en curso",
+        "Antes del 1 de noviembre",
+        "Dos meses antes del periodo de vacaciones",
+        "Antes del 15 de diciembre de cada año, acordada con el Comité de Empresa"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 52.9 del Convenio.",
+      "ref": "art. 52.9 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Por fallecimiento de un pariente de segundo grado que se produzca fuera de la isla donde está el centro de trabajo, el PAS laboral tiene derecho a un permiso de:",
+      "opciones": [
+        "Tres días laborables",
+        "Cuatro días naturales",
+        "Cinco días laborables",
+        "Dos días hábiles"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 53.4 del Convenio: 3 días laborables, ampliables a 5 fuera de la isla.",
+      "ref": "art. 53.4 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El permiso retribuido por matrimonio o inscripción de unión de hecho es de:",
+      "opciones": [
+        "Quince días naturales",
+        "Veinte días naturales consecutivos",
+        "Quince días hábiles",
+        "Diez días laborables"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 53.3 del Convenio: puede iniciarse 15 días antes y hasta tres meses después del hecho causante.",
+      "ref": "art. 53.3 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La excedencia voluntaria por interés particular exige una antigüedad mínima de un año y tiene una duración:",
+      "opciones": [
+        "No inferior a cuatro meses ni superior a diez años",
+        "No inferior a dos años ni superior a quince",
+        "No inferior a un año ni superior a cinco",
+        "Indefinida"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 62.1 del Convenio; no puede volver a pedirse hasta transcurridos dos años del final de la anterior.",
+      "ref": "art. 62.1 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la excedencia por razón de violencia de género, la trabajadora tiene derecho a la reserva del puesto durante:",
+      "opciones": [
+        "El primer año, sin prórroga",
+        "Los tres primeros años",
+        "Los dos primeros meses",
+        "Los seis primeros meses, prorrogables por periodos de tres meses hasta un máximo de dieciocho"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 59 del Convenio; los dos primeros meses con retribuciones íntegras.",
+      "ref": "art. 59 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el Convenio, la falta de asistencia al trabajo sin causa justificada durante tres días al mes constituye falta:",
+      "opciones": [
+        "Leve",
+        "Muy grave",
+        "Grave",
+        "No es falta si se recupera el tiempo"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 65.2.4 del Convenio: uno o dos días leve; tres días grave; más de tres muy grave.",
+      "ref": "art. 65 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La sanción prevista en el Convenio para las faltas graves es:",
+      "opciones": [
+        "La amonestación",
+        "La suspensión de empleo y sueldo de seis días hasta tres meses",
+        "La suspensión de empleo y sueldo de noventa y un días a seis meses",
+        "El traslado forzoso con indemnización"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 66.1.b del Convenio.",
+      "ref": "art. 66.1 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el Convenio, las faltas leves prescriben a los:",
+      "opciones": [
+        "Seis meses",
+        "Diez días",
+        "Un año",
+        "Dos meses"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 70 del Convenio (igual que el art. 97 TREBEP); en el ET común serían diez días.",
+      "ref": "art. 70 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el procedimiento disciplinario por faltas graves o muy graves, la suspensión provisional de empleo como medida cautelar no podrá exceder, salvo paralización imputable al interesado, de:",
+      "opciones": [
+        "Seis meses",
+        "Tres meses",
+        "Quince días",
+        "Un mes"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 68.7 del Convenio; durante ella solo se percibe el salario base y, en su caso, la prestación por hijo a cargo.",
+      "ref": "art. 68.7 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cada universidad destinará a formación del PAS laboral, como mínimo, el:",
+      "opciones": [
+        "1 % de la masa salarial",
+        "0,25 % del presupuesto",
+        "0,5 % de la masa salarial",
+        "2 % del capítulo I"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 79.3 del Convenio.",
+      "ref": "art. 79.3 Convenio",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La indemnización por muerte accidental, incapacidad permanente absoluta o gran invalidez producida por accidente laboral no podrá ser inferior a:",
+      "opciones": [
+        "12.000 euros",
+        "18.000 euros",
+        "6.000 euros",
+        "30.000 euros"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 101 del Convenio; 12.000 euros para el art. 102 (cualquier contingencia).",
+      "ref": "art. 101 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El trabajador que accede a la jubilación anticipada dos años antes de la edad ordinaria recibe, según el Convenio, una gratificación de:",
+      "opciones": [
+        "5.000 euros",
+        "4.000 euros",
+        "6.000 euros",
+        "Dos mensualidades íntegras"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 107.2 del Convenio: 5.000 euros con 2 años y 4.000 con 1 año, además de las mensualidades del art. 107.3.",
+      "ref": "art. 107 Convenio",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las asambleas del PAS laboral en la universidad requieren comunicación previa a la Gerencia con una antelación de:",
+      "opciones": [
+        "24 horas, con 20 horas anuales",
+        "72 horas, con 40 horas anuales",
+        "Una semana, sin límite de horas",
+        "48 horas, disponiendo de 30 horas anuales dentro del horario de trabajo"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 112.2 del Convenio; pueden convocarlas el comité o el 20 % de la plantilla.",
+      "ref": "art. 112.2 Convenio",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "TREBEP - Personal Laboral - Oposiciones - Art. 11",
+      "url": "https://www.youtube.com/watch?v=EJUs-S2Ux08",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "TREBEP - Normativa Personal Laboral - Oposiciones - Art. 7",
+      "url": "https://www.youtube.com/watch?v=Y-ygBG5wp00",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "TREBEP - Situaciones Personal Laboral - Oposiciones - Art. 92",
+      "url": "https://www.youtube.com/watch?v=NyfkNEPXMqo",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "Régimen Jurídico del Personal Laboral de las Administraciones Públicas",
+      "url": "https://www.youtube.com/watch?v=jFEMZfRRkbE",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "Personal al servicio de las AAPP - artículos 8 a 13 TREBEP",
+      "url": "https://www.youtube.com/watch?v=6mwhTr6pHkk",
+      "canal": "YouTube"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "II Convenio Colectivo PAS Laboral Universidades Públicas Canarias - BOC 222/2013",
+      "url": "https://www.gobiernodecanarias.org/boc/2013/222/004.html"
+    },
+    {
+      "titulo": "TREBEP consolidado (RDLeg 5/2015) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    },
+    {
+      "titulo": "Estatuto de los Trabajadores consolidado (RDLeg 2/2015) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430"
+    },
+    {
+      "titulo": "LOSU (LO 2/2023) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500"
+    },
+    {
+      "titulo": "Universidad de La Laguna - Personal Técnico, de Gestión y de Administración y Servicios",
+      "url": "https://www.ull.es"
+    }
+  ]
+}

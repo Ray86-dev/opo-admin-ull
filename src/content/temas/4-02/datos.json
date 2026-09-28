@@ -1,0 +1,1114 @@
+{
+  "claves": [
+    "La organización de enseñanzas está en el título III de la LOSU (arts. 6 a 10) y la investigación y transferencia en el título IV (arts. 11 a 13), amparado en el art. 149.1.15.ª CE.",
+    "La docencia es función fundamental, derecho y deber del PDI, se ejerce con libertad de cátedra y es preferentemente presencial, aunque puede ser virtual o híbrida.",
+    "El estudiantado participa de forma plena y efectiva en la elaboración de planes de estudio y guías docentes y en la evaluación permanente de la calidad docente.",
+    "Las universidades impartirán títulos oficiales con validez en todo el Estado y podrán impartir títulos propios, que no pueden inducir a confusión con los oficiales.",
+    "La inscripción de un título oficial en el RUCT tiene efectos constitutivos y supone su consideración inicial como título acreditado.",
+    "La formación a lo largo de la vida incluye microcredenciales y micromódulos; el RD 822/2021 fija Máster de Formación Permanente (60-120), Diploma de Especialización (30-59), Diploma de Experto (menos de 30) y microcredenciales (menos de 15 ECTS).",
+    "Para implantar un título oficial: informe favorable de la Comunidad Autónoma, informe de la agencia, verificación del Consejo de Universidades y autorización autonómica; el Gobierno lo declara oficial y el Rector publica el plan.",
+    "Los títulos oficiales los expide el Rector en nombre del Rey, conforme a las directrices del Gobierno aprobadas previo informe de la Conferencia General y del Consejo de Universidades.",
+    "Las enseñanzas oficiales tienen tres ciclos: Grado (formación básica y generalista), Máster (formación avanzada) y Doctorado (competencias investigadoras, con menciones internacional e industrial).",
+    "El Gobierno, previo informe del Consejo de Universidades, regula convalidación, homologación, equivalencia y reconocimiento de experiencia; los Grados de la UE son equivalentes a todos los efectos.",
+    "La investigación es función fundamental y derecho y deber del PDI, que puede desarrollarla con intensidades distintas; es evaluable a efectos retributivos y de promoción.",
+    "La Ciencia Abierta obliga a depositar la versión final aceptada y los datos en repositorios abiertos de forma simultánea a la publicación, y los datos deben seguir los principios FAIR.",
+    "Las universidades públicas dedican al menos el 5 % de su presupuesto a programas propios de investigación.",
+    "Grupos, departamentos, institutos y profesorado pueden celebrar contratos del art. 60 LOSU; en la ULL requieren autorización previa del Rector y al menos el 15 % del remanente es para la Universidad.",
+    "El personal permanente puede incorporarse a empresas basadas en el conocimiento con una excedencia temporal de hasta cinco años con reserva de puesto (art. 61.3)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Ciclos de las enseñanzas universitarias oficiales",
+      "valor": "3: Grado, Máster Universitario y Doctorado",
+      "ref": "art. 9.1 LOSU"
+    },
+    {
+      "concepto": "Créditos de los títulos de Grado",
+      "valor": "240 ECTS (300 o 360 si lo exige norma específica o de la UE); 60 por curso",
+      "ref": "art. 14.1 RD 822/2021"
+    },
+    {
+      "concepto": "Formación básica mínima en Grados de 240 ECTS",
+      "valor": "60 ECTS (75 en los de 300 y 90 en los de 360)",
+      "ref": "art. 14.4 RD 822/2021"
+    },
+    {
+      "concepto": "Prácticas académicas externas curriculares en Grado",
+      "valor": "Máximo 25 % de los créditos (Grados con mención dual: entre 20 y 40 %)",
+      "ref": "art. 14.5 RD 822/2021"
+    },
+    {
+      "concepto": "Trabajo de fin de Grado",
+      "valor": "Mínimo 6 ECTS; máximo 24 (Grados de 240), 30 (de 300) y 36 (de 360)",
+      "ref": "art. 14.6 RD 822/2021"
+    },
+    {
+      "concepto": "Créditos del Máster Universitario",
+      "valor": "60, 90 o 120 ECTS",
+      "ref": "art. 17.1 RD 822/2021"
+    },
+    {
+      "concepto": "Prácticas externas en Máster",
+      "valor": "No más de un tercio de la carga crediticia",
+      "ref": "art. 17.3 RD 822/2021"
+    },
+    {
+      "concepto": "Trabajo de fin de Máster",
+      "valor": "Entre 6 y 30 ECTS",
+      "ref": "art. 17.4 RD 822/2021"
+    },
+    {
+      "concepto": "Máster de Formación Permanente",
+      "valor": "60, 90 o 120 ECTS",
+      "ref": "art. 37.6 RD 822/2021"
+    },
+    {
+      "concepto": "Diploma de Especialización",
+      "valor": "Entre 30 y 59 ECTS",
+      "ref": "art. 37.6 RD 822/2021"
+    },
+    {
+      "concepto": "Diploma de Experto",
+      "valor": "Menos de 30 ECTS",
+      "ref": "art. 37.6 RD 822/2021"
+    },
+    {
+      "concepto": "Microcredenciales o micromódulos",
+      "valor": "Menos de 15 ECTS",
+      "ref": "art. 37.8 RD 822/2021"
+    },
+    {
+      "concepto": "Convenio de Lisboa sobre reconocimiento de cualificaciones",
+      "valor": "11 de abril de 1997 (número 165 del Consejo de Europa)",
+      "ref": "art. 10.a LOSU"
+    },
+    {
+      "concepto": "Depósito en repositorio de acceso abierto",
+      "valor": "De forma simultánea a la fecha de publicación",
+      "ref": "art. 12.2 LOSU"
+    },
+    {
+      "concepto": "Presupuesto mínimo para programas propios de investigación",
+      "valor": "No inferior al 5 %",
+      "ref": "art. 57.7 LOSU"
+    },
+    {
+      "concepto": "Presupuesto mínimo de investigación en universidades privadas",
+      "valor": "No inferior al 5 %",
+      "ref": "art. 100.3 LOSU"
+    },
+    {
+      "concepto": "Excedencia para incorporarse a empresas basadas en el conocimiento",
+      "valor": "Máximo 5 años, con reserva de puesto y cómputo de antigüedad",
+      "ref": "art. 61.3 LOSU"
+    },
+    {
+      "concepto": "Reserva de plazas para investigadores I3 o R3",
+      "valor": "Mínimo 15 % anual de las plazas de cuerpos docentes y personal permanente laboral",
+      "ref": "art. 71.1.c LOSU"
+    },
+    {
+      "concepto": "Adaptación de títulos con mención dual a la contratación formativa en alternancia",
+      "valor": "Hasta el curso 2026-2027",
+      "ref": "DT 10.ª LOSU"
+    },
+    {
+      "concepto": "ULL: parte de la cantidad restante de un contrato de investigación para la Universidad",
+      "valor": "Al menos el 15 %",
+      "ref": "art. 68.7 EULL"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Título oficial",
+      "definicion": "Título de Grado, Máster Universitario o Doctorado con validez y eficacia en todo el Estado, verificado e inscrito en el RUCT (arts. 7 y 8 LOSU)."
+    },
+    {
+      "termino": "Título propio",
+      "definicion": "Título expedido por la universidad en ejercicio de su autonomía, sin carácter oficial, que no puede inducir a confusión con los oficiales (art. 7.4 LOSU)."
+    },
+    {
+      "termino": "RUCT",
+      "definicion": "Registro de Universidades, Centros y Títulos; la inscripción del título oficial es constitutiva y le da la consideración inicial de acreditado (art. 7.3 LOSU)."
+    },
+    {
+      "termino": "Verificación",
+      "definicion": "Comprobación por el Consejo de Universidades de la adecuación del plan de estudios de un título oficial, previo informe favorable de la agencia de calidad (arts. 8.2 y 16.1.e LOSU)."
+    },
+    {
+      "termino": "Microcredencial",
+      "definicion": "Enseñanza propia de corta duración, de menos de 15 ECTS, que certifica resultados de aprendizaje (art. 7.5 LOSU; art. 37.8 RD 822/2021)."
+    },
+    {
+      "termino": "Formación a lo largo de la vida",
+      "definicion": "Formación permanente dirigida a toda la ciudadanía, con o sin titulación previa, considerada dimensión esencial de la función docente universitaria."
+    },
+    {
+      "termino": "ECTS",
+      "definicion": "Sistema Europeo de Transferencia de Créditos; unidad de medida de los planes de estudio cuyas directrices fija el Gobierno (art. 9.6 LOSU)."
+    },
+    {
+      "termino": "Mención dual",
+      "definicion": "Modalidad de título oficial con formación en entidad colaboradora que debe adaptarse a la contratación laboral formativa en alternancia (arts. 9.8 y DT 10.ª LOSU)."
+    },
+    {
+      "termino": "Doctorado con mención industrial",
+      "definicion": "Doctorado desarrollado en colaboración con una empresa o entidad, que exige convenio con la universidad y puede usar el contrato predoctoral del art. 21 LCTI (art. 9.7 LOSU)."
+    },
+    {
+      "termino": "Homologación",
+      "definicion": "Equiparación de un título extranjero con un título oficial español concreto (art. 10.b LOSU)."
+    },
+    {
+      "termino": "Declaración de equivalencia",
+      "definicion": "Equiparación de un título extranjero con el nivel académico de Grado o Máster, sin referirlo a un título concreto (art. 10.c LOSU)."
+    },
+    {
+      "termino": "Ciencia Abierta",
+      "definicion": "Consideración del conocimiento científico como bien común mediante el acceso abierto a publicaciones, datos, códigos y metodologías (art. 12.1 LOSU)."
+    },
+    {
+      "termino": "Principios FAIR",
+      "definicion": "Datos de investigación fáciles de encontrar, accesibles, interoperables y reutilizables (art. 12.5 LOSU)."
+    },
+    {
+      "termino": "Ciencia Ciudadana",
+      "definicion": "Generación de conocimiento compartido entre la ciudadanía y el sistema universitario de investigación (art. 12.10 LOSU)."
+    },
+    {
+      "termino": "Empresa basada en el conocimiento",
+      "definicion": "Entidad creada o participada por la universidad a partir de patentes o resultados de investigación financiados con fondos públicos (art. 61 LOSU)."
+    },
+    {
+      "termino": "Contrato del art. 60",
+      "definicion": "Contrato de grupos, departamentos, institutos o profesorado con personas físicas o entidades para trabajos científicos, técnicos, humanísticos o artísticos o formación específica (antiguo art. 83 LOU)."
+    },
+    {
+      "termino": "Certificado R3",
+      "definicion": "Certificado de investigador establecido que, junto con la evaluación del Programa I3, da acceso a la reserva mínima del 15 % de plazas (art. 71.1.c LOSU)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Escalera de la formación permanente",
+      "texto": "Máster 60-90-120, Especialización 30-59, Experto menos de 30, microcredencial menos de 15. Cada peldaño baja."
+    },
+    {
+      "titulo": "CA-Agencia-Consejo-CA",
+      "texto": "Implantar un título oficial: la Comunidad Autónoma informa, la Agencia evalúa la memoria, el Consejo de Universidades verifica y la Comunidad Autónoma autoriza. Luego el Gobierno declara oficial y el Rector publica."
+    },
+    {
+      "titulo": "FAIR",
+      "texto": "Fácil de encontrar, Accesible, Interoperable, Reutilizable. Y el depósito, a la vez que se publica."
+    },
+    {
+      "titulo": "Cinco y cinco",
+      "texto": "Un 5 % del presupuesto para investigación propia y un máximo de 5 años de excedencia para irse a una spin-off."
+    },
+    {
+      "titulo": "Homologar es a título; equivaler es a nivel",
+      "texto": "Homologación: a un título español concreto. Equivalencia: a un nivel de Grado o Máster."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué título de la LOSU regula la organización de enseñanzas?",
+      "reverso": "El título III (arts. 6 a 10).",
+      "ref": "LOSU"
+    },
+    {
+      "frente": "¿Qué título de la LOSU regula la investigación y transferencia?",
+      "reverso": "El título IV (arts. 11 a 13), dictado al amparo del art. 149.1.15.ª CE.",
+      "ref": "DF 6.ª LOSU"
+    },
+    {
+      "frente": "¿Cómo debe ser preferentemente la docencia?",
+      "reverso": "Presencial, aunque puede ser virtual o híbrida.",
+      "ref": "art. 6.1 LOSU"
+    },
+    {
+      "frente": "¿Quién ejerce la función docente?",
+      "reverso": "El profesorado universitario; es derecho y deber del PDI.",
+      "ref": "art. 6.1 LOSU"
+    },
+    {
+      "frente": "¿En qué participa el estudiantado según el art. 6.2?",
+      "reverso": "En la elaboración, seguimiento y actualización de los planes de estudio y sus efectos en las guías docentes.",
+      "ref": "art. 6.2 LOSU"
+    },
+    {
+      "frente": "Efectos de la inscripción de un título oficial en el RUCT",
+      "reverso": "Constitutivos respecto de su creación y consideración inicial de título acreditado.",
+      "ref": "art. 7.3 LOSU"
+    },
+    {
+      "frente": "¿Qué modalidades cita la LOSU para la formación a lo largo de la vida?",
+      "reverso": "Microcredenciales, micromódulos u otros programas de corta duración.",
+      "ref": "art. 7.5 LOSU"
+    },
+    {
+      "frente": "Créditos de una microcredencial",
+      "reverso": "Menos de 15 ECTS.",
+      "ref": "art. 37.8 RD 822/2021"
+    },
+    {
+      "frente": "Créditos del Diploma de Especialización y del Diploma de Experto",
+      "reverso": "Especialización: 30 a 59 ECTS; Experto: menos de 30 ECTS.",
+      "ref": "art. 37.6 RD 822/2021"
+    },
+    {
+      "frente": "¿Quién expide los títulos oficiales?",
+      "reverso": "El Rector o Rectora, en nombre del Rey.",
+      "ref": "art. 8.1 LOSU"
+    },
+    {
+      "frente": "¿Quién verifica el plan de estudios de un título oficial?",
+      "reverso": "El Consejo de Universidades.",
+      "ref": "art. 8.2 LOSU"
+    },
+    {
+      "frente": "¿Quién autoriza la implantación de un título oficial?",
+      "reverso": "La Comunidad Autónoma.",
+      "ref": "art. 8.2 LOSU"
+    },
+    {
+      "frente": "¿Quién ordena publicar el plan de estudios y dónde?",
+      "reverso": "El Rector, en el BOE y en el diario oficial de la Comunidad Autónoma.",
+      "ref": "art. 8.3 LOSU"
+    },
+    {
+      "frente": "Finalidad del Grado",
+      "reverso": "Formación básica y generalista en una disciplina determinada.",
+      "ref": "art. 9.2 LOSU"
+    },
+    {
+      "frente": "Finalidad del Máster Universitario",
+      "reverso": "Formación avanzada, especializada o multidisciplinar, para la especialización académica o profesional o la iniciación investigadora.",
+      "ref": "art. 9.3 LOSU"
+    },
+    {
+      "frente": "Menciones del título de Doctor que regulará el real decreto",
+      "reverso": "Internacional e industrial.",
+      "ref": "art. 9.7 LOSU"
+    },
+    {
+      "frente": "Requisito del doctorado con mención industrial",
+      "reverso": "Convenio con la universidad; puede desarrollarse con el contrato predoctoral del art. 21 LCTI.",
+      "ref": "art. 9.7 LOSU"
+    },
+    {
+      "frente": "Naturaleza de las prácticas académicas externas",
+      "reverso": "Actividad de naturaleza plenamente formativa que complementa la formación académica.",
+      "ref": "art. 9.5 LOSU"
+    },
+    {
+      "frente": "¿Quién regula la homologación y equivalencia de títulos extranjeros?",
+      "reverso": "El Gobierno, previo informe del Consejo de Universidades.",
+      "ref": "art. 10 LOSU"
+    },
+    {
+      "frente": "Grados expedidos por universidades de la UE",
+      "reverso": "Son equivalentes, a todos los efectos, a los españoles.",
+      "ref": "art. 10.c LOSU"
+    },
+    {
+      "frente": "¿Qué ocurre con los títulos de Licenciado o Diplomado?",
+      "reverso": "Mantienen plena vigencia académica, administrativa y profesional.",
+      "ref": "DA 10.ª LOSU"
+    },
+    {
+      "frente": "¿Cómo puede desarrollar el PDI docencia e investigación?",
+      "reverso": "Con intensidades distintas a lo largo de su trayectoria.",
+      "ref": "art. 11.2 LOSU"
+    },
+    {
+      "frente": "¿Cuándo debe depositarse la versión final aceptada en repositorio abierto?",
+      "reverso": "De forma simultánea a la fecha de publicación.",
+      "ref": "art. 12.2 LOSU"
+    },
+    {
+      "frente": "Principios FAIR",
+      "reverso": "Datos fáciles de encontrar, accesibles, interoperables y reutilizables.",
+      "ref": "art. 12.5 LOSU"
+    },
+    {
+      "frente": "Porcentaje mínimo del presupuesto para investigación propia",
+      "reverso": "5 %.",
+      "ref": "art. 57.7 LOSU"
+    },
+    {
+      "frente": "¿Quiénes pueden celebrar contratos del art. 60 LOSU?",
+      "reverso": "Grupos de investigación reconocidos, departamentos, institutos universitarios de investigación y su profesorado.",
+      "ref": "art. 60.1 LOSU"
+    },
+    {
+      "frente": "Duración máxima de la excedencia para incorporarse a una empresa basada en el conocimiento",
+      "reverso": "Cinco años, con reserva de puesto y cómputo de antigüedad.",
+      "ref": "art. 61.3 LOSU"
+    },
+    {
+      "frente": "¿Qué aprobación exige crear fundaciones del sector público?",
+      "reverso": "La del Consejo Social.",
+      "ref": "art. 63 LOSU"
+    },
+    {
+      "frente": "Reserva de plazas para investigadores I3 o R3",
+      "reverso": "Mínimo del 15 % anual de las plazas de cuerpos docentes y personal permanente laboral.",
+      "ref": "art. 71.1.c LOSU"
+    },
+    {
+      "frente": "ULL: ¿quién elabora los planes de estudio oficiales?",
+      "reverso": "Las Juntas de Facultad o Escuela; los aprueba el Consejo de Gobierno.",
+      "ref": "arts. 59 y 15.o EULL"
+    },
+    {
+      "frente": "ULL: porcentaje del remanente de un contrato de investigación para la Universidad",
+      "reverso": "Al menos el 15 %, dedicado a promoción de la investigación.",
+      "ref": "art. 68.7 EULL"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el art. 6.1 LOSU, la docencia universitaria:",
+      "opciones": [
+        "Podrá impartirse indistintamente de forma presencial o virtual a elección del profesorado",
+        "Será exclusivamente presencial en los títulos oficiales",
+        "Será preferentemente presencial, pudiendo impartirse también de manera virtual o híbrida",
+        "Será virtual en los títulos propios y presencial en los oficiales"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 6.1, párrafo tercero, dice literalmente que la docencia, preferentemente presencial, podrá impartirse también de manera virtual o híbrida.",
+      "ref": "art. 6.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La función docente en la universidad la ejerce, según la LOSU:",
+      "opciones": [
+        "El profesorado universitario",
+        "El personal docente e investigador y el personal investigador en formación por igual",
+        "Los departamentos",
+        "Las facultades y escuelas"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 6.1 LOSU: la función docente la ejerce el profesorado universitario.",
+      "ref": "art. 6.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La docencia constituye, según la LOSU:",
+      "opciones": [
+        "Una función delegable en el personal técnico",
+        "Un deber del personal docente e investigador, pero no un derecho",
+        "Un derecho exclusivo del profesorado funcionario",
+        "Un derecho y un deber del personal docente e investigador"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 6.1, párrafo segundo. Lo mismo dice el art. 11.2 de la investigación.",
+      "ref": "art. 6.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Deberá garantizarse la plena y efectiva participación del estudiantado en:",
+      "opciones": [
+        "La selección del profesorado de su centro",
+        "La elaboración, seguimiento y actualización de los planes de estudio y sus efectos en las guías docentes",
+        "La aprobación de los presupuestos del departamento",
+        "La verificación de los títulos por el Consejo de Universidades"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 6.2 LOSU.",
+      "ref": "art. 6.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 6.5 LOSU, las universidades deberán evaluar la calidad de la actividad docente:",
+      "opciones": [
+        "Cada seis años, mediante la ANECA",
+        "Permanentemente, garantizando al estudiantado una participación efectiva",
+        "Anualmente, por el Consejo Social",
+        "Solo con ocasión de la renovación de la acreditación de los títulos"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 6.5 habla de evaluación permanente con participación efectiva del estudiantado.",
+      "ref": "art. 6.5 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los títulos propios, según el art. 6.6 LOSU, podrán establecerse conjuntamente:",
+      "opciones": [
+        "Entre universidades y centros de Formación Profesional, con carácter oficial",
+        "Solo entre universidades españolas",
+        "Entre universidades y colegios profesionales, con validez en todo el Estado",
+        "Entre universidades y la Administración Pública, para orientar su contenido a las necesidades de determinados colectivos"
+      ],
+      "correcta": 3,
+      "explicacion": "Además de entre universidades, los títulos propios pueden establecerse conjuntamente con la Administración Pública (art. 6.6).",
+      "ref": "art. 6.6 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La inscripción de los títulos universitarios oficiales en el Registro de Universidades, Centros y Títulos:",
+      "opciones": [
+        "Tiene efectos constitutivos respecto de su creación y conlleva su consideración inicial como título acreditado",
+        "Tiene efectos meramente declarativos",
+        "Es voluntaria y a efectos informativos",
+        "Solo se exige para los títulos de Máster y Doctorado"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 7.3 LOSU. Los títulos no oficiales pueden inscribirse a efectos informativos.",
+      "ref": "art. 7.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de los títulos propios, el art. 7.4 LOSU obliga a las universidades a:",
+      "opciones": [
+        "Someterlos a verificación del Consejo de Universidades",
+        "Inscribirlos obligatoriamente en el RUCT",
+        "Evitar que su denominación o formato induzca a confusión con los oficiales e informar al estudiantado de su carácter",
+        "Expedirlos en nombre del Rey"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 7.4 LOSU. La inscripción en el RUCT de títulos no oficiales es solo informativa y la verificación es propia de los oficiales.",
+      "ref": "art. 7.4 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 7.5 LOSU, la formación a lo largo de la vida podrá desarrollarse mediante distintas modalidades, incluidas:",
+      "opciones": [
+        "Másteres Universitarios sin verificación",
+        "Títulos oficiales de Grado de 180 créditos",
+        "Doctorados de formación permanente",
+        "Microcredenciales, micromódulos u otros programas de corta duración"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 7.5 menciona expresamente microcredenciales, micromódulos u otros programas de corta duración.",
+      "ref": "art. 7.5 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Conforme al RD 822/2021, las microcredenciales o micromódulos son enseñanzas propias de:",
+      "opciones": [
+        "Menos de 30 créditos ECTS",
+        "Menos de 15 créditos ECTS",
+        "Entre 15 y 30 créditos ECTS",
+        "Menos de 6 créditos ECTS"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 37.8 RD 822/2021: enseñanzas propias de menos de 15 ECTS.",
+      "ref": "art. 37.8 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Diploma de Especialización, dentro de la formación permanente que requiere titulación universitaria previa, tiene una carga de:",
+      "opciones": [
+        "60, 90 o 120 créditos ECTS",
+        "Menos de 30 créditos ECTS",
+        "Entre 30 y 59 créditos ECTS",
+        "Entre 15 y 29 créditos ECTS"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 37.6 RD 822/2021: Máster de Formación Permanente (60, 90 o 120), Diploma de Especialización (30 a 59) y Diploma de Experto (menos de 30).",
+      "ref": "art. 37.6 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las directrices y condiciones para la obtención y expedición de los títulos universitarios oficiales las establece:",
+      "opciones": [
+        "El Gobierno, mediante real decreto, previo informe de la Conferencia General de Política Universitaria y del Consejo de Universidades",
+        "El Ministerio de Universidades, mediante orden, previo informe de la ANECA",
+        "Cada Comunidad Autónoma mediante decreto",
+        "El Consejo de Universidades mediante acuerdo"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 8.1 LOSU.",
+      "ref": "art. 8.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los títulos universitarios oficiales son expedidos:",
+      "opciones": [
+        "Por el Decano o Director del centro",
+        "Por el Ministro de Universidades",
+        "En nombre del Rey, por el Rector o Rectora de la universidad",
+        "Por la Comunidad Autónoma competente"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 8.1 LOSU.",
+      "ref": "art. 8.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El informe preceptivo y favorable sobre la necesidad y viabilidad académica y social de la implantación de un título oficial lo emite:",
+      "opciones": [
+        "La Comunidad Autónoma competente",
+        "El Consejo de Universidades",
+        "La agencia de calidad",
+        "El Consejo Social de la universidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 8.2 LOSU: la Comunidad Autónoma informa sobre necesidad y viabilidad; la agencia informa la memoria; el Consejo de Universidades verifica.",
+      "ref": "art. 8.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el procedimiento de implantación de un título oficial, la verificación del plan de estudios corresponde a:",
+      "opciones": [
+        "El Consejo de Gobierno de la universidad",
+        "La agencia de calidad correspondiente",
+        "La Conferencia General de Política Universitaria",
+        "El Consejo de Universidades"
+      ],
+      "correcta": 3,
+      "explicacion": "Arts. 8.2 y 16.1.e) LOSU.",
+      "ref": "art. 8.2 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Una vez establecido el carácter oficial del título e inscrito en el RUCT, ordenará publicar el plan de estudios en el BOE y en el diario oficial de la Comunidad Autónoma:",
+      "opciones": [
+        "El Ministro de Universidades",
+        "El Rector o Rectora",
+        "El Consejo de Universidades",
+        "El Consejero autonómico competente"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 8.3 LOSU.",
+      "ref": "art. 8.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Establecer el plazo máximo del que dispone la universidad para implantar e iniciar la docencia desde la publicación del plan de estudios corresponde a:",
+      "opciones": [
+        "Cada Comunidad Autónoma",
+        "El Gobierno, mediante real decreto",
+        "El Consejo de Universidades",
+        "La propia universidad en su memoria de verificación"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 8.4 LOSU.",
+      "ref": "art. 8.4 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, los estudios de Grado tienen como finalidad:",
+      "opciones": [
+        "La adquisición de competencias investigadoras",
+        "La formación avanzada de carácter especializado",
+        "La iniciación en tareas de investigación",
+        "La obtención de una formación básica y generalista en una disciplina determinada"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 9.2 LOSU. La formación avanzada y la iniciación investigadora corresponden al Máster (art. 9.3).",
+      "ref": "art. 9.2 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los estudios de Máster Universitario tienen como objetivo, según el art. 9.3 LOSU:",
+      "opciones": [
+        "La formación avanzada, especializada o multidisciplinar, dirigida a la especialización académica o profesional o a la iniciación en tareas de investigación",
+        "La formación básica y generalista",
+        "La adquisición de las competencias y habilidades concernientes a la investigación",
+        "La actualización profesional de personas sin titulación universitaria"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 9.3 LOSU.",
+      "ref": "art. 9.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las prácticas académicas externas en los estudios de Grado y Máster Universitario constituyen, según la LOSU:",
+      "opciones": [
+        "Una actividad obligatoria en todos los títulos",
+        "Una relación laboral especial",
+        "Una actividad de naturaleza plenamente formativa cuya finalidad es complementar la formación académica",
+        "Una actividad extracurricular sin reconocimiento de créditos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 9.5 LOSU.",
+      "ref": "art. 9.5 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El real decreto que apruebe los criterios para el título de Doctor regulará, entre otras, las menciones:",
+      "opciones": [
+        "Industrial y cum laude",
+        "Europea y empresarial",
+        "Internacional y dual",
+        "Internacional e industrial"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 9.7 LOSU.",
+      "ref": "art. 9.7 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El doctorado con mención industrial:",
+      "opciones": [
+        "Solo puede desarrollarse en empresas privadas sin financiación pública",
+        "Requerirá en todo caso un convenio con la universidad y podrá desarrollarse mediante el contrato predoctoral del art. 21 de la Ley 14/2011",
+        "Exige un contrato de acceso de personal investigador doctor",
+        "No requiere convenio si la empresa es pública"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 9.7, párrafo segundo, LOSU.",
+      "ref": "art. 9.7 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Entre las estrategias de innovación docente que el art. 9.8 LOSU permite desarrollar a las universidades NO figura:",
+      "opciones": [
+        "La mención dual",
+        "Los títulos oficiales con itinerario abierto",
+        "La expedición de títulos oficiales sin verificación",
+        "Las dobles titulaciones"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 9.8 cita itinerario abierto, mención dual y dobles titulaciones; ningún título oficial puede eludir la verificación.",
+      "ref": "art. 9.8 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el RD 822/2021, los planes de estudios de Grado tendrán con carácter general:",
+      "opciones": [
+        "240 créditos ECTS",
+        "180 créditos ECTS",
+        "300 créditos ECTS",
+        "Entre 180 y 240 créditos ECTS"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 14.1 RD 822/2021: 240 ECTS salvo legislación específica o de la UE (300 o 360).",
+      "ref": "art. 14.1 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los planes de estudios de Máster Universitario contarán con:",
+      "opciones": [
+        "60 o 120 créditos ECTS",
+        "Entre 30 y 60 créditos ECTS",
+        "60, 90 o 120 créditos ECTS",
+        "90 créditos ECTS en todo caso"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 17.1 RD 822/2021.",
+      "ref": "art. 17.1 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El trabajo de fin de Máster podrá tener, según el RD 822/2021:",
+      "opciones": [
+        "Un mínimo de 6 y un máximo de 30 créditos ECTS",
+        "Un mínimo de 12 y un máximo de 24 créditos ECTS",
+        "Entre 6 y 24 créditos ECTS",
+        "Un máximo de 15 créditos ECTS"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 17.4 RD 822/2021. El TFG de un Grado de 240 va de 6 a 24.",
+      "ref": "art. 17.4 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Regular las condiciones de homologación de títulos oficiales extranjeros corresponde, según el art. 10 LOSU:",
+      "opciones": [
+        "A las Comunidades Autónomas",
+        "A cada universidad",
+        "A la ANECA",
+        "Al Gobierno, previo informe del Consejo de Universidades"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 10 LOSU (letra b).",
+      "ref": "art. 10 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los títulos de Grado expedidos por universidades de los Estados miembros de la Unión Europea serán, según el art. 10.c) LOSU:",
+      "opciones": [
+        "Equivalentes solo a efectos académicos",
+        "Equivalentes, a todos los efectos, a los expedidos por universidades españolas",
+        "Homologables previa prueba de conjunto",
+        "Equivalentes solo si el Grado tiene 240 ECTS"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 10.c) LOSU.",
+      "ref": "art. 10.c LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los criterios de convalidación y adaptación de estudios deben estructurarse, entre otros, de acuerdo con el Convenio sobre reconocimiento de cualificaciones de educación superior en la Región Europea hecho en:",
+      "opciones": [
+        "Bolonia el 19 de junio de 1999",
+        "Lisboa el 11 de abril de 1997",
+        "Estrasburgo el 5 de mayo de 1949",
+        "Madrid el 21 de mayo de 1980"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 10.a) LOSU: Convenio de Lisboa de 11 de abril de 1997 (número 165 del Consejo de Europa). El de Madrid de 1980 es el de cooperación transfronteriza del art. 31.5.",
+      "ref": "art. 10.a LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los títulos de Diplomado Universitario, Licenciado o Ingeniero de anteriores ordenaciones:",
+      "opciones": [
+        "Solo conservan efectos académicos",
+        "Deben adaptarse a Grado antes de 2030",
+        "Equivalen automáticamente a Máster Universitario",
+        "Mantienen su plena vigencia académica, administrativa y profesional"
+      ],
+      "correcta": 3,
+      "explicacion": "DA 10.ª LOSU.",
+      "ref": "DA 10.ª LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las universidades que tuvieran títulos oficiales con mención dual a la entrada en vigor de la LOSU disponen, para adaptarse al modelo de contratación laboral formativa en alternancia, de un periodo transitorio hasta:",
+      "opciones": [
+        "El curso 2026-2027",
+        "El curso 2024-2025",
+        "El 31 de diciembre de 2024",
+        "El curso 2027-2028"
+      ],
+      "correcta": 0,
+      "explicacion": "DT 10.ª LOSU.",
+      "ref": "DT 10.ª LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, la investigación es:",
+      "opciones": [
+        "Un deber exclusivo del profesorado funcionario",
+        "Una función accesoria de las universidades",
+        "Una de las funciones fundamentales de las universidades y un derecho y un deber del PDI",
+        "Una función propia de los institutos de investigación, no de los departamentos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 11.1 y 11.2 LOSU.",
+      "ref": "art. 11 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El art. 11.2 LOSU permite que el PDI desarrolle la docencia y la investigación:",
+      "opciones": [
+        "Con dedicación exclusiva a una de ellas a su elección",
+        "Siempre con la misma dedicación a ambas",
+        "Solo investigación durante los primeros seis años",
+        "Con intensidades distintas a lo largo de su trayectoria académica"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 11.2 LOSU, sin perjuicio de las normas de cada universidad.",
+      "ref": "art. 11.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 11.7 LOSU, en la evaluación de la actividad del PDI constituirá un mérito:",
+      "opciones": [
+        "La antigüedad en el departamento",
+        "La interdisciplinariedad o multidisciplinariedad en la investigación",
+        "La publicación exclusivamente en revistas de pago",
+        "El número de horas de docencia impartidas"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 11.7 LOSU.",
+      "ref": "art. 11.7 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Del título IV de la LOSU, tiene carácter de ley orgánica:",
+      "opciones": [
+        "Solo el art. 12",
+        "Todo el título IV",
+        "El art. 11, salvo sus apartados 4 y 5",
+        "Ninguno de sus artículos"
+      ],
+      "correcta": 2,
+      "explicacion": "DF 7.ª LOSU.",
+      "ref": "DF 7.ª LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 12.2 LOSU, el personal docente e investigador deberá depositar una copia de la versión final aceptada para publicación y los datos asociados en repositorios de acceso abierto:",
+      "opciones": [
+        "De forma simultánea a la fecha de publicación",
+        "En el plazo máximo de seis meses desde la publicación",
+        "En el plazo máximo de doce meses desde la publicación",
+        "Antes de enviar el artículo a la revista"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 12.2 LOSU: depósito simultáneo a la fecha de publicación.",
+      "ref": "art. 12.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los datos de investigación deberán seguir los principios FAIR, que significan que deben ser:",
+      "opciones": [
+        "Financiados, abiertos, independientes y reproducibles",
+        "Fiables, auditados, íntegros y registrados",
+        "Fáciles de encontrar, accesibles, interoperables y reutilizables",
+        "Formales, anonimizados, inmutables y reservados"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 12.5 LOSU.",
+      "ref": "art. 12.5 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 12.1 LOSU, el conocimiento científico tendrá la consideración de:",
+      "opciones": [
+        "Bien común",
+        "Bien patrimonial de la universidad",
+        "Secreto empresarial hasta su publicación",
+        "Dominio público estatal"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 12.1 LOSU.",
+      "ref": "art. 12.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La Ciencia Abierta regulada en el art. 12 LOSU:",
+      "opciones": [
+        "Solo se aplica a las universidades privadas",
+        "Impide solicitar patentes sobre resultados financiados con fondos públicos",
+        "Obliga a publicar los datos personales de los participantes en los estudios",
+        "Es compatible con la adopción de medidas para proteger, antes de la publicación, los derechos sobre los resultados de la investigación"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 12.11 LOSU: compatible con proteger previamente la propiedad intelectual e industrial, obtenciones vegetales o secreto empresarial.",
+      "ref": "art. 12.11 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Ciencia Ciudadana se promoverá especialmente en colaboración con:",
+      "opciones": [
+        "Las editoriales científicas",
+        "Las Comunidades Autónomas y la Administración Local",
+        "Las universidades privadas",
+        "La Unión Europea exclusivamente"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 12.10 LOSU.",
+      "ref": "art. 12.10 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Entre las actuaciones de fomento del art. 13.1 LOSU, en las actividades para conectar las universidades con otros centros y reforzar las vocaciones científicas se atenderá especialmente a criterios de:",
+      "opciones": [
+        "Mérito, capacidad y antigüedad",
+        "Renta, origen, territorio y género",
+        "Rendimiento académico exclusivamente",
+        "Nacionalidad y residencia"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 13.1.a) LOSU.",
+      "ref": "art. 13.1.a LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El art. 13 LOSU, relativo al desarrollo de proyectos de investigación y transferencia fomentados por las Administraciones Públicas:",
+      "opciones": [
+        "Tiene carácter orgánico",
+        "Se aplica por igual a universidades públicas y privadas",
+        "Solo se aplica a las universidades privadas",
+        "No es aplicable a las universidades privadas, aunque podrá facilitarse la participación de las de carácter social sin ánimo de lucro declaradas de interés público"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 95.2 excluye expresamente el art. 13 para las privadas, con esa salvedad.",
+      "ref": "art. 95.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las universidades públicas dedicarán a programas propios de investigación un porcentaje de su presupuesto no inferior al:",
+      "opciones": [
+        "5 por ciento",
+        "3 por ciento",
+        "10 por ciento",
+        "1 por ciento"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 57.7 LOSU (el mismo 5 % se exige a las privadas en el art. 100.3). El 1 % es el objetivo de gasto público sobre el PIB del art. 55.2.",
+      "ref": "art. 57.7 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 58.7 LOSU, la investigación que realizan las universidades:",
+      "opciones": [
+        "Solo puede financiarse con fondos públicos",
+        "Es una actividad no económica exenta de toda regulación",
+        "Constituye una actividad económica que se desarrolla mediante la investigación básica y aplicada",
+        "Debe realizarse exclusivamente a través de fundaciones"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 58.7 LOSU.",
+      "ref": "art. 58.7 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Pueden celebrar contratos para la realización de trabajos de carácter científico, tecnológico, humanístico o artístico conforme al art. 60 LOSU:",
+      "opciones": [
+        "Solo el profesorado funcionario a título personal",
+        "Solo el Rector en nombre de la universidad",
+        "Solo las fundaciones universitarias",
+        "Los grupos de investigación reconocidos, los departamentos, los institutos universitarios de investigación y su profesorado"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 60.1 LOSU.",
+      "ref": "art. 60.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La excedencia temporal para incorporarse a una empresa basada en el conocimiento participada por la universidad podrá concederse por un tiempo máximo de:",
+      "opciones": [
+        "Dos años",
+        "Cinco años",
+        "Tres años",
+        "Diez años"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 61.3 LOSU; con reserva del puesto y cómputo de antigüedad.",
+      "ref": "art. 61.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si finalizada la excedencia del art. 61.3 LOSU la persona interesada no solicita el reingreso, será declarada de oficio en situación de:",
+      "opciones": [
+        "Suspensión de funciones",
+        "Servicios especiales",
+        "Excedencia voluntaria por interés particular",
+        "Excedencia forzosa"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 61.3 LOSU.",
+      "ref": "art. 61.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los proyectos de investigación, desarrollo e innovación encomendados a las universidades públicas, siempre que sean autónomos en su objeto, tendrán la consideración de unidades funcionales separadas a efectos de:",
+      "opciones": [
+        "El cálculo del valor estimado de los contratos del art. 101.6 LCSP",
+        "La aplicación de la Ley General de Subvenciones",
+        "La rendición de cuentas ante el Tribunal de Cuentas",
+        "El cómputo de la plantilla de personal"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 62 LOSU.",
+      "ref": "art. 62 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Para que una universidad pública cree fundaciones del sector público u otras personas jurídicas públicas se requiere la aprobación de:",
+      "opciones": [
+        "La Conferencia General de Política Universitaria",
+        "El Claustro",
+        "El Consejo Social",
+        "El Consejo de Universidades"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 63 LOSU. En la ULL, el Consejo de Gobierno propone al Consejo Social (art. 15.x EULL).",
+      "ref": "art. 63 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el cómputo anual de plazas ofertadas para cuerpos docentes y personal permanente laboral, se reservará para personal investigador doctor con evaluación I3 o certificado R3 un mínimo del:",
+      "opciones": [
+        "15 por ciento",
+        "8 por ciento",
+        "10 por ciento",
+        "25 por ciento"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 71.1.c) LOSU; las vacantes se acumulan al turno libre de ese año.",
+      "ref": "art. 71.1.c LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 77.1 LOSU, NO es una modalidad de contratación de personal investigador de la Ley 14/2011 que puedan utilizar las universidades:",
+      "opciones": [
+        "El contrato de actividades científico-técnicas",
+        "El contrato predoctoral",
+        "El contrato de acceso de personal investigador doctor",
+        "El contrato de Profesor Visitante"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 77.1 cita predoctoral, acceso de personal investigador doctor, investigador distinguido y actividades científico-técnicas. El Profesor Visitante es figura de PDI laboral de la LOSU (art. 83).",
+      "ref": "art. 77.1 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la Universidad de La Laguna, los planes de estudio de carácter oficial son elaborados por:",
+      "opciones": [
+        "El Consejo Social",
+        "Las Juntas de Facultad o de Escuela, o los órganos que corresponda en el resto de casos, según la normativa del Consejo de Gobierno",
+        "Los Consejos de Departamento",
+        "El Vicerrectorado competente en exclusiva"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 59.1 EULL. Su aprobación corresponde al Consejo de Gobierno (art. 15.o EULL).",
+      "ref": "art. 59.1 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la ULL, de la cantidad restante de un contrato de investigación, una vez descontados gastos e impuestos, corresponderá a la Universidad y se dedicará a la promoción de la investigación al menos:",
+      "opciones": [
+        "El diez por ciento",
+        "El quince por ciento",
+        "El veinte por ciento",
+        "El cinco por ciento"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 68.7 EULL.",
+      "ref": "art. 68.7 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En la ULL, cuando un contrato de investigación lo suscribe el personal investigador responsable de un grupo, se requiere:",
+      "opciones": [
+        "Ninguna autorización si el importe es inferior a 15.000 euros",
+        "Únicamente la aprobación del Consejo Social",
+        "La autorización del Consejo de Gobierno en pleno",
+        "La previa autorización del Rector o la Rectora y la conformidad del órgano competente"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 68.3 EULL, para los supuestos b), c), d) y e) del art. 68.2.",
+      "ref": "art. 68.3 EULL",
+      "dificultad": 2
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "La LOSU. El nuevo manual universitario. Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
+      "url": "https://www.youtube.com/watch?v=bxTfvduSxQk",
+      "canal": "Yolanda Núñez"
+    },
+    {
+      "titulo": "Una visión con perspectiva de la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
+      "url": "https://www.youtube.com/watch?v=zZm-p63m2Ls",
+      "canal": "Universidad de Alcalá"
+    },
+    {
+      "titulo": "Ley Orgánica 2/2023, del Sistema Universitario. Audio de la ley completa",
+      "url": "https://www.youtube.com/watch?v=yggoH7_heZ4",
+      "canal": "Sí hay derecho"
+    },
+    {
+      "titulo": "Test 002. Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
+      "url": "https://www.youtube.com/watch?v=4a0jAbMOdXI",
+      "canal": "Roberto Carpintero"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "BOE: Ley Orgánica 2/2023, del Sistema Universitario (texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500"
+    },
+    {
+      "titulo": "BOE: Real Decreto 822/2021, organización de las enseñanzas universitarias",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15781"
+    },
+    {
+      "titulo": "ACCUEE: verificación y modificación de títulos oficiales",
+      "url": "https://www3.gobiernodecanarias.org/educacion/accuee/universitario/titofi/vermod"
+    },
+    {
+      "titulo": "Normativa de la Universidad de La Laguna",
+      "url": "https://www.ull.es/portal/normativa/"
+    }
+  ]
+}

@@ -1,0 +1,1324 @@
+{
+  "claves": [
+    "El derecho a la protección de datos es un derecho fundamental autónomo basado en el art. 18.4 CE, distinto del derecho a la intimidad.",
+    "El RGPD es directamente aplicable desde el 25 de mayo de 2018; la LOPDGDD lo adapta y completa y además garantiza los derechos digitales.",
+    "Los principios del art. 5 RGPD son licitud, lealtad y transparencia, limitación de la finalidad, minimización, exactitud, limitación del plazo de conservación, integridad y confidencialidad, más la responsabilidad proactiva.",
+    "Las Administraciones tratan datos sobre todo con base en una obligación legal o en una misión de interés público, que en España exigen norma con rango de ley (art. 8 LOPDGDD).",
+    "En España el menor puede consentir el tratamiento de sus datos a partir de los 14 años (art. 7 LOPDGDD).",
+    "Los derechos deben atenderse en un mes, prorrogable dos meses más, y son gratuitos salvo solicitudes manifiestamente infundadas o excesivas (art. 12 RGPD).",
+    "La portabilidad no se aplica a los tratamientos necesarios para una misión de interés público o el ejercicio de poderes públicos (art. 20.3 RGPD).",
+    "Las violaciones de seguridad se notifican a la autoridad de control en 72 horas y al interesado solo si hay alto riesgo (arts. 33 y 34 RGPD).",
+    "El bloqueo de datos es una figura española: al rectificar o suprimir, los datos se reservan solo para exigir responsabilidades durante su prescripción (art. 32 LOPDGDD).",
+    "Las autoridades y organismos públicos y las universidades deben designar un DPD, cuya designación se comunica a la AEPD en diez días (art. 37 RGPD y art. 34 LOPDGDD).",
+    "El DPD actúa sin instrucciones, no puede ser destituido ni sancionado por desempeñar sus funciones salvo dolo o negligencia grave y no está sujeto al régimen sancionador.",
+    "La AEPD es una autoridad administrativa independiente que se relaciona con el Gobierno a través del Ministerio de Justicia; su Presidencia tiene un mandato de cinco años renovable.",
+    "A las Administraciones y universidades públicas no se les imponen multas: la autoridad declara la infracción, ordena medidas y puede proponer actuaciones disciplinarias (art. 77 LOPDGDD).",
+    "Canarias no tiene autoridad autonómica de protección de datos, por lo que la AEPD es la autoridad de control de la ULL.",
+    "La LOPDGDD reconoce derechos digitales como la desconexión digital de trabajadores y empleados públicos, la intimidad frente a dispositivos y el derecho al olvido."
+  ],
+  "plazos": [
+    {
+      "concepto": "Entrada en vigor del RGPD",
+      "valor": "A los 20 días de su publicación en el DOUE",
+      "ref": "art. 99.1 RGPD"
+    },
+    {
+      "concepto": "Aplicación del RGPD",
+      "valor": "Desde el 25 de mayo de 2018",
+      "ref": "art. 99.2 RGPD"
+    },
+    {
+      "concepto": "Entrada en vigor de la LOPDGDD",
+      "valor": "Día siguiente a su publicación en el BOE (6/12/2018)",
+      "ref": "DF 16.ª LOPDGDD"
+    },
+    {
+      "concepto": "Edad para consentir servicios de la sociedad de la información según el RGPD",
+      "valor": "16 años; los Estados pueden rebajarla hasta 13",
+      "ref": "art. 8.1 RGPD"
+    },
+    {
+      "concepto": "Edad para consentir el tratamiento en España",
+      "valor": "Mayores de 14 años",
+      "ref": "art. 7 LOPDGDD"
+    },
+    {
+      "concepto": "Plazo para responder al ejercicio de derechos",
+      "valor": "1 mes, prorrogable otros 2 meses",
+      "ref": "art. 12.3 RGPD"
+    },
+    {
+      "concepto": "Plazo para informar de la no actuación ante una solicitud",
+      "valor": "A más tardar 1 mes",
+      "ref": "art. 12.4 RGPD"
+    },
+    {
+      "concepto": "Información cuando los datos no se obtienen del interesado",
+      "valor": "Plazo razonable, como máximo 1 mes",
+      "ref": "art. 14.3 RGPD"
+    },
+    {
+      "concepto": "Ejercicio repetitivo del derecho de acceso",
+      "valor": "Más de una ocasión en 6 meses, salvo causa legítima",
+      "ref": "art. 13.3 LOPDGDD"
+    },
+    {
+      "concepto": "Exención del registro de actividades",
+      "valor": "Organizaciones de menos de 250 personas, con salvedades",
+      "ref": "art. 30.5 RGPD"
+    },
+    {
+      "concepto": "Notificación de una brecha a la autoridad de control",
+      "valor": "Sin dilación y, de ser posible, en 72 horas",
+      "ref": "art. 33.1 RGPD"
+    },
+    {
+      "concepto": "Respuesta de la autoridad en la consulta previa",
+      "valor": "8 semanas, prorrogables 6 semanas",
+      "ref": "art. 36.2 RGPD"
+    },
+    {
+      "concepto": "Mandato mínimo de los miembros de las autoridades de control",
+      "valor": "No inferior a 4 años",
+      "ref": "art. 54.1.d RGPD"
+    },
+    {
+      "concepto": "Comunicación de designación, nombramiento o cese del DPD",
+      "valor": "10 días",
+      "ref": "art. 34.3 LOPDGDD"
+    },
+    {
+      "concepto": "Respuesta del DPD al afectado que se dirige a él",
+      "valor": "Máximo 2 meses",
+      "ref": "art. 37.1 LOPDGDD"
+    },
+    {
+      "concepto": "Respuesta del DPD a la reclamación remitida por la AEPD",
+      "valor": "1 mes",
+      "ref": "art. 37.2 LOPDGDD"
+    },
+    {
+      "concepto": "Modificaciones presupuestarias que autoriza la Presidencia de la AEPD",
+      "valor": "Hasta el 3 % (el Ministerio de Hacienda hasta el 5 %)",
+      "ref": "art. 46.2 LOPDGDD"
+    },
+    {
+      "concepto": "Convocatoria pública para la Presidencia de la AEPD",
+      "valor": "2 meses antes de expirar el mandato",
+      "ref": "art. 48.3 LOPDGDD"
+    },
+    {
+      "concepto": "Ratificación de Presidencia y Adjunto de la AEPD",
+      "valor": "3/5 de la Comisión de Justicia; en segunda votación, mayoría absoluta",
+      "ref": "art. 48.3 LOPDGDD"
+    },
+    {
+      "concepto": "Mandato de la Presidencia y del Adjunto de la AEPD",
+      "valor": "5 años, renovable por otro igual",
+      "ref": "art. 48.5 LOPDGDD"
+    },
+    {
+      "concepto": "Reuniones del Consejo Consultivo de la AEPD",
+      "valor": "En todo caso, una vez al semestre",
+      "ref": "art. 49.4 LOPDGDD"
+    },
+    {
+      "concepto": "Reuniones de cooperación AEPD y autoridades autonómicas",
+      "valor": "Semestrales",
+      "ref": "art. 58 LOPDGDD"
+    },
+    {
+      "concepto": "Procedimiento por falta de atención de derechos",
+      "valor": "6 meses; vencido, puede considerarse estimada la reclamación",
+      "ref": "art. 64.1 LOPDGDD"
+    },
+    {
+      "concepto": "Procedimiento sancionador de la AEPD",
+      "valor": "12 meses desde el acuerdo de inicio; caducidad",
+      "ref": "art. 64.2 LOPDGDD"
+    },
+    {
+      "concepto": "Procedimiento de apercibimiento",
+      "valor": "6 meses desde el acuerdo de inicio; caducidad",
+      "ref": "art. 64.3 LOPDGDD"
+    },
+    {
+      "concepto": "Decisión sobre admisión a trámite de la reclamación",
+      "valor": "3 meses; si no, prosigue la tramitación",
+      "ref": "art. 65.5 LOPDGDD"
+    },
+    {
+      "concepto": "Respuesta del responsable a reclamación remitida por la AEPD",
+      "valor": "1 mes",
+      "ref": "art. 65.4 LOPDGDD"
+    },
+    {
+      "concepto": "Duración máxima de las actuaciones previas de investigación",
+      "valor": "18 meses",
+      "ref": "art. 67.2 LOPDGDD"
+    },
+    {
+      "concepto": "Prescripción de infracciones muy graves / graves / leves",
+      "valor": "3 años / 2 años / 1 año",
+      "ref": "arts. 72 a 74 LOPDGDD"
+    },
+    {
+      "concepto": "Reinicio de la prescripción por paralización del expediente",
+      "valor": "Más de 6 meses por causa no imputable al infractor",
+      "ref": "art. 75 LOPDGDD"
+    },
+    {
+      "concepto": "Publicación en el BOE de sanciones a personas jurídicas",
+      "valor": "Sanción superior a 1 millón de euros impuesta por la AEPD",
+      "ref": "art. 76.4 LOPDGDD"
+    },
+    {
+      "concepto": "Prescripción de sanciones",
+      "valor": "Hasta 40.000 euros: 1 año; 40.001 a 300.000: 2 años; más de 300.000: 3 años",
+      "ref": "art. 78 LOPDGDD"
+    },
+    {
+      "concepto": "Multa máxima del art. 83.4",
+      "valor": "10.000.000 euros o 2 % del volumen de negocio (la mayor)",
+      "ref": "art. 83.4 RGPD"
+    },
+    {
+      "concepto": "Multa máxima del art. 83.5 y 83.6",
+      "valor": "20.000.000 euros o 4 % del volumen de negocio (la mayor)",
+      "ref": "art. 83.5 RGPD"
+    },
+    {
+      "concepto": "Supresión de imágenes de videovigilancia",
+      "valor": "Máximo 1 mes desde la captación",
+      "ref": "art. 22.3 LOPDGDD"
+    },
+    {
+      "concepto": "Entrega de grabaciones a la autoridad",
+      "valor": "72 horas desde que se conoce la grabación",
+      "ref": "art. 22.3 LOPDGDD"
+    },
+    {
+      "concepto": "Identificación en la publicación de actos",
+      "valor": "Nombre y apellidos más 4 cifras aleatorias del documento",
+      "ref": "DA 7.ª LOPDGDD"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Dato personal",
+      "definicion": "Toda información sobre una persona física identificada o identificable (el interesado) (art. 4.1 RGPD)."
+    },
+    {
+      "termino": "Tratamiento",
+      "definicion": "Cualquier operación o conjunto de operaciones sobre datos personales, automatizadas o no, como la recogida, conservación, consulta, comunicación o supresión (art. 4.2 RGPD)."
+    },
+    {
+      "termino": "Seudonimización",
+      "definicion": "Tratamiento que impide atribuir los datos a un interesado sin información adicional custodiada por separado; los datos siguen siendo personales (art. 4.5 RGPD)."
+    },
+    {
+      "termino": "Responsable del tratamiento",
+      "definicion": "Persona física o jurídica, autoridad pública u organismo que, solo o junto con otros, determina los fines y medios del tratamiento (art. 4.7 RGPD)."
+    },
+    {
+      "termino": "Encargado del tratamiento",
+      "definicion": "Persona física o jurídica, autoridad pública u organismo que trata datos personales por cuenta del responsable (art. 4.8 RGPD)."
+    },
+    {
+      "termino": "Consentimiento",
+      "definicion": "Manifestación de voluntad libre, específica, informada e inequívoca, mediante declaración o clara acción afirmativa (art. 4.11 RGPD y art. 6 LOPDGDD)."
+    },
+    {
+      "termino": "Violación de la seguridad",
+      "definicion": "Violación que ocasiona la destrucción, pérdida o alteración accidental o ilícita de datos, o su comunicación o acceso no autorizados (art. 4.12 RGPD)."
+    },
+    {
+      "termino": "Responsabilidad proactiva",
+      "definicion": "Obligación del responsable de cumplir los principios y ser capaz de demostrarlo (art. 5.2 RGPD)."
+    },
+    {
+      "termino": "Minimización de datos",
+      "definicion": "Principio según el cual los datos serán adecuados, pertinentes y limitados a lo necesario para los fines (art. 5.1.c RGPD)."
+    },
+    {
+      "termino": "Bloqueo de datos",
+      "definicion": "Identificación y reserva de los datos al rectificarlos o suprimirlos, impidiendo su tratamiento salvo para exigir responsabilidades durante su prescripción (art. 32 LOPDGDD)."
+    },
+    {
+      "termino": "Evaluación de impacto (EIPD)",
+      "definicion": "Análisis previo obligatorio de los tratamientos que probablemente entrañen alto riesgo para los derechos y libertades (art. 35 RGPD)."
+    },
+    {
+      "termino": "Consulta previa",
+      "definicion": "Consulta a la autoridad de control cuando la EIPD revela un alto riesgo que el responsable no puede mitigar (art. 36 RGPD)."
+    },
+    {
+      "termino": "Delegado de Protección de Datos",
+      "definicion": "Figura designada por el responsable o encargado para informar, asesorar, supervisar el cumplimiento y ser punto de contacto con la autoridad de control (arts. 37 a 39 RGPD)."
+    },
+    {
+      "termino": "Registro de actividades de tratamiento",
+      "definicion": "Documento en el que el responsable o encargado describe sus tratamientos, fines, categorías de datos, destinatarios, plazos y medidas de seguridad (art. 30 RGPD)."
+    },
+    {
+      "termino": "Portabilidad",
+      "definicion": "Derecho a recibir los datos facilitados en formato estructurado, de uso común y lectura mecánica y a transmitirlos a otro responsable (art. 20 RGPD)."
+    },
+    {
+      "termino": "Agencia Española de Protección de Datos",
+      "definicion": "Autoridad administrativa independiente de ámbito estatal, con personalidad jurídica, que supervisa la aplicación del RGPD y la LOPDGDD (art. 44 LOPDGDD)."
+    },
+    {
+      "termino": "Circulares de la AEPD",
+      "definicion": "Disposiciones de la Presidencia que fijan los criterios de actuación de la Agencia; son obligatorias una vez publicadas en el BOE (art. 55 LOPDGDD)."
+    },
+    {
+      "termino": "Desconexión digital",
+      "definicion": "Derecho de trabajadores y empleados públicos a no conectarse fuera del tiempo de trabajo, para respetar su descanso e intimidad (art. 88 LOPDGDD)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Consentimiento LEII",
+      "texto": "Libre, Específico, Informado e Inequívoco, por declaración o clara acción afirmativa."
+    },
+    {
+      "titulo": "Edades 16-13-14",
+      "texto": "El RGPD fija 16 años, permite bajar hasta 13, y España eligió 14 (art. 7 LOPDGDD)."
+    },
+    {
+      "titulo": "Uno más dos",
+      "texto": "Derechos: 1 mes para responder más 2 meses de prórroga. El DPD: 2 meses si le reclama el afectado y 1 mes si se la remite la AEPD."
+    },
+    {
+      "titulo": "Brecha 72",
+      "texto": "Brecha de seguridad: 72 horas para avisar a la autoridad; al interesado, solo si el riesgo es alto."
+    },
+    {
+      "titulo": "Multas 10-2 y 20-4",
+      "texto": "Obligaciones del responsable: 10 millones o 2 %. Principios, derechos y transferencias: 20 millones o 4 %. Siempre la mayor cuantía."
+    },
+    {
+      "titulo": "Prescripción 3-2-1",
+      "texto": "Infracciones muy graves 3 años, graves 2 y leves 1. Sanciones: 1, 2 o 3 años según no superen 40.000, 300.000 o más euros."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Desde cuándo es aplicable el RGPD?",
+      "reverso": "Desde el 25 de mayo de 2018.",
+      "ref": "art. 99.2 RGPD"
+    },
+    {
+      "frente": "¿Qué doble objeto tiene la LOPDGDD?",
+      "reverso": "Adaptar el ordenamiento español al RGPD y completarlo, y garantizar los derechos digitales de la ciudadanía.",
+      "ref": "art. 1 LOPDGDD"
+    },
+    {
+      "frente": "¿Qué precepto constitucional ampara el derecho a la protección de datos?",
+      "reverso": "El art. 18.4 CE.",
+      "ref": "art. 1 LOPDGDD"
+    },
+    {
+      "frente": "¿Qué pueden hacer los familiares respecto de los datos de un fallecido?",
+      "reverso": "Solicitar acceso, rectificación o supresión, salvo que el fallecido lo prohibiera expresamente o lo establezca una ley.",
+      "ref": "art. 3 LOPDGDD"
+    },
+    {
+      "frente": "¿Cuáles son los principios del art. 5 RGPD?",
+      "reverso": "Licitud, lealtad y transparencia; limitación de la finalidad; minimización; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva.",
+      "ref": "art. 5 RGPD"
+    },
+    {
+      "frente": "¿Puede una Administración basar un tratamiento en el interés legítimo?",
+      "reverso": "No, cuando actúe en el ejercicio de sus funciones como autoridad pública.",
+      "ref": "art. 6.1 RGPD"
+    },
+    {
+      "frente": "¿Qué exige la LOPDGDD para tratar datos por obligación legal o interés público?",
+      "reverso": "Una norma de Derecho de la Unión o con rango de ley (obligación legal) o una competencia atribuida por norma con rango de ley (interés público).",
+      "ref": "art. 8 LOPDGDD"
+    },
+    {
+      "frente": "¿A partir de qué edad puede un menor consentir en España?",
+      "reverso": "Cuando sea mayor de catorce años.",
+      "ref": "art. 7 LOPDGDD"
+    },
+    {
+      "frente": "¿Basta el consentimiento para tratar datos cuya finalidad principal sea identificar la religión?",
+      "reverso": "No. El solo consentimiento no levanta la prohibición en ese caso.",
+      "ref": "art. 9.1 LOPDGDD"
+    },
+    {
+      "frente": "¿Cuánto dura el deber de confidencialidad?",
+      "reverso": "Se mantiene aunque haya finalizado la relación con el responsable o encargado.",
+      "ref": "art. 5.3 LOPDGDD"
+    },
+    {
+      "frente": "¿En qué plazo se responde a una solicitud de ejercicio de derechos?",
+      "reverso": "Un mes, prorrogable otros dos meses por complejidad o número de solicitudes.",
+      "ref": "art. 12.3 RGPD"
+    },
+    {
+      "frente": "¿Qué contenido mínimo tiene la información básica por capas?",
+      "reverso": "Identidad del responsable, finalidad del tratamiento y posibilidad de ejercer los derechos de los arts. 15 a 22 RGPD.",
+      "ref": "art. 11.2 LOPDGDD"
+    },
+    {
+      "frente": "¿Cuándo es repetitivo el derecho de acceso?",
+      "reverso": "Si se ejerce más de una vez en seis meses sin causa legítima.",
+      "ref": "art. 13.3 LOPDGDD"
+    },
+    {
+      "frente": "¿Cuándo no se aplica el derecho a la portabilidad?",
+      "reverso": "Al tratamiento necesario para una misión de interés público o el ejercicio de poderes públicos.",
+      "ref": "art. 20.3 RGPD"
+    },
+    {
+      "frente": "¿Qué garantías mínimas tiene quien es objeto de una decisión automatizada basada en contrato o consentimiento?",
+      "reverso": "Obtener intervención humana, expresar su punto de vista e impugnar la decisión.",
+      "ref": "art. 22.3 RGPD"
+    },
+    {
+      "frente": "¿Qué consecuencia tiene que el encargado determine los fines y medios del tratamiento?",
+      "reverso": "Será considerado responsable del tratamiento.",
+      "ref": "art. 28.10 RGPD"
+    },
+    {
+      "frente": "¿Qué deben publicar las Administraciones y universidades públicas sobre sus tratamientos?",
+      "reverso": "Un inventario de actividades de tratamiento, con su base legal, accesible por medios electrónicos.",
+      "ref": "art. 31.2 LOPDGDD"
+    },
+    {
+      "frente": "¿En qué consiste el bloqueo de datos?",
+      "reverso": "Identificar y reservar los datos al rectificarlos o suprimirlos, impidiendo su tratamiento salvo para exigir responsabilidades durante su prescripción.",
+      "ref": "art. 32 LOPDGDD"
+    },
+    {
+      "frente": "¿En qué plazo se notifica una brecha a la autoridad de control?",
+      "reverso": "Sin dilación indebida y, de ser posible, en 72 horas desde que se tuvo constancia.",
+      "ref": "art. 33.1 RGPD"
+    },
+    {
+      "frente": "¿Cuándo debe comunicarse la brecha a los interesados?",
+      "reverso": "Cuando sea probable que entrañe un alto riesgo para sus derechos y libertades.",
+      "ref": "art. 34.1 RGPD"
+    },
+    {
+      "frente": "¿En qué tres casos se exige en particular la EIPD?",
+      "reverso": "Perfiles con efectos jurídicos, categorías especiales a gran escala y observación sistemática a gran escala de zonas de acceso público.",
+      "ref": "art. 35.3 RGPD"
+    },
+    {
+      "frente": "¿Qué plazo tiene la autoridad para asesorar en la consulta previa?",
+      "reverso": "Ocho semanas, prorrogables seis semanas.",
+      "ref": "art. 36.2 RGPD"
+    },
+    {
+      "frente": "¿Por qué la ULL está obligada a designar DPD?",
+      "reverso": "Por ser organismo público (art. 37.1.a RGPD) y por ser universidad pública (art. 34.1.b LOPDGDD).",
+      "ref": "art. 37 RGPD; art. 34 LOPDGDD"
+    },
+    {
+      "frente": "¿En qué plazo se comunica a la AEPD la designación o cese del DPD?",
+      "reverso": "Diez días.",
+      "ref": "art. 34.3 LOPDGDD"
+    },
+    {
+      "frente": "¿Puede el DPD ser removido por el desempeño de sus funciones?",
+      "reverso": "No, salvo que incurra en dolo o negligencia grave en su ejercicio.",
+      "ref": "art. 36.2 LOPDGDD"
+    },
+    {
+      "frente": "¿A quién rinde cuentas el DPD?",
+      "reverso": "Directamente al más alto nivel jerárquico del responsable o encargado.",
+      "ref": "art. 38.3 RGPD"
+    },
+    {
+      "frente": "¿Se aplica el régimen sancionador al DPD?",
+      "reverso": "No.",
+      "ref": "art. 70.2 LOPDGDD"
+    },
+    {
+      "frente": "¿Cuánto tiene el DPD para responder a un afectado que acude a él antes de reclamar a la AEPD?",
+      "reverso": "Dos meses como máximo.",
+      "ref": "art. 37.1 LOPDGDD"
+    },
+    {
+      "frente": "¿Qué naturaleza tiene la AEPD?",
+      "reverso": "Autoridad administrativa independiente de ámbito estatal, con personalidad jurídica y plena capacidad, relacionada con el Gobierno a través del Ministerio de Justicia.",
+      "ref": "art. 44.1 LOPDGDD"
+    },
+    {
+      "frente": "¿Cuánto dura el mandato de la Presidencia de la AEPD?",
+      "reverso": "Cinco años, renovable por otro período igual.",
+      "ref": "art. 48.5 LOPDGDD"
+    },
+    {
+      "frente": "¿Ante qué órgano se recurren los actos de la Presidencia de la AEPD?",
+      "reverso": "Ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.",
+      "ref": "art. 48.6 LOPDGDD"
+    },
+    {
+      "frente": "¿Cuándo son obligatorias las circulares de la AEPD?",
+      "reverso": "Una vez publicadas en el BOE.",
+      "ref": "art. 55.3 LOPDGDD"
+    },
+    {
+      "frente": "¿Cuánto dura como máximo el procedimiento sancionador de la AEPD?",
+      "reverso": "Doce meses desde el acuerdo de inicio; después, caducidad.",
+      "ref": "art. 64.2 LOPDGDD"
+    },
+    {
+      "frente": "¿Qué ocurre si la AEPD no resuelve en seis meses una reclamación por derechos no atendidos?",
+      "reverso": "El interesado puede considerar estimada su reclamación.",
+      "ref": "art. 64.1 LOPDGDD"
+    },
+    {
+      "frente": "¿Se pueden imponer multas a una universidad pública por infringir la protección de datos?",
+      "reverso": "No. Se dicta resolución declarando la infracción y las medidas correctoras, sin la multa del art. 58.2.i) RGPD.",
+      "ref": "art. 77.2 LOPDGDD"
+    },
+    {
+      "frente": "¿Cómo se identifica a un afectado al publicar un acto administrativo?",
+      "reverso": "Con nombre y apellidos y cuatro cifras numéricas aleatorias de su documento de identidad.",
+      "ref": "DA 7.ª LOPDGDD"
+    },
+    {
+      "frente": "¿En qué plazo deben suprimirse las imágenes de videovigilancia?",
+      "reverso": "En el plazo máximo de un mes desde su captación, salvo que deban conservarse para acreditar hechos ilícitos.",
+      "ref": "art. 22.3 LOPDGDD"
+    },
+    {
+      "frente": "¿Dónde está prohibida la videovigilancia laboral?",
+      "reverso": "En lugares de descanso o esparcimiento como vestuarios, aseos o comedores.",
+      "ref": "art. 89.2 LOPDGDD"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "El Reglamento (UE) 2016/679 es aplicable a partir del:",
+      "opciones": [
+        "25 de mayo de 2018",
+        "25 de mayo de 2016",
+        "7 de diciembre de 2018",
+        "27 de abril de 2016"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el art. 99.2 RGPD, es aplicable a partir del 25 de mayo de 2018. El 27 de abril de 2016 es la fecha del Reglamento y el 7 de diciembre de 2018 la de entrada en vigor de la LOPDGDD.",
+      "ref": "art. 99.2 RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La Ley Orgánica 3/2018 entró en vigor:",
+      "opciones": [
+        "A los veinte días de su publicación en el BOE",
+        "El 25 de mayo de 2018",
+        "El día siguiente al de su publicación en el BOE",
+        "Al año de su publicación"
+      ],
+      "correcta": 2,
+      "explicacion": "La disposición final decimosexta establece la entrada en vigor el día siguiente al de su publicación en el BOE.",
+      "ref": "DF 16.ª LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según su artículo 1, NO es objeto de la LOPDGDD:",
+      "opciones": [
+        "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679",
+        "Completar las disposiciones del Reglamento (UE) 2016/679",
+        "Garantizar los derechos digitales de la ciudadanía",
+        "Regular el derecho de acceso a la información pública"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 1 LOPDGDD se refiere a adaptar y completar el RGPD y a garantizar los derechos digitales. El acceso a la información pública lo regula la Ley 19/2013.",
+      "ref": "art. 1 LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La LOPDGDD NO se aplica a:",
+      "opciones": [
+        "Los tratamientos realizados por las universidades públicas",
+        "Los tratamientos de datos de personas fallecidas, sin perjuicio de lo establecido en su artículo 3",
+        "Los tratamientos no automatizados de datos contenidos en un fichero",
+        "Los tratamientos realizados por los encargados del tratamiento"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 2.2.b) LOPDGDD excluye los tratamientos de datos de personas fallecidas, sin perjuicio del art. 3.",
+      "ref": "art. 2.2 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el RGPD, la persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los fines y medios del tratamiento es:",
+      "opciones": [
+        "El encargado del tratamiento",
+        "El delegado de protección de datos",
+        "El destinatario",
+        "El responsable del tratamiento"
+      ],
+      "correcta": 3,
+      "explicacion": "Es la definición de responsable del art. 4.7 RGPD.",
+      "ref": "art. 4.7 RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 4.11 RGPD, el consentimiento del interesado es toda manifestación de voluntad:",
+      "opciones": [
+        "Libre, específica, informada e inequívoca",
+        "Libre, expresa, escrita e inequívoca",
+        "Expresa, previa, informada y revocable",
+        "Libre, tácita, informada y específica"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 4.11 RGPD, reproducido en el art. 6.1 LOPDGDD, exige que sea libre, específica, informada e inequívoca, mediante declaración o clara acción afirmativa.",
+      "ref": "art. 4.11 RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los datos personales seudonimizados:",
+      "opciones": [
+        "Dejan de ser datos personales",
+        "Siguen siendo datos personales, pues pueden atribuirse a un interesado utilizando información adicional",
+        "Son datos anónimos a todos los efectos",
+        "Solo pueden tratarse con fines estadísticos"
+      ],
+      "correcta": 1,
+      "explicacion": "La seudonimización (art. 4.5 RGPD) impide atribuir los datos sin información adicional custodiada por separado, pero no los convierte en anónimos.",
+      "ref": "art. 4.5 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El principio según el cual los datos serán adecuados, pertinentes y limitados a lo necesario en relación con los fines se denomina:",
+      "opciones": [
+        "Limitación de la finalidad",
+        "Exactitud",
+        "Minimización de datos",
+        "Limitación del plazo de conservación"
+      ],
+      "correcta": 2,
+      "explicacion": "Es el principio de minimización de datos del art. 5.1.c) RGPD.",
+      "ref": "art. 5.1.c RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El principio de responsabilidad proactiva implica que el responsable del tratamiento:",
+      "opciones": [
+        "Deberá notificar todos sus tratamientos a la autoridad de control",
+        "Deberá obtener siempre el consentimiento del interesado",
+        "Será responsable del cumplimiento de los principios y capaz de demostrarlo",
+        "Deberá designar en todo caso un delegado de protección de datos"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 5.2 RGPD define la responsabilidad proactiva como ser responsable del cumplimiento y capaz de demostrarlo.",
+      "ref": "art. 5.2 RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "NO puede ser invocada como base jurídica por las autoridades públicas en el ejercicio de sus funciones:",
+      "opciones": [
+        "La obligación legal",
+        "La misión realizada en interés público",
+        "La protección de intereses vitales",
+        "El interés legítimo del responsable o de un tercero"
+      ],
+      "correcta": 3,
+      "explicacion": "El último párrafo del art. 6.1 RGPD excluye la letra f) (interés legítimo) para las autoridades públicas en el ejercicio de sus funciones.",
+      "ref": "art. 6.1 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la LOPDGDD, el tratamiento de datos basado en el cumplimiento de una misión realizada en interés público solo podrá considerarse fundado cuando:",
+      "opciones": [
+        "Derive de una competencia atribuida por una norma con rango de ley",
+        "Lo autorice la AEPD",
+        "Lo prevea un reglamento de la Administración",
+        "Conste el consentimiento del afectado"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 8.2 LOPDGDD exige que derive de una competencia atribuida por norma con rango de ley.",
+      "ref": "art. 8.2 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En España, el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de:",
+      "opciones": [
+        "13 años",
+        "14 años",
+        "16 años",
+        "18 años"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 7.1 LOPDGDD fija la edad en mayores de catorce años, haciendo uso del margen del art. 8 RGPD (16 años, rebajable hasta 13).",
+      "ref": "art. 7 LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El RGPD permite a los Estados miembros establecer por ley una edad inferior a 16 años para el consentimiento del niño en servicios de la sociedad de la información, siempre que no sea inferior a:",
+      "opciones": [
+        "13 años",
+        "12 años",
+        "14 años",
+        "15 años"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 8.1 RGPD fija como mínimo los 13 años.",
+      "ref": "art. 8.1 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Señale la afirmación correcta sobre el consentimiento según el RGPD y la LOPDGDD:",
+      "opciones": [
+        "Una vez prestado, no puede retirarse",
+        "La retirada del consentimiento invalida el tratamiento realizado con anterioridad",
+        "Será tan fácil retirar el consentimiento como darlo",
+        "Puede supeditarse la ejecución de un contrato a que se consientan finalidades ajenas a la relación contractual"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 7.3 RGPD permite retirarlo en cualquier momento, sin afectar a la licitud previa, y exige que sea tan fácil retirarlo como darlo. El art. 6.3 LOPDGDD prohíbe condicionar el contrato.",
+      "ref": "art. 7.3 RGPD; art. 6.3 LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el artículo 9.1 LOPDGDD, el solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su:",
+      "opciones": [
+        "Estado de salud",
+        "Situación económica",
+        "Datos biométricos",
+        "Ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 9.1 LOPDGDD lo establece para evitar situaciones discriminatorias.",
+      "ref": "art. 9.1 LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "NO es una categoría especial de datos del artículo 9.1 RGPD:",
+      "opciones": [
+        "Los datos relativos a la salud",
+        "Los datos relativos a la situación financiera",
+        "Los datos genéticos",
+        "Los datos que revelen la afiliación sindical"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 9.1 no incluye los datos económicos o financieros.",
+      "ref": "art. 9.1 RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El deber de confidencialidad regulado en el artículo 5 LOPDGDD:",
+      "opciones": [
+        "Solo afecta al responsable del tratamiento",
+        "Sustituye al deber de secreto profesional",
+        "Se extingue a los cinco años de finalizar la relación",
+        "Se mantiene aun cuando hubiese finalizado la relación del obligado con el responsable o encargado"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 5.3 LOPDGDD dispone que se mantiene tras finalizar la relación; además es complementario del secreto profesional y afecta a todos los que intervienen.",
+      "ref": "art. 5 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El responsable del tratamiento facilitará al interesado la información relativa a sus actuaciones sobre una solicitud de ejercicio de derechos en el plazo de:",
+      "opciones": [
+        "Un mes, prorrogable otros dos meses",
+        "Diez días",
+        "Dos meses, prorrogable otro mes",
+        "Tres meses"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 12.3 RGPD fija un mes, prorrogable otros dos meses en caso necesario.",
+      "ref": "art. 12.3 RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando las solicitudes de ejercicio de derechos sean manifiestamente infundadas o excesivas, el responsable podrá:",
+      "opciones": [
+        "Remitirlas a la AEPD",
+        "Cobrar un canon razonable o negarse a actuar, soportando la carga de la prueba",
+        "Archivarlas sin comunicación al interesado",
+        "Imponer una sanción al interesado"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo prevé el art. 12.5 RGPD, que atribuye al responsable la carga de demostrar el carácter infundado o excesivo.",
+      "ref": "art. 12.5 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la LOPDGDD, se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de:",
+      "opciones": [
+        "Tres meses",
+        "Doce meses",
+        "Seis meses",
+        "Dos años"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 13.3 LOPDGDD fija seis meses, salvo causa legítima.",
+      "ref": "art. 13.3 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La información básica que permite cumplir el deber de información por capas cuando los datos se obtienen del afectado debe contener, al menos:",
+      "opciones": [
+        "La base jurídica, las transferencias internacionales y la fuente de los datos",
+        "Los datos de contacto del DPD, el plazo de conservación y los destinatarios",
+        "La identidad del responsable, la finalidad del tratamiento y la posibilidad de ejercer los derechos de los artículos 15 a 22 RGPD",
+        "Solo la identidad del responsable"
+      ],
+      "correcta": 2,
+      "explicacion": "Es el contenido mínimo del art. 11.2 LOPDGDD.",
+      "ref": "art. 11.2 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando los datos personales no se hayan obtenido del interesado, el responsable le facilitará la información dentro de un plazo razonable y, a más tardar:",
+      "opciones": [
+        "En diez días",
+        "En el momento de la supresión",
+        "En tres meses",
+        "En un mes"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 14.3.a) RGPD fija como máximo un mes.",
+      "ref": "art. 14.3 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El derecho a la portabilidad de los datos NO se aplicará cuando el tratamiento:",
+      "opciones": [
+        "Sea necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos",
+        "Se base en un contrato",
+        "Se base en el consentimiento",
+        "Se efectúe por medios automatizados"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 20.3 RGPD excluye la portabilidad en estos tratamientos.",
+      "ref": "art. 20.3 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El derecho de supresión NO procede cuando el tratamiento sea necesario para:",
+      "opciones": [
+        "Un tratamiento basado en el consentimiento que ha sido retirado",
+        "El cumplimiento de una obligación legal o de una misión realizada en interés público",
+        "Datos tratados ilícitamente",
+        "Datos que ya no sean necesarios para los fines"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 17.3.b) RGPD exceptúa estos supuestos; los demás son causas que obligan a suprimir (art. 17.1).",
+      "ref": "art. 17.3 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El interesado podrá oponerse, por motivos relacionados con su situación particular, a los tratamientos basados en:",
+      "opciones": [
+        "Una misión de interés público o el interés legítimo (art. 6.1.e y f)",
+        "La obligación legal",
+        "El consentimiento o el contrato",
+        "Los intereses vitales"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 21.1 RGPD reconoce la oposición frente a los tratamientos del art. 6.1.e) y f).",
+      "ref": "art. 21.1 RGPD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El derecho a la limitación del tratamiento procede, entre otros casos, cuando:",
+      "opciones": [
+        "El responsable quiera conservar los datos indefinidamente",
+        "El interesado desee transmitir sus datos a otro responsable",
+        "El interesado impugne la exactitud de los datos, durante el plazo que permita verificarla",
+        "El tratamiento se base en una obligación legal"
+      ],
+      "correcta": 2,
+      "explicacion": "Es el supuesto del art. 18.1.a) RGPD.",
+      "ref": "art. 18.1 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el artículo 28 RGPD, el encargado del tratamiento podrá recurrir a otro encargado:",
+      "opciones": [
+        "Libremente, informando después al responsable",
+        "Nunca",
+        "Con autorización de la AEPD",
+        "Con autorización previa por escrito, específica o general, del responsable"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 28.2 exige autorización previa por escrito, específica o general, del responsable.",
+      "ref": "art. 28.2 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la LOPDGDD, tendrá la consideración de responsable del tratamiento y no de encargado:",
+      "opciones": [
+        "Quien acceda a los datos para prestar un servicio al responsable",
+        "Quien, figurando como encargado, utilice los datos para sus propias finalidades",
+        "Quien conserve los datos bloqueados tras terminar el servicio",
+        "Quien tramite por cuenta del responsable las solicitudes de derechos"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo establece el art. 33.2, segundo párrafo, LOPDGDD.",
+      "ref": "art. 33.2 LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La obligación de llevar un registro de las actividades de tratamiento no se aplica, con salvedades, a las organizaciones que empleen a menos de:",
+      "opciones": [
+        "50 personas",
+        "100 personas",
+        "500 personas",
+        "250 personas"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 30.5 RGPD fija el umbral en 250 personas, salvo tratamientos de riesgo, no ocasionales o de categorías especiales o datos penales.",
+      "ref": "art. 30.5 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las Universidades públicas deben hacer público un inventario de sus actividades de tratamiento en el que constará la información del artículo 30 RGPD y:",
+      "opciones": [
+        "Su base legal",
+        "El nombre de todos los interesados",
+        "Las evaluaciones de impacto realizadas",
+        "Las sanciones recibidas"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 31.2 LOPDGDD exige incluir la información del art. 30 RGPD y su base legal.",
+      "ref": "art. 31.2 LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el artículo 32 LOPDGDD, el responsable del tratamiento estará obligado a bloquear los datos cuando:",
+      "opciones": [
+        "Reciba una reclamación ante la AEPD",
+        "Proceda a su rectificación o supresión",
+        "Se produzca una brecha de seguridad",
+        "Designe un delegado de protección de datos"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 32.1 LOPDGDD impone el bloqueo al rectificar o suprimir los datos.",
+      "ref": "art. 32.1 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En caso de violación de la seguridad de los datos personales, el responsable la notificará a la autoridad de control, de ser posible, a más tardar:",
+      "opciones": [
+        "24 horas después de haber tenido constancia",
+        "48 horas después de haber tenido constancia",
+        "72 horas después de haber tenido constancia",
+        "Un mes después de haber tenido constancia"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 33.1 RGPD fija 72 horas, salvo que sea improbable que constituya un riesgo; si se supera, deben indicarse los motivos de la dilación.",
+      "ref": "art. 33.1 RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La comunicación de una violación de seguridad al interesado:",
+      "opciones": [
+        "Es obligatoria en todo caso",
+        "Solo la realiza la autoridad de control",
+        "Solo es obligatoria cuando sea probable que entrañe un alto riesgo para sus derechos y libertades",
+        "Debe hacerse en 72 horas"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 34.1 RGPD la exige cuando sea probable un alto riesgo, sin dilación indebida.",
+      "ref": "art. 34.1 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO es un supuesto en el que se requiera en particular una evaluación de impacto según el artículo 35.3 RGPD:",
+      "opciones": [
+        "La observación sistemática a gran escala de una zona de acceso público",
+        "El tratamiento a gran escala de categorías especiales de datos",
+        "La evaluación sistemática y exhaustiva de aspectos personales basada en tratamiento automatizado con efectos jurídicos",
+        "El tratamiento de datos de contacto profesionales de empleados"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 35.3 recoge los tres primeros supuestos.",
+      "ref": "art. 35.3 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la consulta previa, la autoridad de control asesorará por escrito al responsable en un plazo de:",
+      "opciones": [
+        "Ocho semanas, prorrogable seis semanas",
+        "Un mes, prorrogable otro",
+        "Tres meses",
+        "Seis semanas, prorrogable ocho semanas"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 36.2 RGPD fija ocho semanas, prorrogables seis.",
+      "ref": "art. 36.2 RGPD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el RGPD, deberá designarse un delegado de protección de datos cuando el tratamiento lo lleve a cabo una autoridad u organismo público, excepto:",
+      "opciones": [
+        "Las entidades locales de menos de 5.000 habitantes",
+        "Los tribunales que actúen en ejercicio de su función judicial",
+        "Las universidades públicas",
+        "Los organismos autónomos"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 37.1.a) RGPD exceptúa a los tribunales en ejercicio de su función judicial.",
+      "ref": "art. 37.1.a RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La obligación de las Universidades públicas de designar un delegado de protección de datos se recoge expresamente en:",
+      "opciones": [
+        "El artículo 34.1.b) LOPDGDD",
+        "El artículo 77.1 LOPDGDD",
+        "El artículo 30 RGPD",
+        "La disposición adicional séptima LOPDGDD"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 34.1.b) LOPDGDD incluye los centros docentes y las Universidades públicas y privadas; además rige el art. 37.1.a) RGPD.",
+      "ref": "art. 34.1.b LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los responsables y encargados comunicarán a la AEPD las designaciones, nombramientos y ceses de los delegados de protección de datos en el plazo de:",
+      "opciones": [
+        "Cinco días",
+        "Quince días",
+        "Diez días",
+        "Un mes"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 34.3 LOPDGDD fija diez días, tanto en designaciones obligatorias como voluntarias.",
+      "ref": "art. 34.3 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Señale la afirmación INCORRECTA sobre el delegado de protección de datos:",
+      "opciones": [
+        "Puede formar parte de la plantilla o desempeñar sus funciones mediante un contrato de servicios",
+        "Rinde cuentas directamente al más alto nivel jerárquico del responsable",
+        "No recibirá ninguna instrucción en lo que respecta al desempeño de sus funciones",
+        "Puede ser sancionado por la AEPD conforme al régimen sancionador de la LOPDGDD"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 70.2 LOPDGDD excluye al DPD del régimen sancionador. Las demás son ciertas (arts. 37.6 y 38.3 RGPD).",
+      "ref": "art. 70.2 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la LOPDGDD, el delegado de protección de datos que sea persona física integrada en la organización no podrá ser removido ni sancionado por desempeñar sus funciones salvo que incurriera en:",
+      "opciones": [
+        "Cualquier incumplimiento",
+        "Dolo o negligencia grave en su ejercicio",
+        "Pérdida de confianza del responsable",
+        "Una falta leve reiterada"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo establece el art. 36.2 LOPDGDD.",
+      "ref": "art. 36.2 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "NO es una función del delegado de protección de datos según el artículo 39 RGPD:",
+      "opciones": [
+        "Informar y asesorar al responsable y a los empleados",
+        "Supervisar el cumplimiento del Reglamento",
+        "Cooperar con la autoridad de control",
+        "Imponer sanciones a los empleados que incumplan la normativa"
+      ],
+      "correcta": 3,
+      "explicacion": "El DPD informa, asesora, supervisa, asesora sobre la EIPD, coopera y es punto de contacto; no tiene potestad sancionadora.",
+      "ref": "art. 39 RGPD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si un afectado se dirige al delegado de protección de datos antes de reclamar ante la AEPD, el delegado le comunicará la decisión adoptada en el plazo máximo de:",
+      "opciones": [
+        "Dos meses",
+        "Un mes",
+        "Tres meses",
+        "Seis meses"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 37.1 LOPDGDD fija dos meses desde la recepción de la reclamación. Si es la AEPD quien le remite la reclamación, el plazo es de un mes (art. 37.2).",
+      "ref": "art. 37.1 LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La Agencia Española de Protección de Datos se relaciona con el Gobierno a través del:",
+      "opciones": [
+        "Ministerio de la Presidencia",
+        "Ministerio de Justicia",
+        "Ministerio de Hacienda",
+        "Ministerio del Interior"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo dispone el art. 44.1 LOPDGDD.",
+      "ref": "art. 44.1 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Agencia Española de Protección de Datos es:",
+      "opciones": [
+        "Un organismo autónomo adscrito al Ministerio de Justicia",
+        "Una entidad pública empresarial",
+        "Una autoridad administrativa independiente de ámbito estatal",
+        "Un órgano del Consejo General del Poder Judicial"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 44.1 LOPDGDD la configura como autoridad administrativa independiente de las previstas en la Ley 40/2015.",
+      "ref": "art. 44.1 LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El mandato de la Presidencia y del Adjunto de la Agencia Española de Protección de Datos tiene una duración de:",
+      "opciones": [
+        "Cuatro años, no renovable",
+        "Cinco años, no renovable",
+        "Cinco años, renovable por otro período de igual duración",
+        "Seis años, renovable una vez"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 48.5 LOPDGDD fija cinco años renovables.",
+      "ref": "art. 48.5 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La propuesta de Presidencia y Adjunto de la AEPD debe ser ratificada por la Comisión de Justicia del Congreso en primera votación por mayoría de:",
+      "opciones": [
+        "Mayoría simple",
+        "Mayoría absoluta",
+        "Dos tercios de sus miembros",
+        "Tres quintos de sus miembros"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 48.3 exige tres quintos en primera votación o, si no se alcanza, mayoría absoluta en segunda, con votos de al menos dos grupos parlamentarios.",
+      "ref": "art. 48.3 LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los actos y disposiciones dictados por la Presidencia de la AEPD son recurribles directamente ante:",
+      "opciones": [
+        "La Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+        "El Tribunal Supremo",
+        "Los Juzgados Centrales de lo Contencioso-administrativo",
+        "El Ministro de Justicia en alzada"
+      ],
+      "correcta": 0,
+      "explicacion": "Ponen fin a la vía administrativa y se recurren ante la Audiencia Nacional (art. 48.6 LOPDGDD).",
+      "ref": "art. 48.6 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Forma parte del Consejo Consultivo de la AEPD un experto propuesto por:",
+      "opciones": [
+        "El Consejo de Universidades",
+        "La Conferencia de Rectores de las Universidades Españolas",
+        "El Ministerio de Universidades",
+        "La Agencia Nacional de Evaluación de la Calidad y Acreditación"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 49.1.k) LOPDGDD incluye un experto propuesto por la CRUE.",
+      "ref": "art. 49.1.k LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las circulares de la Agencia Española de Protección de Datos serán obligatorias:",
+      "opciones": [
+        "Una vez publicadas en el Boletín Oficial del Estado",
+        "Desde su firma por la Presidencia",
+        "Tras su aprobación por el Consejo Consultivo",
+        "Cuando las ratifique el Ministerio de Justicia"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 55.3 LOPDGDD dispone que son obligatorias una vez publicadas en el BOE.",
+      "ref": "art. 55.3 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El procedimiento sancionador tramitado por la AEPD tendrá una duración máxima de:",
+      "opciones": [
+        "Seis meses desde la admisión a trámite",
+        "Nueve meses desde la reclamación",
+        "Doce meses desde la fecha del acuerdo de inicio",
+        "Dieciocho meses desde la fecha del acuerdo de inicio"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 64.2 LOPDGDD fija doce meses desde el acuerdo de inicio; transcurridos, se produce la caducidad.",
+      "ref": "art. 64.2 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando el procedimiento ante la AEPD se refiera exclusivamente a la falta de atención de una solicitud de ejercicio de derechos, transcurridos seis meses desde la notificación de la admisión a trámite sin resolución:",
+      "opciones": [
+        "Se produce la caducidad",
+        "Se archivan las actuaciones",
+        "Se entiende desestimada la reclamación",
+        "El interesado podrá considerar estimada su reclamación"
+      ],
+      "correcta": 3,
+      "explicacion": "Según el art. 64.1 LOPDGDD, el interesado podrá considerar estimada su reclamación.",
+      "ref": "art. 64.1 LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las infracciones consideradas graves en la LOPDGDD prescriben a los:",
+      "opciones": [
+        "Seis meses",
+        "Dos años",
+        "Un año",
+        "Tres años"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 73 LOPDGDD fija dos años; las muy graves prescriben a los tres y las leves al año.",
+      "ref": "art. 73 LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las sanciones impuestas conforme al RGPD y la LOPDGDD por importe comprendido entre 40.001 y 300.000 euros prescriben a los:",
+      "opciones": [
+        "Un año",
+        "Cuatro años",
+        "Tres años",
+        "Dos años"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 78.1.b) LOPDGDD fija dos años.",
+      "ref": "art. 78.1 LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las infracciones de los principios básicos del tratamiento pueden sancionarse con multas de hasta:",
+      "opciones": [
+        "20.000.000 euros o el 4 % del volumen de negocio total anual global, optándose por la de mayor cuantía",
+        "10.000.000 euros o el 2 % del volumen de negocio total anual global",
+        "20.000.000 euros o el 4 %, optándose por la de menor cuantía",
+        "40.000.000 euros"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 83.5.a) RGPD fija hasta 20 millones o el 4 %, la mayor cuantía.",
+      "ref": "art. 83.5 RGPD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando la Universidad de La Laguna cometa una infracción de la normativa de protección de datos, la autoridad competente:",
+      "opciones": [
+        "Le impondrá una multa de hasta 20 millones de euros",
+        "Dictará resolución declarando la infracción y estableciendo las medidas procedentes, sin imponerle multa",
+        "No podrá actuar, por la autonomía universitaria",
+        "Remitirá el asunto al Consejo de Transparencia"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 77 LOPDGDD incluye a las Universidades Públicas (letra i) y excluye la multa del art. 58.2.i) RGPD.",
+      "ref": "art. 77 LOPDGDD",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el régimen del artículo 77 LOPDGDD, cuando las infracciones sean imputables a autoridades y directivos y existan informes técnicos o recomendaciones desatendidos, la resolución incluirá:",
+      "opciones": [
+        "Una multa personal al directivo",
+        "La inhabilitación del cargo",
+        "Una amonestación con denominación del cargo responsable y su publicación en el diario oficial correspondiente",
+        "El cese inmediato del responsable"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo dispone el art. 77.3, segundo párrafo, LOPDGDD.",
+      "ref": "art. 77.3 LOPDGDD",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Cuando sea necesaria la publicación de un acto administrativo con datos personales del afectado, este se identificará mediante:",
+      "opciones": [
+        "Su nombre, apellidos y número completo del DNI",
+        "Únicamente el número completo del DNI",
+        "Su nombre y apellidos, añadiendo cuatro cifras numéricas aleatorias del documento de identidad",
+        "Sus iniciales y la fecha de nacimiento"
+      ],
+      "correcta": 2,
+      "explicacion": "La DA 7.ª LOPDGDD exige nombre y apellidos más cuatro cifras aleatorias; en las notificaciones por anuncio se usa solo el número completo; nunca ambos juntos.",
+      "ref": "DA 7.ª LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los datos obtenidos mediante sistemas de videovigilancia serán suprimidos, salvo que deban conservarse para acreditar actos contra la integridad de personas, bienes o instalaciones, en el plazo máximo de:",
+      "opciones": [
+        "Setenta y dos horas",
+        "Quince días",
+        "Tres meses",
+        "Un mes"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 22.3 LOPDGDD fija un mes desde su captación.",
+      "ref": "art. 22.3 LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El derecho a la desconexión digital reconocido en el artículo 88 LOPDGDD corresponde a:",
+      "opciones": [
+        "Los trabajadores y los empleados públicos",
+        "Solo a los trabajadores por cuenta ajena del sector privado",
+        "Solo a los altos cargos",
+        "Los usuarios de redes sociales"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 88.1 lo reconoce a los trabajadores y a los empleados públicos.",
+      "ref": "art. 88 LOPDGDD",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Canarias no dispone de autoridad autonómica de protección de datos. Por ello, la autoridad de control respecto de los tratamientos de la Universidad de La Laguna es:",
+      "opciones": [
+        "El Comisionado de Transparencia de Canarias",
+        "La Agencia Española de Protección de Datos",
+        "El Diputado del Común",
+        "El delegado de protección de datos de la ULL"
+      ],
+      "correcta": 1,
+      "explicacion": "Solo algunas CCAA (Cataluña, País Vasco, Andalucía) tienen autoridad propia (art. 57 LOPDGDD); en Canarias es competente la AEPD. El DPD no es autoridad de control.",
+      "ref": "arts. 47 y 57 LOPDGDD",
+      "dificultad": 2
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "LOPD Ley Orgánica 3/2018 de PROTECCION DE DATOS PERSONALES - RGPD OPOSICIONES",
+      "url": "https://www.youtube.com/watch?v=uXrVaNlbvJQ",
+      "canal": "Repasando Sin Papeles"
+    },
+    {
+      "titulo": "Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales",
+      "url": "https://www.youtube.com/watch?v=XhD9BNo1sx4",
+      "canal": "Paco Barbié"
+    },
+    {
+      "titulo": "REGLAMENTO (UE) 2016/679 DEL PARLAMENTO EUROPEO Y DEL CONSEJO - 1",
+      "url": "https://www.youtube.com/watch?v=1_ZooWqnAHg",
+      "canal": "Paco Barbié"
+    },
+    {
+      "titulo": "Principios en protección de datos Reglamento Europeo",
+      "url": "https://www.youtube.com/watch?v=w5xYAbxwM6Y",
+      "canal": "Leyes para oposiciones"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "Reglamento (UE) 2016/679 (DOUE, texto en BOE)",
+      "url": "https://www.boe.es/doue/2016/119/L00001-00088.pdf"
+    },
+    {
+      "titulo": "Ley Orgánica 3/2018, LOPDGDD (BOE, texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+    },
+    {
+      "titulo": "Agencia Española de Protección de Datos",
+      "url": "https://www.aepd.es/"
+    },
+    {
+      "titulo": "Delegado de Protección de Datos de la ULL",
+      "url": "https://www.ull.es/servicios/dpd/"
+    },
+    {
+      "titulo": "Contactos DPD de universidades por CCAA (AEPD)",
+      "url": "https://www.aepd.es/documento/contactos-dpd-universidades-ccaa.pdf"
+    }
+  ]
+}

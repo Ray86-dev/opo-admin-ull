@@ -1,0 +1,1405 @@
+{
+  "claves": [
+    "El RD 822/2021 organiza las enseñanzas universitarias según el EEES, deroga el RD 1393/2007 y regula la verificación, el seguimiento, la modificación y la renovación de la acreditación de los títulos oficiales.",
+    "Las enseñanzas oficiales se estructuran en tres ciclos (Grado, Máster y Doctorado), que se corresponden con los niveles 2, 3 y 4 del MECES.",
+    "Los títulos de Grado y Máster deben adscribirse a uno de los campos de estudio del anexo I; el RD 905/2025 sustituyó la expresión «ámbito de conocimiento» por «campo de estudio».",
+    "El Grado tiene con carácter general 240 créditos ECTS (300 o 360 si lo exige una ley o el Derecho de la UE), con un mínimo de 60 créditos de formación básica y un TFG de 6 a 24 créditos.",
+    "El Máster Universitario tiene 60, 90 o 120 créditos ECTS, con un TFM de entre 6 y 30 créditos y prácticas externas que no pueden superar un tercio de la carga.",
+    "El reconocimiento por experiencia profesional y estudios no oficiales no puede superar globalmente el 15 % del plan, y los créditos de TFG y TFM no son reconocibles salvo en programas de movilidad.",
+    "Las prácticas académicas externas son formativas, supervisadas por la universidad, no generan relación laboral y exigen un Convenio de Cooperación Educativa.",
+    "La verificación la realiza el Consejo de Universidades con informe de la agencia de calidad (ANECA o agencia autonómica inscrita en el EQAR), previo informe de necesidad y viabilidad de la Comunidad Autónoma.",
+    "El procedimiento de verificación dura como máximo seis meses (cuatro en centros con acreditación institucional) y el silencio es estimatorio.",
+    "El carácter oficial del título lo establece el Consejo de Ministros; la inscripción en el RUCT tiene efectos constitutivos y supone la acreditación inicial del título.",
+    "La universidad dispone de dos cursos académicos desde la publicación oficial del plan para iniciar la docencia; si no lo hace, el título pierde la acreditación inicial.",
+    "Las modificaciones sustanciales (menciones, especialidades, modalidad, plazas, créditos de TFG/TFM...) se tramitan ante el Consejo de Universidades como una verificación.",
+    "La acreditación se renueva en un máximo de seis años en Grados de 240 créditos, Másteres y Doctorados, y de ocho años en Grados de 300 o 360 créditos.",
+    "Los centros con acreditación institucional (RD 640/2021) tienen procedimientos simplificados y renuevan la acreditación de sus títulos mientras mantengan esa acreditación.",
+    "La formación permanente incluye el Máster de Formación Permanente (60, 90 o 120 ECTS), el Diploma de Especialización (30 a 59), el Diploma de Experto (menos de 30) y las microcredenciales (menos de 15)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Entrada en vigor del RD 822/2021",
+      "valor": "A los 20 días de su publicación en el BOE (29-9-2021)",
+      "ref": "disp. final sexta RD 822/2021"
+    },
+    {
+      "concepto": "Créditos por curso en Grado y Máster",
+      "valor": "60 ECTS",
+      "ref": "art. 5.2 RD 822/2021"
+    },
+    {
+      "concepto": "Curso excepcional en Másteres de 90 créditos",
+      "valor": "Un curso de 30 ECTS",
+      "ref": "art. 5.2 RD 822/2021"
+    },
+    {
+      "concepto": "Horas de trabajo por crédito ECTS",
+      "valor": "Entre 25 y 30 horas",
+      "ref": "RD 1125/2003 (al que remite el art. 9.2 RD 822/2021)"
+    },
+    {
+      "concepto": "Límite de reconocimiento por experiencia profesional y estudios no oficiales",
+      "valor": "15 % del total de créditos del plan",
+      "ref": "art. 10.5 RD 822/2021"
+    },
+    {
+      "concepto": "Reconocimiento desde FP de grado superior con convenio",
+      "valor": "Hasta el 25 % de la carga del Grado",
+      "ref": "art. 10.7 RD 822/2021"
+    },
+    {
+      "concepto": "Reconocimiento por actividades culturales, deportivas, solidarias y de representación",
+      "valor": "Mínimo 6 créditos; máximo 10 % del plan",
+      "ref": "art. 10.9.c) RD 822/2021"
+    },
+    {
+      "concepto": "Carga mínima de una mención de Grado",
+      "valor": "20 % de los créditos del Grado",
+      "ref": "art. 13.3 RD 822/2021"
+    },
+    {
+      "concepto": "Carga de los Grados",
+      "valor": "240 ECTS; 300 o 360 si lo exige ley o Derecho UE",
+      "ref": "art. 14.1 RD 822/2021"
+    },
+    {
+      "concepto": "Formación básica mínima en Grados de 240 / 300 / 360",
+      "valor": "60 / 75 / 90 créditos",
+      "ref": "art. 14.4 RD 822/2021"
+    },
+    {
+      "concepto": "Asignaturas de formación básica de otros campos",
+      "valor": "Mínimo 6 créditos cada una, en la primera mitad del plan",
+      "ref": "art. 14.4 RD 822/2021"
+    },
+    {
+      "concepto": "Prácticas externas curriculares en Grado",
+      "valor": "Máximo 25 % de los créditos",
+      "ref": "art. 14.5 RD 822/2021"
+    },
+    {
+      "concepto": "TFG",
+      "valor": "Mínimo 6; máximo 24 (240), 30 (300) o 36 (360) créditos",
+      "ref": "art. 14.6 RD 822/2021"
+    },
+    {
+      "concepto": "Modalidad híbrida",
+      "valor": "Entre el 40 y el 60 % de créditos no presenciales",
+      "ref": "art. 14.7 RD 822/2021"
+    },
+    {
+      "concepto": "Modalidad virtual",
+      "valor": "Al menos el 80 % de los créditos",
+      "ref": "art. 14.7 RD 822/2021"
+    },
+    {
+      "concepto": "Reserva de plazas para discapacidad (igual o superior al 33 %)",
+      "valor": "Al menos el 5 % de las plazas de Grado y de Máster",
+      "ref": "arts. 15.3 y 18.6 RD 822/2021"
+    },
+    {
+      "concepto": "Carga máxima de una especialidad de Máster",
+      "valor": "50 % de los créditos del Máster",
+      "ref": "art. 16.4 RD 822/2021"
+    },
+    {
+      "concepto": "Carga del Máster Universitario",
+      "valor": "60, 90 o 120 ECTS",
+      "ref": "art. 17.1 RD 822/2021"
+    },
+    {
+      "concepto": "Prácticas externas en Máster",
+      "valor": "No más de un tercio de la carga total",
+      "ref": "art. 17.3 RD 822/2021"
+    },
+    {
+      "concepto": "TFM",
+      "valor": "Entre 6 y 30 créditos",
+      "ref": "art. 17.4 RD 822/2021"
+    },
+    {
+      "concepto": "Matrícula condicionada en Máster",
+      "valor": "Pendiente el TFG y como máximo hasta 9 ECTS",
+      "ref": "art. 18.4 RD 822/2021"
+    },
+    {
+      "concepto": "Complementos formativos de Máster",
+      "valor": "Máximo 20 % de la carga del título",
+      "ref": "art. 18.5 RD 822/2021"
+    },
+    {
+      "concepto": "Mención Dual: créditos en la entidad colaboradora",
+      "valor": "20–40 % en Grado; 25–50 % en Máster (incluido TFG/TFM)",
+      "ref": "art. 22.2.a) RD 822/2021"
+    },
+    {
+      "concepto": "Abandono de la Mención Dual",
+      "valor": "Posible si no se ha superado la mitad de sus créditos",
+      "ref": "art. 22.5 RD 822/2021"
+    },
+    {
+      "concepto": "Itinerario académico abierto",
+      "valor": "60 a 120 créditos, en los dos primeros años",
+      "ref": "art. 23.1.b) RD 822/2021"
+    },
+    {
+      "concepto": "Cupo de itinerario abierto",
+      "valor": "Máximo 10 % del límite de plazas de nuevo ingreso más bajo",
+      "ref": "art. 23.3 RD 822/2021"
+    },
+    {
+      "concepto": "Duración máxima de la verificación",
+      "valor": "6 meses (4 en centros con acreditación institucional); silencio estimatorio",
+      "ref": "art. 26.2 RD 822/2021"
+    },
+    {
+      "concepto": "Subsanación de la documentación de verificación",
+      "valor": "10 días hábiles",
+      "ref": "art. 26.4 RD 822/2021"
+    },
+    {
+      "concepto": "Envío de la memoria a la agencia tras subsanación",
+      "valor": "Máximo 3 días hábiles",
+      "ref": "art. 26.4 RD 822/2021"
+    },
+    {
+      "concepto": "Alegaciones al informe provisional de verificación",
+      "valor": "15 días hábiles",
+      "ref": "art. 26.6 RD 822/2021"
+    },
+    {
+      "concepto": "Notificación de la resolución de verificación",
+      "valor": "Máximo 3 días hábiles",
+      "ref": "art. 26.9 RD 822/2021"
+    },
+    {
+      "concepto": "Reclamación contra la resolución de verificación",
+      "valor": "10 días hábiles ante la Presidencia del Consejo de Universidades",
+      "ref": "art. 26.10 RD 822/2021"
+    },
+    {
+      "concepto": "Resolución de la reclamación de verificación",
+      "valor": "1 mes (3 meses si se remite a la agencia); silencio desestimatorio",
+      "ref": "art. 26.10 RD 822/2021"
+    },
+    {
+      "concepto": "Plazo para iniciar la docencia tras la publicación del plan",
+      "valor": "Máximo 2 cursos académicos",
+      "ref": "art. 27.5 RD 822/2021"
+    },
+    {
+      "concepto": "Informe de seguimiento preceptivo",
+      "valor": "Transcurridos 3 años desde la implantación o la renovación",
+      "ref": "art. 28.1 RD 822/2021"
+    },
+    {
+      "concepto": "Resolución de modificación no sustancial por la agencia",
+      "valor": "2 meses; silencio: aceptada",
+      "ref": "art. 30.2 RD 822/2021"
+    },
+    {
+      "concepto": "Renovación de la acreditación de Grados de 240 créditos",
+      "valor": "6 años",
+      "ref": "art. 34.1.a) RD 822/2021"
+    },
+    {
+      "concepto": "Renovación de la acreditación de Grados de 300 o 360 créditos",
+      "valor": "8 años",
+      "ref": "art. 34.1.b) RD 822/2021"
+    },
+    {
+      "concepto": "Renovación de la acreditación de Másteres",
+      "valor": "6 años",
+      "ref": "art. 34.1.c) RD 822/2021"
+    },
+    {
+      "concepto": "Renovación de la acreditación de Doctorados",
+      "valor": "6 años",
+      "ref": "art. 34.1.d) RD 822/2021"
+    },
+    {
+      "concepto": "Duración del procedimiento de renovación",
+      "valor": "Máximo 6 meses; silencio estimatorio",
+      "ref": "art. 34.2 y 34.7 RD 822/2021"
+    },
+    {
+      "concepto": "Traslado de la solicitud de renovación a la agencia",
+      "valor": "Máximo 5 días hábiles",
+      "ref": "art. 34.4 RD 822/2021"
+    },
+    {
+      "concepto": "Alegaciones a la propuesta de informe de renovación",
+      "valor": "20 días hábiles",
+      "ref": "art. 34.5 RD 822/2021"
+    },
+    {
+      "concepto": "Notificación de la resolución de renovación",
+      "valor": "3 días hábiles",
+      "ref": "art. 34.8 RD 822/2021"
+    },
+    {
+      "concepto": "Reclamación contra la resolución de renovación",
+      "valor": "15 días hábiles",
+      "ref": "art. 34.9 RD 822/2021"
+    },
+    {
+      "concepto": "Bloqueo de memoria similar tras no renovar",
+      "valor": "2 años",
+      "ref": "art. 34.11 RD 822/2021"
+    },
+    {
+      "concepto": "Máster de Formación Permanente",
+      "valor": "60, 90 o 120 ECTS",
+      "ref": "art. 37.6 RD 822/2021"
+    },
+    {
+      "concepto": "Diploma de Especialización",
+      "valor": "Entre 30 y 59 ECTS",
+      "ref": "art. 37.6 RD 822/2021"
+    },
+    {
+      "concepto": "Diploma de Experto",
+      "valor": "Menos de 30 ECTS",
+      "ref": "art. 37.6 RD 822/2021"
+    },
+    {
+      "concepto": "Microcredenciales o micromódulos",
+      "valor": "Menos de 15 ECTS",
+      "ref": "art. 37.8 RD 822/2021"
+    },
+    {
+      "concepto": "Universidades Europeas: título conjunto",
+      "valor": "Todas o como mínimo tres universidades de la alianza",
+      "ref": "disp. adic. 7.ª.2 RD 822/2021"
+    },
+    {
+      "concepto": "Recorridos sucesivos Ingeniería y Arquitectura: acceso al Máster",
+      "valor": "TFG y asignaturas pendientes hasta 30 ECTS en conjunto",
+      "ref": "disp. adic. 9.ª.3 RD 822/2021"
+    },
+    {
+      "concepto": "Adscripción de Grado al MECES 3",
+      "valor": "Grado de al menos 300 ECTS con 60 de nivel Máster; resolución en 6 meses, silencio desestimatorio",
+      "ref": "disp. adic. 10.ª RD 822/2021"
+    },
+    {
+      "concepto": "Adaptación de Grados de 180 créditos a 240",
+      "valor": "2 años",
+      "ref": "disp. trans. 1.ª RD 822/2021"
+    },
+    {
+      "concepto": "Adaptación a modalidades presencial, híbrida y virtual",
+      "valor": "Hasta 3 años",
+      "ref": "disp. trans. 3.ª RD 822/2021"
+    },
+    {
+      "concepto": "Agencias autonómicas no inscritas en el EQAR",
+      "valor": "Periodo transitorio de 4 años",
+      "ref": "disp. trans. 4.ª RD 822/2021"
+    },
+    {
+      "concepto": "Adscripción de títulos a un campo de estudio",
+      "valor": "Máximo 4 años",
+      "ref": "disp. trans. 5.ª RD 822/2021"
+    },
+    {
+      "concepto": "Adaptación de Másteres con otra carga",
+      "valor": "Máximo 3 años",
+      "ref": "disp. trans. 6.ª RD 822/2021"
+    },
+    {
+      "concepto": "Adaptación de la denominación de Másteres propios",
+      "valor": "2 años",
+      "ref": "disp. trans. 7.ª RD 822/2021"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Crédito ECTS",
+      "definicion": "Unidad del Sistema Europeo de Transferencia de Créditos que mide el trabajo del estudiante (entre 25 y 30 horas por crédito, según el RD 1125/2003)."
+    },
+    {
+      "termino": "Campo de estudio",
+      "definicion": "Cada una de las 32 áreas del anexo I a las que debe adscribirse todo título de Grado y Máster; sustituye a la antigua expresión «ámbito de conocimiento» (RD 905/2025)."
+    },
+    {
+      "termino": "MECES",
+      "definicion": "Marco Español de Cualificaciones para la Educación Superior (RD 1027/2011): Grado nivel 2, Máster nivel 3 y Doctorado nivel 4."
+    },
+    {
+      "termino": "RUCT",
+      "definicion": "Registro de Universidades, Centros y Títulos (RD 1509/2008). La inscripción de un título tiene efectos constitutivos y supone su acreditación inicial."
+    },
+    {
+      "termino": "Verificación",
+      "definicion": "Procedimiento por el que el Consejo de Universidades comprueba, con informe de la agencia de calidad, que el plan de estudios se ajusta a las directrices; es requisito para la acreditación inicial."
+    },
+    {
+      "termino": "Renovación de la acreditación",
+      "definicion": "Evaluación periódica (6 u 8 años) que comprueba que el plan se imparte conforme a su proyecto inicial; la resuelve el Consejo de Universidades con informe preceptivo y vinculante de la agencia."
+    },
+    {
+      "termino": "Acreditación institucional",
+      "definicion": "Reconocimiento a un centro universitario de su capacidad para garantizar la calidad (RD 640/2021), que simplifica la verificación, el seguimiento, la modificación y la renovación de sus títulos."
+    },
+    {
+      "termino": "Reconocimiento de créditos",
+      "definicion": "Aceptación por una universidad de créditos obtenidos en otros estudios oficiales (o en experiencia profesional o estudios propios, con límites) para obtener un título oficial diferente."
+    },
+    {
+      "termino": "Transferencia de créditos",
+      "definicion": "Inclusión en el expediente y en el Suplemento Europeo al Título de todos los créditos oficiales cursados previamente que no condujeron a un título oficial."
+    },
+    {
+      "termino": "Mención",
+      "definicion": "Intensificación curricular o itinerario específico dentro de un Grado; mínimo el 20 % de sus créditos y debe constar en la memoria."
+    },
+    {
+      "termino": "Especialidad",
+      "definicion": "Formación complementaria y específica dentro de un Máster, que no puede superar el 50 % de sus créditos."
+    },
+    {
+      "termino": "Mención Dual",
+      "definicion": "Proyecto formativo desarrollado entre el centro universitario y una entidad colaboradora, con contrato para la formación dual universitaria (20–40 % de créditos en Grado; 25–50 % en Máster)."
+    },
+    {
+      "termino": "Itinerario académico abierto",
+      "definicion": "Programa que permite cursar entre 60 y 120 créditos de al menos dos Grados afines durante los dos primeros años antes de optar por uno de ellos."
+    },
+    {
+      "termino": "ESG",
+      "definicion": "Criterios y Directrices para el Aseguramiento de la Calidad en el Espacio Europeo de Educación Superior, marco de referencia de las evaluaciones externas."
+    },
+    {
+      "termino": "EQAR",
+      "definicion": "Registro Europeo de Agencias de Aseguramiento de la Calidad en la Educación Superior; las agencias autonómicas deben estar inscritas en él para evaluar títulos."
+    },
+    {
+      "termino": "SIGC",
+      "definicion": "Sistema Interno de Garantía de la Calidad de la universidad o del centro, responsable interno de la calidad de sus títulos."
+    },
+    {
+      "termino": "Suplemento Europeo al Título (SET)",
+      "definicion": "Documento que acompaña al título y recoge, entre otros datos, el campo de estudio, los créditos reconocidos o transferidos y las prácticas realizadas."
+    },
+    {
+      "termino": "Microcredencial",
+      "definicion": "Enseñanza propia de menos de 15 ECTS que certifica resultados de aprendizaje de corta duración, con o sin titulación previa."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Vida del título: VeSeMoRe",
+      "texto": "Verificación (nace), Seguimiento (crece), Modificación (cambia), Renovación de la acreditación (se revalida)."
+    },
+    {
+      "titulo": "TFG = 10 % del Grado",
+      "texto": "El máximo del TFG es el 10 % de la carga: 24 en 240, 30 en 300 y 36 en 360. El mínimo siempre es 6."
+    },
+    {
+      "titulo": "Mención 20, especialidad 50",
+      "texto": "La mención (Grado) pide como MÍNIMO un 20 %; la especialidad (Máster) permite como MÁXIMO un 50 %."
+    },
+    {
+      "titulo": "15 para nacer, 20 para renovarse",
+      "texto": "Alegaciones: 15 días hábiles al informe provisional de verificación; 20 días hábiles a la propuesta de renovación. Reclamaciones: 10 (verificación) y 15 (renovación)."
+    },
+    {
+      "titulo": "Renovación 6-8-6-6",
+      "texto": "Grado 240: 6 años; Grado 300/360: 8 años; Máster: 6 años; Doctorado: 6 años. Solo los Grados largos tienen 8."
+    },
+    {
+      "titulo": "Porcentajes de reconocimiento 15-25-10",
+      "texto": "15 % experiencia y títulos propios; 25 % FP superior con convenio; 10 % actividades culturales, deportivas, solidarias y de representación (mínimo 6 créditos)."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué norma derogó el RD 822/2021?",
+      "reverso": "El Real Decreto 1393/2007, de 29 de octubre.",
+      "ref": "disp. derogatoria única RD 822/2021"
+    },
+    {
+      "frente": "¿Cuáles son los cuatro procedimientos de aseguramiento de la calidad?",
+      "reverso": "Verificación, seguimiento, modificación y renovación de la acreditación.",
+      "ref": "art. 1.2 RD 822/2021"
+    },
+    {
+      "frente": "Nivel MECES del Grado, del Máster y del Doctorado",
+      "reverso": "Grado: 2; Máster: 3; Doctorado: 4.",
+      "ref": "arts. 13.5, 16.5 y 19.3 RD 822/2021"
+    },
+    {
+      "frente": "¿Cuántos créditos tiene un curso de Grado o Máster?",
+      "reverso": "60 ECTS (en Másteres de 90 créditos, un curso puede ser de 30).",
+      "ref": "art. 5.2 RD 822/2021"
+    },
+    {
+      "frente": "Créditos de un Grado",
+      "reverso": "240 ECTS, salvo 300 o 360 si lo exige una ley o el Derecho de la UE.",
+      "ref": "art. 14.1 RD 822/2021"
+    },
+    {
+      "frente": "Formación básica mínima en un Grado de 240 créditos",
+      "reverso": "60 créditos; al menos la mitad del mismo campo de estudio.",
+      "ref": "art. 14.4 RD 822/2021"
+    },
+    {
+      "frente": "Límites del TFG",
+      "reverso": "Mínimo 6 créditos; máximo 24 (240), 30 (300) o 36 (360).",
+      "ref": "art. 14.6 RD 822/2021"
+    },
+    {
+      "frente": "Límite de prácticas externas curriculares en Grado",
+      "reverso": "25 % de los créditos (salvo Derecho UE y Mención Dual).",
+      "ref": "art. 14.5 RD 822/2021"
+    },
+    {
+      "frente": "¿Qué porcentaje de créditos no presenciales define la modalidad híbrida?",
+      "reverso": "Entre el 40 y el 60 %.",
+      "ref": "art. 14.7 RD 822/2021"
+    },
+    {
+      "frente": "¿Desde qué porcentaje un Grado es virtual?",
+      "reverso": "Al menos el 80 % de los créditos en modalidad virtual.",
+      "ref": "art. 14.7 RD 822/2021"
+    },
+    {
+      "frente": "Carga mínima de una mención",
+      "reverso": "20 % de los créditos del Grado.",
+      "ref": "art. 13.3 RD 822/2021"
+    },
+    {
+      "frente": "Carga máxima de una especialidad de Máster",
+      "reverso": "50 % de los créditos del Máster.",
+      "ref": "art. 16.4 RD 822/2021"
+    },
+    {
+      "frente": "Créditos posibles de un Máster Universitario",
+      "reverso": "60, 90 o 120 ECTS.",
+      "ref": "art. 17.1 RD 822/2021"
+    },
+    {
+      "frente": "Límites del TFM",
+      "reverso": "Entre 6 y 30 créditos.",
+      "ref": "art. 17.4 RD 822/2021"
+    },
+    {
+      "frente": "Límite de las prácticas externas en el Máster",
+      "reverso": "Un tercio de la carga crediticia total.",
+      "ref": "art. 17.3 RD 822/2021"
+    },
+    {
+      "frente": "Matrícula condicionada en Máster: ¿qué puede faltar del Grado?",
+      "reverso": "El TFG y como máximo hasta 9 créditos ECTS.",
+      "ref": "art. 18.4 RD 822/2021"
+    },
+    {
+      "frente": "Límite de reconocimiento por experiencia profesional y títulos propios",
+      "reverso": "15 % del total de créditos, sin calificación numérica.",
+      "ref": "art. 10.5 RD 822/2021"
+    },
+    {
+      "frente": "¿Se reconocen los créditos del TFG o TFM?",
+      "reverso": "No, salvo los desarrollados específicamente en un programa de movilidad.",
+      "ref": "art. 10.3 RD 822/2021"
+    },
+    {
+      "frente": "Reconocimiento desde FP de grado superior",
+      "reverso": "Hasta el 25 % del Grado, con convenio aprobado por la universidad y la Comunidad Autónoma.",
+      "ref": "art. 10.7 RD 822/2021"
+    },
+    {
+      "frente": "Mención Dual: porcentaje en la entidad colaboradora",
+      "reverso": "Grado: 20–40 %; Máster: 25–50 %, incluido el TFG o TFM.",
+      "ref": "art. 22.2 RD 822/2021"
+    },
+    {
+      "frente": "¿Cuántas titulaciones puede tener un programa de simultaneidad?",
+      "reverso": "Dos; nunca tres o más.",
+      "ref": "art. 24.1 RD 822/2021"
+    },
+    {
+      "frente": "¿Quién verifica los planes de estudios?",
+      "reverso": "El Consejo de Universidades (Comisión de Verificación y Acreditación de Planes de Estudios), con informe de la agencia.",
+      "ref": "art. 26 RD 822/2021"
+    },
+    {
+      "frente": "Duración máxima de la verificación",
+      "reverso": "6 meses; 4 en centros con acreditación institucional. Silencio estimatorio.",
+      "ref": "art. 26.2 RD 822/2021"
+    },
+    {
+      "frente": "Plazo de alegaciones al informe provisional de verificación",
+      "reverso": "15 días hábiles desde su recepción.",
+      "ref": "art. 26.6 RD 822/2021"
+    },
+    {
+      "frente": "Plazo para reclamar la resolución de verificación",
+      "reverso": "10 días hábiles ante la Presidencia del Consejo de Universidades.",
+      "ref": "art. 26.10 RD 822/2021"
+    },
+    {
+      "frente": "¿Quién establece el carácter oficial del título?",
+      "reverso": "El Consejo de Ministros, por acuerdo a propuesta del Ministerio, publicado en el BOE.",
+      "ref": "art. 27.1 RD 822/2021"
+    },
+    {
+      "frente": "Plazo para iniciar la docencia tras publicar el plan",
+      "reverso": "Máximo dos cursos académicos; si no, se pierde la acreditación inicial.",
+      "ref": "art. 27.5 y 27.6 RD 822/2021"
+    },
+    {
+      "frente": "Plazo de renovación de la acreditación de un Máster",
+      "reverso": "6 años desde el inicio de la impartición o la última renovación.",
+      "ref": "art. 34.1.c) RD 822/2021"
+    },
+    {
+      "frente": "Plazo de renovación de un Grado de 300 o 360 créditos",
+      "reverso": "8 años.",
+      "ref": "art. 34.1.b) RD 822/2021"
+    },
+    {
+      "frente": "Alegaciones en la renovación de la acreditación",
+      "reverso": "20 días hábiles.",
+      "ref": "art. 34.5 RD 822/2021"
+    },
+    {
+      "frente": "Consecuencia de no renovar la acreditación",
+      "reverso": "El título se declara «a extinguir» y no se puede presentar memoria similar en dos años.",
+      "ref": "art. 34.8 y 34.11 RD 822/2021"
+    },
+    {
+      "frente": "Tipos de títulos de formación permanente para titulados",
+      "reverso": "Máster de Formación Permanente (60/90/120), Diploma de Especialización (30–59) y Diploma de Experto (menos de 30).",
+      "ref": "art. 37.6 RD 822/2021"
+    },
+    {
+      "frente": "¿Quién aprueba los precios de la formación permanente en universidades públicas?",
+      "reverso": "El Consejo Social.",
+      "ref": "art. 37.2 RD 822/2021"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el RD 822/2021, ¿qué norma queda expresamente derogada?",
+      "opciones": [
+        "El Real Decreto 99/2011, de enseñanzas de Doctorado",
+        "El Real Decreto 1393/2007, de ordenación de las enseñanzas universitarias oficiales",
+        "El Real Decreto 1125/2003, del sistema europeo de créditos",
+        "El Real Decreto 592/2014, de prácticas académicas externas"
+      ],
+      "correcta": 1,
+      "explicacion": "La disposición derogatoria única deroga el RD 1393/2007. Los RD 99/2011, 1125/2003 y 592/2014 siguen vigentes y el propio RD 822/2021 remite a ellos.",
+      "ref": "disp. derogatoria única RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO es un procedimiento de aseguramiento de la calidad de los títulos oficiales previsto en el RD 822/2021?",
+      "opciones": [
+        "La verificación",
+        "El seguimiento",
+        "La renovación de la acreditación",
+        "La homologación"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 1.2 enumera verificación, seguimiento, modificación y renovación de la acreditación. La homologación de títulos extranjeros tiene su propia regulación.",
+      "ref": "art. 1.2 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El ámbito de aplicación del RD 822/2021 comprende:",
+      "opciones": [
+        "Las enseñanzas oficiales de Grado, Máster y Doctorado y la formación permanente",
+        "Solo las enseñanzas oficiales de Grado y Máster",
+        "Solo las enseñanzas oficiales de Grado, Máster y Doctorado",
+        "Las enseñanzas oficiales y las de Formación Profesional de grado superior"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 2 incluye Grado, Máster Universitario y Doctorado, así como otras enseñanzas, específicamente la formación permanente, definidas como títulos propios.",
+      "ref": "art. 2 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los títulos oficiales de Máster Universitario tienen un nivel equivalente al:",
+      "opciones": [
+        "MECES 2",
+        "MECES 4",
+        "MECES 3",
+        "MECES 1"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 16.5 atribuye al Máster el nivel MECES 3. El Grado es MECES 2 y el Doctorado MECES 4.",
+      "ref": "art. 16.5 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Un título de Grado puede obtener un nivel equivalente al MECES 3 cuando:",
+      "opciones": [
+        "Tenga 240 créditos y un TFG de 24 créditos",
+        "Tenga al menos 300 créditos y de ellos 60 sean de nivel de Máster, previa resolución del Consejo de Universidades",
+        "Tenga 360 créditos, de forma automática",
+        "Incluya una Mención Dual"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 13.5 y disp. adic. 10.ª: Grados de al menos 300 ECTS con un mínimo de 60 de nivel de Máster, mediante solicitud y resolución del Consejo de Universidades.",
+      "ref": "art. 13.5 y disp. adic. 10.ª RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el RD 822/2021, el plan de estudios de Grado y Máster se estructura en cursos de:",
+      "opciones": [
+        "30 créditos ECTS",
+        "75 créditos ECTS",
+        "90 créditos ECTS",
+        "60 créditos ECTS"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 5.2 fija cursos de 60 créditos ECTS, con la excepción de los Másteres de 90 créditos, que pueden tener un curso de 30.",
+      "ref": "art. 5.2 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿En qué caso admite el RD 822/2021 un curso de 30 créditos?",
+      "opciones": [
+        "En los Másteres con una carga total de 90 créditos",
+        "En los Grados de 300 créditos",
+        "En los programas de Doctorado",
+        "En los Grados con Mención Dual"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 5.2: se exceptúan de la regla de 60 créditos por curso los Másteres de 90 créditos, permitiéndose que uno de los cursos sea de 30.",
+      "ref": "art. 5.2 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO es uno de los principios rectores del diseño de los planes de estudios del art. 4.1 del RD 822/2021?",
+      "opciones": [
+        "El rigor académico del proyecto formativo",
+        "La comprensibilidad social",
+        "La rentabilidad económica del título",
+        "La coherencia entre objetivos, competencias y evaluación"
+      ],
+      "correcta": 2,
+      "explicacion": "Los principios son: rigor académico, concordancia con el carácter generalista o especializado del ciclo, coherencia y comprensibilidad social. La rentabilidad económica no figura.",
+      "ref": "art. 4.1 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La expedición de los títulos oficiales de Grado, Máster y Doctorado se efectúa:",
+      "opciones": [
+        "Por el Ministerio competente en materia de universidades",
+        "Por el Consejo de Universidades",
+        "Por el Decano o Director del centro",
+        "En nombre del Rey por la Rectora o el Rector de la universidad"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 8.2 dispone que se expiden en nombre del Rey por el Rector de la universidad en que se finalizaron los estudios, conforme al RD 1002/2010.",
+      "ref": "art. 8.2 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las guías docentes de las asignaturas de Grado y Máster deben ser accesibles para el estudiantado:",
+      "opciones": [
+        "Durante el primer mes del curso",
+        "Previamente al período oficial de matrícula",
+        "Antes del inicio del segundo cuatrimestre",
+        "Cuando lo solicite el estudiante"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 9.3 exige que sean accesibles previamente al período oficial de matrícula.",
+      "ref": "art. 9.3 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En el reconocimiento de créditos, los correspondientes a trabajos de fin de Grado o de Máster:",
+      "opciones": [
+        "No pueden ser reconocidos, salvo los desarrollados específicamente en un programa de movilidad",
+        "Pueden reconocerse siempre que procedan de la misma universidad",
+        "Pueden reconocerse hasta un 15 %",
+        "Se reconocen automáticamente si son del mismo campo de estudio"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 10.3 excluye del reconocimiento los créditos de TFG y TFM, con la excepción de los desarrollados en un programa de movilidad.",
+      "ref": "art. 10.3 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El volumen de créditos reconocibles a partir de la experiencia profesional o laboral y de estudios universitarios no oficiales no podrá superar globalmente:",
+      "opciones": [
+        "El 10 % del total de créditos del plan",
+        "El 25 % del total de créditos del plan",
+        "El 15 % del total de créditos del plan",
+        "El 20 % del total de créditos del plan"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 10.5: límite global del 15 %; estos créditos no tienen calificación numérica.",
+      "ref": "art. 10.5 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los créditos reconocidos por experiencia profesional o laboral:",
+      "opciones": [
+        "Se califican con la nota media del expediente",
+        "Se califican con un 5",
+        "Computan en la baremación con su calificación de origen",
+        "No cuentan con calificación numérica y no se utilizan para baremar el expediente"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 10.5 dispone que estos créditos no contarán con calificación numérica y no podrán utilizarse al baremar el expediente.",
+      "ref": "art. 10.5 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Mediante convenio entre un centro de Formación Profesional de grado superior y un centro universitario, la proporción de créditos reconocibles en un Grado puede alcanzar:",
+      "opciones": [
+        "Hasta el 25 % de la carga crediticia total",
+        "Hasta el 15 %",
+        "Hasta el 30 %",
+        "Hasta el 50 %"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 10.7: hasta el 25 % de la carga crediticia total del Grado, con convenio aprobado por el órgano de gobierno de la universidad y el departamento autonómico de FP.",
+      "ref": "art. 10.7 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El reconocimiento de créditos en Grado por participación en actividades universitarias culturales, deportivas, solidarias, de cooperación y de representación estudiantil:",
+      "opciones": [
+        "Tiene un máximo de 6 créditos",
+        "Equivaldrá como mínimo a 6 créditos y, junto con otras actividades de esa letra, no superará el 10 % del plan",
+        "No puede superar el 15 % del plan",
+        "Equivaldrá como mínimo a 12 créditos"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 10.9.c): equivaldrán conjuntamente como mínimo a seis créditos, y la totalidad de créditos reconocidos por esa letra no podrá superar el 10 % del plan.",
+      "ref": "art. 10.9.c) RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La transferencia de créditos consiste en:",
+      "opciones": [
+        "La aceptación de créditos de otros estudios oficiales para obtener un título distinto",
+        "El reconocimiento de la experiencia profesional",
+        "La inclusión en el expediente y en el SET de la totalidad de los créditos oficiales cursados previamente que no hayan conducido a un título oficial",
+        "El traslado del expediente a otra universidad"
+      ],
+      "correcta": 2,
+      "explicacion": "Así la define el art. 10.8. La opción A describe el reconocimiento (art. 10.3).",
+      "ref": "art. 10.8 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de las prácticas académicas externas, señale la afirmación INCORRECTA:",
+      "opciones": [
+        "Pueden ser curriculares o extracurriculares",
+        "Exigen la suscripción de un Convenio de Cooperación Educativa",
+        "Se recogen en el Suplemento Europeo al Título",
+        "Generan una relación laboral de carácter especial con la entidad"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 11.3 dispone que de su realización no se derivarán, en ningún caso, obligaciones propias de una relación laboral.",
+      "ref": "art. 11 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los precios públicos de los títulos universitarios oficiales de las universidades públicas los fijan:",
+      "opciones": [
+        "Las Comunidades Autónomas, dentro de los límites máximos establecidos por la Conferencia General de Política Universitaria",
+        "Los Consejos Sociales de cada universidad",
+        "El Ministerio, mediante orden anual",
+        "El Consejo de Universidades"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 12 RD 822/2021.",
+      "ref": "art. 12 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Una mención en un título de Grado tendrá como mínimo el equivalente al:",
+      "opciones": [
+        "10 % de la carga de créditos total",
+        "25 % de la carga de créditos total",
+        "50 % de la carga de créditos total",
+        "20 % de la carga de créditos total"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 13.3: una mención tendrá como mínimo el 20 % de la carga total del Grado y debe incluirse en la memoria.",
+      "ref": "art. 13.3 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con carácter general, los planes de estudios de Grado tendrán:",
+      "opciones": [
+        "180 créditos ECTS",
+        "240 créditos ECTS",
+        "300 créditos ECTS",
+        "Entre 180 y 240 créditos ECTS, a elección de la universidad"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 14.1: 240 créditos, salvo los que por legislación específica o Derecho de la UE deban tener 300 o 360.",
+      "ref": "art. 14.1 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Qué previó el RD 822/2021 para los Grados oficiales de 180 créditos existentes a su entrada en vigor?",
+      "opciones": [
+        "Que se mantuvieran indefinidamente",
+        "Que se convirtieran automáticamente en títulos propios",
+        "Que solicitaran la modificación de su plan para pasar a 240 créditos en un plazo de dos años",
+        "Que se extinguieran al curso siguiente"
+      ],
+      "correcta": 2,
+      "explicacion": "Disposición transitoria primera: modificación para pasar a 240 créditos en dos años; los estudiantes ya matriculados podían terminar con la duración iniciada.",
+      "ref": "disp. trans. 1.ª RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En un Grado de 240 créditos, la formación básica será como mínimo de:",
+      "opciones": [
+        "60 créditos, de los que al menos la mitad estarán vinculados al mismo campo de estudio del título",
+        "36 créditos del mismo campo de estudio",
+        "75 créditos",
+        "90 créditos, todos del mismo campo"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 14.4: mínimo 60 créditos de formación básica; al menos la mitad del mismo campo y el resto de otros campos.",
+      "ref": "art. 14.4 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los títulos de Grado de 360 créditos, la formación básica incluirá un mínimo de:",
+      "opciones": [
+        "60 créditos",
+        "75 créditos",
+        "120 créditos",
+        "90 créditos"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 14.4: 75 créditos en Grados de 300 y 90 en Grados de 360.",
+      "ref": "art. 14.4 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las asignaturas de formación básica de campos distintos al del título deberán tener:",
+      "opciones": [
+        "Un mínimo de 3 créditos y ofertarse en cualquier curso",
+        "Un mínimo de 6 créditos cada una y ofertarse en la primera mitad del plan",
+        "Un máximo de 6 créditos y ofertarse en primer curso",
+        "Un mínimo de 12 créditos"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 14.4: materias o asignaturas con un mínimo de 6 créditos cada una, ofertadas en la primera mitad del plan.",
+      "ref": "art. 14.4 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las prácticas académicas externas curriculares en los Grados (sin Mención Dual ni normas europeas específicas) tendrán una extensión máxima del:",
+      "opciones": [
+        "20 % del total de créditos",
+        "40 % del total de créditos",
+        "25 % del total de créditos",
+        "Un tercio del total de créditos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 14.5: máximo del 25 %, preferentemente en la segunda mitad. Un tercio es el límite del Máster (art. 17.3).",
+      "ref": "art. 14.5 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El trabajo de fin de Grado en un Grado de 240 créditos tendrá:",
+      "opciones": [
+        "Entre 6 y 24 créditos",
+        "Entre 6 y 30 créditos",
+        "Entre 12 y 24 créditos",
+        "Entre 6 y 36 créditos"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 14.6: mínimo 6 créditos; máximo 24 en Grados de 240, 30 en los de 300 y 36 en los de 360.",
+      "ref": "art. 14.6 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Para que un Grado se considere impartido en modalidad híbrida, la proporción de créditos no presenciales debe situarse:",
+      "opciones": [
+        "Por debajo del 40 %",
+        "Entre el 20 y el 40 %",
+        "Por encima del 80 %",
+        "Entre el 40 y el 60 %"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 14.7: entre el 40 y el 60 % de la carga crediticia total. La modalidad virtual exige al menos el 80 %.",
+      "ref": "art. 14.7 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las universidades reservarán para estudiantes con un grado de discapacidad igual o superior al 33 %, en los títulos de Grado:",
+      "opciones": [
+        "Al menos el 3 % de las plazas ofertadas",
+        "Como máximo el 5 % de las plazas",
+        "Al menos el 5 % de las plazas ofertadas",
+        "Al menos el 7 % de las plazas ofertadas"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 15.3 (y art. 18.6 para el Máster): al menos un 5 % de las plazas.",
+      "ref": "art. 15.3 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El número de créditos de una especialidad de Máster Universitario:",
+      "opciones": [
+        "No podrá superar el 50 % del total del plan de estudios del Máster",
+        "Será como mínimo el 20 % del plan",
+        "No podrá superar el 25 % del plan",
+        "Será exactamente de 30 créditos"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 16.4: no podrá superar el cincuenta por ciento del número total de créditos del Máster.",
+      "ref": "art. 16.4 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los planes de estudios de Máster Universitario contarán con:",
+      "opciones": [
+        "60 o 120 créditos ECTS",
+        "Entre 60 y 120 créditos ECTS, en cualquier cifra",
+        "90 o 120 créditos ECTS",
+        "60, 90 o 120 créditos ECTS"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 17.1: 60, 90 o 120 créditos ECTS.",
+      "ref": "art. 17.1 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las prácticas académicas externas de un Máster Universitario no podrán superar:",
+      "opciones": [
+        "El 25 % de la carga crediticia total",
+        "Un tercio de la carga crediticia total",
+        "La mitad de la carga crediticia total",
+        "30 créditos"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 17.3: no podrán superar un tercio de la carga total.",
+      "ref": "art. 17.3 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El trabajo de fin de Máster podrá contar con:",
+      "opciones": [
+        "Entre 12 y 30 créditos",
+        "Entre 6 y 24 créditos",
+        "Un mínimo de 6 y un máximo de 30 créditos",
+        "Un mínimo de 15 créditos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 17.4: mínimo 6 y máximo 30 créditos ECTS, defendido en acto público.",
+      "ref": "art. 17.4 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En el procedimiento de matrícula condicionada en un Máster, puede acceder el estudiante de Grado al que le reste por superar:",
+      "opciones": [
+        "El TFG y como máximo hasta 9 créditos ECTS",
+        "Hasta 30 créditos, incluido el TFG",
+        "Únicamente el TFG",
+        "Hasta 12 créditos sin contar el TFG"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 18.4: el TFG y como máximo hasta 9 créditos ECTS; no podrá obtener el Máster sin haber obtenido antes el Grado. Los 30 ECTS corresponden a los recorridos sucesivos de Ingeniería y Arquitectura (disp. adic. 9.ª).",
+      "ref": "art. 18.4 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los complementos formativos exigibles para la admisión en un Máster no podrán superar:",
+      "opciones": [
+        "El 15 % de la carga del título",
+        "El 25 % de la carga del título",
+        "30 créditos",
+        "El 20 % de la carga crediticia del título"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 18.5: no podrá superar el equivalente al 20 % de la carga del título.",
+      "ref": "art. 18.5 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Para obtener la Mención Dual en un Máster Universitario, el porcentaje de créditos desarrollados en la entidad colaboradora debe estar:",
+      "opciones": [
+        "Entre el 20 y el 40 %",
+        "Entre el 25 y el 50 %",
+        "Entre el 40 y el 60 %",
+        "Por encima del 50 %"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 22.2.a): entre el 20 y el 40 % en Grado y entre el 25 y el 50 % en Máster, incluido el TFG o TFM.",
+      "ref": "art. 22.2.a) RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El programa de Grado con itinerario académico abierto deberá tener, en Grados de 240 créditos, una carga de:",
+      "opciones": [
+        "Entre 30 y 60 créditos, en el primer año",
+        "Entre 60 y 120 créditos, en los tres primeros años",
+        "Entre 60 y 120 créditos, cursados en los dos primeros años",
+        "Exactamente 60 créditos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 23.1.b): entre 60 y 120 créditos, que se cursan en los dos primeros años del Grado.",
+      "ref": "art. 23.1.b) RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Sobre los programas académicos de simultaneidad de dobles titulaciones, es cierto que:",
+      "opciones": [
+        "No podrán implementarse programas de simultaneidad de tres o más titulaciones",
+        "Requieren verificación de un nuevo título conjunto",
+        "Solo pueden combinar un Grado y un Máster",
+        "Los aprueba el Consejo de Universidades"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 24.1 prohíbe programas de tres o más titulaciones. Los aprueban los órganos de gobierno de la universidad con informe favorable de su SIGC (art. 24.4).",
+      "ref": "art. 24 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los órganos de evaluación externa responsables de los procedimientos de aseguramiento de la calidad son:",
+      "opciones": [
+        "Únicamente ANECA",
+        "El Consejo de Universidades y la Conferencia General de Política Universitaria",
+        "Las Comisiones de Calidad de cada universidad",
+        "ANECA y las agencias autonómicas inscritas en el EQAR"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 25.2: ANECA y, en su ámbito territorial, las agencias autonómicas inscritas en el EQAR tras una evaluación externa conforme a los ESG.",
+      "ref": "art. 25.2 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El procedimiento de verificación de un plan de estudios en un centro NO acreditado institucionalmente no podrá durar más de:",
+      "opciones": [
+        "Tres meses",
+        "Seis meses",
+        "Cuatro meses",
+        "Un año"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 26.2: seis meses (sin contar la reclamación); cuatro meses si el centro tiene acreditación institucional.",
+      "ref": "art. 26.2 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Transcurrido el plazo máximo del procedimiento de verificación sin notificación de la resolución:",
+      "opciones": [
+        "La solicitud se entiende desestimada",
+        "Se produce la caducidad del procedimiento",
+        "La solicitud se entiende estimada y el plan verificado",
+        "La universidad debe presentar nueva memoria"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 26.2: transcurrido el plazo, la solicitud se entenderá estimada y el plan verificado.",
+      "ref": "art. 26.2 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con carácter previo al inicio del procedimiento de verificación, el informe preceptivo sobre la necesidad y viabilidad académica y social del título lo emite:",
+      "opciones": [
+        "La Comunidad Autónoma",
+        "La agencia de calidad",
+        "El Consejo de Universidades",
+        "El Consejo de Gobierno de la universidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 26.3 RD 822/2021 y art. 8.2 LOSU.",
+      "ref": "art. 26.3 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si la Secretaría General de Universidades detecta insuficiencias en la documentación de la solicitud de verificación, la universidad dispondrá para subsanar de:",
+      "opciones": [
+        "5 días hábiles",
+        "15 días hábiles",
+        "1 mes",
+        "10 días hábiles"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 26.4: 10 días hábiles; si no subsana, se le tendrá por desistida.",
+      "ref": "art. 26.4 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El informe provisional de verificación de la agencia podrá ser:",
+      "opciones": [
+        "Favorable o desfavorable",
+        "Favorable, favorable con condiciones o desfavorable",
+        "Positivo, negativo o condicionado a modificación sustancial",
+        "Favorable, desfavorable o de archivo"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 26.6. El informe definitivo, en cambio, solo puede ser favorable o desfavorable (art. 26.7).",
+      "ref": "art. 26.6 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Contra la resolución de verificación, la universidad podrá reclamar ante la Presidencia del Consejo de Universidades en el plazo de:",
+      "opciones": [
+        "1 mes",
+        "15 días hábiles",
+        "10 días hábiles",
+        "20 días hábiles"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 26.10: 10 días hábiles desde la recepción de la notificación. En la renovación de la acreditación el plazo es de 15 días hábiles (art. 34.9).",
+      "ref": "art. 26.10 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El carácter oficial de un título universitario, una vez verificado y autorizado por la Comunidad Autónoma, se establece por:",
+      "opciones": [
+        "Acuerdo del Consejo de Ministros, publicado en el BOE",
+        "Resolución del Consejo de Universidades",
+        "Orden del Ministerio",
+        "Resolución del Rector publicada en el BOC"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 27.1: acuerdo del Consejo de Ministros a propuesta del Ministerio, publicado en el BOE.",
+      "ref": "art. 27.1 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Desde la publicación oficial del plan de estudios, la universidad dispondrá para implantar e iniciar la docencia del título de un máximo de:",
+      "opciones": [
+        "Un curso académico",
+        "Tres cursos académicos",
+        "Seis meses",
+        "Dos cursos académicos"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 27.5: dos cursos académicos; si no se inicia, el título pierde su acreditación inicial (art. 27.6).",
+      "ref": "art. 27.5 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los centros no acreditados institucionalmente, el informe de seguimiento del título es preceptivo:",
+      "opciones": [
+        "Cada año",
+        "Transcurridos tres años desde la implantación efectiva o la renovación de la acreditación",
+        "A los dos años de la verificación",
+        "Solo si la agencia lo requiere"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 28.1: al menos un informe de seguimiento, preceptivo transcurridos tres años.",
+      "ref": "art. 28.1 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En un centro no acreditado institucionalmente, si la agencia no se pronuncia en plazo sobre una modificación no sustancial:",
+      "opciones": [
+        "La modificación se entiende rechazada",
+        "Debe tramitarse como sustancial",
+        "La universidad puede considerar aceptada su propuesta, transcurridos dos meses",
+        "Resuelve el Consejo de Universidades"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 30.2: la agencia debe notificar en dos meses; sin pronunciamiento expreso, la universidad puede considerarla aceptada.",
+      "ref": "art. 30.2 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO figura entre los aspectos que, como mínimo, son objeto de modificación sustancial?",
+      "opciones": [
+        "El cambio en el número de plazas ofertadas",
+        "El cambio en la modalidad de impartición",
+        "La incorporación o modificación de menciones y especialidades",
+        "La sustitución del profesorado responsable de una asignatura"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 32.2 enumera menciones y especialidades, modalidad, complementos, formación básica y obligatoria, créditos de TFG y TFM, número de plazas y modificación parcial de la denominación.",
+      "ref": "art. 32.2 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La acreditación de un título oficial de Máster en un centro no acreditado institucionalmente deberá renovarse en el plazo máximo de:",
+      "opciones": [
+        "Cuatro años",
+        "Seis años",
+        "Ocho años",
+        "Tres años"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 34.1.c): seis años desde el inicio de la impartición o la renovación anterior. Los cuatro años eran el plazo del antiguo RD 1393/2007.",
+      "ref": "art. 34.1.c) RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La acreditación de un Grado de 360 créditos deberá haber sido renovada en el plazo máximo de:",
+      "opciones": [
+        "Ocho años",
+        "Seis años",
+        "Diez años",
+        "Cuatro años"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 34.1.b): ocho años para Grados de 300 o 360 créditos.",
+      "ref": "art. 34.1.b) RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el procedimiento de renovación de la acreditación, la evaluación de la agencia incluye en todo caso:",
+      "opciones": [
+        "Una encuesta a los egresados",
+        "Una visita de personas expertas externas, con la participación de al menos un estudiante",
+        "Un informe de la Comunidad Autónoma",
+        "Una auditoría económica del título"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 34.4.",
+      "ref": "art. 34.4 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El plazo para presentar alegaciones a la propuesta de informe de renovación de la acreditación es de:",
+      "opciones": [
+        "10 días hábiles",
+        "15 días hábiles",
+        "1 mes",
+        "20 días hábiles"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 34.5: 20 días hábiles.",
+      "ref": "art. 34.5 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si transcurre el plazo del procedimiento de renovación de la acreditación sin resolución, el silencio administrativo es:",
+      "opciones": [
+        "Desestimatorio",
+        "Estimatorio",
+        "Inexistente, pues hay caducidad",
+        "Estimatorio solo en los Grados de 240 créditos"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 34.7: el sentido del silencio será estimatorio.",
+      "ref": "art. 34.7 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La universidad que no obtuvo la renovación de la acreditación de un título no podrá presentar a verificación una memoria similar en denominación y contenidos durante:",
+      "opciones": [
+        "Un año",
+        "Tres años",
+        "Dos años desde que venció la acreditación",
+        "Cuatro años"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 34.11: en los dos años siguientes, contados desde la fecha en que venció la acreditación.",
+      "ref": "art. 34.11 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los centros con acreditación institucional renuevan la acreditación de sus títulos oficiales:",
+      "opciones": [
+        "Cada cuatro años, mediante visita",
+        "Mientras mantengan la acreditación institucional",
+        "Cada seis años, con informe de la Comunidad Autónoma",
+        "Solo si lo solicita el Consejo Social"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 35: renuevan la acreditación de sus títulos mientras los centros mantengan la acreditación institucional (art. 14 RD 640/2021).",
+      "ref": "art. 35 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Un Diploma de Especialización, dentro de la formación permanente, tendrá una carga de:",
+      "opciones": [
+        "Menos de 30 créditos",
+        "Menos de 15 créditos",
+        "60, 90 o 120 créditos",
+        "Entre 30 y 59 créditos"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 37.6: Máster de Formación Permanente (60, 90 y 120), Diploma de Especialización (30 a 59) y Diploma de Experto (menos de 30).",
+      "ref": "art. 37.6 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En las universidades públicas, los precios de los títulos de formación permanente son aprobados por:",
+      "opciones": [
+        "El Consejo Social",
+        "La Comunidad Autónoma",
+        "El Consejo de Gobierno",
+        "El Rector"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 37.2 RD 822/2021.",
+      "ref": "art. 37.2 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la disposición adicional séptima, un título conjunto en el marco del Programa de Universidades Europeas es el correspondiente a un único plan diseñado y participado por:",
+      "opciones": [
+        "Al menos dos universidades de la alianza",
+        "Todas o como mínimo tres de las universidades del consorcio",
+        "Una universidad española y otra extranjera",
+        "Al menos cinco universidades"
+      ],
+      "correcta": 1,
+      "explicacion": "Disp. adic. 7.ª.2: todas o como mínimo tres de las universidades del consorcio que han suscrito el convenio.",
+      "ref": "disp. adic. 7.ª RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La inscripción de un título en el RUCT:",
+      "opciones": [
+        "Tiene efectos meramente informativos",
+        "Es posterior al inicio de la docencia",
+        "Tiene efectos constitutivos y lleva aparejada la consideración inicial de título acreditado",
+        "Solo es obligatoria para los Másteres habilitantes"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 27.2 RD 822/2021 y art. 7.3 LOSU.",
+      "ref": "art. 27.2 RD 822/2021",
+      "dificultad": 2
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "RD 822/2021, organización enseñanzas universitarias. Actualizado octubre 2025.",
+      "url": "https://www.youtube.com/watch?v=k5m6gPbEWDc",
+      "canal": "Chrissana Roy"
+    },
+    {
+      "titulo": "Real Decreto 822/2021, organización enseñanzas universitarias y del proced de asegur de su calidad.",
+      "url": "https://www.youtube.com/watch?v=DJbuM7DCotw",
+      "canal": "Chrissana Roy"
+    },
+    {
+      "titulo": "RD 822/21 CAPÍTULO III Organización básica de las enseñanzas universitarias oficiales de Grado",
+      "url": "https://www.youtube.com/watch?v=xZXLv5cu7Tc",
+      "canal": "Chrissana Roy"
+    },
+    {
+      "titulo": "RD 822/21. CAPÍTULO IV Organización básica de las enseñanzas universitarias oficiales de Máster",
+      "url": "https://www.youtube.com/watch?v=CsA66rUW9tE",
+      "canal": "Chrissana Roy"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "BOE: Real Decreto 822/2021 (texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15781"
+    },
+    {
+      "titulo": "BOE: Real Decreto 905/2025, de 7 de octubre (modifica el RD 822/2021)",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20002"
+    },
+    {
+      "titulo": "ACCUEE: Agencia Canaria de Calidad Universitaria y Evaluación Educativa",
+      "url": "https://www3.gobiernodecanarias.org/educacion/accuee/"
+    },
+    {
+      "titulo": "EQAR: ficha de la ACCUEE en el Registro Europeo de Agencias",
+      "url": "https://www.eqar.eu/register/agencies/agency/?id=73"
+    }
+  ]
+}

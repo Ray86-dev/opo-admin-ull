@@ -1,0 +1,203 @@
+{
+  "bloque": 4,
+  "titulo": "Renovación de la acreditación de un Grado, modificaciones del plan y reconocimiento de créditos",
+  "temas": ["4-06", "4-02"],
+  "enunciado": "Eres gestor en la **Unidad de Calidad de la Facultad de Humanidades** de la Universidad de La Laguna. Los centros de la ULL no tienen acreditación institucional. En 2026 hay varios expedientes abiertos del **Grado en Historia (240 ECTS)**, cuya acreditación se renovó por última vez el **martes 14 de julio de 2020**.\n\n**1. Renovación de la acreditación.**\n\n- El lunes 2 de febrero de 2026 la ULL solicita la renovación al Consejo de Universidades, a través de la aplicación del Ministerio.\n- Se hace la evaluación correspondiente.\n- El lunes 11 de mayo de 2026 la ULL recibe la propuesta de informe de la agencia de calidad.\n\nEn paralelo, la Facultad de Ciencias de la Salud pregunta por el plazo de renovación del **Grado en Medicina (360 ECTS)**.\n\n**2. Seguimiento.** La coordinadora del Grado pregunta cuándo era preceptivo el informe de seguimiento tras la última renovación.\n\n**3. Modificaciones del plan de estudios.** La Junta de Facultad quiere:\n\n- a) Ampliar el Trabajo de Fin de Grado de 6 a 12 ECTS.\n- b) Hacer otros cambios menores que, según los criterios comunes de las agencias, se consideran **no sustanciales**.\n\n**4. Reconocimiento de créditos.** Varios estudiantes han solicitado reconocimiento de créditos:\n\n- **Eva Martín:** trabajó seis años como guía en el Museo de Historia y Antropología de Tenerife. Pide que se le reconozcan 42 ECTS por experiencia profesional estrechamente relacionada con el título.\n- **Jorge Acosta:** pide que se le reconozca el TFG que aprobó en otro Grado de la ULL. No lo hizo en un programa de movilidad.\n- **Candela Ruiz:** ha participado en actividades culturales, deportivas y de representación estudiantil. Pregunta cuántos créditos se le pueden reconocer por ellas.\n\nResponde aplicando el RD 822/2021 (organización de las enseñanzas universitarias y aseguramiento de su calidad) y la LOSU.",
+  "preguntas": [
+    {
+      "enunciado": "¿Hasta cuándo debe estar renovada la acreditación del Grado en Historia (240 ECTS)?",
+      "opciones": [
+        "Hasta el 14 de julio de 2028, porque el plazo es de ocho años.",
+        "Hasta el 14 de julio de 2026, porque la acreditación de los Grados de 240 créditos debe renovarse en un plazo máximo de seis años desde la renovación anterior.",
+        "Hasta el 14 de julio de 2024, porque el plazo es de cuatro años.",
+        "No hace falta renovarla, porque ya se renovó una vez."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 34.1.a) RD 822/2021 dispone que la acreditación de los títulos de Grado de 240 créditos debe renovarse en un plazo máximo de seis años desde el inicio de su impartición o desde la renovación anterior. Cálculo: 14/7/2020 + 6 años = 14/7/2026. La renovación es periódica: no basta haberla obtenido una vez.",
+      "ref": "art. 34.1.a) RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Y cuál es el plazo máximo de renovación de la acreditación del Grado en Medicina (360 ECTS)?",
+      "opciones": [
+        "Seis años, igual que el resto de los Grados.",
+        "Cuatro años.",
+        "Ocho años desde el inicio de la impartición o desde la renovación anterior.",
+        "Diez años."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 34.1.b) RD 822/2021 dispone que la acreditación de los Grados de 300 o 360 créditos debe renovarse en un plazo máximo de ocho años desde el inicio de su impartición o desde la renovación anterior. Para los Grados de 240 créditos y los programas de Doctorado el plazo es de seis años (letras a y d).",
+      "ref": "art. 34.1.b) RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué órgano resuelve la renovación de la acreditación del Grado en Historia y qué valor tiene el informe de la agencia?",
+      "opciones": [
+        "La resuelve el Consejo de Universidades, a partir del informe preceptivo y vinculante de la agencia de calidad competente.",
+        "La resuelve la agencia de calidad con carácter definitivo.",
+        "La resuelve el Consejo de Gobierno de la ULL, previo informe no vinculante de la agencia.",
+        "La resuelve la consejería de universidades del Gobierno de Canarias, sin informe de la agencia."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 34.1 RD 822/2021 dispone que los centros no acreditados institucionalmente renuevan la acreditación de sus títulos según el procedimiento que fije cada Comunidad Autónoma. La resuelve el Consejo de Universidades a partir del informe preceptivo y vinculante de la agencia de calidad. La universidad la solicita al Consejo de Universidades a través de la aplicación del Ministerio (art. 34.3). Con informe favorable se dicta resolución estimatoria; con informe desfavorable, desestimatoria (art. 34.7).",
+      "ref": "art. 34.1, 34.3 y 34.7 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre la evaluación que hace la agencia tras la solicitud del 2 de febrero de 2026, señala la afirmación correcta:",
+      "opciones": [
+        "Es una evaluación documental, sin visita.",
+        "La visita la hacen profesores de la propia ULL.",
+        "La solicitud se traslada a la agencia en un mes y la visita es optativa.",
+        "La solicitud se traslada a la agencia en un máximo de 5 días hábiles, y la evaluación incluye en todo caso una visita de personas expertas externas a la universidad, con al menos un estudiante."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 34.4 RD 822/2021 dispone que la solicitud se traslada en un máximo de 5 días hábiles a la agencia de calidad, que comprueba que el plan se desarrolla según su proyecto inicial. La evaluación incluye en todo caso una visita de personas expertas externas a la universidad, con al menos un estudiante, y termina con un informe de evaluación preceptivo para el Consejo de Universidades. En la segunda y sucesivas renovaciones se revisan especialmente los aspectos señalados en las anteriores.",
+      "ref": "art. 34.4 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Recibida el 11 de mayo de 2026 la propuesta de informe de la agencia, ¿qué plazo tiene la ULL para presentar alegaciones?",
+      "opciones": [
+        "10 días hábiles.",
+        "20 días hábiles.",
+        "15 días hábiles.",
+        "Un mes."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 34.5 RD 822/2021 establece que la agencia envía a la universidad una propuesta justificada de informe para que pueda alegar en el plazo de 20 días hábiles. Valoradas las alegaciones, la agencia propone un informe definitivo, favorable o desfavorable (art. 34.6). No confundas este plazo con los 15 días hábiles de alegaciones al informe provisional de verificación (art. 26.6) ni con los 15 días hábiles de la reclamación contra la resolución de renovación (art. 34.9).",
+      "ref": "art. 34.5 y 34.6 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál es la duración máxima del procedimiento de renovación de la acreditación y qué ocurre si el Consejo de Universidades no resuelve a tiempo?",
+      "opciones": [
+        "Seis meses; si no se dicta resolución en plazo, el silencio es estimatorio.",
+        "Tres meses; si no se dicta resolución en plazo, el silencio es desestimatorio.",
+        "Seis meses; si no se dicta resolución en plazo, el silencio es desestimatorio.",
+        "Un año; si no se dicta resolución en plazo, el procedimiento caduca."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 34.2 RD 822/2021 fija una duración máxima de seis meses para el procedimiento de renovación. El art. 34.7 dispone que, si pasan los plazos sin resolución, el silencio administrativo es estimatorio. La resolución debe ser motivada e indicar los recursos procedentes. El Consejo de Universidades la notifica en los 3 días hábiles siguientes a su aprobación (art. 34.8).",
+      "ref": "art. 34.2, 34.7 y 34.8 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si la resolución fuera desfavorable a la renovación de la acreditación, ¿qué consecuencias tendría para el Grado en Historia?",
+      "opciones": [
+        "El título se extinguiría de inmediato y el estudiantado tendría que trasladarse a otra universidad.",
+        "Ninguna, porque la ULL podría seguir impartiéndolo hasta la siguiente evaluación.",
+        "El título se declararía «a extinguir» y se anotaría en el RUCT. La Comunidad Autónoma determinaría la extinción progresiva del plan, curso a curso, desde el año académico siguiente, garantizando los derechos académicos del estudiantado.",
+        "La ULL debería devolver los precios públicos cobrados."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 34.8 RD 822/2021 dispone que el título que no renueve la acreditación se declara «a extinguir», con anotación en el RUCT. La Comunidad Autónoma determina la extinción progresiva del plan, con periodicidad anual, desde el año académico siguiente a la resolución, y declara la extinción definitiva cuando se produzca. La Comunidad y la universidad deben garantizar los derechos académicos del estudiantado que esté cursando esos estudios.",
+      "ref": "art. 34.8 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Frente a una resolución desfavorable, ¿qué puede hacer la ULL?",
+      "opciones": [
+        "Interponer recurso de alzada ante el Ministerio en un mes.",
+        "Pedir una nueva evaluación a otra agencia en 10 días hábiles.",
+        "Solo interponer directamente recurso contencioso-administrativo.",
+        "Presentar reclamación ante la Presidencia del Consejo de Universidades en el plazo de 15 días hábiles desde que recibe la resolución."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 34.9 RD 822/2021 permite a la universidad presentar una reclamación ante la Presidencia del Consejo de Universidades en el plazo de 15 días hábiles desde la recepción de la resolución. Se tramita según el art. 26.10. La resolución pone fin a la vía administrativa, y si no se resuelve la reclamación en plazo puede entenderse desestimada (art. 34.10).",
+      "ref": "art. 34.9 y 34.10 RD 822/2021",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si el Grado en Historia no obtuviera la renovación, ¿cuándo podría la ULL presentar a verificación un nuevo Grado de denominación y contenidos similares?",
+      "opciones": [
+        "Inmediatamente, al curso siguiente.",
+        "No en los dos años siguientes, contados desde la fecha en que venció la acreditación del título.",
+        "Nunca.",
+        "Al cabo de seis años."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 34.11 RD 822/2021 dispone que la universidad que no haya solicitado la renovación en plazo, o que no la haya obtenido, no podrá presentar en los dos años siguientes, contados desde el vencimiento de la acreditación, una memoria a verificación similar en denominación y contenidos fundamentales al título no renovado.",
+      "ref": "art. 34.11 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Tras la renovación de la acreditación de julio de 2020, ¿cuándo era preceptivo el informe de seguimiento del Grado?",
+      "opciones": [
+        "Transcurridos tres años desde la renovación de la acreditación, es decir, en 2023; la Facultad debía elaborar al menos un informe de seguimiento.",
+        "Cada año, sin excepción.",
+        "Solo si la agencia lo pedía.",
+        "Al año de la renovación."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 28.1 RD 822/2021 dispone que son objeto de seguimiento, entre otros, los títulos que han obtenido la renovación de la acreditación en centros no acreditados institucionalmente. Los centros deben elaborar al menos un informe de seguimiento, preceptivo transcurridos tres años desde la implantación efectiva o la renovación de la acreditación. El informe se remite a la agencia de calidad para su valoración (art. 28.2).",
+      "ref": "art. 28 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cómo debe tramitarse la ampliación del TFG de 6 a 12 ECTS del apartado 3.a)?",
+      "opciones": [
+        "Como modificación no sustancial, aprobada por el Consejo de Gobierno y comunicada a la agencia.",
+        "Basta con un acuerdo de la Junta de Facultad.",
+        "No es posible, porque el TFG de un Grado de 240 ECTS debe tener exactamente 6 créditos.",
+        "Como modificación sustancial, que se solicita al Consejo de Universidades y se tramita por el procedimiento de verificación del art. 26, porque cambia el volumen de créditos del TFG."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 32.2 RD 822/2021 incluye como modificación sustancial, como mínimo, «el cambio en el volumen de créditos del trabajo final de Grado y de Máster». Los centros no acreditados institucionalmente la proponen, a través de su universidad, al Consejo de Universidades, y se tramita como la verificación del art. 26 (art. 32.1 y 32.3). El cambio es posible: el TFG de un Grado de 240 ECTS puede tener entre 6 y 24 créditos (art. 14.6).",
+      "ref": "arts. 14.6 y 32 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cómo se tramitan los cambios no sustanciales del apartado 3.b)?",
+      "opciones": [
+        "Los aprueban los órganos de gobierno de la universidad, previo informe favorable de los sistemas internos de garantía de la calidad, y se remiten a la agencia competente para su aceptación. La agencia tiene dos meses para resolver; si no se pronuncia, la universidad puede considerar aceptada la propuesta.",
+        "Se solicitan al Consejo de Universidades y se tramitan como una verificación.",
+        "Los aprueba el Consejo Social con informe de la Comunidad Autónoma.",
+        "No necesitan ningún trámite ni comunicación."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 30 RD 822/2021 regula las modificaciones no sustanciales en centros no acreditados institucionalmente. Las aprueban los órganos de gobierno de la universidad, previo informe favorable de los sistemas internos de garantía de la calidad, y se remiten a la agencia competente para su aceptación. La agencia debe notificar su resolución en dos meses; si no lo hace, la universidad puede considerar aceptada la propuesta. Después, la universidad incorpora los cambios a la memoria en la aplicación del Ministerio y los comunica a la agencia y a la Comunidad Autónoma.",
+      "ref": "art. 30 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuántos créditos, como máximo, pueden reconocerse a Eva Martín por su experiencia profesional, y con qué calificación?",
+      "opciones": [
+        "Los 42 ECTS que pide, con la nota media de su expediente.",
+        "60 ECTS (25 %), con calificación de aprobado.",
+        "36 ECTS (15 % de 240), sin calificación numérica, por lo que no cuentan para baremar el expediente.",
+        "24 ECTS (10 %), con calificación numérica."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 10.4 RD 822/2021 permite reconocer créditos por experiencia profesional o laboral estrechamente relacionada con el título. Según el art. 10.5, los créditos reconocidos por experiencia profesional o por estudios no oficiales no pueden superar, en conjunto, el 15 % del total de créditos del plan de estudios, no tienen calificación numérica y no cuentan para baremar el expediente. Cálculo: 240 × 0,15 = 36 ECTS, menos de los 42 que pide. El 25 % es el límite para convenios con centros de formación profesional de grado superior (art. 10.7).",
+      "ref": "art. 10.4 y 10.5 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede reconocérsele a Jorge Acosta el TFG que aprobó en otro Grado?",
+      "opciones": [
+        "Sí, porque es un título oficial de la misma universidad.",
+        "No, porque en el reconocimiento de créditos no pueden reconocerse los créditos de trabajos de fin de Grado o de Máster, salvo los realizados específicamente en un programa de movilidad.",
+        "Sí, pero solo por la mitad de sus créditos.",
+        "Sí, si lo autoriza el Decano de la Facultad."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 10.3 RD 822/2021 define el reconocimiento como la aceptación por una universidad de créditos obtenidos en otros estudios oficiales para obtener un título distinto, y establece que en este procedimiento no pueden reconocerse los créditos de trabajos de fin de Grado o de Máster, salvo los realizados específicamente en un programa de movilidad. Jorge no hizo el TFG en un programa de movilidad, así que no procede. Esos créditos sí podrían figurar en su expediente por transferencia (art. 10.8).",
+      "ref": "art. 10.3 y 10.8 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué límites fija el RD 822/2021 para el reconocimiento de créditos por actividades culturales, deportivas, solidarias, de cooperación y de representación estudiantil, como las de Candela Ruiz?",
+      "opciones": [
+        "Como máximo 6 ECTS en todo el Grado.",
+        "Hasta el 25 % del plan de estudios (60 ECTS).",
+        "Estas actividades deben poder reconocerse por, como mínimo, 6 créditos en conjunto; y todos los créditos reconocidos por esta vía no pueden superar el 10 % del plan de estudios (24 ECTS en un Grado de 240).",
+        "No pueden reconocerse, porque no son actividades académicas."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 10.9.c) RD 822/2021 dispone que en los Grados son objeto de reconocimiento los créditos por participación en actividades universitarias de cooperación, solidarias, culturales, deportivas y de representación estudiantil, que en conjunto equivaldrán como mínimo a seis créditos. También pueden serlo otras actividades académicas que organice la universidad. En ningún caso los créditos reconocidos por la letra c) pueden superar el 10 % del total del plan: 240 × 0,10 = 24 ECTS.",
+      "ref": "art. 10.9.c) RD 822/2021",
+      "dificultad": 3
+    }
+  ]
+}

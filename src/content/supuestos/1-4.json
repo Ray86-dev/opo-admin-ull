@@ -1,0 +1,203 @@
+{
+  "bloque": 1,
+  "titulo": "Caída en el campus de Guajara: responsabilidad patrimonial y revisión de oficio",
+  "temas": ["1-05", "1-06", "1-07"],
+  "enunciado": "**Carmen Rodríguez Bethencourt**, vecina de La Laguna de 58 años y ajena a la Universidad, asiste el **miércoles 11 de febrero de 2026** a una conferencia abierta al público en el Aulario del **campus de Guajara**. Al salir, tropieza con una **baldosa suelta** en el acceso principal y sufre una fractura de muñeca. Según el parte de Conserjería, la incidencia se había comunicado al servicio de mantenimiento **diez días antes** sin que se reparara.\n\nCarmen recibe el **alta médica**, con determinación del alcance de sus secuelas, el **lunes 8 de junio de 2026**. El **lunes 22 de junio de 2026** presenta en la Oficina de Registro de la Universidad una **reclamación de responsabilidad patrimonial** en la que solicita una indemnización de **58.000 euros** por días de curación, secuelas y gastos.\n\nEl órgano instructor recaba informe del servicio responsable del mantenimiento del edificio, abre periodo de prueba y concede trámite de audiencia. Carmen también pregunta si puede demandar directamente al jefe del equipo de mantenimiento que no ordenó la reparación.\n\nParalelamente, la **Gerencia** detecta en una auditoría interna dos expedientes irregulares:\n\n1. Una **resolución del Rector de 15 de julio de 2024** que concedió a Sergio Afonso Luis una **ayuda de matrícula** propia de la ULL, cuando Sergio **no estaba matriculado** en ningún estudio de la Universidad, requisito esencial exigido por la convocatoria. La resolución no fue recurrida. El **lunes 5 de octubre de 2026** se acuerda iniciar **de oficio** el procedimiento para declarar su nulidad.\n\n2. Una **resolución de 3 de marzo de 2022**, favorable a una empresa, dictada con un defecto que la hace **anulable** pero no nula.\n\nLa Comunidad Autónoma de Canarias cuenta con un órgano consultivo propio (el Consejo Consultivo de Canarias).\n\n*A efectos de cómputo, considera que en los periodos afectados no hay más días inhábiles que los sábados y domingos.*",
+  "preguntas": [
+    {
+      "enunciado": "Para que Carmen tenga derecho a ser indemnizada, ¿cuál de los siguientes requisitos NO es exigible?",
+      "opciones": [
+        "Que el daño sea efectivo",
+        "Que el daño sea evaluable económicamente e individualizado",
+        "Que la lesión sea consecuencia del funcionamiento del servicio público",
+        "Que el funcionamiento del servicio haya sido necesariamente anormal o culpable"
+      ],
+      "correcta": 3,
+      "explicacion": "Los particulares tienen derecho a ser indemnizados de toda lesión que sea consecuencia del funcionamiento normal o anormal de los servicios públicos, salvo fuerza mayor o deber jurídico de soportar el daño (art. 32.1 LRJSP): es una responsabilidad objetiva. El daño ha de ser efectivo, evaluable económicamente e individualizado (art. 32.2 LRJSP).",
+      "ref": "art. 32.1 y 32.2 LRJSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Hasta cuándo podía Carmen presentar su reclamación sin que prescribiera su derecho?",
+      "opciones": [
+        "Hasta el 11 de febrero de 2027, un año desde la caída",
+        "Hasta el 8 de junio de 2027, un año desde el alta con determinación del alcance de las secuelas",
+        "Hasta el 8 de diciembre de 2026, seis meses desde el alta",
+        "Hasta el 11 de febrero de 2030, cuatro años desde la caída"
+      ],
+      "correcta": 1,
+      "explicacion": "El derecho a reclamar prescribe al año de producido el hecho o de manifestarse su efecto lesivo; en caso de daños físicos o psíquicos, el plazo empieza a contarse desde la curación o la determinación del alcance de las secuelas (art. 67.1 LPAC). El dies a quo es el 8 de junio de 2026 y el plazo, fijado en años, concluye el 8 de junio de 2027 (art. 30.4 LPAC). La reclamación del 22 de junio de 2026 está en plazo.",
+      "ref": "art. 67.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Además de los requisitos generales de toda solicitud, ¿qué NO tiene que hacer constar Carmen en su reclamación?",
+      "opciones": [
+        "La identificación del empleado público concreto responsable del daño y la prueba de su culpa",
+        "Las lesiones producidas y el momento en que efectivamente se produjeron",
+        "La presunta relación de causalidad entre las lesiones y el funcionamiento del servicio",
+        "La evaluación económica de la responsabilidad, si fuera posible, y la proposición de prueba"
+      ],
+      "correcta": 0,
+      "explicacion": "La solicitud debe especificar las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio, la evaluación económica si fuera posible y el momento en que la lesión se produjo, acompañada de alegaciones, documentos y proposición de prueba (art. 67.2 LPAC). No se exige identificar a un empleado ni probar su culpa, porque se reclama directamente a la Administración (art. 36.1 LRJSP).",
+      "ref": "art. 67.2 LPAC; art. 36.1 LRJSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre el informe del servicio de mantenimiento, señala la opción CORRECTA:",
+      "opciones": [
+        "Es facultativo y debe emitirse en quince días",
+        "Es preceptivo y vinculante, y debe emitirse en un mes",
+        "Es preceptivo y su plazo de emisión no puede exceder de diez días",
+        "Solo es necesario si la reclamación supera 50.000 euros"
+      ],
+      "correcta": 2,
+      "explicacion": "En los procedimientos de responsabilidad patrimonial es preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión, sin que el plazo de emisión pueda exceder de diez días (art. 81.1 LPAC). El umbral de 50.000 euros se refiere al dictamen del órgano consultivo (art. 81.2).",
+      "ref": "art. 81.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Dada la cuantía reclamada (58.000 euros), ¿es necesario algún dictamen?",
+      "opciones": [
+        "No, porque las universidades están excluidas de la función consultiva",
+        "Sí, es preceptivo solicitar dictamen del órgano consultivo de la Comunidad Autónoma, que se emitirá en el plazo de dos meses y se pronunciará sobre la relación de causalidad y, en su caso, sobre la valoración del daño",
+        "Sí, del Consejo de Estado, en el plazo de diez días",
+        "Solo si la interesada lo solicita expresamente"
+      ],
+      "correcta": 1,
+      "explicacion": "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que establezca la legislación autonómica, es preceptivo el dictamen del Consejo de Estado o, en su caso, del órgano consultivo autonómico (art. 81.2 LPAC). El instructor remite la propuesta de resolución en diez días desde el fin de la audiencia y el dictamen se emite en dos meses, pronunciándose sobre la relación de causalidad y, en su caso, la valoración del daño y la cuantía y modo de indemnizar.",
+      "ref": "art. 81.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si transcurren seis meses desde la iniciación del procedimiento sin notificarse resolución expresa ni formalizarse un acuerdo, ¿qué puede entender Carmen?",
+      "opciones": [
+        "Que su reclamación ha sido estimada por silencio",
+        "Que el procedimiento ha caducado",
+        "Que debe esperar a la resolución expresa, sin posibilidad de recurso",
+        "Que la resolución es contraria a la indemnización, es decir, que el silencio es desestimatorio; el plazo vencería el 22 de diciembre de 2026"
+      ],
+      "correcta": 3,
+      "explicacion": "Transcurridos seis meses desde que se inició el procedimiento sin resolución expresa notificada ni acuerdo formalizado, podrá entenderse que la resolución es contraria a la indemnización (art. 91.3 LPAC). El art. 24.1 LPAC confirma el silencio desestimatorio en los procedimientos de responsabilidad patrimonial. Iniciado el 22 de junio de 2026, el plazo vence el 22 de diciembre de 2026 (art. 30.4).",
+      "ref": "arts. 24.1 y 91.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si el órgano competente considerase inequívocos la relación de causalidad, la valoración del daño y el cálculo de la indemnización, ¿qué podría hacer?",
+      "opciones": [
+        "Acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado, que debe resolverse en treinta días",
+        "Resolver sin trámite de audiencia ni informe del servicio",
+        "Terminar el procedimiento por desistimiento",
+        "Acordar la tramitación de urgencia, reduciendo todos los plazos a la mitad sin posibilidad de dictamen"
+      ],
+      "correcta": 0,
+      "explicacion": "En responsabilidad patrimonial, si el órgano competente considera inequívoca la relación de causalidad, así como la valoración del daño y el cálculo de la cuantía, puede acordar de oficio la suspensión del procedimiento general y la iniciación de uno simplificado (art. 96.4 LPAC), que salvo que reste menos para la tramitación ordinaria debe resolverse en treinta días desde el siguiente a la notificación del acuerdo (art. 96.6). El dictamen, si es preceptivo, se mantiene (art. 96.6.g).",
+      "ref": "art. 96.4 y 96.6 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Sobre qué extremos debe pronunciarse necesariamente la resolución que ponga fin al procedimiento?",
+      "opciones": [
+        "Solo sobre la cuantía de la indemnización",
+        "Sobre la culpa del empleado responsable y la sanción disciplinaria que corresponda",
+        "Sobre la existencia o no de relación de causalidad entre el funcionamiento del servicio y la lesión y, en su caso, sobre la valoración del daño y la cuantía y modo de la indemnización",
+        "Únicamente sobre la admisión o inadmisión de la reclamación"
+      ],
+      "correcta": 2,
+      "explicacion": "Además del contenido general del art. 88 LPAC, la resolución debe pronunciarse sobre la existencia o no de relación de causalidad entre el funcionamiento del servicio público y la lesión y, en su caso, sobre la valoración del daño, la cuantía y el modo de la indemnización, conforme a los criterios del art. 34 LRJSP (art. 91.2 LPAC).",
+      "ref": "art. 91.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Con referencia a qué fecha se calcula la cuantía de la indemnización de Carmen?",
+      "opciones": [
+        "Con referencia a la fecha de la reclamación (22 de junio de 2026), sin actualización",
+        "Con referencia a la fecha de la resolución, sin intereses",
+        "Con referencia a la fecha del alta médica (8 de junio de 2026), actualizada con el IPC",
+        "Con referencia al día en que la lesión se produjo (11 de febrero de 2026), sin perjuicio de su actualización a la fecha de fin del procedimiento con el Índice de Garantía de la Competitividad y de los intereses de demora en el pago"
+      ],
+      "correcta": 3,
+      "explicacion": "La cuantía se calcula con referencia al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento con arreglo al Índice de Garantía de la Competitividad (INE) y de los intereses de demora en el pago (art. 34.3 LRJSP). En lesiones corporales pueden tomarse como referencia los baremos de seguros obligatorios y Seguridad Social (art. 34.2).",
+      "ref": "art. 34.2 y 34.3 LRJSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede Carmen demandar directamente al jefe del equipo de mantenimiento?",
+      "opciones": [
+        "Sí, ante la jurisdicción civil, con carácter previo a reclamar a la Universidad",
+        "No: debe exigir la indemnización directamente a la Universidad, que, si la abona, exigirá de oficio a su personal la responsabilidad en que hubiera incurrido por dolo, o culpa o negligencia graves",
+        "Sí, ante la jurisdicción contencioso-administrativa, de forma solidaria con la Universidad",
+        "No, y la Universidad tampoco puede repetir nunca contra su personal"
+      ],
+      "correcta": 1,
+      "explicacion": "Para hacer efectiva la responsabilidad patrimonial, los particulares exigirán directamente a la Administración las indemnizaciones por los daños causados por su personal (art. 36.1 LRJSP). La Administración que hubiera indemnizado exigirá de oficio a su personal la responsabilidad en que hubiera incurrido por dolo, o culpa o negligencia graves, previo procedimiento (acción de regreso, art. 36.2 LRJSP).",
+      "ref": "art. 36.1 y 36.2 LRJSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si la Universidad y Carmen lo acordaran por resultar más adecuado para la reparación, ¿cómo podría abonarse la indemnización?",
+      "opciones": [
+        "Solo en dinero y en un pago único",
+        "Mediante compensación en especie o pagos periódicos, siempre que exista acuerdo con la interesada",
+        "Mediante compensación con deudas tributarias de la interesada con la Hacienda estatal",
+        "En especie, aunque la interesada se oponga, si conviene al interés público"
+      ],
+      "correcta": 1,
+      "explicacion": "La indemnización procedente podrá sustituirse por una compensación en especie o abonarse mediante pagos periódicos, cuando resulte más adecuado para lograr la reparación y convenga al interés público, siempre que exista acuerdo con el interesado (art. 34.4 LRJSP).",
+      "ref": "art. 34.4 LRJSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de la resolución que ponga fin al procedimiento de responsabilidad patrimonial, señala la afirmación CORRECTA:",
+      "opciones": [
+        "Pone fin a la vía administrativa, cualquiera que sea el tipo de relación de la que derive",
+        "Es recurrible en alzada ante el Consejo de Gobierno",
+        "Solo agota la vía administrativa si la dicta el Consejo Social",
+        "Debe recurrirse ante la jurisdicción civil si el daño se produjo en un espacio abierto al público"
+      ],
+      "correcta": 0,
+      "explicacion": "Ponen fin a la vía administrativa las resoluciones de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive (art. 114.1.e LPAC). Contra ella cabe recurso potestativo de reposición o recurso contencioso-administrativo (art. 123 LPAC).",
+      "ref": "arts. 114.1.e y 123 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de la ayuda concedida a Sergio en 2024, ¿qué vía y órgano corresponden para dejarla sin efecto?",
+      "opciones": [
+        "Declaración de lesividad por el Consejo Social e impugnación ante el contencioso",
+        "Revocación libre por la Gerencia, al tratarse de un acto favorable",
+        "Revisión de oficio por nulidad de pleno derecho, que corresponde al Rector, previo dictamen favorable del Consejo Consultivo de Canarias, pues se adquirió un derecho careciendo de un requisito esencial",
+        "Rectificación de errores materiales, en cualquier momento y sin procedimiento"
+      ],
+      "correcta": 2,
+      "explicacion": "Son nulos de pleno derecho los actos por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición (art. 47.1.f LPAC). La nulidad de actos que hayan puesto fin a la vía administrativa o no recurridos en plazo se declara de oficio, en cualquier momento, previo dictamen favorable del órgano consultivo autonómico (art. 106.1 LPAC). En la ULL la revisión de oficio de actos distintos de los acuerdos de los órganos colegiados de gobierno corresponde al Rector (art. 10.5 EULL). La revocación del art. 109.1 solo cabe para actos de gravamen.",
+      "ref": "arts. 47.1.f, 106.1 y 109 LPAC; art. 10.5 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Iniciado de oficio el procedimiento de revisión el lunes 5 de octubre de 2026, ¿qué ocurre si llegado el 5 de abril de 2027 no se ha dictado resolución?",
+      "opciones": [
+        "Se entiende desestimada la revisión por silencio",
+        "Se entiende declarada la nulidad por silencio positivo",
+        "El procedimiento continúa, porque la revisión de oficio puede hacerse en cualquier momento sin plazo de resolución",
+        "Se produce la caducidad del procedimiento, al haber transcurrido seis meses desde su inicio"
+      ],
+      "correcta": 3,
+      "explicacion": "Cuando el procedimiento de revisión de oficio se hubiera iniciado de oficio, el transcurso de seis meses desde su inicio sin dictarse resolución produce su caducidad; si se hubiera iniciado a solicitud de interesado, se podría entender desestimada por silencio (art. 106.5 LPAC). Del 5 de octubre de 2026 al 5 de abril de 2027 transcurren los seis meses (art. 30.4).",
+      "ref": "art. 106.5 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede la Universidad, en octubre de 2026, declarar lesiva y llevar al contencioso la resolución anulable de 3 de marzo de 2022?",
+      "opciones": [
+        "No, porque la declaración de lesividad no puede adoptarse transcurridos cuatro años desde que se dictó el acto, plazo que venció el 3 de marzo de 2026",
+        "Sí, porque la lesividad puede declararse en cualquier momento",
+        "Sí, porque el plazo de cuatro años se cuenta desde que la Administración conoce el vicio",
+        "Sí, mediante revisión de oficio, previa audiencia de la empresa"
+      ],
+      "correcta": 0,
+      "explicacion": "Los actos favorables anulables (art. 48 LPAC) solo pueden impugnarse ante el contencioso previa declaración de lesividad, que no puede adoptarse una vez transcurridos cuatro años desde que se dictó el acto y exige audiencia de los interesados (art. 107.1 y 2 LPAC). La revisión de oficio del art. 106 solo procede para actos nulos. Además, las facultades de revisión no pueden ejercerse cuando por el tiempo transcurrido resulte contrario a la equidad o la buena fe (art. 110).",
+      "ref": "arts. 107 y 110 LPAC",
+      "dificultad": 2
+    }
+  ]
+}

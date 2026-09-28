@@ -1,0 +1,203 @@
+{
+  "bloque": 4,
+  "titulo": "Diseño y verificación de un nuevo Máster Universitario en la ULL",
+  "temas": ["4-06", "4-02", "4-07"],
+  "enunciado": "La **Facultad de Economía, Empresa y Turismo** de la Universidad de La Laguna quiere implantar un **Máster Universitario en Economía Azul y Sostenibilidad**. Trabajas en el **Servicio de Planificación Académica**, que da apoyo a la comisión que redacta la memoria de verificación. El borrador presentado el jueves 15 de enero de 2026 recoge lo siguiente:\n\n- **Carga total:** 90 créditos ECTS, repartidos en un primer curso de 60 ECTS y un segundo curso de 30 ECTS.\n- **Especialidades:** dos, «Gestión portuaria» y «Economía pesquera», de **48 ECTS cada una**.\n- **Prácticas académicas externas curriculares:** 24 ECTS.\n- **Trabajo de fin de Máster (TFM):** parte de la comisión propone 36 ECTS; otra parte, 12 ECTS.\n- **Modalidad:** 45 de los 90 ECTS se impartirán de forma virtual y el resto de forma presencial.\n- **Complementos formativos:** hasta 24 ECTS para quienes procedan de grados de otras ramas.\n- **Plazas:** 30 de nuevo ingreso.\n- **Comisión redactora:** formada solo por profesorado. Un representante de estudiantes pide incorporarse.\n\nLa normativa de la ULL prevé la **matrícula condicionada** en los másteres. Dos estudiantes del Grado en Economía preguntan si pueden acogerse a ella:\n\n- **Alba Pérez:** le quedan el TFG y 6 ECTS de una asignatura.\n- **Marcos Díaz:** le quedan el TFG y 12 ECTS.\n\nTramitación prevista:\n\n1. Aprobación interna en la ULL.\n2. Envío de la memoria al Consejo de Universidades, a través de la Secretaría General de Universidades, el lunes 16 de marzo de 2026.\n3. El lunes 6 de julio de 2026 la ULL recibe de la agencia de calidad un **informe provisional favorable con condiciones**.\n\nLa ULL no tiene centros con acreditación institucional.\n\nResponde aplicando el RD 822/2021, la LOSU, la Ley 11/2003 de Consejos Sociales y los Estatutos de la ULL (EULL).",
+  "preguntas": [
+    {
+      "enunciado": "¿Es correcta la estructura temporal del borrador (90 ECTS: un curso de 60 y otro de 30)?",
+      "opciones": [
+        "No, porque todos los cursos deben tener exactamente 60 ECTS.",
+        "Sí, porque los planes de estudios se estructuran en cursos de 60 ECTS, pero los Másteres de 90 créditos pueden tener un curso de 30.",
+        "No, porque los Másteres solo pueden tener 60 o 120 ECTS.",
+        "Sí, porque cada universidad fija libremente la carga de cada curso."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 17.1 RD 822/2021 dispone que los planes de estudios de Máster Universitario tienen 60, 90 o 120 créditos ECTS. El art. 5.2 establece que los planes de Grado y Máster se estructuran en cursos de 60 créditos, con una excepción: los Másteres de 90 créditos, en los que uno de los cursos puede ser de 30.",
+      "ref": "arts. 5.2 y 17.1 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Sobre la carga del TFM, ¿cuál de las dos propuestas de la comisión respeta el RD 822/2021?",
+      "opciones": [
+        "Las dos, porque el TFM no tiene límite máximo.",
+        "Solo la de 36 ECTS, porque en los Másteres de 90 créditos el TFM debe tener al menos 30.",
+        "Ninguna, porque el TFM debe tener exactamente 6 ECTS.",
+        "Solo la de 12 ECTS, porque el TFM debe tener entre 6 y 30 ECTS."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 17.4 RD 822/2021 dispone que todos los planes de Máster Universitario incluyen un TFM de un mínimo de 6 ECTS y un máximo de 30. Superarlo es requisito imprescindible para obtener el título, y debe defenderse en un acto público. La propuesta de 36 ECTS supera el máximo. Recuerda que para el TFG de un Grado de 240 créditos los límites son 6 y 24 (art. 14.6).",
+      "ref": "art. 17.4 RD 822/2021",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál es el máximo de ECTS de prácticas académicas externas que admite este Máster de 90 créditos, y cumple el borrador?",
+      "opciones": [
+        "30 ECTS (un tercio de la carga total); el borrador, con 24, lo cumple.",
+        "22,5 ECTS (el 25 % de la carga); el borrador lo supera.",
+        "18 ECTS (el 20 % de la carga); el borrador lo supera.",
+        "No hay límite para las prácticas en los Másteres."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 17.3 RD 822/2021 dispone que las prácticas externas de un Máster no pueden superar un tercio de la carga crediticia total del plan de estudios. Cálculo: 90 / 3 = 30 ECTS. Como el borrador prevé 24 ECTS, cumple. El 25 % es el límite general de las prácticas en los Grados (art. 14.5).",
+      "ref": "art. 17.3 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Son válidas las dos especialidades de 48 ECTS del borrador?",
+      "opciones": [
+        "Sí, porque las especialidades no tienen límite de créditos.",
+        "Sí, porque una especialidad debe tener como mínimo el 20 % de la carga del título.",
+        "No, porque ninguna especialidad puede superar el 50 % de los créditos del Máster, es decir, 45 ECTS.",
+        "No, porque los Másteres de 90 ECTS no pueden tener especialidades."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 16.4 RD 822/2021 dispone que el número de créditos de una especialidad no puede superar el cincuenta por ciento de los créditos del plan de estudios del Máster, y que las especialidades deben constar en la memoria verificada. Cálculo: 90 × 0,50 = 45 ECTS, y 48 > 45. El mínimo del 20 % se refiere a las menciones de los Grados (art. 13.3).",
+      "ref": "art. 16.4 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál es el máximo de complementos formativos que puede exigir este Máster en su proceso de admisión?",
+      "opciones": [
+        "24 ECTS, como propone el borrador.",
+        "18 ECTS, porque los complementos formativos no pueden superar el 20 % de la carga del título.",
+        "30 ECTS, un tercio de la carga del título.",
+        "9 ECTS, como en la matrícula condicionada."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 18.5 RD 822/2021 permite a las universidades exigir complementos formativos en la admisión al Máster, pero su carga no puede superar el equivalente al 20 % de la carga crediticia del título. Cálculo: 90 × 0,20 = 18 ECTS. Por tanto, los 24 ECTS del borrador deben reducirse. Esos créditos tienen la misma consideración que el resto de créditos del plan de estudios.",
+      "ref": "art. 18.5 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Con 45 de los 90 ECTS en formato virtual, ¿qué modalidad docente debe figurar en la memoria?",
+      "opciones": [
+        "Híbrida o semipresencial, porque la proporción de créditos no presenciales (50 %) está entre el 40 % y el 60 %.",
+        "Virtual, porque más del 40 % de los créditos son no presenciales.",
+        "Presencial, porque la mitad de los créditos son presenciales.",
+        "Cualquiera de ellas, a elección de la Facultad."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 17.5 RD 822/2021 remite a las definiciones del art. 14.7. Un título es híbrido cuando la proporción de créditos no presenciales está entre el 40 % y el 60 % de la carga total. Es virtual cuando al menos el 80 % de los ECTS se imparten en esa modalidad. Cálculo: 45 / 90 = 50 %, dentro del intervalo del 40 al 60 %: modalidad híbrida. Cambiar después la modalidad sería una modificación sustancial (art. 32.2).",
+      "ref": "arts. 14.7 y 17.5 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Pueden Alba y Marcos acogerse a la matrícula condicionada?",
+      "opciones": [
+        "Los dos, porque a ninguno le quedan más de 18 ECTS.",
+        "Ninguno, porque para matricularse en un Máster hay que tener siempre el título de Grado.",
+        "Solo Marcos, porque le quedan más créditos y necesita avanzar.",
+        "Solo Alba, porque solo puede acogerse quien tenga pendiente el TFG y, como máximo, hasta 9 ECTS; y en ningún caso podrá obtener el título de Máster antes que el de Grado."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 18.4 RD 822/2021 permite, excepcionalmente, que se matricule en un Máster el estudiante de Grado al que le quede por superar el TFG y como máximo hasta 9 ECTS. En ningún caso podrá obtener el título de Máster sin haber obtenido antes el de Grado, y tienen prioridad en la matrícula quienes ya tienen el título. Alba (TFG + 6 ECTS) cumple; Marcos (TFG + 12 ECTS) supera el límite.",
+      "ref": "art. 18.4 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "De las 30 plazas de nuevo ingreso, ¿cuántas deben reservarse como mínimo para estudiantes con una discapacidad reconocida igual o superior al 33 % o con necesidades de apoyo educativo permanentes asociadas a discapacidad?",
+      "opciones": [
+        "Ninguna, porque la reserva solo existe en los Grados.",
+        "1 plaza, porque se redondea a la baja.",
+        "2 plazas, para alcanzar al menos el 5 % de las plazas ofertadas.",
+        "3 plazas, porque la reserva es del 10 %."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 18.6 RD 822/2021 obliga a reservar al menos un 5 % de las plazas de los Másteres Universitarios para estos estudiantes. Cálculo: 30 × 0,05 = 1,5 plazas. Con 1 plaza solo se reserva el 3,3 %, así que para llegar al mínimo del 5 % hacen falta 2. Esta reserva existe también en los Grados (art. 15.3).",
+      "ref": "art. 18.6 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre la petición del representante de estudiantes de incorporarse a la comisión redactora:",
+      "opciones": [
+        "No procede, porque la memoria es competencia exclusiva del profesorado.",
+        "Procede, porque las universidades deben asegurar la participación del estudiantado en las comisiones que elaboran la memoria del título (o en las comisiones de estudio, si son estas las que la elaboran).",
+        "Procede solo si lo autoriza el Consejo Social.",
+        "Solo procede en los Grados, no en los Másteres."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 5.7 RD 822/2021 dispone que las universidades asegurarán la participación del estudiantado en las comisiones creadas para elaborar la memoria del título de Grado o de Máster Universitario, o en las comisiones de estudio si son estas las que la elaboran. En el mismo sentido, el art. 6.2 LOSU garantiza la plena y efectiva participación del estudiantado en la elaboración, seguimiento y actualización de los planes de estudio.",
+      "ref": "art. 5.7 RD 822/2021; art. 6.2 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Dentro de la ULL, ¿qué órgano aprueba el plan de estudios del Máster y qué debe hacer antes el Consejo Social?",
+      "opciones": [
+        "Lo aprueba el Claustro, previo informe del Consejo de Gobierno.",
+        "Lo aprueba el Rector por resolución, y el Consejo Social no interviene.",
+        "Lo aprueba el Consejo Social, a propuesta de la Junta de Facultad.",
+        "Lo aprueba el Consejo de Gobierno. Antes, el Consejo Social debe informar favorablemente la implantación de la enseñanza y aprobar los estudios económicos de viabilidad y de impacto social."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 15.o) EULL atribuye al Consejo de Gobierno aprobar o modificar los planes de estudio de títulos oficiales. El art. 3 de la Ley 11/2003 atribuye al Consejo Social informar con carácter previo favorable la implantación y supresión de enseñanzas oficiales (letra d) y aprobar los estudios económicos de viabilidad y de impacto social de los planes de estudio (letra e). El art. 1 ter de esa ley exige que el Consejo Social emita sus informes antes de que el Consejo de Gobierno adopte el acuerdo.",
+      "ref": "art. 15.o) EULL; arts. 1 ter y 3.d) y e) Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Antes de iniciar el procedimiento de verificación ante el Consejo de Universidades, ¿qué informe debe tener la ULL?",
+      "opciones": [
+        "El informe preceptivo de la Comunidad Autónoma sobre la necesidad y viabilidad académica y social de implantar el título; si es favorable, puede iniciarse la verificación.",
+        "El informe de la ANECA sobre el profesorado del título.",
+        "El dictamen del Consejo de Estado.",
+        "El informe de la Intervención sobre el coste del título."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 26.3 RD 822/2021 dispone que las Comunidades Autónomas hacen un informe preceptivo sobre la necesidad y viabilidad académica y social del título antes de iniciar la verificación, y que solo con informe favorable puede la universidad iniciarla. El procedimiento comienza cuando la universidad remite ese informe y la memoria al Consejo de Universidades (art. 26.4). El art. 8.2 LOSU exige también ese informe preceptivo y favorable.",
+      "ref": "art. 26.3 y 26.4 RD 822/2021; art. 8.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si al recibir la memoria la Secretaría General de Universidades detecta que falta documentación, ¿qué plazo tiene la ULL para subsanarla y qué pasa si no lo hace?",
+      "opciones": [
+        "Un mes; si no subsana, se archiva el expediente sin más efectos.",
+        "Quince días hábiles; si no subsana, se emite informe desfavorable.",
+        "Diez días hábiles; si no subsana, se la tiene por desistida de su petición.",
+        "Tres días hábiles; si no subsana, se envía igualmente a la agencia."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 26.4 RD 822/2021 dispone que, si la unidad tramitadora de la Secretaría General de Universidades detecta insuficiencias en la documentación, advierte a la universidad para que las subsane en 10 días hábiles. Si no lo hace, se la tiene por desistida. Una vez subsanadas, esa unidad dispone de 3 días hábiles como máximo para enviar la memoria a la agencia de calidad.",
+      "ref": "art. 26.4 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Recibido el 6 de julio de 2026 el informe provisional favorable con condiciones, ¿qué puede hacer la ULL?",
+      "opciones": [
+        "Recurrirlo en alzada ante el Ministerio en el plazo de un mes.",
+        "En 15 días hábiles desde su recepción, subsanar y modificar las cuestiones señaladas o presentar alegaciones; después la agencia emite un informe definitivo, favorable o desfavorable.",
+        "Nada: el informe provisional es definitivo y vinculante.",
+        "Pedir al Consejo Social que lo revoque."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 26.6 RD 822/2021 dispone que el informe provisional, motivado, puede ser favorable, favorable con condiciones o desfavorable. La universidad tiene 15 días hábiles desde su recepción para subsanar, modificar lo indicado o alegar. Después, la agencia emite un informe definitivo favorable o desfavorable (art. 26.7). Con informe definitivo favorable, la Comisión de Verificación y Acreditación del Consejo de Universidades dicta resolución de verificación positiva (art. 26.8).",
+      "ref": "art. 26.6 a 26.8 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál es la duración máxima del procedimiento de verificación de este Máster y qué ocurre si se supera?",
+      "opciones": [
+        "Seis meses, sin contar la posible reclamación; si transcurre ese plazo, la solicitud se entiende estimada y el plan de estudios verificado.",
+        "Cuatro meses; si transcurre ese plazo, la solicitud se entiende desestimada.",
+        "Tres meses; si transcurre ese plazo, se entiende estimada.",
+        "Un año; si transcurre ese plazo, caduca el procedimiento."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 26.2 RD 822/2021 fija una duración máxima de seis meses, sin contar la posible reclamación. Transcurrido ese plazo, la solicitud se entiende estimada y el plan de estudios verificado (silencio positivo). El plazo de cuatro meses se aplica solo a los títulos de centros con acreditación institucional, que la ULL no tiene. Contra la resolución, la universidad puede reclamar ante la Presidencia del Consejo de Universidades en 10 días hábiles (art. 26.10).",
+      "ref": "art. 26.2 y 26.10 RD 822/2021",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Verificado el plan y establecido el carácter oficial del título, ¿cuándo puede empezar la docencia y de qué plazo dispone la ULL para implantarlo?",
+      "opciones": [
+        "Puede empezar en cuanto el Consejo de Gobierno aprueba el plan, sin plazo máximo.",
+        "Puede empezar tras la verificación, aunque no esté inscrito en el RUCT; hay un año para implantarlo.",
+        "Puede empezar tras la aprobación del Consejo Social, y hay cuatro cursos académicos para implantarlo.",
+        "No puede empezar hasta que se declare su carácter oficial por acuerdo del Consejo de Ministros, se publique en el BOE y se inscriba en el RUCT. Desde la publicación oficial, la ULL tiene como máximo dos cursos académicos para implantarlo; si no lo hace, el título pierde su acreditación inicial."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 27 RD 822/2021 dispone que, tras la verificación y la autorización de la Comunidad Autónoma, el Consejo de Ministros establece el carácter oficial del título, que se publica en el BOE y se inscribe en el RUCT (inscripción con efectos constitutivos). La docencia no puede empezar hasta entonces (art. 27.3). El Rector ordena publicar el plan de estudios en el BOE y en el BOC (art. 27.4). Desde la publicación oficial hay un máximo de dos cursos académicos para implantarlo; si no, pierde la acreditación inicial (art. 27.5 y 27.6).",
+      "ref": "art. 27 RD 822/2021; arts. 7.3 y 8.3 LOSU",
+      "dificultad": 3
+    }
+  ]
+}

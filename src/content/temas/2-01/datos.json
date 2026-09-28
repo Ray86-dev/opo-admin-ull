@@ -1,0 +1,1077 @@
+{
+  "claves": [
+    "Empleado público es quien desempeña funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales (art. 8.1 TREBEP).",
+    "El TREBEP es legislación básica dictada al amparo del art. 149.1.18.ª CE y se aplica expresamente a las Universidades Públicas (art. 2.1.e).",
+    "Las clases de empleados públicos son cuatro: funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual; el personal directivo se regula aparte (arts. 8 y 13).",
+    "Las funciones que impliquen ejercicio de potestades públicas o salvaguardia de los intereses generales corresponden exclusivamente a funcionarios (art. 9.2 TREBEP y art. 11 bis Ley 2/1987).",
+    "El interino por vacante tiene un límite de tres años; por programas, tres años ampliables doce meses; por acumulación de tareas, nueve meses en dieciocho (art. 10.1).",
+    "Incumplir los plazos máximos de temporalidad genera nulidad de pleno derecho y una compensación de 20 días de retribuciones fijas por año, con máximo de 12 mensualidades (DA 17.ª TREBEP).",
+    "El personal eventual solo realiza funciones de confianza o asesoramiento especial, su nombramiento y cese son libres y su condición no es mérito (art. 12).",
+    "La DF 4.ª TREBEP difiere la carrera, las retribuciones y la provisión a las leyes de desarrollo; mientras tanto siguen vigentes las normas anteriores que no se opongan, como buena parte de la Ley 30/1984.",
+    "El PTGAS funcionario se rige por la LOSU, el TREBEP, los Pactos y Acuerdos y los Estatutos; el laboral, además, por el Estatuto de los Trabajadores y los convenios (art. 89.3 LOSU).",
+    "La Escala Administrativa de la ULL pertenece al subgrupo C1, cuyo título de acceso es el de Bachiller o Técnico (art. 76 TREBEP y art. 91 EULL).",
+    "En la ULL, el Consejo de Gobierno aprueba la RPT y la Oferta de Empleo Público; la Gerencia elabora la RPT y propone la OEP (arts. 15, 94 y 95 EULL).",
+    "El Rector convoca las pruebas selectivas, nombra los tribunales, nombra a los funcionarios y resuelve sobre situaciones administrativas y régimen disciplinario del PAS, salvo la separación del servicio (arts. 23, 90 y 95 EULL).",
+    "La Resolución de 12 de mayo de 2023 delega en la Gerencia la gestión de recursos humanos, pero excluye el nombramiento de funcionarios de carrera, la contratación de laborales fijos y la potestad disciplinaria sobre el PAS.",
+    "La Gerencia es nombrada por el Rector con la conformidad del Consejo Social y su titular no puede ejercer docencia (art. 50.1 LOSU y art. 31 EULL)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Duración máxima del interino por plaza vacante",
+      "valor": "3 años",
+      "ref": "art. 10.1.a y 10.4 TREBEP"
+    },
+    {
+      "concepto": "Interino por programas de carácter temporal",
+      "valor": "Máximo 3 años, ampliable hasta 12 meses más por ley de función pública",
+      "ref": "art. 10.1.c TREBEP"
+    },
+    {
+      "concepto": "Interino por exceso o acumulación de tareas",
+      "valor": "Máximo 9 meses dentro de un periodo de 18 meses",
+      "ref": "art. 10.1.d TREBEP"
+    },
+    {
+      "concepto": "Interino por sustitución transitoria del titular",
+      "valor": "El tiempo estrictamente necesario",
+      "ref": "art. 10.1.b TREBEP"
+    },
+    {
+      "concepto": "Compensación por incumplimiento del plazo máximo de permanencia del interino",
+      "valor": "20 días de retribuciones fijas por año de servicio, máximo 12 mensualidades",
+      "ref": "DA 17.ª.4 TREBEP"
+    },
+    {
+      "concepto": "Número de fundamentos de actuación del TREBEP",
+      "valor": "12 (letras a a l)",
+      "ref": "art. 1.3 TREBEP"
+    },
+    {
+      "concepto": "Número de artículos y títulos del TREBEP",
+      "valor": "100 artículos en 8 títulos",
+      "ref": "TREBEP"
+    },
+    {
+      "concepto": "Límite de profesorado con contrato laboral temporal",
+      "valor": "No más del 8 % de los efectivos de PDI",
+      "ref": "art. 64.3 LOSU"
+    },
+    {
+      "concepto": "Periodo de prueba del funcionario interino en la Administración autonómica canaria",
+      "valor": "3 meses en el primer nombramiento de una misma lista",
+      "ref": "art. 25.1 Ley 2/2025 Canarias"
+    },
+    {
+      "concepto": "Permanencia obligatoria tras obtener plaza por estabilización (Canarias)",
+      "valor": "2 años en servicio activo, sin excedencia por interés particular",
+      "ref": "art. 51 Ley 2/2025 Canarias"
+    },
+    {
+      "concepto": "Prohibición de ser nombrado interino tras el ingreso como funcionario de carrera (Canarias)",
+      "valor": "2 primeros años desde la toma de posesión",
+      "ref": "art. 52.1 Ley 2/2025 Canarias"
+    },
+    {
+      "concepto": "Participación en libre designación del personal de nuevo ingreso (Canarias)",
+      "valor": "Tras 18 meses desde la primera toma de posesión",
+      "ref": "art. 52.2 Ley 2/2025 Canarias"
+    },
+    {
+      "concepto": "Composición de la Comisión de la Función Pública Canaria",
+      "valor": "Consejeros de Presidencia y Hacienda, DG de Función Pública, 5 representantes del Gobierno y 5 sindicales",
+      "ref": "art. 8.2 Ley 2/1987"
+    },
+    {
+      "concepto": "Informes de la Comisión de la Función Pública Canaria no emitidos",
+      "valor": "Se entienden otorgados al mes desde la convocatoria",
+      "ref": "art. 8.3.a Ley 2/1987"
+    },
+    {
+      "concepto": "Duración máxima del interino para programas temporales en Canarias",
+      "valor": "3 años, ampliable como máximo 12 meses",
+      "ref": "art. 65.6 Ley 2/1987"
+    },
+    {
+      "concepto": "Niveles de clasificación de los puestos de trabajo",
+      "valor": "30 niveles",
+      "ref": "art. 21 Ley 30/1984; art. 16 Ley 2/1987"
+    },
+    {
+      "concepto": "Permanencia mínima en el puesto para participar en concursos",
+      "valor": "2 años",
+      "ref": "art. 20.1.f Ley 30/1984"
+    },
+    {
+      "concepto": "Contratos de la Gerencia y Vicerrectorados delegados",
+      "valor": "Hasta 50.000 euros en su ámbito",
+      "ref": "Resolución ULL 12/05/2023"
+    },
+    {
+      "concepto": "Entrada en vigor de la delegación de competencias de la ULL",
+      "valor": "El mismo día de su publicación en el BOC (25/05/2023)",
+      "ref": "Resolución ULL 12/05/2023, disposición final"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Empleado público",
+      "definicion": "Quien desempeña funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales (art. 8.1 TREBEP)."
+    },
+    {
+      "termino": "Funcionario de carrera",
+      "definicion": "Persona vinculada a una Administración por nombramiento legal mediante una relación estatutaria de Derecho Administrativo para servicios profesionales retribuidos de carácter permanente (art. 9.1 TREBEP)."
+    },
+    {
+      "termino": "Funcionario interino",
+      "definicion": "Nombrado temporalmente, por razones justificadas de necesidad y urgencia, para desempeñar funciones propias de funcionarios de carrera en los supuestos del art. 10 TREBEP."
+    },
+    {
+      "termino": "Personal laboral",
+      "definicion": "El que, en virtud de contrato de trabajo escrito, presta servicios retribuidos por las Administraciones Públicas; puede ser fijo, indefinido o temporal (art. 11 TREBEP)."
+    },
+    {
+      "termino": "Personal eventual",
+      "definicion": "El que, por nombramiento y con carácter no permanente, solo realiza funciones de confianza o asesoramiento especial (art. 12 TREBEP)."
+    },
+    {
+      "termino": "Personal directivo profesional",
+      "definicion": "El que desarrolla funciones directivas profesionales definidas por cada Administración, designado por mérito, capacidad e idoneidad (art. 13 TREBEP)."
+    },
+    {
+      "termino": "PTGAS",
+      "definicion": "Personal técnico, de gestión y de administración y servicios de las universidades públicas, funcionario y laboral (arts. 89 a 94 LOSU); sustituye a la antigua denominación PAS."
+    },
+    {
+      "termino": "PDI",
+      "definicion": "Personal docente e investigador, compuesto por el profesorado de los cuerpos docentes universitarios y el profesorado laboral (art. 64 LOSU)."
+    },
+    {
+      "termino": "Relación de Puestos de Trabajo (RPT)",
+      "definicion": "Instrumento técnico de ordenación del personal que recoge denominación, requisitos, sistema de provisión y retribuciones complementarias de cada puesto; en la ULL la elabora la Gerencia y la aprueba el Consejo de Gobierno (art. 74 TREBEP; art. 94 EULL)."
+    },
+    {
+      "termino": "Legislación básica",
+      "definicion": "Normas estatales que fijan el mínimo común aplicable a todas las Administraciones y que las comunidades autónomas desarrollan (art. 149.1.18.ª CE)."
+    },
+    {
+      "termino": "Delegación de competencias",
+      "definicion": "Traslado del ejercicio de una competencia a otro órgano, revocable y sin transferir la titularidad; los actos se consideran dictados por el delegante (art. 9 LRJSP)."
+    },
+    {
+      "termino": "Avocación",
+      "definicion": "Facultad del órgano superior o delegante de asumir el conocimiento de un asunto concreto cuya resolución corresponde ordinariamente o por delegación a otro órgano (art. 10 LRJSP)."
+    },
+    {
+      "termino": "Comisión de la Función Pública Canaria",
+      "definicion": "Órgano colegiado de consulta, coordinación y asesoramiento de la política de función pública de Canarias, con representación sindical (art. 8 Ley 2/1987)."
+    },
+    {
+      "termino": "Indefinido no fijo",
+      "definicion": "Personal laboral por tiempo indefinido que no ha adquirido la fijeza mediante un proceso selectivo; el TREBEP lo recoge al hablar de personal laboral por tiempo indefinido (art. 8.2.c)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Clases de personal: CILE",
+      "texto": "Carrera, Interinos, Laborales, Eventuales. El Directivo no entra en la lista del art. 8.2; va aparte en el art. 13."
+    },
+    {
+      "titulo": "Plazos del interino: 3-3+1-9/18",
+      "texto": "Vacante 3 años; programa 3 años más 1 (12 meses); tareas 9 meses en 18. La sustitución, lo que haga falta."
+    },
+    {
+      "titulo": "RPT en la ULL: la Gerencia cocina, el Consejo sirve",
+      "texto": "La Gerencia elabora la RPT previa negociación y el Consejo de Gobierno la aprueba. Con la OEP igual: Gerencia propone, Consejo aprueba, Rector convoca."
+    },
+    {
+      "titulo": "Lo que la Gerencia no toca: NoLaDi",
+      "texto": "Nombramiento de funcionarios de carrera, contratación de Laborales fijos y Disciplina del PAS quedan fuera de la delegación y son del Rector."
+    },
+    {
+      "titulo": "Títulos del TREBEP: A-P-D-A-O-S-D-C",
+      "texto": "Ámbito, Personal, Derechos, Acceso, Ordenación, Situaciones, Disciplina, Cooperación: títulos I a VIII."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué es un empleado público según el TREBEP?",
+      "reverso": "Quien desempeña funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+      "ref": "art. 8.1 TREBEP"
+    },
+    {
+      "frente": "Enumera las clases de empleados públicos.",
+      "reverso": "Funcionarios de carrera, funcionarios interinos, personal laboral (fijo, indefinido o temporal) y personal eventual.",
+      "ref": "art. 8.2 TREBEP"
+    },
+    {
+      "frente": "¿En qué letra del art. 2.1 TREBEP aparecen las universidades públicas?",
+      "reverso": "En la letra e).",
+      "ref": "art. 2.1.e TREBEP"
+    },
+    {
+      "frente": "¿Qué carácter tiene el TREBEP para el personal no incluido en su ámbito?",
+      "reverso": "Carácter supletorio.",
+      "ref": "art. 2.5 TREBEP"
+    },
+    {
+      "frente": "¿A quién corresponden en exclusiva las funciones con ejercicio de potestades públicas?",
+      "reverso": "A los funcionarios públicos.",
+      "ref": "art. 9.2 TREBEP"
+    },
+    {
+      "frente": "Plazo máximo del interino nombrado por vacante.",
+      "reverso": "Tres años desde el nombramiento; después solo puede ocuparla un funcionario de carrera, salvo proceso desierto.",
+      "ref": "art. 10.4 TREBEP"
+    },
+    {
+      "frente": "Plazo del interino por acumulación de tareas.",
+      "reverso": "Máximo nueve meses dentro de un periodo de dieciocho meses.",
+      "ref": "art. 10.1.d TREBEP"
+    },
+    {
+      "frente": "Plazo del interino por programas temporales.",
+      "reverso": "No superior a tres años, ampliable hasta doce meses más por las leyes de función pública.",
+      "ref": "art. 10.1.c TREBEP"
+    },
+    {
+      "frente": "Principios de selección de los interinos.",
+      "reverso": "Igualdad, mérito, capacidad, publicidad y celeridad.",
+      "ref": "art. 10.2 TREBEP"
+    },
+    {
+      "frente": "Causas de cese de oficio del interino (art. 10.3).",
+      "reverso": "Cobertura reglada del puesto, supresión o amortización, fin del plazo del nombramiento y fin de la causa, además de las del art. 63.",
+      "ref": "art. 10.3 TREBEP"
+    },
+    {
+      "frente": "Compensación al interino por incumplimiento del plazo máximo.",
+      "reverso": "20 días de retribuciones fijas por año de servicio, hasta un máximo de 12 mensualidades.",
+      "ref": "DA 17.ª TREBEP"
+    },
+    {
+      "frente": "¿Cuándo cesa en todo caso el personal eventual?",
+      "reverso": "Cuando cesa la autoridad a la que presta la función de confianza o asesoramiento.",
+      "ref": "art. 12.3 TREBEP"
+    },
+    {
+      "frente": "¿Constituye mérito la condición de personal eventual?",
+      "reverso": "No, ni para el acceso a la función pública ni para la promoción interna.",
+      "ref": "art. 12.4 TREBEP"
+    },
+    {
+      "frente": "¿Es materia de negociación colectiva el empleo del personal directivo?",
+      "reverso": "No. Si es laboral, se rige por la relación laboral especial de alta dirección.",
+      "ref": "art. 13.4 TREBEP"
+    },
+    {
+      "frente": "Titulación exigida para el subgrupo C1.",
+      "reverso": "Título de Bachiller o Técnico.",
+      "ref": "art. 76 TREBEP"
+    },
+    {
+      "frente": "¿Qué aplazó la disposición final cuarta del TREBEP?",
+      "reverso": "La carrera, evaluación y retribuciones (caps. II y III del título III, salvo el art. 25.2) y la provisión y movilidad (cap. III del título V), hasta las leyes de desarrollo.",
+      "ref": "DF 4.ª TREBEP"
+    },
+    {
+      "frente": "¿Quién impone la separación del servicio en la Administración autonómica canaria?",
+      "reverso": "El Gobierno de Canarias.",
+      "ref": "art. 5.2.j Ley 2/1987"
+    },
+    {
+      "frente": "¿Qué añadió la Ley 2/2025 a la Ley 2/1987?",
+      "reverso": "El art. 11 bis, que enumera las funciones reservadas al personal funcionario, y un párrafo en el art. 11.",
+      "ref": "DF 1.ª Ley 2/2025"
+    },
+    {
+      "frente": "Porcentaje máximo de PDI laboral temporal.",
+      "reverso": "8 % de los efectivos, sin contar asociados de Ciencias de la Salud ni ayudantes doctores.",
+      "ref": "art. 64.3 LOSU"
+    },
+    {
+      "frente": "¿Dónde se publican las convocatorias del PTGAS?",
+      "reverso": "En el BOE y en el diario oficial de la comunidad autónoma.",
+      "ref": "art. 91.2 LOSU"
+    },
+    {
+      "frente": "Sistema de provisión de puestos del PTGAS según la LOSU.",
+      "reverso": "Concurso; la libre designación solo para puestos de funcionarios que determine la universidad.",
+      "ref": "art. 92 LOSU"
+    },
+    {
+      "frente": "¿Quién aprueba la RPT del PAS de la ULL?",
+      "reverso": "El Consejo de Gobierno, a propuesta elaborada por la Gerencia previa negociación.",
+      "ref": "arts. 15.l y 94.2 EULL"
+    },
+    {
+      "frente": "¿Quién convoca las pruebas selectivas del PAS de la ULL?",
+      "reverso": "El Rector, que también nombra los órganos de selección.",
+      "ref": "art. 95.2 y 3 EULL"
+    },
+    {
+      "frente": "¿Quién crea las escalas propias de PAS de la ULL?",
+      "reverso": "El Consejo de Gobierno, previa negociación con la Junta de Personal de Administración y Servicios funcionario.",
+      "ref": "art. 91.2 EULL"
+    },
+    {
+      "frente": "¿Cómo se nombra al Gerente de la ULL?",
+      "reverso": "Por el Rector, con la conformidad del Consejo Social, oído el Consejo de Gobierno e informado el Claustro.",
+      "ref": "art. 31.2 EULL"
+    },
+    {
+      "frente": "¿Qué competencias de personal no delega el Rector en la Gerencia?",
+      "reverso": "Nombramiento de funcionarios de carrera, contratación de personal laboral fijo e incoación de expedientes y sanciones disciplinarias al PAS.",
+      "ref": "Resolución ULL 12/05/2023, apartado noveno"
+    },
+    {
+      "frente": "¿Quién sustituye al Rector de la ULL en ausencia o enfermedad?",
+      "reverso": "El titular del Vicerrectorado de Investigación y Transferencia.",
+      "ref": "Resolución ULL 12/05/2023, apartado decimonoveno"
+    },
+    {
+      "frente": "¿Quién resuelve sobre situaciones administrativas y régimen disciplinario del PAS?",
+      "reverso": "El Rector, salvo la separación del servicio del funcionario, acordada por el órgano competente.",
+      "ref": "art. 90 EULL"
+    },
+    {
+      "frente": "¿Quién autoriza las compatibilidades del personal universitario?",
+      "reverso": "El Rector de cada universidad.",
+      "ref": "art. 17.2 Ley 53/1984"
+    },
+    {
+      "frente": "¿Qué efecto tienen las resoluciones del Rector?",
+      "reverso": "Agotan la vía administrativa: reposición potestativa o recurso contencioso-administrativo.",
+      "ref": "art. 10.3 EULL"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el art. 8.1 del TREBEP, son empleados públicos:",
+      "opciones": [
+        "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+        "Quienes han superado un proceso selectivo y han sido nombrados por autoridad competente",
+        "Quienes prestan servicios en cualquier entidad del sector público, retribuidos o no",
+        "Exclusivamente los funcionarios de carrera y los interinos"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 8.1 TREBEP define al empleado público por el desempeño de funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales; incluye también laborales y eventuales.",
+      "ref": "art. 8.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO figura entre las clases de empleados públicos del art. 8.2 TREBEP?",
+      "opciones": [
+        "Funcionarios interinos",
+        "Personal directivo profesional",
+        "Personal eventual",
+        "Personal laboral por tiempo indefinido"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 8.2 enumera funcionarios de carrera, interinos, personal laboral (fijo, indefinido o temporal) y eventual. El personal directivo se regula en el art. 13, fuera de esa enumeración.",
+      "ref": "arts. 8.2 y 13 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las Universidades Públicas se incluyen en el ámbito de aplicación del TREBEP en:",
+      "opciones": [
+        "El art. 4, como personal con legislación específica propia",
+        "La disposición adicional primera",
+        "El art. 2.1, letra e)",
+        "El art. 2.3, junto al personal docente"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 2.1.e) TREBEP incluye expresamente a las Universidades Públicas entre las Administraciones a cuyo personal se aplica el Estatuto.",
+      "ref": "art. 2.1.e TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Para el personal de las Administraciones Públicas no incluido en su ámbito de aplicación, el TREBEP tiene carácter:",
+      "opciones": [
+        "Preferente",
+        "Básico",
+        "Inaplicable",
+        "Supletorio"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 2.5 TREBEP establece que el Estatuto tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito.",
+      "ref": "art. 2.5 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿A cuál de los siguientes colectivos solo se aplica directamente el TREBEP cuando así lo disponga su legislación específica?",
+      "opciones": [
+        "Personal del Centro Nacional de Inteligencia",
+        "Personal funcionario de las universidades públicas",
+        "Personal funcionario de las entidades locales",
+        "Personal laboral de las comunidades autónomas"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 4.g) TREBEP incluye al personal del CNI entre el personal con legislación específica propia, al que el Estatuto solo se aplica cuando lo disponga dicha legislación.",
+      "ref": "art. 4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO es uno de los fundamentos de actuación del art. 1.3 TREBEP?",
+      "opciones": [
+        "Transparencia",
+        "Libre designación de los puestos de confianza",
+        "Jerarquía en la atribución, ordenación y desempeño de las funciones y tareas",
+        "Evaluación y responsabilidad en la gestión"
+      ],
+      "correcta": 1,
+      "explicacion": "Transparencia (h), jerarquía (j) y evaluación y responsabilidad (i) son fundamentos del art. 1.3. La libre designación no aparece entre ellos.",
+      "ref": "art. 1.3 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 1.3.e) TREBEP, la objetividad, profesionalidad e imparcialidad en el servicio están garantizadas con:",
+      "opciones": [
+        "La negociación colectiva",
+        "La evaluación del desempeño",
+        "La inamovilidad en la condición de funcionario de carrera",
+        "El régimen de incompatibilidades"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 1.3.e) dice literalmente: objetividad, profesionalidad e imparcialidad en el servicio garantizadas con la inamovilidad en la condición de funcionario de carrera.",
+      "ref": "art. 1.3.e TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Son funcionarios de carrera, según el art. 9.1 TREBEP, quienes están vinculados a una Administración Pública por una relación:",
+      "opciones": [
+        "Laboral de carácter especial",
+        "Contractual de naturaleza administrativa",
+        "De confianza o asesoramiento especial",
+        "Estatutaria regulada por el Derecho Administrativo para servicios profesionales retribuidos de carácter permanente"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 9.1 define la relación del funcionario de carrera como estatutaria, regulada por el Derecho Administrativo, para servicios profesionales retribuidos de carácter permanente.",
+      "ref": "art. 9.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El nombramiento de funcionario interino por existencia de plazas vacantes que no puedan cubrirse por funcionarios de carrera tiene una duración máxima de:",
+      "opciones": [
+        "Tres años",
+        "Dos años",
+        "Dieciocho meses",
+        "Cinco años"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 10.1.a) TREBEP fija un máximo de tres años para el interino por vacante, en los términos del apartado 4.",
+      "ref": "art. 10.1.a TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El nombramiento de funcionario interino por exceso o acumulación de tareas tiene una duración máxima de:",
+      "opciones": [
+        "Seis meses dentro de un periodo de doce meses",
+        "Nueve meses dentro de un periodo de dieciocho meses",
+        "Doce meses dentro de un periodo de veinticuatro meses",
+        "Tres años, ampliables doce meses"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 10.1.d) TREBEP establece un plazo máximo de nueve meses dentro de un periodo de dieciocho meses.",
+      "ref": "art. 10.1.d TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los programas de carácter temporal para los que se nombren interinos:",
+      "opciones": [
+        "No tienen límite temporal si están financiados con fondos europeos",
+        "No pueden durar más de dos años",
+        "No pueden durar más de tres años, ampliables hasta doce meses más por las leyes de función pública",
+        "No pueden durar más de nueve meses en dieciocho"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 10.1.c) TREBEP limita los programas a tres años, ampliables hasta doce meses más por las leyes de función pública de desarrollo.",
+      "ref": "art. 10.1.c TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los procedimientos de selección del personal funcionario interino se rigen en todo caso por los principios de:",
+      "opciones": [
+        "Igualdad, mérito y capacidad exclusivamente",
+        "Publicidad, concurrencia y libre designación",
+        "Mérito, capacidad y antigüedad",
+        "Igualdad, mérito, capacidad, publicidad y celeridad"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 10.2 TREBEP menciona igualdad, mérito, capacidad, publicidad y celeridad, con la finalidad de la cobertura inmediata del puesto.",
+      "ref": "art. 10.2 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una causa de finalización de la relación de interinidad prevista en el art. 10.3 TREBEP?",
+      "opciones": [
+        "La evaluación negativa del desempeño tras el primer año",
+        "La cobertura reglada del puesto por personal funcionario de carrera",
+        "La finalización de la causa que dio lugar al nombramiento",
+        "Razones organizativas que den lugar a la supresión o amortización del puesto"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 10.3 enumera: cobertura reglada, supresión o amortización, finalización del plazo autorizado y finalización de la causa. La evaluación negativa del desempeño no figura.",
+      "ref": "art. 10.3 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La finalización de la relación de interinidad por las causas del art. 10.3 TREBEP:",
+      "opciones": [
+        "Da derecho a una indemnización de 20 días por año",
+        "Se produce sin derecho a compensación alguna",
+        "Da derecho a una indemnización de 12 días por año",
+        "Requiere informe previo de la Junta de Personal"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 10.3 establece que la Administración formalizará de oficio la finalización de la interinidad sin derecho a compensación alguna.",
+      "ref": "art. 10.3 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Transcurridos tres años desde el nombramiento de un interino por vacante, sin que se haya publicado la convocatoria:",
+      "opciones": [
+        "Se prorroga automáticamente el nombramiento por un año",
+        "El interino adquiere la condición de indefinido no fijo",
+        "Se produce el fin de la relación de interinidad y la vacante solo puede ocuparla un funcionario de carrera, salvo proceso desierto",
+        "El interino pasa a funcionario de carrera por consolidación"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 10.4 TREBEP dispone el fin de la interinidad a los tres años; la vacante solo puede ocuparla un funcionario de carrera salvo que el proceso selectivo quede desierto.",
+      "ref": "art. 10.4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El incumplimiento del plazo máximo de permanencia del personal funcionario interino da lugar a una compensación equivalente a:",
+      "opciones": [
+        "33 días de salario por año con un máximo de 24 mensualidades",
+        "12 días por año sin límite",
+        "La totalidad de las retribuciones del último año",
+        "20 días de sus retribuciones fijas por año de servicio, con un máximo de 12 mensualidades"
+      ],
+      "correcta": 3,
+      "explicacion": "La disposición adicional decimoséptima.4 TREBEP fija 20 días de retribuciones fijas por año de servicio, prorrateando por meses, hasta un máximo de doce mensualidades.",
+      "ref": "DA 17.ª.4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la disposición adicional decimoséptima del TREBEP, los actos o pactos que supongan el incumplimiento de los plazos máximos de permanencia como personal temporal son:",
+      "opciones": [
+        "Nulos de pleno derecho",
+        "Anulables",
+        "Irregulares no invalidantes",
+        "Válidos si los aprueba el órgano de gobierno"
+      ],
+      "correcta": 0,
+      "explicacion": "La DA 17.ª.3 TREBEP los declara nulos de pleno derecho.",
+      "ref": "DA 17.ª.3 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "No tendrá derecho a la compensación de la DA 17.ª TREBEP el interino cuya relación finalice por:",
+      "opciones": [
+        "Cobertura reglada de la plaza fuera de plazo",
+        "Renuncia voluntaria",
+        "Transcurso del plazo máximo sin convocatoria",
+        "Amortización de la plaza tras superar el plazo máximo"
+      ],
+      "correcta": 1,
+      "explicacion": "La DA 17.ª.4 excluye la compensación cuando la finalización se debe a causas disciplinarias o a renuncia voluntaria.",
+      "ref": "DA 17.ª.4 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 11 TREBEP, el contrato del personal laboral de las Administraciones Públicas:",
+      "opciones": [
+        "Puede ser verbal si su duración es inferior a seis meses",
+        "Debe formalizarse en documento administrativo",
+        "Debe formalizarse por escrito",
+        "Solo puede ser indefinido"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 11.1 TREBEP exige contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de la legislación laboral.",
+      "ref": "art. 11.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En la selección del personal laboral temporal rige, además de igualdad, mérito y capacidad, el principio de:",
+      "opciones": [
+        "Libre designación",
+        "Antigüedad",
+        "Territorialidad",
+        "Celeridad"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 11.3 TREBEP añade el principio de celeridad para el personal laboral temporal, con la finalidad de atender razones justificadas de necesidad y urgencia.",
+      "ref": "art. 11.3 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Señale la afirmación correcta sobre el personal eventual:",
+      "opciones": [
+        "Su cese se produce en todo caso cuando cesa la autoridad a la que presta la función de confianza o asesoramiento",
+        "Su condición constituye mérito para la promoción interna",
+        "Su número máximo se fija por ley orgánica",
+        "Puede desempeñar funciones de gestión ordinaria en cualquier unidad"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 12.3 TREBEP establece que el cese tendrá lugar en todo caso cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.",
+      "ref": "art. 12.3 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El número máximo de personal eventual se establecerá, según el TREBEP, por:",
+      "opciones": [
+        "El Ministerio competente en función pública",
+        "Los respectivos órganos de gobierno",
+        "La mesa general de negociación",
+        "Las Cortes Generales"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 12.2 TREBEP: el número máximo se establecerá por los respectivos órganos de gobierno; este número y las condiciones retributivas serán públicas.",
+      "ref": "art. 12.2 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando el personal directivo profesional reúna la condición de personal laboral, estará sometido a:",
+      "opciones": [
+        "El convenio colectivo del personal laboral",
+        "El régimen general del Estatuto de los Trabajadores",
+        "La relación laboral de carácter especial de alta dirección",
+        "El régimen estatutario de los funcionarios"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 13.4 TREBEP somete al directivo laboral a la relación laboral especial de alta dirección; además, sus condiciones de empleo no son materia de negociación colectiva.",
+      "ref": "art. 13.4 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La designación del personal directivo profesional atenderá, según el art. 13 TREBEP, a:",
+      "opciones": [
+        "La libre apreciación del órgano de gobierno, sin convocatoria",
+        "La antigüedad en la Administración",
+        "La pertenencia al subgrupo A1",
+        "Principios de mérito y capacidad y criterios de idoneidad, con publicidad y concurrencia"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 13.2 TREBEP exige mérito, capacidad e idoneidad y procedimientos que garanticen publicidad y concurrencia.",
+      "ref": "art. 13.2 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para el acceso a los cuerpos o escalas del subgrupo C1 se exige el título de:",
+      "opciones": [
+        "Bachiller o Técnico",
+        "Técnico Superior",
+        "Graduado en Educación Secundaria Obligatoria",
+        "Grado universitario"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 76 TREBEP exige para el C1 el título de Bachiller o Técnico; el Técnico Superior corresponde al grupo B y la ESO al C2.",
+      "ref": "art. 76 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según la disposición transitoria tercera del TREBEP, el antiguo Grupo C de la Ley 30/1984 se integra en:",
+      "opciones": [
+        "El subgrupo C2",
+        "El subgrupo C1",
+        "El Grupo B",
+        "Las agrupaciones profesionales"
+      ],
+      "correcta": 1,
+      "explicacion": "La DT 3.ª establece las equivalencias: A a A1, B a A2, C a C1, D a C2 y E a agrupaciones profesionales.",
+      "ref": "DT 3.ª TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la disposición final cuarta del TREBEP, lo establecido en el capítulo III del título V (provisión de puestos y movilidad) producirá efectos:",
+      "opciones": [
+        "Desde el 1 de enero de 2016",
+        "Desde la publicación del texto refundido en el BOE",
+        "A partir de la entrada en vigor de las leyes de Función Pública que se dicten en desarrollo del Estatuto",
+        "Seis meses después de su publicación"
+      ],
+      "correcta": 2,
+      "explicacion": "La DF 4.ª.1 difiere los efectos de los capítulos II y III del título III (salvo el art. 25.2) y del capítulo III del título V a la entrada en vigor de las leyes de desarrollo.",
+      "ref": "DF 4.ª TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El TREBEP se dicta, en lo relativo a las bases del régimen estatutario de los funcionarios, al amparo del artículo de la Constitución:",
+      "opciones": [
+        "149.1.7.ª",
+        "149.1.13.ª",
+        "103.1",
+        "149.1.18.ª"
+      ],
+      "correcta": 3,
+      "explicacion": "La disposición final primera TREBEP cita el art. 149.1.18.ª CE para las bases del régimen estatutario; el 149.1.7.ª es para la legislación laboral y el 149.1.13.ª para la planificación económica.",
+      "ref": "DF 1.ª TREBEP; art. 149.1.18.ª CE",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El artículo de la Constitución que ordena que la ley regule el acceso a la función pública de acuerdo con los principios de mérito y capacidad es el:",
+      "opciones": [
+        "103.3",
+        "23.1",
+        "14",
+        "149.1.18.ª"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 103.3 CE remite a la ley el estatuto de los funcionarios, el acceso conforme a mérito y capacidad, la sindicación, las incompatibilidades y las garantías de imparcialidad.",
+      "ref": "art. 103.3 CE",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según la Ley 2/1987 de la Función Pública Canaria, la sanción de separación del servicio de los funcionarios de la Administración autonómica la impone:",
+      "opciones": [
+        "El Consejero competente en materia de función pública",
+        "El Gobierno de Canarias",
+        "La Comisión de la Función Pública Canaria",
+        "El Parlamento de Canarias"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 5.2.j) de la Ley 2/1987 atribuye al Gobierno de Canarias imponer la separación del servicio; el art. 62.2 exige además informe previo de la Comisión de la Función Pública Canaria.",
+      "ref": "art. 5.2.j Ley 2/1987",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Comisión de la Función Pública Canaria es:",
+      "opciones": [
+        "Un órgano de selección permanente",
+        "Un órgano unipersonal de gestión de personal",
+        "Un órgano colegiado de consulta, coordinación y asesoramiento de la política de función pública",
+        "El órgano de negociación colectiva del personal laboral"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 8.1 de la Ley 2/1987 la define como órgano colegiado de consulta, coordinación y asesoramiento; también asesora a las corporaciones locales.",
+      "ref": "art. 8.1 Ley 2/1987",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los informes preceptivos de la Comisión de la Función Pública Canaria que no se emitan se entienden otorgados por silencio cuando transcurra:",
+      "opciones": [
+        "Diez días",
+        "Quince días hábiles",
+        "Tres meses",
+        "Un mes desde que se haya convocado al efecto la Comisión"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 8.3.a) de la Ley 2/1987 establece el silencio positivo transcurrido un mes desde la convocatoria de la Comisión.",
+      "ref": "art. 8.3.a Ley 2/1987",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 11 bis de la Ley 2/1987, introducido por la Ley 2/2025, ¿cuál de las siguientes funciones debe ser desempeñada por personal funcionario?",
+      "opciones": [
+        "El asesoramiento legal preceptivo",
+        "Las tareas de apoyo instrumental sin carácter de acto administrativo",
+        "La preparación material de expedientes",
+        "La atención telefónica general"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 11 bis.2.k) incluye el asesoramiento legal preceptivo; el apartado 1 excluye expresamente las actuaciones preparatorias, instrumentales, técnicas y de apoyo.",
+      "ref": "art. 11 bis Ley 2/1987",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la Ley 2/2025 de Canarias, el personal funcionario interino queda sujeto, en el primer nombramiento de una misma lista de empleo, a un periodo de prueba de:",
+      "opciones": [
+        "Un mes",
+        "Tres meses",
+        "Seis meses",
+        "No existe periodo de prueba para interinos"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 25.1 de la Ley 2/2025 fija un periodo de prueba de tres meses para el primer nombramiento de una misma lista.",
+      "ref": "art. 25.1 Ley 2/2025 Canarias",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, el profesorado con contrato laboral temporal no podrá superar, en efectivos de la plantilla de PDI, el:",
+      "opciones": [
+        "20 %",
+        "40 %",
+        "8 %",
+        "49 %"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 64.3 LOSU fija el 8 %, sin computar profesorado asociado de Ciencias de la Salud ni ayudante doctor.",
+      "ref": "art. 64.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El PTGAS funcionario de las universidades públicas se rige, según el art. 89.3 LOSU, por:",
+      "opciones": [
+        "Exclusivamente por los Estatutos de cada universidad",
+        "El Estatuto de los Trabajadores y los convenios colectivos",
+        "La Ley 30/1984 como norma preferente",
+        "La LOSU, el TREBEP, los Pactos y Acuerdos del art. 38 TREBEP y los Estatutos"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 89.3 LOSU menciona la LOSU, el TREBEP y los Pactos y Acuerdos del art. 38 TREBEP, y añade que este personal se regirá por los Estatutos de las universidades.",
+      "ref": "art. 89.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las convocatorias de los procesos de selección del PTGAS deben publicarse, según la LOSU:",
+      "opciones": [
+        "En el BOE y en el diario oficial de la comunidad autónoma",
+        "Solo en el tablón electrónico de la universidad",
+        "Solo en el diario oficial de la comunidad autónoma",
+        "En el BOE y en el boletín de la universidad"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 91.2 LOSU exige su publicación en el BOE y en el diario oficial de la respectiva comunidad autónoma.",
+      "ref": "art. 91.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la LOSU, la provisión de puestos del PTGAS se realizará mediante:",
+      "opciones": [
+        "Libre designación como regla general",
+        "El sistema de concurso, pudiendo cubrirse por libre designación solo los puestos de funcionarios que determine la universidad",
+        "Oposición entre el personal de la propia universidad",
+        "Adscripción directa por el Gerente"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 92.2 y 3 LOSU establece el concurso como sistema de provisión y limita la libre designación a los puestos de funcionarios que determinen las universidades.",
+      "ref": "art. 92 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los Estatutos de la ULL, la Escala Administrativa se encuadra en el subgrupo:",
+      "opciones": [
+        "A2",
+        "C2",
+        "C1",
+        "B"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 91.1.b) EULL sitúa en el subgrupo C1 la Escala Administrativa y la de Técnicos Auxiliares de Informática.",
+      "ref": "art. 91 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La creación, modificación o supresión de las escalas propias de PAS de la ULL corresponde a:",
+      "opciones": [
+        "El Parlamento de Canarias mediante ley",
+        "El Rector, oído el Consejo Social",
+        "La Gerencia, previa negociación",
+        "El Consejo de Gobierno, previa negociación con la Junta de Personal de Administración y Servicios funcionario"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 91.2 EULL atribuye esta competencia al Consejo de Gobierno, previa negociación con la Junta de Personal de PAS funcionario.",
+      "ref": "art. 91.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la Universidad de La Laguna, la Relación de Puestos de Trabajo del PAS:",
+      "opciones": [
+        "La elabora la Gerencia, previa negociación con los representantes del personal, y la aprueba el Consejo de Gobierno",
+        "La elabora y aprueba el Rector",
+        "La aprueba el Consejo Social a propuesta del Claustro",
+        "La aprueba la Consejería competente en universidades"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 94.2 EULL: la propuesta es elaborada por la Gerencia, previa negociación, y aprobada por el Consejo de Gobierno (también art. 15.l EULL).",
+      "ref": "arts. 15.l y 94.2 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La Oferta de Empleo Público del personal de administración y servicios de la ULL es aprobada por:",
+      "opciones": [
+        "El Rector, a propuesta del Consejo Social",
+        "El Consejo de Gobierno, a propuesta de la Gerencia, previa negociación con los órganos de representación",
+        "El Gobierno de Canarias",
+        "El Claustro Universitario"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 95.1 EULL: la oferta pública de empleo es aprobada por el Consejo de Gobierno a propuesta de la Gerencia, previa negociación.",
+      "ref": "art. 95.1 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Quién nombra los órganos de selección de las pruebas selectivas de acceso del PAS de la ULL?",
+      "opciones": [
+        "El Consejo de Gobierno",
+        "La Gerencia por delegación",
+        "El Rector",
+        "La Junta de Personal"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 95.3 EULL atribuye al Rector el nombramiento de los órganos de selección, que se ajustan a imparcialidad, profesionalidad y paridad.",
+      "ref": "art. 95.3 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 90 EULL, las decisiones relativas a la situación administrativa y al régimen disciplinario del PAS corresponden a:",
+      "opciones": [
+        "La Gerencia, sin excepciones",
+        "El Consejo de Gobierno",
+        "El Vicerrectorado competente en personal",
+        "El Rector, a excepción de la separación del servicio del personal funcionario"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 90 EULL atribuye al Rector esas decisiones, salvo la separación del servicio del funcionario, que acuerda el órgano competente; se informa a los órganos de representación.",
+      "ref": "art. 90 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El nombramiento de la persona titular de la Gerencia de la ULL lo realiza el Rector:",
+      "opciones": [
+        "Con la conformidad del Consejo Social, oído el Consejo de Gobierno e informado el Claustro",
+        "Previa elección por el Claustro",
+        "A propuesta del Consejo de Gobierno y con informe de la Junta de Personal",
+        "Libremente, sin intervención de otros órganos"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 31.2 EULL exige la conformidad del Consejo Social, oído el Consejo de Gobierno e informado el Claustro; la LOSU dice que se nombra de acuerdo con el Consejo Social (art. 50.1).",
+      "ref": "art. 31.2 EULL; art. 50.1 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la Resolución de delegación de competencias de la ULL de 12 de mayo de 2023, queda EXCLUIDA de la delegación en la Gerencia:",
+      "opciones": [
+        "La gestión del absentismo laboral",
+        "El nombramiento de funcionarios de carrera",
+        "La gestión de retribuciones y derechos",
+        "La salud laboral y prevención de riesgos laborales"
+      ],
+      "correcta": 1,
+      "explicacion": "El apartado noveno.4 excluye el nombramiento de funcionarios de carrera, la contratación de personal laboral fijo y la incoación de expedientes y sanciones disciplinarias al PAS.",
+      "ref": "Resolución ULL 12/05/2023, apartado noveno",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la ULL, la incoación de un expediente disciplinario a un funcionario de la Escala Administrativa corresponde a:",
+      "opciones": [
+        "La Gerencia, por delegación del Rector",
+        "El Jefe de Servicio del funcionario",
+        "El Rector, al estar excluida de la delegación en la Gerencia",
+        "El Consejo de Gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 90 EULL atribuye el régimen disciplinario del PAS al Rector, y la Resolución de 12 de mayo de 2023 excluye expresamente de la delegación en la Gerencia la incoación de expedientes disciplinarios.",
+      "ref": "art. 90 EULL; Resolución ULL 12/05/2023",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la Resolución de 12 de mayo de 2023, en caso de ausencia o enfermedad, el Rector de la ULL es sustituido por:",
+      "opciones": [
+        "La persona titular de la Secretaría General",
+        "La persona titular de la Gerencia",
+        "El Vicerrector de mayor antigüedad",
+        "La persona titular del Vicerrectorado de Investigación y Transferencia"
+      ],
+      "correcta": 3,
+      "explicacion": "El apartado decimonoveno designa como suplente al titular del Vicerrectorado de Investigación y Transferencia, con plenitud de funciones.",
+      "ref": "Resolución ULL 12/05/2023, apartado decimonoveno",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Queda excluida de la delegación en el Vicerrectorado de Personal Docente e Investigador:",
+      "opciones": [
+        "La convocatoria de concursos de plazas de los cuerpos docentes universitarios y el nombramiento de sus Comisiones de Selección",
+        "La oferta anual de plazas de PDI",
+        "Los permisos y licencias del profesorado",
+        "La gestión de expedientes del PDI"
+      ],
+      "correcta": 0,
+      "explicacion": "El apartado tercero.9 excluye la convocatoria de concursos de cuerpos docentes y sus comisiones, los expedientes disciplinarios al profesorado y la resolución de recursos en materia de profesorado.",
+      "ref": "Resolución ULL 12/05/2023, apartado tercero",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Respecto de las competencias delegadas por el Rector de la ULL, señale la afirmación correcta:",
+      "opciones": [
+        "Pueden subdelegarse libremente por el órgano delegado",
+        "Las resoluciones dictadas por delegación se consideran dictadas por el órgano delegante",
+        "La delegación es irrevocable durante el mandato rectoral",
+        "El Rector no puede avocar asuntos delegados"
+      ],
+      "correcta": 1,
+      "explicacion": "El apartado decimoctavo establece que las resoluciones por delegación se consideran dictadas por el delegante; la delegación es revocable, cabe avocación y no puede subdelegarse salvo autorización legal.",
+      "ref": "Resolución ULL 12/05/2023, apartados 17.º y 18.º",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las facultades que la Ley 53/1984 atribuye a las Subsecretarías y a los órganos autonómicos en materia de compatibilidad se entienden referidas, respecto del personal universitario, a:",
+      "opciones": [
+        "El Consejo Social",
+        "El Gerente",
+        "El Rector",
+        "El Consejo de Gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 17.2 de la Ley 53/1984 las refiere al Rector de cada universidad, en relación al personal al servicio de la misma.",
+      "ref": "art. 17.2 Ley 53/1984",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la LOSU, la persona titular de la Secretaría General de la universidad puede ser nombrada de entre:",
+      "opciones": [
+        "Cualquier miembro del Consejo Social",
+        "Exclusivamente catedráticos de universidad",
+        "El personal laboral con más de diez años de antigüedad",
+        "El PDI funcionario doctor o el PTGAS funcionario con titulación universitaria que preste servicios en la universidad"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 50.1 LOSU permite nombrar Secretario General a PDI funcionario doctor o a PTGAS funcionario con titulación universitaria que preste servicios en la universidad.",
+      "ref": "art. 50.1 LOSU",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Clases de Personal en el TREBEP: Funcionarios, Laborales, Interinos y Eventuales Explicados",
+      "url": "https://www.youtube.com/watch?v=pQBDEyL60JE",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "TREBEP. El personal funcionario al servicio de las administraciones públicas: concepto y clases",
+      "url": "https://www.youtube.com/watch?v=7LgNJ2T5hrY",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "TREBEP - Funcionarios interinos - OPOSICIONES - ART 10",
+      "url": "https://www.youtube.com/watch?v=TTUdxDvC22I",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "Tipos de empleados públicos - Artículos 8 a 13 TREBEP",
+      "url": "https://www.youtube.com/watch?v=_anQheo5Uco",
+      "canal": "YouTube"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "TREBEP (RDLeg 5/2015) - texto consolidado BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    },
+    {
+      "titulo": "Ley 30/1984, de Medidas para la Reforma de la Función Pública - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-17387"
+    },
+    {
+      "titulo": "Ley 2/1987, de la Función Pública Canaria - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-11921"
+    },
+    {
+      "titulo": "Ley 2/2025 de Canarias, reducción de la temporalidad - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15655"
+    },
+    {
+      "titulo": "Ley Orgánica 2/2023, del Sistema Universitario (LOSU) - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500"
+    },
+    {
+      "titulo": "Resolución ULL de 12 de mayo de 2023, delegación de competencias - BOC n.º 101",
+      "url": "https://www.gobiernodecanarias.org/boc/2023/101/1685.html"
+    },
+    {
+      "titulo": "Universidad de La Laguna",
+      "url": "https://www.ull.es"
+    }
+  ]
+}

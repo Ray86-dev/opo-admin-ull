@@ -1,0 +1,203 @@
+{
+  "bloque": 1,
+  "titulo": "Sesión de la Junta de Facultad: convocatoria, quórum, votaciones y abstención",
+  "temas": ["1-01", "1-02", "1-05", "1-06"],
+  "enunciado": "La **Junta de la Facultad de Economía, Empresa y Turismo** de la Universidad de La Laguna (campus de Guajara) está integrada por **60 miembros**. Su reglamento de régimen interno (RRI) dispone que, en **segunda convocatoria**, media hora después de la primera, el órgano quedará constituido con la asistencia de **un tercio** de sus miembros, y no prohíbe las sesiones a distancia.\n\nEl **martes 13 de octubre de 2026**, Pablo Díaz Rivero, estudiante candidato al premio extraordinario de fin de grado, presenta por la sede electrónica un escrito de **recusación** contra la profesora Elena Rodríguez Afonso, miembro de la Junta, alegando que tiene con él una **cuestión litigiosa pendiente**. El miércoles 14 de octubre la profesora manifiesta que **no concurre** la causa alegada.\n\nEl **viernes 16 de octubre de 2026 a las 13:00 horas**, la Secretaria de la Facultad, por orden del Decano, remite por correo electrónico la convocatoria de **sesión ordinaria** para el **martes 20 de octubre de 2026 a las 10:00 horas**, con el siguiente orden del día: 1) aprobación del acta de la sesión anterior; 2) aprobación de las guías docentes del curso; 3) propuesta de resolución de los premios extraordinarios de fin de grado; 4) ruegos y preguntas.\n\nA las 10:00 horas del día 20 asisten **28 miembros**, entre ellos el Decano (presidente) y la Secretaria; **5** de ellos siguen la sesión por **videoconferencia** con garantías de identificación e interactividad. A las 10:30 horas, con los mismos 28 asistentes, el Decano declara abierta la sesión.\n\nEn el punto 2, las guías docentes obtienen **12 votos a favor, 9 en contra y 7 abstenciones**. Un representante del estudiantado propone incluir, por urgencia, un manifiesto sobre el transporte al campus, que no figuraba en el orden del día.\n\nEn el punto 3, entre las candidatas figura Irene Martín Pestano, **sobrina carnal** (hija de su hermano) del profesor Tomás Martín Hernández, miembro de la Junta.\n\nEl acuerdo sobre los premios se notifica a Pablo por la sede electrónica y este accede a su contenido el **lunes 26 de octubre de 2026**.\n\n*A efectos de cómputo, considera que en los periodos afectados no hay más días inhábiles que los sábados y domingos.*",
+  "preguntas": [
+    {
+      "enunciado": "¿Cumple la convocatoria remitida el viernes 16 de octubre a las 13:00 horas el requisito de antelación mínima establecido en los Estatutos de la ULL?",
+      "opciones": [
+        "No, porque la antelación mínima es de setenta y dos horas para cualquier órgano colegiado",
+        "No, porque deben mediar al menos cinco días hábiles",
+        "Sí, porque la antelación mínima es de cuarenta y ocho horas, salvo el Claustro (setenta y dos) y las urgentes (veinticuatro, con motivación expresa)",
+        "Sí, porque no existe antelación mínima si la convocatoria se remite por medios electrónicos"
+      ],
+      "correcta": 2,
+      "explicacion": "Las convocatorias de los órganos colegiados de la ULL se notifican con el orden del día y una antelación mínima de cuarenta y ocho horas, salvo el Claustro, que es de setenta y dos horas, y las convocatorias urgentes, de veinticuatro horas con motivación expresa (art. 9.1 EULL). Entre las 13:00 del viernes 16 y las 10:00 del martes 20 median más de 48 horas.",
+      "ref": "art. 9.1 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Quedó válidamente constituida la Junta en primera convocatoria, a las 10:00 horas?",
+      "opciones": [
+        "No, porque en primera convocatoria se requiere la asistencia, al menos, de la mitad de los miembros (30), incluidos presidente y secretario o quienes les suplan, y solo asistían 28",
+        "Sí, porque asistían el presidente y la secretaria, que es lo único exigido",
+        "Sí, porque asistía más de un tercio de los miembros",
+        "No, porque se exige la mayoría absoluta de los miembros presentes físicamente, sin computar a quienes asisten a distancia"
+      ],
+      "correcta": 0,
+      "explicacion": "Para la válida constitución se requiere la asistencia, presencial o a distancia, del presidente y del secretario o de quienes les suplan y la de la mitad, al menos, de sus miembros (art. 17.2 LRJSP; art. 9 EULL). La mitad de 60 es 30; con 28 asistentes no hay quórum en primera convocatoria. Un acuerdo adoptado sin quórum infringiría las reglas esenciales para la formación de la voluntad de los órganos colegiados (art. 47.1.e LPAC).",
+      "ref": "art. 17.2 LRJSP; art. 9 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Pudo constituirse válidamente la Junta en segunda convocatoria, a las 10:30 horas?",
+      "opciones": [
+        "No, porque la segunda convocatoria exige el mismo quórum que la primera",
+        "No, porque los Estatutos exigen en todo caso dos tercios de los miembros en segunda convocatoria",
+        "Sí, pero solo para tratar los asuntos de trámite, no para adoptar acuerdos",
+        "Sí, porque el RRI exige un tercio (20 miembros), respetando el mínimo estatutario de una cuarta parte, y asistían 28 incluidos presidente y secretaria"
+      ],
+      "correcta": 3,
+      "explicacion": "Los órganos colegiados pueden prever una segunda convocatoria y fijar el número de miembros necesario para constituirse (art. 17.3 LRJSP). En la ULL, en segunda convocatoria el órgano queda constituido con los miembros que señale su reglamento de régimen interno, sin que puedan ser menos de una cuarta parte (art. 9 EULL). Un tercio de 60 son 20; asisten 28, incluidos presidente y secretaria, así que la constitución es válida para deliberar y adoptar acuerdos.",
+      "ref": "art. 17.3 LRJSP; art. 9 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Computan para el quórum los 5 miembros que asisten por videoconferencia?",
+      "opciones": [
+        "No, la asistencia a distancia solo permite intervenir, pero no computa para el quórum",
+        "Sí, porque los órganos colegiados pueden constituirse y adoptar acuerdos a distancia, salvo que su reglamento interno lo excluya expresa y excepcionalmente, siempre que se garantice la identidad y la comunicación en tiempo real",
+        "Solo si el Rector lo autoriza expresamente para cada sesión",
+        "Solo en las sesiones extraordinarias"
+      ],
+      "correcta": 1,
+      "explicacion": "Todos los órganos colegiados pueden constituirse, convocar, celebrar sesiones, adoptar acuerdos y remitir actas de forma presencial o a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario, asegurando la identidad, el contenido de las manifestaciones y la interactividad en tiempo real (art. 17.1 LRJSP). El quórum se calcula con asistencia «presencial o a distancia» (art. 17.2 LRJSP; art. 9.4 EULL).",
+      "ref": "art. 17.1 y 17.2 LRJSP; art. 9.4 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Supón que el RRI de la Facultad dijera que en segunda convocatoria basta la asistencia de una quinta parte de los miembros. ¿Qué valor tendría esa previsión?",
+      "opciones": [
+        "Sería nula de pleno derecho, porque una disposición administrativa no puede vulnerar lo establecido en otra de rango superior (los Estatutos)",
+        "Sería válida, porque el RRI es norma especial y prevalece sobre los Estatutos",
+        "Sería anulable y quedaría convalidada si nadie la recurre en un mes",
+        "Sería válida, porque el art. 17.3 LRJSP deja libertad absoluta al órgano colegiado para fijar el quórum de segunda convocatoria"
+      ],
+      "correcta": 0,
+      "explicacion": "Rige el principio de jerarquía normativa: ninguna disposición administrativa puede vulnerar los preceptos de otra de rango superior (art. 128.3 LPAC). Son nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones de rango superior (art. 47.2 LPAC). Los Estatutos fijan un mínimo de una cuarta parte (art. 9 EULL), que el RRI no puede rebajar. Las disposiciones generales no son anulables: su invalidez es siempre nulidad.",
+      "ref": "arts. 47.2 y 128.3 LPAC; art. 9 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En relación con el reglamento de régimen interno de la Facultad, ¿qué órganos intervienen en su elaboración y aprobación?",
+      "opciones": [
+        "Lo elabora y aprueba definitivamente el Decano mediante resolución",
+        "Lo elabora el Claustro y lo aprueba el Consejo Social",
+        "Lo aprueba la Junta de Facultad sin intervención de otros órganos, al ser una norma interna",
+        "Lo elabora la Junta de Facultad y lo aprueba el Consejo de Gobierno"
+      ],
+      "correcta": 3,
+      "explicacion": "Corresponde a la Junta de Facultad elaborar el reglamento de régimen interno de la Facultad (art. 43.a EULL), y al Consejo de Gobierno aprobar los reglamentos de régimen interno de los diferentes órganos de la Universidad, salvo lo expresamente atribuido a otros órganos (art. 15.b EULL).",
+      "ref": "arts. 15.b y 43.a EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Puede la Junta deliberar y votar el manifiesto sobre el transporte propuesto por urgencia por el representante estudiantil?",
+      "opciones": [
+        "Sí, si lo acuerda la mayoría de los asistentes",
+        "Sí, en el punto de ruegos y preguntas",
+        "No, porque no figura en el orden del día y no asisten todos los miembros del órgano, requisito necesario junto con la declaración de urgencia por mayoría",
+        "Sí, si el Decano declara la urgencia"
+      ],
+      "correcta": 2,
+      "explicacion": "No puede ser objeto de deliberación o acuerdo ningún asunto que no figure en el orden del día, salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría (art. 17.4 LRJSP). Asisten 28 de 60, luego no es posible.",
+      "ref": "art. 17.4 LRJSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Con 12 votos a favor, 9 en contra y 7 abstenciones, ¿quedan aprobadas las guías docentes?",
+      "opciones": [
+        "No, porque se necesitaba la mayoría absoluta de los asistentes (15 votos)",
+        "Sí, porque los acuerdos se adoptan por mayoría de votos y hay más votos a favor que en contra",
+        "No, porque se necesitaba la mayoría absoluta de los miembros de derecho (31 votos)",
+        "No, porque las abstenciones computan como votos en contra"
+      ],
+      "correcta": 1,
+      "explicacion": "Los acuerdos de los órganos colegiados se adoptan por mayoría de votos (art. 17.5 LRJSP), es decir, por mayoría simple salvo que una norma exija otra: 12 votos a favor frente a 9 en contra. Las abstenciones no se suman a los votos negativos. La aprobación de las guías docentes es competencia de la Junta (art. 43.e EULL).",
+      "ref": "art. 17.5 LRJSP; art. 43.e EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el acuerdo sobre las guías docentes resultara después contrario a Derecho y causara perjuicios, ¿qué situación tendrían los 9 miembros que votaron en contra y los 7 que se abstuvieron?",
+      "opciones": [
+        "Responderían todos los asistentes solidariamente",
+        "Solo quedarían exentos los que votaron en contra, siempre que formularan voto particular por escrito",
+        "Solo quedarían exentos los que se abstuvieron",
+        "Quedarían exentos de la responsabilidad que pudiera derivarse del acuerdo, tanto los que votaron en contra como los que se abstuvieron"
+      ],
+      "correcta": 3,
+      "explicacion": "Cuando los miembros del órgano votan en contra o se abstienen, quedan exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos (art. 17.6 LRJSP). No se exige formular voto particular para ello.",
+      "ref": "art. 17.6 LRJSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el punto 3 (premios extraordinarios), ¿qué debe hacer el profesor Tomás Martín Hernández?",
+      "opciones": [
+        "Abstenerse de intervenir y comunicarlo a su superior inmediato, porque su parentesco con Irene (tercer grado de consanguinidad) es causa de abstención",
+        "Nada, porque el parentesco solo es causa de abstención hasta el segundo grado",
+        "Puede intervenir en la deliberación, pero no votar",
+        "Nada, porque las causas de abstención no se aplican a los miembros de órganos colegiados"
+      ],
+      "correcta": 0,
+      "explicacion": "Es causa de abstención el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo con cualquiera de los interesados (art. 23.2.b LRJSP). Una sobrina carnal es pariente en tercer grado de consanguinidad (se sube de Tomás a su padre, 1; se baja a su hermano, 2; y a la hija de este, 3). Quien incurre en causa de abstención debe abstenerse y comunicarlo a su superior inmediato, que resolverá lo procedente (art. 23.1 LRJSP).",
+      "ref": "art. 23.1 y 23.2.b LRJSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Tomás hubiera participado en la votación de los premios sin abstenerse, ¿qué consecuencia tendría?",
+      "opciones": [
+        "El acuerdo sería automáticamente nulo de pleno derecho",
+        "El acuerdo sería inexistente",
+        "Su actuación no implicaría necesariamente y en todo caso la invalidez del acuerdo, pero la no abstención daría lugar a la responsabilidad que proceda",
+        "Ninguna, porque la abstención es siempre voluntaria"
+      ],
+      "correcta": 2,
+      "explicacion": "La actuación de autoridades y personal en los que concurran motivos de abstención no implica, necesariamente y en todo caso, la invalidez de los actos en que hayan intervenido (art. 23.4 LRJSP), y la no abstención cuando concurre causa dará lugar a la responsabilidad que proceda (art. 23.5 LRJSP).",
+      "ref": "art. 23.4 y 23.5 LRJSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Negada por la profesora Elena la causa de recusación el miércoles 14 de octubre, ¿qué plazo tiene el superior para resolver y qué recursos caben contra su decisión?",
+      "opciones": [
+        "Diez días; cabe recurso de alzada ante el Rector",
+        "Tres días (hasta el lunes 19 de octubre de 2026), previos los informes y comprobaciones oportunos; no cabe recurso, sin perjuicio de alegar la recusación al recurrir el acto que ponga fin al procedimiento",
+        "Tres días; cabe recurso potestativo de reposición",
+        "Un mes; la decisión agota la vía administrativa y es impugnable ante la jurisdicción contencioso-administrativa"
+      ],
+      "correcta": 1,
+      "explicacion": "Si el recusado niega la causa, el superior resuelve en el plazo de tres días, previos los informes y comprobaciones que considere oportunos (art. 24.4 LRJSP). Días hábiles desde el siguiente: jueves 15, viernes 16 y lunes 19 de octubre. Contra las resoluciones en esta materia no cabe recurso, sin perjuicio de alegar la recusación al interponer el recurso contra el acto que ponga fin al procedimiento (art. 24.5 LRJSP). La recusación, además, suspende el plazo máximo para resolver el procedimiento (art. 22.2.c LPAC).",
+      "ref": "art. 24 LRJSP; art. 22.2.c LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Respecto del acta de la sesión del 20 de octubre, señala la afirmación CORRECTA:",
+      "opciones": [
+        "La levanta el Decano y debe aprobarse obligatoriamente en la misma sesión",
+        "Solo debe recoger los acuerdos adoptados, nunca las deliberaciones",
+        "Si la sesión se graba, está prohibido adjuntar el fichero al acta",
+        "La levanta la Secretaria, debe especificar asistentes, orden del día, lugar y tiempo, puntos principales de las deliberaciones y contenido de los acuerdos, y puede aprobarse en la misma reunión o en la inmediata siguiente"
+      ],
+      "correcta": 3,
+      "explicacion": "De cada sesión se levanta acta por el Secretario con los asistentes, el orden del día, las circunstancias de lugar y tiempo, los puntos principales de las deliberaciones y el contenido de los acuerdos (art. 18.1 LRJSP). Si se graba la sesión, el fichero con la certificación del Secretario puede acompañar al acta sin necesidad de recoger las deliberaciones. El acta puede aprobarse en la misma reunión o en la inmediata siguiente (art. 18.2 LRJSP).",
+      "ref": "art. 18 LRJSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según los Estatutos de la ULL, ¿en qué plazo debe la Secretaria hacer pública la relación de acuerdos adoptados el 20 de octubre?",
+      "opciones": [
+        "En el plazo máximo de una semana tras la celebración de la reunión",
+        "En el plazo de diez días hábiles",
+        "Cuando se apruebe el acta en la siguiente sesión",
+        "En el plazo de un mes, mediante publicación en el BOC"
+      ],
+      "correcta": 0,
+      "explicacion": "Tras la celebración de cada reunión, la persona que ostente la secretaría del órgano colegiado hará pública en el plazo máximo de una semana la relación de acuerdos (art. 9.3 EULL).",
+      "ref": "art. 9.3 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Pablo quiere impugnar el acuerdo de la Junta sobre los premios extraordinarios, al que accedió el lunes 26 de octubre de 2026. ¿Qué recurso procede y hasta cuándo puede interponerlo?",
+      "opciones": [
+        "Recurso potestativo de reposición ante la Junta, hasta el 16 de noviembre de 2026",
+        "Recurso contencioso-administrativo directamente, hasta el 26 de diciembre de 2026",
+        "Recurso de alzada ante el Rector, hasta el jueves 26 de noviembre de 2026",
+        "Recurso de alzada ante el Consejo de Gobierno, hasta el 26 de enero de 2027"
+      ],
+      "correcta": 2,
+      "explicacion": "Las resoluciones o acuerdos de los órganos de la ULL distintos del Rector, Claustro, Consejo de Gobierno, Consejo Social y Comisión Electoral General no ponen fin a la vía administrativa; contra ellos cabe recurso de alzada ante el Rector (art. 10.4 EULL; art. 121.1 LPAC). El plazo es de un mes si el acto es expreso (art. 122.1 LPAC), contado desde el día siguiente a la notificación y hasta el mismo ordinal del mes siguiente (art. 30.4): 26 de noviembre de 2026, jueves, hábil.",
+      "ref": "art. 10.4 EULL; arts. 30.4, 121 y 122.1 LPAC",
+      "dificultad": 2
+    }
+  ]
+}

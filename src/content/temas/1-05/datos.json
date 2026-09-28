@@ -1,0 +1,1301 @@
+{
+  "claves": [
+    "Los actos se dictan por órgano competente, conforme al procedimiento, con contenido determinado y adecuado a sus fines (art. 34).",
+    "El art. 35 enumera los actos que deben motivarse con sucinta referencia de hechos y fundamentos de derecho; en los selectivos, la motivación sigue lo que dispongan las bases.",
+    "Los actos se presumen válidos y producen efectos desde que se dictan; la retroactividad solo cabe en sustitución de actos anulados o en actos favorables sin perjuicio a terceros (art. 39).",
+    "Toda notificación debe cursarse en 10 días desde que se dicta el acto e incluir el texto íntegro, si agota la vía administrativa, los recursos, el órgano y el plazo (art. 40.2).",
+    "La notificación electrónica se practica al acceder a su contenido y se entiende rechazada a los 10 días naturales sin acceso (art. 43.2).",
+    "En papel puede recoger la notificación cualquier persona mayor de 14 años; el segundo intento se hace una sola vez en los 3 días siguientes, en franja horaria distinta respecto de las 15 horas (art. 42.2).",
+    "Las causas de nulidad de pleno derecho están tasadas en el art. 47; cualquier otra infracción, incluida la desviación de poder, produce anulabilidad (art. 48).",
+    "Solo los actos anulables pueden convalidarse; la incompetencia jerárquica la convalida el superior del órgano que dictó el acto (art. 52).",
+    "La subsanación de solicitudes es de 10 días, ampliable hasta 5 salvo en selectivos o concurrencia competitiva; si no se atiende, se tiene por desistido previa resolución (art. 68).",
+    "Los informes son, salvo disposición en contrario, facultativos y no vinculantes, y se emiten en 10 días (art. 80).",
+    "La audiencia dura entre 10 y 15 días y la información pública no menos de 20 días; comparecer en esta no da la condición de interesado (arts. 82 y 83).",
+    "La caducidad por paralización imputable al interesado exige advertencia y el transcurso de 3 meses, y no interrumpe la prescripción (art. 95).",
+    "La tramitación simplificada se resuelve en 30 días, con alegaciones en 5 días y audiencia solo si la resolución es desfavorable (art. 96).",
+    "Los actos son inmediatamente ejecutivos salvo suspensión, sanción recurrible en vía administrativa, disposición en contrario o necesidad de aprobación superior (art. 98).",
+    "Los medios de ejecución forzosa son apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas, eligiendo el menos restrictivo (art. 100)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Plazo para cursar la notificación desde que se dicta el acto",
+      "valor": "10 días",
+      "ref": "art. 40.2 LPAC"
+    },
+    {
+      "concepto": "Edad mínima de la persona que puede hacerse cargo de una notificación en el domicilio",
+      "valor": "Mayor de 14 años",
+      "ref": "art. 42.2 LPAC"
+    },
+    {
+      "concepto": "Segundo intento de notificación en papel",
+      "valor": "Una sola vez, dentro de los 3 días siguientes, en hora distinta",
+      "ref": "art. 42.2 LPAC"
+    },
+    {
+      "concepto": "Franja horaria de los intentos de notificación en papel",
+      "valor": "Si el primero es antes de las 15:00, el segundo después (y viceversa), con al menos 3 horas de diferencia",
+      "ref": "art. 42.2 LPAC"
+    },
+    {
+      "concepto": "Notificación electrónica obligatoria o elegida no accedida",
+      "valor": "Rechazada a los 10 días naturales desde la puesta a disposición",
+      "ref": "art. 43.2 LPAC"
+    },
+    {
+      "concepto": "Confirmación de medidas provisionales adoptadas antes del procedimiento",
+      "valor": "Acuerdo de iniciación en los 15 días siguientes a su adopción",
+      "ref": "art. 56.2 LPAC"
+    },
+    {
+      "concepto": "Alegaciones de los lesionados en responsabilidad patrimonial iniciada de oficio",
+      "valor": "10 días",
+      "ref": "art. 65.2 LPAC"
+    },
+    {
+      "concepto": "Prescripción del derecho a reclamar responsabilidad patrimonial",
+      "valor": "1 año desde el hecho o la manifestación del efecto lesivo (daños personales: desde la curación o determinación de secuelas)",
+      "ref": "art. 67.1 LPAC"
+    },
+    {
+      "concepto": "Subsanación y mejora de la solicitud",
+      "valor": "10 días",
+      "ref": "art. 68.1 LPAC"
+    },
+    {
+      "concepto": "Ampliación del plazo de subsanación (no en selectivos ni concurrencia competitiva)",
+      "valor": "Hasta 5 días",
+      "ref": "art. 68.2 LPAC"
+    },
+    {
+      "concepto": "Cumplimiento de trámites por los interesados",
+      "valor": "10 días desde el siguiente a la notificación",
+      "ref": "art. 73.1 LPAC"
+    },
+    {
+      "concepto": "Plazo para cumplimentar actos del interesado que no reúnen requisitos",
+      "valor": "10 días",
+      "ref": "art. 73.2 LPAC"
+    },
+    {
+      "concepto": "Período ordinario de prueba",
+      "valor": "No inferior a 10 días ni superior a 30",
+      "ref": "art. 77.2 LPAC"
+    },
+    {
+      "concepto": "Período extraordinario de prueba",
+      "valor": "No superior a 10 días",
+      "ref": "art. 77.2 LPAC"
+    },
+    {
+      "concepto": "Emisión de informes",
+      "valor": "10 días, salvo otro plazo",
+      "ref": "art. 80.2 LPAC"
+    },
+    {
+      "concepto": "Informe del servicio en responsabilidad patrimonial",
+      "valor": "No más de 10 días",
+      "ref": "art. 81.1 LPAC"
+    },
+    {
+      "concepto": "Cuantía que exige dictamen del Consejo de Estado u órgano consultivo en responsabilidad patrimonial",
+      "valor": "Igual o superior a 50.000 euros (o la que fije la legislación autonómica)",
+      "ref": "art. 81.2 LPAC"
+    },
+    {
+      "concepto": "Remisión de la propuesta para dictamen en responsabilidad patrimonial",
+      "valor": "10 días desde la finalización de la audiencia",
+      "ref": "art. 81.2 LPAC"
+    },
+    {
+      "concepto": "Emisión del dictamen consultivo en responsabilidad patrimonial",
+      "valor": "2 meses",
+      "ref": "art. 81.2 LPAC"
+    },
+    {
+      "concepto": "Informe del CGPJ en responsabilidad por funcionamiento anormal de la Justicia",
+      "valor": "Máximo 2 meses",
+      "ref": "art. 81.3 LPAC"
+    },
+    {
+      "concepto": "Trámite de audiencia",
+      "valor": "No inferior a 10 días ni superior a 15",
+      "ref": "art. 82.2 LPAC"
+    },
+    {
+      "concepto": "Información pública",
+      "valor": "No inferior a 20 días",
+      "ref": "art. 83.2 LPAC"
+    },
+    {
+      "concepto": "Reducción por reconocimiento de responsabilidad o pago voluntario",
+      "valor": "Al menos el 20 % cada una, acumulables",
+      "ref": "art. 85.3 LPAC"
+    },
+    {
+      "concepto": "Alegaciones tras actuaciones complementarias",
+      "valor": "7 días",
+      "ref": "art. 87 LPAC"
+    },
+    {
+      "concepto": "Práctica de actuaciones complementarias",
+      "valor": "No superior a 15 días",
+      "ref": "art. 87 LPAC"
+    },
+    {
+      "concepto": "Alegaciones sobre cuestiones conexas no planteadas",
+      "valor": "No superior a 15 días",
+      "ref": "art. 88.1 LPAC"
+    },
+    {
+      "concepto": "Alegaciones del inculpado si la resolución agrava la infracción o sanción propuesta",
+      "valor": "15 días",
+      "ref": "art. 90.2 LPAC"
+    },
+    {
+      "concepto": "Silencio en responsabilidad patrimonial",
+      "valor": "6 meses desde el inicio: contraria a la indemnización",
+      "ref": "art. 91.3 LPAC"
+    },
+    {
+      "concepto": "Terceros que instan la continuación tras desistimiento o renuncia",
+      "valor": "10 días desde la notificación",
+      "ref": "art. 94.4 LPAC"
+    },
+    {
+      "concepto": "Caducidad por paralización imputable al interesado",
+      "valor": "3 meses tras la advertencia",
+      "ref": "art. 95.1 LPAC"
+    },
+    {
+      "concepto": "Desestimación de la solicitud de tramitación simplificada",
+      "valor": "5 días (después, desestimada por silencio)",
+      "ref": "art. 96.3 LPAC"
+    },
+    {
+      "concepto": "Resolución en tramitación simplificada",
+      "valor": "30 días desde el siguiente a la notificación del acuerdo",
+      "ref": "art. 96.6 LPAC"
+    },
+    {
+      "concepto": "Alegaciones al inicio en tramitación simplificada",
+      "valor": "5 días",
+      "ref": "art. 96.6.c LPAC"
+    },
+    {
+      "concepto": "Dictamen consultivo en tramitación simplificada, si se solicita",
+      "valor": "15 días",
+      "ref": "art. 96.6.g LPAC"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Motivación",
+      "definicion": "Expresión sucinta de los hechos y fundamentos de derecho que justifican un acto; obligatoria en los supuestos del art. 35 LPAC."
+    },
+    {
+      "termino": "Inderogabilidad singular",
+      "definicion": "Prohibición de que una resolución particular vulnere una disposición general, aunque proceda de órgano igual o superior; su infracción produce nulidad (art. 37 LPAC)."
+    },
+    {
+      "termino": "Presunción de validez",
+      "definicion": "Los actos administrativos se presumen válidos y producen efectos desde que se dictan, salvo que dispongan otra cosa (art. 39.1 LPAC)."
+    },
+    {
+      "termino": "Eficacia demorada",
+      "definicion": "Aplazamiento de los efectos del acto cuando lo exige su contenido o está supeditado a notificación, publicación o aprobación superior (art. 39.2 LPAC)."
+    },
+    {
+      "termino": "Dirección electrónica habilitada única",
+      "definicion": "Buzón electrónico a través del cual, junto con la sede electrónica, pueden practicarse las notificaciones electrónicas (art. 43.1 LPAC)."
+    },
+    {
+      "termino": "Nulidad de pleno derecho",
+      "definicion": "Invalidez máxima, por causas tasadas del art. 47 LPAC; no convalidable y revisable de oficio en cualquier momento."
+    },
+    {
+      "termino": "Anulabilidad",
+      "definicion": "Invalidez ordinaria por cualquier infracción del ordenamiento no constitutiva de nulidad, incluida la desviación de poder; es convalidable (arts. 48 y 52 LPAC)."
+    },
+    {
+      "termino": "Desviación de poder",
+      "definicion": "Ejercicio de potestades administrativas para fines distintos de los fijados por el ordenamiento; causa de anulabilidad (art. 48.1 LPAC)."
+    },
+    {
+      "termino": "Convalidación",
+      "definicion": "Subsanación por la Administración de los vicios de un acto anulable; produce efectos desde su fecha (art. 52 LPAC)."
+    },
+    {
+      "termino": "Conversión",
+      "definicion": "Técnica por la que un acto nulo o anulable que contiene los elementos de otro distinto produce los efectos de este (art. 50 LPAC)."
+    },
+    {
+      "termino": "Medidas provisionales",
+      "definicion": "Medidas cautelares para asegurar la eficacia de la resolución, adoptadas motivadamente y con proporcionalidad, efectividad y menor onerosidad (art. 56 LPAC)."
+    },
+    {
+      "termino": "Petición razonada",
+      "definicion": "Propuesta de iniciación formulada por un órgano sin competencia para iniciar; no vincula al competente (art. 61 LPAC)."
+    },
+    {
+      "termino": "Declaración responsable",
+      "definicion": "Documento en que el interesado manifiesta bajo su responsabilidad que cumple los requisitos, dispone de la documentación y los mantendrá (art. 69.1 LPAC)."
+    },
+    {
+      "termino": "Expediente administrativo",
+      "definicion": "Conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, y diligencias para ejecutarla (art. 70.1 LPAC)."
+    },
+    {
+      "termino": "Trámite de audiencia",
+      "definicion": "Puesta de manifiesto del expediente a los interesados, inmediatamente antes de la propuesta de resolución, para alegar en 10 a 15 días (art. 82 LPAC)."
+    },
+    {
+      "termino": "Caducidad",
+      "definicion": "Forma de terminación por paralización del procedimiento imputable al interesado durante 3 meses tras advertencia (art. 95 LPAC)."
+    },
+    {
+      "termino": "Ejecución subsidiaria",
+      "definicion": "Realización por la Administración, o por quien esta determine, de un acto no personalísimo a costa del obligado (art. 102 LPAC)."
+    },
+    {
+      "termino": "Multa coercitiva",
+      "definicion": "Medio de ejecución forzosa, reiterable y autorizado por ley, compatible con las sanciones (art. 103 LPAC)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Causas de nulidad del art. 47.1 en orden",
+      "texto": "Dos Indios Iban Por Puerto Felipe Llorando: Derechos de amparo, Incompetencia manifiesta, contenido Imposible, infracción Penal, prescindir del Procedimiento, Facultades sin requisitos, Ley."
+    },
+    {
+      "titulo": "Notificación en papel",
+      "texto": "14-2-3-15-3: mayor de 14 años, 2 intentos, en 3 días, antes y después de las 15 horas, con 3 horas de margen."
+    },
+    {
+      "titulo": "Plazos de instrucción",
+      "texto": "Diez para casi todo (trámites, subsanación, informes, suelo de audiencia y de prueba); 15 techo de la audiencia; 30 techo de la prueba; 20 suelo de la información pública."
+    },
+    {
+      "titulo": "Medios de ejecución forzosa",
+      "texto": "Amigos En Multitud Comen: Apremio, Ejecución subsidiaria, Multa coercitiva, Compulsión (art. 100)."
+    },
+    {
+      "titulo": "Excepciones a la ejecutividad inmediata",
+      "texto": "SSDA: Suspensión, Sanción recurrible en vía administrativa, Disposición en contrario, Aprobación superior (art. 98.1)."
+    },
+    {
+      "titulo": "Tramitación simplificada",
+      "texto": "30-5-5-15: resolver en 30 días, alegaciones en 5, rechazo de la solicitud en 5 y dictamen consultivo en 15 (art. 96)."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Cómo deben motivarse los actos del art. 35 LPAC?",
+      "reverso": "Con sucinta referencia de hechos y fundamentos de derecho.",
+      "ref": "art. 35.1 LPAC"
+    },
+    {
+      "frente": "¿Cómo se motivan los actos que ponen fin a procedimientos selectivos?",
+      "reverso": "Conforme a lo que dispongan las normas de la convocatoria, acreditando en el procedimiento los fundamentos.",
+      "ref": "art. 35.2 LPAC"
+    },
+    {
+      "frente": "Consecuencia de una resolución particular que vulnera un reglamento",
+      "reverso": "Es nula, aunque proceda de un órgano de igual o superior jerarquía.",
+      "ref": "art. 37 LPAC"
+    },
+    {
+      "frente": "¿Cuándo cabe otorgar eficacia retroactiva a los actos?",
+      "reverso": "Cuando se dicten en sustitución de actos anulados o produzcan efectos favorables, si los hechos ya existían y no lesionan derechos de terceros.",
+      "ref": "art. 39.3 LPAC"
+    },
+    {
+      "frente": "Plazo para cursar una notificación",
+      "reverso": "10 días desde que se dictó el acto.",
+      "ref": "art. 40.2 LPAC"
+    },
+    {
+      "frente": "Contenido obligatorio de la notificación",
+      "reverso": "Texto íntegro, si pone fin o no a la vía administrativa, recursos procedentes, órgano ante el que presentarlos y plazo.",
+      "ref": "art. 40.2 LPAC"
+    },
+    {
+      "frente": "¿Qué basta para entender cumplida la obligación de notificar en plazo?",
+      "reverso": "La notificación con el texto íntegro de la resolución y el intento de notificación debidamente acreditado.",
+      "ref": "art. 40.4 LPAC"
+    },
+    {
+      "frente": "Notificaciones que nunca pueden hacerse por medios electrónicos",
+      "reverso": "Las acompañadas de elementos no convertibles a formato electrónico y las que contengan medios de pago, como cheques.",
+      "ref": "art. 41.2 LPAC"
+    },
+    {
+      "frente": "Si el interesado rechaza la notificación",
+      "reverso": "Se hace constar en el expediente y se da por efectuado el trámite.",
+      "ref": "art. 41.5 LPAC"
+    },
+    {
+      "frente": "Notificado por varios cauces, ¿qué fecha cuenta?",
+      "reverso": "La de la notificación que se produjo en primer lugar.",
+      "ref": "art. 41.7 LPAC"
+    },
+    {
+      "frente": "¿Quién puede recoger una notificación en papel en ausencia del interesado?",
+      "reverso": "Cualquier persona mayor de 14 años que esté en el domicilio y haga constar su identidad.",
+      "ref": "art. 42.2 LPAC"
+    },
+    {
+      "frente": "¿Cuándo se entiende rechazada una notificación electrónica?",
+      "reverso": "A los 10 días naturales desde su puesta a disposición sin acceso, si era obligatoria o elegida.",
+      "ref": "art. 43.2 LPAC"
+    },
+    {
+      "frente": "¿Dónde se publica la notificación infructuosa?",
+      "reverso": "En el Boletín Oficial del Estado; otros boletines o tablones son facultativos y previos.",
+      "ref": "art. 44 LPAC"
+    },
+    {
+      "frente": "Supuestos de publicación obligatoria con efectos de notificación",
+      "reverso": "Pluralidad indeterminada de destinatarios y actos de procedimientos selectivos o de concurrencia competitiva.",
+      "ref": "art. 45.1 LPAC"
+    },
+    {
+      "frente": "¿La incompetencia jerárquica produce nulidad?",
+      "reverso": "No: solo la incompetencia manifiesta por materia o territorio. La jerárquica es anulabilidad convalidable por el superior.",
+      "ref": "arts. 47.1.b y 52.3 LPAC"
+    },
+    {
+      "frente": "¿Qué vicio produce la desviación de poder?",
+      "reverso": "Anulabilidad.",
+      "ref": "art. 48.1 LPAC"
+    },
+    {
+      "frente": "¿Cuándo el defecto de forma produce anulabilidad?",
+      "reverso": "Cuando el acto carece de los requisitos formales indispensables para alcanzar su fin o causa indefensión.",
+      "ref": "art. 48.2 LPAC"
+    },
+    {
+      "frente": "¿Qué actos pueden convalidarse y desde cuándo surte efecto la convalidación?",
+      "reverso": "Solo los anulables; desde la fecha de la convalidación, salvo retroactividad del art. 39.3.",
+      "ref": "art. 52 LPAC"
+    },
+    {
+      "frente": "Cuándo son nulas las disposiciones administrativas",
+      "reverso": "Si vulneran la CE, las leyes o normas superiores, regulan materias reservadas a ley o establecen retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos.",
+      "ref": "art. 47.2 LPAC"
+    },
+    {
+      "frente": "Derechos específicos del presunto responsable en el procedimiento sancionador",
+      "reverso": "Ser notificado de hechos, infracciones, sanciones, instructor y autoridad competente, y presunción de no existencia de responsabilidad.",
+      "ref": "art. 53.2 LPAC"
+    },
+    {
+      "frente": "Medidas provisionales antes de iniciar el procedimiento",
+      "reverso": "Solo por urgencia inaplazable; deben confirmarse, modificarse o levantarse en el acuerdo de iniciación en 15 días.",
+      "ref": "art. 56.2 LPAC"
+    },
+    {
+      "frente": "¿Cabe recurso contra el acuerdo de acumulación?",
+      "reverso": "No, no procede recurso alguno.",
+      "ref": "art. 57 LPAC"
+    },
+    {
+      "frente": "¿Vincula la petición razonada de otro órgano?",
+      "reverso": "No, pero hay que comunicarle los motivos si no se inicia el procedimiento.",
+      "ref": "art. 61.2 LPAC"
+    },
+    {
+      "frente": "¿La denuncia convierte al denunciante en interesado?",
+      "reverso": "No, por sí sola no le confiere esa condición.",
+      "ref": "art. 62.5 LPAC"
+    },
+    {
+      "frente": "Plazo de prescripción del derecho a reclamar responsabilidad patrimonial",
+      "reverso": "1 año; en daños físicos o psíquicos, desde la curación o determinación de las secuelas.",
+      "ref": "art. 67.1 LPAC"
+    },
+    {
+      "frente": "Plazo de subsanación de la solicitud y su ampliación",
+      "reverso": "10 días, ampliable hasta 5 días salvo en procedimientos selectivos o de concurrencia competitiva.",
+      "ref": "art. 68 LPAC"
+    },
+    {
+      "frente": "¿Qué cuestión incidental suspende el procedimiento?",
+      "reverso": "Solo la recusación.",
+      "ref": "art. 74 LPAC"
+    },
+    {
+      "frente": "Duración del período de prueba",
+      "reverso": "Entre 10 y 30 días; extraordinario, no más de 10 días.",
+      "ref": "art. 77.2 LPAC"
+    },
+    {
+      "frente": "Carácter de los informes por regla general",
+      "reverso": "Facultativos y no vinculantes, salvo disposición expresa en contrario.",
+      "ref": "art. 80.1 LPAC"
+    },
+    {
+      "frente": "Plazo del trámite de audiencia",
+      "reverso": "No inferior a 10 días ni superior a 15.",
+      "ref": "art. 82.2 LPAC"
+    },
+    {
+      "frente": "Plazo mínimo de la información pública",
+      "reverso": "20 días.",
+      "ref": "art. 83.2 LPAC"
+    },
+    {
+      "frente": "Reducción por pago voluntario en sanciones pecuniarias",
+      "reverso": "Al menos el 20 %, acumulable con la de reconocimiento, condicionada a renunciar a recursos administrativos.",
+      "ref": "art. 85.3 LPAC"
+    },
+    {
+      "frente": "Plazo de caducidad por paralización imputable al interesado",
+      "reverso": "3 meses desde la advertencia de la Administración.",
+      "ref": "art. 95.1 LPAC"
+    },
+    {
+      "frente": "Plazo de resolución en la tramitación simplificada",
+      "reverso": "30 días desde el siguiente a la notificación del acuerdo de tramitación simplificada.",
+      "ref": "art. 96.6 LPAC"
+    },
+    {
+      "frente": "Excepciones a la ejecutividad inmediata de los actos",
+      "reverso": "Suspensión, resolución sancionadora recurrible en vía administrativa, disposición en contrario y necesidad de aprobación superior.",
+      "ref": "art. 98.1 LPAC"
+    },
+    {
+      "frente": "¿Es la multa coercitiva una sanción?",
+      "reverso": "No, es un medio de ejecución forzosa, independiente y compatible con las sanciones.",
+      "ref": "art. 103.2 LPAC"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el art. 35 LPAC, los actos que deben motivarse lo serán:",
+      "opciones": [
+        "Con sucinta referencia de hechos y fundamentos de derecho",
+        "Con referencia extensa a los antecedentes del expediente",
+        "Solo con indicación de la norma aplicable",
+        "Mediante informe jurídico preceptivo"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 35.1 exige una sucinta referencia de hechos y fundamentos de derecho.",
+      "ref": "art. 35.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes actos NO figura entre los que deben motivarse según el art. 35.1 LPAC?",
+      "opciones": [
+        "Los que rechacen pruebas propuestas por los interesados",
+        "Los actos de mero trámite que se limitan a dar traslado de un escrito",
+        "Los que se dicten en ejercicio de potestades discrecionales",
+        "Los acuerdos de ampliación de plazos"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 35.1 no incluye los actos de mero trámite de traslado; las demás opciones figuran en sus letras f), e) e i).",
+      "ref": "art. 35.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La motivación de los actos que pongan fin a los procedimientos selectivos se realizará:",
+      "opciones": [
+        "Siempre con referencia individualizada a cada aspirante",
+        "Mediante informe del Tribunal Calificador publicado en el BOE",
+        "De conformidad con lo que dispongan las normas que regulen sus convocatorias",
+        "No es necesaria"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 35.2 LPAC, debiendo quedar acreditados los fundamentos en el procedimiento.",
+      "ref": "art. 35.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando deba dictarse una serie de actos administrativos de la misma naturaleza, como nombramientos o licencias:",
+      "opciones": [
+        "Deben dictarse necesariamente de forma individual",
+        "Solo pueden refundirse si son actos favorables",
+        "Requieren autorización del superior jerárquico para acumularse",
+        "Podrán refundirse en un único acto que especifique las circunstancias que individualicen sus efectos"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 36.3 LPAC.",
+      "ref": "art. 36.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las resoluciones administrativas de carácter particular que vulneren lo establecido en una disposición reglamentaria son:",
+      "opciones": [
+        "Válidas si proceden de un órgano superior al que dictó la disposición",
+        "Anulables",
+        "Nulas",
+        "Irregulares no invalidantes"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 37.2 las declara nulas; el art. 37.1 establece la inderogabilidad singular aun cuando procedan de órgano de igual o superior jerarquía.",
+      "ref": "art. 37 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Salvo que en ellos se disponga otra cosa, los actos de las Administraciones sujetos al Derecho Administrativo producirán efectos:",
+      "opciones": [
+        "Desde la fecha en que se dicten",
+        "Desde su publicación en el diario oficial",
+        "Desde su notificación",
+        "A los veinte días de su publicación"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 39.1 LPAC; la eficacia puede quedar demorada si lo exige el contenido o está supeditada a notificación, publicación o aprobación superior.",
+      "ref": "art. 39.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Excepcionalmente podrá otorgarse eficacia retroactiva a los actos administrativos:",
+      "opciones": [
+        "Cuando sean de gravamen y así lo exija el interés público",
+        "Nunca, por prohibirlo la Constitución",
+        "Siempre que lo acuerde el órgano superior",
+        "Cuando se dicten en sustitución de actos anulados o produzcan efectos favorables, con los requisitos legales"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 39.3: en sustitución de actos anulados y cuando produzcan efectos favorables, si los supuestos de hecho ya existían y no se lesionan derechos de otras personas.",
+      "ref": "art. 39.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Toda notificación deberá ser cursada dentro del plazo de:",
+      "opciones": [
+        "Cinco días a partir de la fecha en que el acto haya sido dictado",
+        "Diez días a partir de la fecha en que el acto haya sido dictado",
+        "Quince días a partir de la firma del acto",
+        "Diez días naturales desde su registro de salida"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 40.2 LPAC.",
+      "ref": "art. 40.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes elementos NO es un contenido obligatorio de la notificación según el art. 40.2 LPAC?",
+      "opciones": [
+        "La identificación de todos los demás interesados en el procedimiento",
+        "La indicación de si pone fin o no a la vía administrativa",
+        "El órgano ante el que hubieran de presentarse los recursos y el plazo",
+        "El texto íntegro de la resolución"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 40.2 exige texto íntegro, indicación de si agota la vía, recursos, órgano y plazo; no la identidad de los demás interesados (el art. 40.5 permite incluso proteger sus datos).",
+      "ref": "art. 40.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Una notificación que contiene el texto íntegro del acto pero omite la indicación de los recursos procedentes surtirá efecto:",
+      "opciones": [
+        "Nunca, por ser nula",
+        "A partir de la fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance del acto o interponga cualquier recurso",
+        "Desde la fecha en que se practicó",
+        "A los seis meses de su práctica"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 40.3 LPAC.",
+      "ref": "art. 40.3 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "A los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo de duración del procedimiento, será suficiente:",
+      "opciones": [
+        "La firma de la resolución dentro de plazo",
+        "La publicación en el tablón de anuncios",
+        "La notificación que contenga, cuando menos, el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado",
+        "La remisión por correo ordinario"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 40.4 LPAC; en las electrónicas basta la puesta a disposición (art. 43.3).",
+      "ref": "art. 40.4 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿En cuál de los siguientes casos NO podrá practicarse la notificación por medios electrónicos?",
+      "opciones": [
+        "Cuando el interesado sea una persona jurídica",
+        "Cuando el acto sea desfavorable",
+        "Cuando el procedimiento se haya iniciado de oficio",
+        "Cuando la notificación contenga un cheque a favor del obligado"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 41.2 excluye las notificaciones con elementos no convertibles a formato electrónico y las que contengan medios de pago, como cheques.",
+      "ref": "art. 41.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La dirección de correo electrónico que el interesado identifique ante la Administración servirá para:",
+      "opciones": [
+        "La práctica de todas las notificaciones",
+        "Las notificaciones de actos de trámite",
+        "El envío de avisos, pero no para la práctica de notificaciones",
+        "Las notificaciones urgentes"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 41.1, último párrafo, y art. 41.6: la falta del aviso no impide que la notificación sea válida.",
+      "ref": "art. 41 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando el interesado sea notificado por distintos cauces, se tomará como fecha de notificación:",
+      "opciones": [
+        "La de aquella que se hubiera producido en primer lugar",
+        "La de la última notificación practicada",
+        "La de la notificación electrónica en todo caso",
+        "La que elija el interesado"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 41.7 LPAC.",
+      "ref": "art. 41.7 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En la notificación en papel en el domicilio, si el interesado no está presente, podrá hacerse cargo de ella:",
+      "opciones": [
+        "Cualquier persona mayor de dieciocho años",
+        "Únicamente el representante acreditado",
+        "Solo un familiar hasta el segundo grado",
+        "Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 42.2 LPAC.",
+      "ref": "art. 42.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si en el primer intento de notificación en papel nadie se hace cargo de ella, y dicho intento se realizó a las 11:00, el segundo intento deberá realizarse:",
+      "opciones": [
+        "Dentro de los cinco días siguientes, a cualquier hora",
+        "Dentro de los tres días siguientes, después de las quince horas",
+        "Al día siguiente, a la misma hora",
+        "Dentro de los tres días siguientes, antes de las quince horas"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 42.2 exige repetir una sola vez en hora distinta dentro de los tres días siguientes; si el primero fue antes de las quince horas, el segundo será después, con al menos tres horas de diferencia.",
+      "ref": "art. 42.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando la notificación por medios electrónicos sea obligatoria, se entenderá rechazada cuando hayan transcurrido desde su puesta a disposición sin acceder a su contenido:",
+      "opciones": [
+        "Diez días naturales",
+        "Diez días hábiles",
+        "Quince días naturales",
+        "Un mes"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 43.2 LPAC: diez días naturales.",
+      "ref": "art. 43.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando, intentada la notificación, no se hubiese podido practicar, la notificación se hará mediante anuncio publicado en:",
+      "opciones": [
+        "El boletín oficial de la provincia",
+        "El Boletín Oficial del Estado",
+        "El tablón de edictos del Ayuntamiento",
+        "El diario oficial de la Comunidad Autónoma"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 44 LPAC; la publicación en otros boletines o tablones es facultativa y previa.",
+      "ref": "art. 44 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los procedimientos selectivos, las publicaciones que se lleven a cabo en lugares distintos del indicado en la convocatoria:",
+      "opciones": [
+        "Son válidas si también se notifican individualmente",
+        "Son anulables",
+        "Carecen de validez",
+        "Son válidas si se publican en el BOE"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 45.1.b LPAC.",
+      "ref": "art. 45.1.b LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Son nulos de pleno derecho los actos dictados por órgano manifiestamente incompetente por razón de:",
+      "opciones": [
+        "La jerarquía",
+        "El tiempo",
+        "La cuantía",
+        "La materia o del territorio"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 47.1.b LPAC. La incompetencia jerárquica produce anulabilidad convalidable.",
+      "ref": "art. 47.1.b LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes supuestos determina la ANULABILIDAD y no la nulidad de pleno derecho de un acto?",
+      "opciones": [
+        "Lesionar derechos susceptibles de amparo constitucional",
+        "Tener un contenido imposible",
+        "Haberse dictado con desviación de poder",
+        "Ser constitutivo de infracción penal"
+      ],
+      "correcta": 2,
+      "explicacion": "La desviación de poder es causa de anulabilidad (art. 48.1); las demás son causas de nulidad del art. 47.1.",
+      "ref": "arts. 47 y 48 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 47.1.e LPAC, son nulos los actos dictados:",
+      "opciones": [
+        "Prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados",
+        "Omitiendo cualquier trámite del procedimiento",
+        "Fuera del plazo máximo para resolver",
+        "Sin informe jurídico previo"
+      ],
+      "correcta": 0,
+      "explicacion": "Solo la omisión total y absoluta del procedimiento o de las reglas esenciales de los colegiados produce nulidad; la omisión de un trámite es, en su caso, anulabilidad.",
+      "ref": "art. 47.1.e LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es causa de nulidad de pleno derecho de las disposiciones administrativas según el art. 47.2 LPAC?",
+      "opciones": [
+        "Vulnerar la Constitución o las leyes",
+        "Regular materias reservadas a la Ley",
+        "Establecer la retroactividad de disposiciones sancionadoras no favorables",
+        "Haberse aprobado sin trámite de audiencia a una asociación concreta"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 47.2 enumera las tres primeras; la cuarta no está prevista como causa de nulidad.",
+      "ref": "art. 47.2 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El defecto de forma solo determinará la anulabilidad cuando:",
+      "opciones": [
+        "El acto sea desfavorable",
+        "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+        "Lo alegue el interesado en el plazo de diez días",
+        "Lo aprecie el Consejo de Estado"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 48.2 LPAC.",
+      "ref": "art. 48.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
+      "opciones": [
+        "Solo implicará la anulabilidad cuando así lo imponga la naturaleza del término o plazo",
+        "Determina siempre la anulabilidad",
+        "Determina siempre la nulidad",
+        "No tiene ninguna consecuencia jurídica"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 48.3 LPAC.",
+      "ref": "art. 48.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Señale la afirmación CORRECTA sobre la convalidación (art. 52 LPAC):",
+      "opciones": [
+        "Pueden convalidarse los actos nulos y los anulables",
+        "Si el vicio es incompetencia no determinante de nulidad, puede convalidar el órgano competente cuando sea superior jerárquico del que dictó el acto",
+        "El acto de convalidación produce siempre efectos retroactivos",
+        "La falta de autorización no puede convalidarse"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 52.3. Solo se convalidan los anulables (52.1), con efectos desde su fecha salvo art. 39.3 (52.2), y la falta de autorización se convalida otorgándola (52.4).",
+      "ref": "art. 52 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 53.1.e LPAC, los interesados tienen derecho a formular alegaciones y aportar documentos:",
+      "opciones": [
+        "Solo en el trámite de audiencia",
+        "Hasta la notificación de la resolución",
+        "En cualquier fase del procedimiento anterior al trámite de audiencia",
+        "Solo en los diez primeros días del procedimiento"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 53.1.e y art. 76.1 LPAC: en cualquier momento anterior al trámite de audiencia.",
+      "ref": "art. 53.1.e LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las medidas provisionales adoptadas antes de la iniciación del procedimiento deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, que deberá efectuarse dentro de:",
+      "opciones": [
+        "Los diez días siguientes a su adopción",
+        "Los tres días siguientes a su adopción",
+        "El mes siguiente a su adopción",
+        "Los quince días siguientes a su adopción"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 56.2 LPAC; si no, quedan sin efecto.",
+      "ref": "art. 56.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una forma de iniciación de oficio prevista en el art. 58 LPAC?",
+      "opciones": [
+        "Propia iniciativa",
+        "Orden superior",
+        "Solicitud del interesado",
+        "Petición razonada de otros órganos"
+      ],
+      "correcta": 2,
+      "explicacion": "La solicitud del interesado es la otra clase de iniciación (art. 54), no una forma de iniciación de oficio.",
+      "ref": "arts. 54 y 58 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los procedimientos de naturaleza sancionadora, el art. 63 LPAC exige:",
+      "opciones": [
+        "La debida separación entre la fase instructora y la sancionadora, encomendadas a órganos distintos",
+        "Que se inicien a solicitud del perjudicado",
+        "Que el instructor sea siempre un funcionario del subgrupo A1",
+        "Que la resolución la dicte el mismo órgano que instruye"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 63.1 LPAC; además, se inician siempre de oficio.",
+      "ref": "art. 63.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si en un procedimiento sancionador el interesado no formula alegaciones sobre el contenido del acuerdo de iniciación, este podrá ser considerado:",
+      "opciones": [
+        "Resolución definitiva",
+        "Acto nulo",
+        "Pliego de cargos",
+        "Propuesta de resolución, cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 64.2.f LPAC.",
+      "ref": "art. 64.2.f LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El derecho a reclamar en los procedimientos de responsabilidad patrimonial prescribe, con carácter general:",
+      "opciones": [
+        "A los seis meses del hecho lesivo",
+        "Al año de producido el hecho o el acto que motive la indemnización o de manifestarse su efecto lesivo",
+        "A los dos años",
+        "A los cuatro años"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 67.1 LPAC; en daños físicos o psíquicos se computa desde la curación o determinación de secuelas.",
+      "ref": "art. 67.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El plazo de subsanación de la solicitud del art. 68 LPAC podrá ampliarse prudencialmente hasta cinco días:",
+      "opciones": [
+        "Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva",
+        "En todo tipo de procedimientos",
+        "Solo en procedimientos selectivos",
+        "Solo en procedimientos sancionadores"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 68.2 LPAC.",
+      "ref": "art. 68.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si un sujeto obligado a relacionarse electrónicamente presenta su solicitud de forma presencial, se considerará como fecha de presentación:",
+      "opciones": [
+        "La de la presentación presencial",
+        "La de la subsanación mediante presentación electrónica",
+        "La del requerimiento de subsanación",
+        "La de la resolución de admisión"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 68.4 LPAC.",
+      "ref": "art. 68.4 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Respecto a la declaración responsable y la comunicación, señale la INCORRECTA:",
+      "opciones": [
+        "Permiten el ejercicio del derecho o el inicio de la actividad desde el día de su presentación",
+        "La falsedad de carácter esencial determina la imposibilidad de continuar con la actividad",
+        "Puede exigirse acumulativamente una declaración responsable y una comunicación para la misma actividad",
+        "La Administración conserva sus facultades de comprobación, control e inspección"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 69.6 prohíbe exigir ambas acumulativamente; solo es exigible una u otra.",
+      "ref": "art. 69 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes elementos NO forma parte del expediente administrativo según el art. 70.4 LPAC?",
+      "opciones": [
+        "Los informes preceptivos solicitados antes de la resolución",
+        "Las notificaciones practicadas",
+        "La copia electrónica certificada de la resolución",
+        "Las notas y borradores"
+      ],
+      "correcta": 3,
+      "explicacion": "La información auxiliar o de apoyo (notas, borradores, opiniones, resúmenes, informes internos, juicios de valor) no forma parte del expediente, salvo los informes preceptivos y facultativos solicitados antes de resolver.",
+      "ref": "art. 70 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones:",
+      "opciones": [
+        "Suspenden siempre la tramitación",
+        "Suspenden la tramitación si lo solicita el interesado",
+        "No suspenderán la tramitación, salvo la recusación",
+        "Deben resolverse por el superior jerárquico antes de continuar"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 74 LPAC.",
+      "ref": "art. 74 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El período de prueba acordado por el instructor tendrá una duración:",
+      "opciones": [
+        "No superior a treinta días ni inferior a diez",
+        "No superior a quince días ni inferior a cinco",
+        "No superior a veinte días ni inferior a diez",
+        "De un mes improrrogable"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 77.2 LPAC; el extraordinario, no superior a diez días.",
+      "ref": "art. 77.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El instructor del procedimiento solo podrá rechazar las pruebas propuestas por los interesados cuando sean:",
+      "opciones": [
+        "Costosas para la Administración",
+        "Propuestas fuera del trámite de audiencia",
+        "Documentales",
+        "Manifiestamente improcedentes o innecesarias, mediante resolución motivada"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 77.3 LPAC; es también un acto que debe motivarse según el art. 35.1.f.",
+      "ref": "art. 77.3 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Salvo disposición expresa en contrario, los informes serán:",
+      "opciones": [
+        "Preceptivos y vinculantes",
+        "Facultativos y no vinculantes",
+        "Facultativos y vinculantes",
+        "Preceptivos y no vinculantes"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 80.1 LPAC.",
+      "ref": "art. 80.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los procedimientos de responsabilidad patrimonial será preceptivo solicitar dictamen del Consejo de Estado u órgano consultivo autonómico cuando las indemnizaciones reclamadas sean de cuantía igual o superior a:",
+      "opciones": [
+        "50.000 euros",
+        "30.000 euros",
+        "6.000 euros",
+        "100.000 euros"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 81.2 LPAC: 50.000 euros o la cuantía que establezca la legislación autonómica.",
+      "ref": "art. 81.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el trámite de audiencia, los interesados podrán alegar y presentar documentos en un plazo:",
+      "opciones": [
+        "No inferior a cinco días ni superior a diez",
+        "No inferior a diez días ni superior a quince",
+        "No inferior a quince días ni superior a veinte",
+        "De veinte días"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 82.2 LPAC.",
+      "ref": "art. 82.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Se podrá prescindir del trámite de audiencia cuando:",
+      "opciones": [
+        "El procedimiento sea urgente",
+        "La resolución sea favorable al interesado",
+        "No figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado",
+        "Lo decida el instructor por economía procesal"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 82.4 LPAC.",
+      "ref": "art. 82.4 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el trámite de información pública, el plazo para formular alegaciones:",
+      "opciones": [
+        "Será de diez días",
+        "Lo fija libremente el órgano, sin mínimo",
+        "Será de quince días hábiles",
+        "En ningún caso podrá ser inferior a veinte días"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 83.2 LPAC.",
+      "ref": "art. 83.2 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Quien comparece en el trámite de información pública:",
+      "opciones": [
+        "Adquiere automáticamente la condición de interesado",
+        "No tiene derecho a respuesta alguna",
+        "No adquiere por ello la condición de interesado, pero tiene derecho a obtener una respuesta razonada a sus alegaciones",
+        "Queda legitimado para interponer recurso de alzada"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 83.3 LPAC.",
+      "ref": "art. 83.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En un procedimiento sancionador con sanción únicamente pecuniaria, las reducciones por reconocimiento de responsabilidad y por pago voluntario serán de:",
+      "opciones": [
+        "Al menos el 20 %, acumulables entre sí",
+        "Al menos el 10 %, no acumulables",
+        "Exactamente el 50 %",
+        "Al menos el 30 %, acumulables"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 85.3 LPAC; su efectividad se condiciona al desistimiento o renuncia de cualquier acción o recurso en vía administrativa.",
+      "ref": "art. 85.3 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El acuerdo de realización de actuaciones complementarias se notificará a los interesados, concediéndoles para formular alegaciones tras su finalización un plazo de:",
+      "opciones": [
+        "Cinco días",
+        "Quince días",
+        "Diez días",
+        "Siete días"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 87 LPAC; las actuaciones deben practicarse en no más de quince días y suspenden el plazo para resolver.",
+      "ref": "art. 87 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En los procedimientos tramitados a solicitud del interesado, la resolución:",
+      "opciones": [
+        "Podrá agravar la situación inicial del interesado si así lo exige el interés público",
+        "Será congruente con las peticiones formuladas, sin que en ningún caso pueda agravar su situación inicial",
+        "Solo resolverá las cuestiones planteadas en la solicitud inicial",
+        "Podrá dictarse sin motivación"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 88.2 LPAC, sin perjuicio de incoar de oficio un nuevo procedimiento.",
+      "ref": "art. 88.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el órgano competente para resolver un procedimiento sancionador considera que la infracción reviste mayor gravedad que la determinada en la propuesta de resolución, notificará al inculpado para que formule alegaciones en el plazo de:",
+      "opciones": [
+        "Quince días",
+        "Diez días",
+        "Cinco días",
+        "Un mes"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 90.2 LPAC.",
+      "ref": "art. 90.2 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En los procedimientos de responsabilidad patrimonial, transcurridos seis meses desde su inicio sin resolución expresa ni acuerdo:",
+      "opciones": [
+        "Se entiende estimada la reclamación",
+        "Podrá entenderse que la resolución es contraria a la indemnización del particular",
+        "Se produce la caducidad",
+        "Se entiende estimada la mitad de la cantidad reclamada"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 91.3 LPAC, coherente con el silencio desestimatorio del art. 24.1.",
+      "ref": "art. 91.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Formulado el desistimiento por el interesado, la Administración declarará concluso el procedimiento, salvo que terceros interesados personados insten su continuación en el plazo de:",
+      "opciones": [
+        "Cinco días desde que fueron notificados",
+        "Quince días desde el desistimiento",
+        "Diez días desde que fueron notificados",
+        "Un mes"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 94.4 LPAC.",
+      "ref": "art. 94.4 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los procedimientos iniciados a solicitud del interesado paralizados por causa imputable a él, la Administración le advertirá de que se producirá la caducidad transcurridos:",
+      "opciones": [
+        "Un mes",
+        "Dos meses",
+        "Seis meses",
+        "Tres meses"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 95.1 LPAC.",
+      "ref": "art. 95.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Señale la afirmación INCORRECTA sobre la caducidad (art. 95 LPAC):",
+      "opciones": [
+        "No produce por sí sola la prescripción de las acciones",
+        "Los procedimientos caducados no interrumpen el plazo de prescripción",
+        "Puede acordarse por la simple inactividad del interesado en trámites no indispensables para resolver",
+        "Contra la resolución que la declare proceden los recursos pertinentes"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 95.2 impide acordar la caducidad por la simple inactividad en trámites no indispensables; solo supone la pérdida del derecho a ese trámite.",
+      "ref": "art. 95 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los procedimientos tramitados de manera simplificada deberán ser resueltos, salvo que reste menos para su tramitación ordinaria, en:",
+      "opciones": [
+        "Treinta días",
+        "Quince días",
+        "Dos meses",
+        "Tres meses"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 96.6 LPAC, desde el siguiente a la notificación del acuerdo de tramitación simplificada.",
+      "ref": "art. 96.6 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En la tramitación simplificada, el trámite de audiencia:",
+      "opciones": [
+        "Se suprime en todo caso",
+        "Se realiza siempre en cinco días",
+        "Sustituye al trámite de alegaciones",
+        "Solo procede cuando la resolución vaya a ser desfavorable para el interesado"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 96.6.d LPAC.",
+      "ref": "art. 96.6.d LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En un procedimiento sancionador en que existan elementos para calificar la infracción como leve, la tramitación simplificada:",
+      "opciones": [
+        "No puede aplicarse",
+        "Puede adoptarse sin que quepa la oposición expresa del interesado",
+        "Requiere el consentimiento del interesado",
+        "Solo puede aplicarse a solicitud del interesado"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 96.5 LPAC.",
+      "ref": "art. 96.5 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Una resolución que pone fin a un procedimiento sancionador y contra la que cabe recurso potestativo de reposición:",
+      "opciones": [
+        "No es ejecutiva mientras quepa contra ella algún recurso en vía administrativa, incluido el potestativo de reposición",
+        "Es inmediatamente ejecutiva",
+        "Es ejecutiva desde su notificación si la sanción es leve",
+        "Solo es ejecutiva si el interesado no recurre en tres días"
+      ],
+      "correcta": 0,
+      "explicacion": "Arts. 90.3 y 98.1.b LPAC.",
+      "ref": "art. 98.1.b LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO es un medio de ejecución forzosa previsto en el art. 100 LPAC?",
+      "opciones": [
+        "Apremio sobre el patrimonio",
+        "Sanción pecuniaria por desobediencia",
+        "Multa coercitiva",
+        "Ejecución subsidiaria"
+      ],
+      "correcta": 1,
+      "explicacion": "Los medios son apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas.",
+      "ref": "art. 100 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La ejecución subsidiaria procede cuando se trate de actos que:",
+      "opciones": [
+        "Sean personalísimos",
+        "Impongan obligaciones de no hacer",
+        "Por no ser personalísimos puedan ser realizados por sujeto distinto del obligado",
+        "Consistan en el pago de una cantidad líquida"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 102.1 LPAC; se realiza a costa del obligado.",
+      "ref": "art. 102 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Respecto de la multa coercitiva, señale la CORRECTA:",
+      "opciones": [
+        "Puede imponerse sin necesidad de autorización legal",
+        "Tiene naturaleza sancionadora",
+        "Solo puede imponerse una vez",
+        "Es independiente de las sanciones que puedan imponerse y compatible con ellas"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 103: requiere autorización legal, puede reiterarse por lapsos de tiempo suficientes y es compatible con las sanciones.",
+      "ref": "art. 103 LPAC",
+      "dificultad": 2
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Ley 39/2015. Notificación y publicación",
+      "url": "https://www.youtube.com/watch?v=FLlYK_oJjlg",
+      "canal": "Instituto Nacional de Administración Pública INAP"
+    },
+    {
+      "titulo": "Ley 39/2015: nulidad y anulabilidad",
+      "url": "https://www.youtube.com/watch?v=gVF_IDO5kug",
+      "canal": "Gurú Oposiciones"
+    },
+    {
+      "titulo": "Nulidad y Anulabilidad de los actos administrativos. Ley 39/2015",
+      "url": "https://www.youtube.com/watch?v=m8-qS1ElaPY",
+      "canal": "ALTA ESCUELA DE OPOSITORES"
+    },
+    {
+      "titulo": "Ley 39/2015: parte I. Fase de iniciación del procedimiento administrativo",
+      "url": "https://www.youtube.com/watch?v=xgM416Jr6c8",
+      "canal": "Gurú Oposiciones"
+    },
+    {
+      "titulo": "Ley 39/2015: fases de ordenación e instrucción del procedimiento administrativo",
+      "url": "https://www.youtube.com/watch?v=8y42VbxSvdw",
+      "canal": "Gurú Oposiciones"
+    },
+    {
+      "titulo": "Ley 39/2015: fase de finalización del procedimiento administrativo",
+      "url": "https://www.youtube.com/watch?v=UNXlFeoUhVo",
+      "canal": "Gurú Oposiciones"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "Ley 39/2015, del Procedimiento Administrativo Común (texto consolidado, BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+    },
+    {
+      "titulo": "Sede electrónica de la Universidad de La Laguna",
+      "url": "https://sede.ull.es"
+    },
+    {
+      "titulo": "Normativa de la Universidad de La Laguna (Secretaría General)",
+      "url": "https://www.ull.es/portal/normativa/"
+    }
+  ]
+}

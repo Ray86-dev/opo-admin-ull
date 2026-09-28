@@ -1,0 +1,203 @@
+{
+  "bloque": 3,
+  "titulo": "Retribuciones del PDI: quinquenios, sexenios, cargos académicos y complementos autonómicos",
+  "temas": ["3-04"],
+  "enunciado": "La **Sección de Retribuciones del PDI** de la Universidad de La Laguna estudia varios casos en el otoño de 2026.\n\n**a) Elena Martín Febles.**\n\n- Fue Profesora Titular de Universidad desde 2008 y es **Catedrática de Universidad** desde 2019, a tiempo completo.\n- Tiene cuatro evaluaciones docentes positivas (quinquenios) y tres periodos de investigación reconocidos (sexenios), algunos obtenidos cuando era Profesora Titular.\n- Es **Decana** de la Facultad de Farmacia.\n\n**b) Javier Luis Toledo.**\n\n- Profesor Titular de Universidad a tiempo completo y **Director de Departamento**.\n- En la convocatoria de evaluación de la actividad investigadora publicada en diciembre de 2025 solicitó un nuevo sexenio. La resolución favorable de la Comisión Nacional se le notificó el martes 7 de julio de 2026.\n- El jueves 15 de octubre de 2026 cumple un nuevo período de cinco años de actividad docente.\n\n**c) Coordinadora de Máster.** La profesora **Irene Díaz Cruz** coordina un Máster Universitario. La ULL ha establecido ese cargo en su normativa, pero no figura en la lista del RD 1086/1989.\n\n**d) Profesor interino.** El profesor **Samuel Hernández Rojas** presta servicios a tiempo completo como funcionario de empleo interino de un cuerpo docente universitario.\n\n**e) Profesor emérito.** El catedrático **Manuel Brito Acosta** se jubiló el miércoles 30 de septiembre de 2026, y la ULL quiere contratarlo como profesor emérito.\n\n**f) Complementos autonómicos.** La profesora asociada **Rosa Delgado Cabrera**, a tiempo parcial, quiere pedir los complementos retributivos autonómicos del **Decreto 140/2002**, entre ellos el de méritos investigadores. El profesor contratado doctor **Ignacio Pérez Gil** pasó un año en situación de servicios especiales dentro del período que somete a evaluación.\n\nResponde aplicando el RD 1086/1989 (retribuciones del profesorado universitario), la LOSU, la Ley 11/2003, el Decreto 140/2002 y las Bases de Ejecución del Presupuesto de la ULL 2026 (BEP-ULL).",
+  "preguntas": [
+    {
+      "enunciado": "Según el RD 1086/1989, ¿qué grupo de clasificación y qué nivel de complemento de destino corresponden a Elena como Catedrática de Universidad?",
+      "opciones": [
+        "Grupo A, nivel 29.",
+        "Grupo A, nivel 27.",
+        "Grupo A, nivel 30.",
+        "Grupo A, nivel 26."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 2.2 RD 1086/1989 asigna a los Catedráticos de Universidad el grupo A y el nivel 29 de complemento de destino. A los Profesores Titulares de Universidad y Catedráticos de Escuela Universitaria les asigna el grupo A y el nivel 27, y a los Titulares de Escuela Universitaria, el nivel 26. Sueldo, trienios, pagas extraordinarias y complemento de destino son los de los funcionarios del Estado incluidos en la Ley 30/1984.",
+      "ref": "art. 2.2 RD 1086/1989",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El complemento específico de Elena resulta de sumar varios componentes. ¿Cuál de los siguientes NO forma parte del complemento específico según el RD 1086/1989?",
+      "opciones": [
+        "El componente general, según el cuerpo.",
+        "El componente singular, por el desempeño del cargo de Decana.",
+        "El componente por méritos docentes (quinquenios).",
+        "El componente por los períodos de actividad investigadora evaluados positivamente (sexenios)."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 2.3 RD 1086/1989 establece que el complemento específico suma tres componentes: a) general, b) singular por cargos académicos y c) por méritos docentes (quinquenios). Los sexenios no forman parte del complemento específico: la evaluación positiva de la actividad investigadora da lugar al complemento de productividad (art. 2.4).",
+      "ref": "art. 2.3 y 2.4 RD 1086/1989",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sobre las evaluaciones docentes (quinquenios) de Elena, señala la afirmación correcta:",
+      "opciones": [
+        "Las realiza la Comisión Nacional de la ANECA y pueden calificarse como favorables, desfavorables o favorables con condiciones.",
+        "Las realiza la Universidad en la que presta servicios, solo pueden calificarse como favorables o no favorables, y la cuantía anual por este componente no puede superar la que resulta de seis evaluaciones favorables.",
+        "Se realizan cada seis años y no tienen límite de número.",
+        "Se pierden al cambiar de cuerpo, por lo que Elena empezó de cero como Catedrática."
+      ],
+      "correcta": 1,
+      "explicacion": "Según el art. 2.3.c) RD 1086/1989, el profesorado puede someter cada cinco años su actividad docente a una evaluación ante la Universidad en la que presta servicios. Esa evaluación «sólo podrá ser objeto de dos calificaciones, favorable o no favorable». El art. 2.5.9 establece que la cuantía anual del componente por méritos docentes no puede superar la de seis evaluaciones favorables. Los sexenios los evalúa la Comisión Nacional en la ANECA y son cada seis años (art. 2.4).",
+      "ref": "art. 2.3.c) y 2.5.9 RD 1086/1989",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Desde qué fecha tienen efectos económicos el nuevo sexenio de Javier (convocatoria de diciembre de 2025, resolución notificada el 7 de julio de 2026)?",
+      "opciones": [
+        "Desde el 7 de julio de 2026, fecha de la notificación.",
+        "Desde el 1 de enero de 2027.",
+        "Desde el 1 de enero de 2026, año siguiente a aquel en que se hizo la convocatoria, aunque la evaluación sea posterior.",
+        "Desde el día siguiente a la publicación de la convocatoria."
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 2.5.6 RD 1086/1989 dispone que las evaluaciones de la Comisión Nacional se hacen una vez al año y que los efectos económicos «se iniciarán el 1 de enero del año siguiente a aquel en que se haya realizado la convocatoria, aun cuando la evaluación se efectúe con posterioridad a dicha fecha». La convocatoria es de diciembre de 2025, así que los efectos empiezan el 1 de enero de 2026, con los atrasos que correspondan. Los atrasos del personal se aplican al presupuesto vigente cuando se expiden las órdenes de pago (art. 8 BEP-ULL).",
+      "ref": "art. 2.5.6 RD 1086/1989",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Javier cumple su nuevo período de cinco años de docencia el 15 de octubre de 2026. ¿Hasta cuándo puede solicitar la evaluación a la Universidad y desde cuándo tendría efectos económicos si es favorable?",
+      "opciones": [
+        "Antes del 31 de diciembre de 2026; efectos desde el 1 de enero de 2027, aunque la evaluación se haga después.",
+        "En el mes siguiente al cumplimiento; efectos desde el 15 de octubre de 2026.",
+        "Antes del 31 de marzo de 2027; efectos desde la resolución.",
+        "En cualquier momento; efectos desde el 1 de enero de 2026."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 2.5.6 RD 1086/1989 dispone que las evaluaciones de cada Universidad se hacen una vez al año. Los interesados deben solicitarlas antes del 31 de diciembre del año en que se cumpla el período a evaluar, y los efectos económicos empiezan el 1 de enero del año siguiente, aunque la evaluación se haga después. Como el período se cumple en 2026, debe solicitarla antes del 31/12/2026, con efectos desde el 1/1/2027.",
+      "ref": "art. 2.5.6 RD 1086/1989",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Elena obtuvo quinquenios y sexenios cuando era Profesora Titular. Al pasar a Catedrática, según el RD 1086/1989:",
+      "opciones": [
+        "Pierde todos los quinquenios y sexenios anteriores.",
+        "Conserva los sexenios, pero pierde los quinquenios.",
+        "Conserva el componente por méritos docentes adquirido y se le acumulan los que obtenga después; conserva el complemento de productividad del cuerpo anterior hasta que pasen seis años desde que lo obtuvo.",
+        "Conserva los quinquenios, pero los sexenios se recalculan desde cero en el nuevo cuerpo."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el art. 2.3.c) RD 1086/1989, quien cambia de cuerpo conserva en el nuevo el componente por méritos docentes adquirido, al que se acumula el que obtenga en evaluaciones posteriores. Para la productividad, el art. 2.4.5 establece que se conserva la asignada en el cuerpo anterior hasta que pasen seis años desde su obtención, y después se aplica el art. 2.4.4. Además, la fracción de tiempo transcurrida antes del cambio cuenta como servicios en el nuevo cuerpo (art. 2.5.3).",
+      "ref": "art. 2.3.c), 2.4.5 y 2.5.3 RD 1086/1989",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La coordinación de Máster de Irene es un cargo que la ULL ha establecido en su normativa, pero no figura en el RD 1086/1989. ¿Cómo se retribuye?",
+      "opciones": [
+        "No puede retribuirse, porque solo se pagan los cargos del RD 1086/1989.",
+        "Con un complemento de productividad que fija libremente el Decanato.",
+        "Con una gratificación por servicios extraordinarios cada mes.",
+        "La Universidad debe asimilar ese cargo, a efectos retributivos, a alguno de los cargos académicos del RD 1086/1989 para asignarle el componente singular del complemento específico."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 2.3.b) RD 1086/1989 fija el componente singular del complemento específico para los cargos académicos que enumera: Rector, Vicerrector y Secretario General, Decano, Vicedecano, Director y Secretario de Departamento, Director de Instituto… Añade que «los cargos académicos específicos que las Universidades hayan establecido en sus Estatutos deberán ser asimilados por éstas, a efectos retributivos, a los que se recogen en este apartado». Además, el Consejo Social aprueba, a propuesta del Rector, el límite anual de gasto para retribuciones de órganos unipersonales de gobierno o asimilados (art. 3 ter.1.n Ley 11/2003).",
+      "ref": "art. 2.3.b) RD 1086/1989; art. 3 ter.1.n) Ley 11/2003",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cómo se retribuye al profesor Samuel Hernández, funcionario de empleo interino a tiempo completo, según el RD 1086/1989?",
+      "opciones": [
+        "Igual que un funcionario de carrera del cuerpo, incluidos quinquenios y sexenios.",
+        "Con el 85 % del sueldo, el complemento de destino y el componente general del complemento específico, excluidos los trienios; con el 100 % del componente singular si desempeña un cargo académico; y sin componente por méritos docentes ni complemento de productividad.",
+        "Con el 75 % de todas las retribuciones, trienios incluidos.",
+        "Solo con el sueldo y las pagas extraordinarias."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 4.1 RD 1086/1989 fija las retribuciones del funcionario de empleo interino a tiempo completo en el 85 % de las del art. 2, apartados 2 y 3.a) (sueldo, pagas, complemento de destino y componente general), excluidos los trienios, y en el 100 % del componente singular si desempeña un cargo académico. El art. 4.2 excluye el componente por méritos docentes y el complemento de productividad. Esos servicios sí se computarán si más adelante accede como funcionario de carrera (art. 2.5.2).",
+      "ref": "art. 4 RD 1086/1989",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué remuneración percibirá en 2026 el profesor Brito si se le contrata como emérito?",
+      "opciones": [
+        "La de un profesor asociado a tiempo parcial de 3 horas semanales, compatible con su pensión de jubilación, sin que la suma supere el límite de la legislación aplicable (retribución del cuerpo con diez trienios, cinco quinquenios y cinco sexenios).",
+        "La misma retribución que tenía como Catedrático en activo, incompatible con la pensión.",
+        "Una retribución libre que fija el Consejo de Gobierno, sin límite.",
+        "Ninguna, porque el emérito es un cargo honorífico sin retribución."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 24 BEP-ULL establece que el profesorado emérito percibe en 2026 una remuneración, compatible con su pensión de jubilación, equivalente a la de un profesor asociado a tiempo parcial de 3 horas semanales. La suma no puede superar el límite retributivo máximo de la legislación aplicable. El art. 6 RD 1086/1989 fija ese límite: la suma de retribución y pensión no puede superar la retribución anual del cuerpo al que pertenecía, a tiempo completo, con diez trienios, cinco evaluaciones docentes positivas y cinco de investigación.",
+      "ref": "art. 24 BEP-ULL; art. 6 RD 1086/1989",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué órgano asigna a cada profesor los complementos retributivos autonómicos del Decreto 140/2002, y con qué requisito previo?",
+      "opciones": [
+        "El Rector, previo informe de la Gerencia.",
+        "La consejería competente en universidades del Gobierno de Canarias, sin intervención de la Universidad.",
+        "El Consejo de Gobierno, previo informe del Consejo Social.",
+        "El Consejo Social, a propuesta del Consejo de Gobierno, previa valoración positiva de los méritos por la agencia canaria de evaluación de la calidad universitaria."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 9.1 y 9.2 del Decreto 140/2002 establece que los Consejos Sociales, a propuesta de sus Consejos de Gobierno, pueden acordar la asignación singular e individual de complementos al PDI, previa valoración positiva de los méritos por la Agencia Canaria de Evaluación de la Calidad y Acreditación Universitaria. Lo mismo resulta de los arts. 76.3 y 87.2 LOSU y del art. 3 bis.a) de la Ley 11/2003.",
+      "ref": "art. 9 Decreto 140/2002; arts. 76.3 y 87.2 LOSU; art. 3 bis.a) Ley 11/2003",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La profesora asociada Rosa Delgado, a tiempo parcial, ¿puede pedir el complemento autonómico por méritos investigadores?",
+      "opciones": [
+        "Sí, porque todos los profesores pueden pedir los tres complementos.",
+        "No, porque solo pueden pedirlo los profesores con dedicación a tiempo completo; en cambio, como profesora asociada, sí puede pedir el complemento por méritos docentes y el de servicios institucionales.",
+        "No, porque los profesores asociados no pueden pedir ningún complemento autonómico.",
+        "Sí, pero solo si es doctora."
+      ],
+      "correcta": 1,
+      "explicacion": "Según el art. 15.2 del Decreto 140/2002, solo pueden solicitar el complemento por méritos investigadores los profesores con dedicación a tiempo completo. En cambio, los arts. 10.2 y 19.2 permiten solicitar el complemento por méritos docentes y el de servicios institucionales a los profesores asociados, ayudantes doctores, colaboradores, contratados doctores y miembros de los cuerpos docentes universitarios.",
+      "ref": "arts. 10.2, 15.2 y 19.2 Decreto 140/2002",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cada cuánto tiempo se evalúan los complementos autonómicos del Decreto 140/2002?",
+      "opciones": [
+        "Méritos docentes, cada 5 años; méritos investigadores, cada 6; servicios institucionales, cada 4.",
+        "Los tres, cada 6 años.",
+        "Méritos docentes, cada 4 años; méritos investigadores, cada 6; servicios institucionales, cada 4.",
+        "Los tres, cada 4 años."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el Decreto 140/2002, el complemento por méritos docentes se evalúa por períodos de cuatro años (art. 14), el de méritos investigadores por períodos de seis años (art. 18) y el de servicios institucionales por períodos de cuatro años (art. 22). No lo confundas con los quinquenios estatales, que son de cinco años (RD 1086/1989). Cada complemento tiene tres tramos (art. 9.3).",
+      "ref": "arts. 9.3, 14, 18 y 22 Decreto 140/2002",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Elena obtiene el primer tramo del complemento autonómico por méritos docentes. Según el Decreto 140/2002, ¿entre qué cuantías oscila el importe de cada tramo de este complemento?",
+      "opciones": [
+        "Entre 1.200 y 1.600 euros por tramo.",
+        "Entre 800 y 1.100 euros por tramo.",
+        "Entre 500 y 600 euros por tramo.",
+        "Entre 1.600 y 2.000 euros por tramo."
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 13.3 del Decreto 140/2002 dispone que el importe del complemento por méritos docentes oscila entre 1.200 y 1.600 euros por tramo. El de méritos investigadores está entre 800 y 1.100 euros por tramo (art. 17.3), y el de servicios institucionales entre 500 y 600 euros (art. 21.3). Estas cuantías pueden actualizarse por las Leyes de Presupuestos de Canarias (disposición adicional primera), y su financiación depende de los créditos de los contratos-programa o instrumentos similares (art. 9.4).",
+      "ref": "arts. 13.3, 17.3 y 21.3 Decreto 140/2002",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Ignacio Pérez estuvo un año en servicios especiales dentro del período que se evalúa. ¿Afecta eso a su derecho a los complementos del Decreto 140/2002?",
+      "opciones": [
+        "Sí, porque se exige haber prestado servicios efectivos todo el período, sin interrupciones.",
+        "Sí, porque el período debe empezar a contarse de nuevo desde su reincorporación.",
+        "No, porque para los complementos autonómicos no se exige ninguna vinculación con la Universidad.",
+        "No, porque se exige haber mantenido vinculación contractual o funcionarial con las universidades canarias durante todo el período, sin tener en cuenta las interrupciones por comisiones de servicios, servicios especiales y situaciones análogas."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 9.6 del Decreto 140/2002 exige, para disfrutar de los complementos, haber mantenido vinculación contractual o funcionarial con las universidades canarias durante todo el período evaluado, y precisa que no se tendrán en cuenta las interrupciones por comisiones de servicios, servicios especiales y situaciones análogas. Por tanto, el año en servicios especiales no le perjudica.",
+      "ref": "art. 9.6 Decreto 140/2002",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para liquidar los créditos autonómicos de 2025 destinados a cofinanciar los complementos de calidad del PDI, ¿qué debía remitir la ULL, a quién y antes de qué fecha, según las BEP-ULL 2026?",
+      "opciones": [
+        "La memoria de actividades del PDI, a la ANECA, antes del 30 de junio de 2026.",
+        "Una relación del profesorado, los tipos de complementos asignados y abonados a cada uno y su importe, a la Consejería de Universidades, Ciencia e Innovación y Cultura, a través del Consejo Social, antes del 31 de marzo de 2026.",
+        "El anexo de personal del presupuesto, a la Dirección General de Universidades, antes del 20 de junio de 2026.",
+        "Las nóminas de 2025, a la Intervención, antes del 31 de enero de 2026."
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 3 BEP-ULL dispone que la ULL remitirá a la Consejería de Universidades, Ciencia e Innovación y Cultura, a través del Consejo Social, una relación del profesorado, los tipos de complementos asignados y abonados a cada uno y su importe, antes del 31 de marzo de 2026, para liquidar los créditos librados en 2025. Esos créditos (línea 174G1654) se libran por doceavas partes al comienzo de cada mes natural. La fecha del 20 de junio es la de remisión de la liquidación del presupuesto a la Dirección General de Universidades e Investigación.",
+      "ref": "art. 3 BEP-ULL",
+      "dificultad": 3
+    }
+  ]
+}

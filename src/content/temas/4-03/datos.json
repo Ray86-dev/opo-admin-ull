@@ -1,0 +1,1266 @@
+{
+  "claves": [
+    "El estudiantado se regula en el título VIII de la LOSU (arts. 31-37), que incorpora a rango de ley orgánica el estatuto del estudiantado, antes desarrollado en el RD 1791/2010, que sigue vigente en lo compatible.",
+    "Las universidades reservan al menos el 5 % de las plazas de Grado, Máster y Doctorado para estudiantes con discapacidad.",
+    "La LOSU reconoce el derecho subjetivo a las becas, concedidas prioritariamente por criterios socioeconómicos y teniendo en cuenta la insularidad; discapacidad y violencia de género dan derecho a bonificación total de la matrícula.",
+    "El paro académico es un derecho del estudiantado que declara su órgano de representación y puede ser total o parcial.",
+    "La Ley 3/2022 de convivencia universitaria prioriza la mediación, crea comisiones de convivencia paritarias y atribuye la potestad disciplinaria sobre el estudiantado al Rector.",
+    "El PDI está formado por los cuerpos docentes (Catedráticos y Titulares de Universidad) y el profesorado laboral; los funcionarios deben ser mayoría en equivalencias a tiempo completo.",
+    "El profesorado laboral temporal no puede superar el 8 % en efectivos, sin computar asociados de Ciencias de la Salud ni ayudantes doctores (con la LOU el límite era el 40 %).",
+    "Los concursos de acceso a cuerpos docentes valoran de forma análoga docencia e investigación, con comisiones de mayoría externa elegida por sorteo y una reserva mínima del 15 % para investigadores I3 o R3.",
+    "El profesorado funcionario a tiempo completo imparte entre 120 y 240 horas lectivas por curso; Ayudantes Doctores y Distinguidos, hasta 180; Asociados, hasta 120.",
+    "El Ayudante Doctor es temporal y a tiempo completo, dura 6 años (8 con discapacidad) y no exige acreditación; el Permanente Laboral es fijo y exige Doctorado y acreditación.",
+    "El Asociado es ahora indefinido y a tiempo parcial, para profesionales con actividad principal fuera de la universidad; el Visitante dura como máximo 2 años.",
+    "El PTGAS (antes PAS) es funcionario y laboral; el funcionario se rige por la LOSU, el TREBEP y los pactos del art. 38 TREBEP, y el laboral además por el ET y los convenios.",
+    "La LOSU introduce la carrera horizontal del PTGAS (progresión sin cambiar de puesto, con evaluación del desempeño) junto a la vertical.",
+    "Las convocatorias de PTGAS se publican en el BOE y en el diario autonómico; la provisión es por concurso y la libre designación solo cabe para puestos funcionariales por la naturaleza de sus funciones.",
+    "En la ULL la Escala Administrativa es del subgrupo C1; la OEP la aprueba el Consejo de Gobierno a propuesta de la Gerencia y el Rector convoca y nombra los tribunales."
+  ],
+  "plazos": [
+    {
+      "concepto": "Reserva de plazas para estudiantes con discapacidad",
+      "valor": "Al menos 5 % en Grado, Máster Universitario y Doctorado",
+      "ref": "art. 31.4 LOSU"
+    },
+    {
+      "concepto": "Bonificación de matrícula para estudiantes con discapacidad y víctimas de violencia de género",
+      "valor": "Total",
+      "ref": "art. 32.6 LOSU"
+    },
+    {
+      "concepto": "Límite de PDI con contrato laboral temporal",
+      "valor": "8 % en efectivos (sin asociados de Ciencias de la Salud ni ayudantes doctores)",
+      "ref": "art. 64.3 LOSU"
+    },
+    {
+      "concepto": "Límite anterior de PDI temporal con la LOU",
+      "valor": "40 %",
+      "ref": "Preámbulo LOSU"
+    },
+    {
+      "concepto": "Reserva anual de plazas para investigadores I3 o R3",
+      "valor": "Mínimo 15 %",
+      "ref": "art. 71.1.c LOSU"
+    },
+    {
+      "concepto": "Servicios efectivos mínimos para la promoción interna del PDI",
+      "valor": "2 años en el puesto de origen",
+      "ref": "art. 71.2 LOSU"
+    },
+    {
+      "concepto": "Concursos de movilidad del profesorado",
+      "valor": "2 años en el puesto de origen; 2 años en la plaza obtenida antes de concursar de nuevo",
+      "ref": "art. 72 LOSU"
+    },
+    {
+      "concepto": "Horas lectivas del profesorado funcionario a tiempo completo",
+      "valor": "Mínimo 120 y máximo 240 por curso académico",
+      "ref": "art. 75.2 LOSU"
+    },
+    {
+      "concepto": "Duración del contrato de Ayudante Doctor",
+      "valor": "6 años (hasta 8 con discapacidad)",
+      "ref": "art. 78 LOSU"
+    },
+    {
+      "concepto": "Evaluación orientativa del Ayudante Doctor",
+      "valor": "Transcurridos los 3 primeros años",
+      "ref": "art. 78.e LOSU"
+    },
+    {
+      "concepto": "Curso de formación docente inicial del Ayudante Doctor",
+      "valor": "En el primer año de contrato",
+      "ref": "art. 78.b LOSU"
+    },
+    {
+      "concepto": "Horas lectivas máximas del Ayudante Doctor",
+      "valor": "180 por curso",
+      "ref": "art. 78.c LOSU"
+    },
+    {
+      "concepto": "Horas lectivas máximas del Profesor Asociado",
+      "valor": "120 por curso",
+      "ref": "art. 79.b LOSU"
+    },
+    {
+      "concepto": "Duración máxima del contrato de Profesor Visitante",
+      "valor": "2 años, improrrogable y no renovable",
+      "ref": "art. 83.c LOSU"
+    },
+    {
+      "concepto": "Horas lectivas máximas del Profesor Distinguido",
+      "valor": "180 por curso",
+      "ref": "art. 84.b LOSU"
+    },
+    {
+      "concepto": "Proyecto de Ley del Estatuto del PDI",
+      "valor": "6 meses desde la entrada en vigor",
+      "ref": "DF 10.ª LOSU"
+    },
+    {
+      "concepto": "Prórroga de Ayudantes Doctores sin acreditación a Permanente Laboral",
+      "valor": "1 año adicional",
+      "ref": "DT 5.ª.2 LOSU"
+    },
+    {
+      "concepto": "Estabilización de plazas de Profesores Asociados",
+      "valor": "Antes del 31 de diciembre de 2024",
+      "ref": "DT 7.ª LOSU"
+    },
+    {
+      "concepto": "Umbral de la DT 8.ª (mecanismos de adaptación)",
+      "valor": "Más del 20 % de la plantilla docente con contratos temporales",
+      "ref": "DT 8.ª LOSU"
+    },
+    {
+      "concepto": "Mérito preferente para Ayudante Doctor en la DT 8.ª",
+      "valor": "Al menos 5 cursos académicos de los últimos 7",
+      "ref": "DT 8.ª LOSU"
+    },
+    {
+      "concepto": "Estabilización de plazas de PTGAS",
+      "valor": "Antes del 31 de diciembre de 2024 (concurso o concurso-oposición)",
+      "ref": "DT 9.ª LOSU"
+    },
+    {
+      "concepto": "Plazo máximo de las medidas de las DT 7.ª y 12.ª",
+      "valor": "Final del curso 2027-2028 (junio de 2028)",
+      "ref": "DT 9.ª bis LOSU"
+    },
+    {
+      "concepto": "Convocatorias de PDI que pueden regirse por la normativa anterior",
+      "valor": "Publicadas antes del 31 de diciembre de 2023",
+      "ref": "DT 11.ª LOSU"
+    },
+    {
+      "concepto": "Aplicación del nuevo régimen de dedicación del PDI permanente",
+      "valor": "Desde el curso 2024-2025",
+      "ref": "DT 12.ª LOSU"
+    },
+    {
+      "concepto": "Excedencia del personal permanente para empresas basadas en el conocimiento",
+      "valor": "Máximo 5 años",
+      "ref": "art. 61.3 LOSU"
+    },
+    {
+      "concepto": "Ley 3/2022: expulsión por falta muy grave",
+      "valor": "De 2 meses a 3 años",
+      "ref": "art. 14 Ley 3/2022"
+    },
+    {
+      "concepto": "Ley 3/2022: expulsión por falta grave",
+      "valor": "Hasta 1 mes",
+      "ref": "art. 14 Ley 3/2022"
+    },
+    {
+      "concepto": "Ley 3/2022: prescripción de faltas",
+      "valor": "Muy graves 3 años; graves 2 años; leves 6 meses",
+      "ref": "art. 17 Ley 3/2022"
+    },
+    {
+      "concepto": "ULL: evaluaciones y convocatorias oficiales",
+      "valor": "3 evaluaciones en 2 convocatorias, antes de finalizar julio",
+      "ref": "art. 101.2 EULL"
+    },
+    {
+      "concepto": "ULL: garantía del representante estudiantil",
+      "valor": "Durante el mandato y 1 año después",
+      "ref": "art. 107 EULL"
+    },
+    {
+      "concepto": "ULL: comisión de reclamaciones de concursos a cuerpos docentes",
+      "valor": "7 Catedráticos; mandato de 3 años prorrogable una vez; resolución en 3 meses",
+      "ref": "art. 84 EULL"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Estatuto del Estudiante Universitario",
+      "definicion": "Real Decreto 1791/2010, de 30 de diciembre, que desarrolla los derechos y deberes del estudiantado; hoy complementa el título VIII de la LOSU."
+    },
+    {
+      "termino": "Paro académico",
+      "definicion": "Derecho del estudiantado, total o parcial, declarado por su órgano de representación, respetando el derecho a la educación (art. 33.p LOSU)."
+    },
+    {
+      "termino": "Beca como derecho subjetivo",
+      "definicion": "Derecho del estudiantado a acceder a becas y ayudas siempre que cumpla los requisitos de sus normas reguladoras (art. 32.1 LOSU)."
+    },
+    {
+      "termino": "Comisión de Convivencia",
+      "definicion": "Órgano paritario de estudiantado, PDI y PTGAS previsto en la Ley 3/2022 para gestionar la convivencia y la mediación."
+    },
+    {
+      "termino": "Cuerpos docentes universitarios",
+      "definicion": "Catedráticos de Universidad y Profesores Titulares de Universidad, con plena capacidad docente e investigadora (art. 68 LOSU)."
+    },
+    {
+      "termino": "Profesor Ayudante Doctor",
+      "definicion": "Figura laboral temporal y a tiempo completo para doctores sin acreditación, de seis años, de entrada en la carrera académica (art. 78 LOSU)."
+    },
+    {
+      "termino": "Profesor Permanente Laboral",
+      "definicion": "Figura laboral fija e indefinida para doctores acreditados, con derechos y deberes académicos comparables al funcionario (art. 82 LOSU)."
+    },
+    {
+      "termino": "Profesor Asociado",
+      "definicion": "Especialista con actividad principal fuera de la universidad, con contrato indefinido a tiempo parcial y hasta 120 horas lectivas (art. 79 LOSU)."
+    },
+    {
+      "termino": "Profesor Sustituto",
+      "definicion": "Contratado para sustituir a PDI con derecho a reserva de puesto, por el tiempo que dure la causa (art. 80 LOSU)."
+    },
+    {
+      "termino": "Profesor Emérito",
+      "definicion": "PDI jubilado con servicios destacados en la misma universidad, nombrado según sus Estatutos; no se da de alta en el Régimen General (art. 81 y DA 12.ª LOSU)."
+    },
+    {
+      "termino": "Profesor Visitante",
+      "definicion": "Docente o investigador de otra universidad o centro, contratado por un máximo de dos años improrrogables (art. 83 LOSU)."
+    },
+    {
+      "termino": "Profesor Distinguido",
+      "definicion": "Docente o investigador con carrera en el extranjero y excelencia reconocida internacionalmente, con el régimen del investigador distinguido de la LCTI (art. 84 LOSU)."
+    },
+    {
+      "termino": "Equivalencia a tiempo completo",
+      "definicion": "Forma de cómputo de la mayoría de profesorado funcionario, frente al cómputo en efectivos del límite del 8 % de temporales (art. 64.3 LOSU)."
+    },
+    {
+      "termino": "PTGAS",
+      "definicion": "Personal técnico, de gestión y de administración y servicios, funcionario y laboral, antes denominado PAS (art. 89 LOSU)."
+    },
+    {
+      "termino": "Carrera horizontal",
+      "definicion": "Progresión del PTGAS de grado, categoría, escala o nivel sin cambiar de puesto, atendiendo a la evaluación del desempeño (art. 90.2 LOSU)."
+    },
+    {
+      "termino": "Libre designación",
+      "definicion": "Sistema excepcional de provisión, solo para puestos de personal funcionario que determine la universidad por la naturaleza de sus funciones (art. 92.3 LOSU)."
+    },
+    {
+      "termino": "Relación de Puestos de Trabajo",
+      "definicion": "Instrumento que ordena los puestos del personal; en la ULL la elabora la Gerencia previa negociación y la aprueba el Consejo de Gobierno (art. 94 EULL)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Horas: 120, 180, 240",
+      "texto": "Asociado hasta 120; Ayudante Doctor y Distinguido hasta 180; funcionario entre 120 y 240."
+    },
+    {
+      "titulo": "Duraciones: 6-8, 2, siempre",
+      "texto": "Ayudante Doctor 6 años (8 con discapacidad); Visitante 2 años; Asociado y Permanente Laboral, indefinidos."
+    },
+    {
+      "titulo": "Del 40 al 8",
+      "texto": "El límite de PDI temporal cae del 40 % (LOU) al 8 % (LOSU), sin contar asociados de Ciencias de la Salud ni ayudantes doctores."
+    },
+    {
+      "titulo": "Cinco para discapacidad, quince para investigadores",
+      "texto": "5 % de plazas de estudio para estudiantes con discapacidad; 15 % de plazas de profesorado para investigadores I3 o R3."
+    },
+    {
+      "titulo": "Deberes P-R-O-R-E",
+      "texto": "Participar, Respetar la normativa, Observar directrices, Respetar a las personas, Ejercer la representación."
+    },
+    {
+      "titulo": "Horizontal sin moverse",
+      "texto": "Carrera horizontal: subir de nivel sin cambiar de puesto. Carrera vertical: cambiar a un puesto superior."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿En qué título de la LOSU se regula el estudiantado?",
+      "reverso": "En el título VIII (arts. 31 a 37).",
+      "ref": "LOSU"
+    },
+    {
+      "frente": "¿Qué real decreto aprobó el Estatuto del Estudiante Universitario?",
+      "reverso": "El RD 1791/2010, de 30 de diciembre.",
+      "ref": "art. 33 LOSU"
+    },
+    {
+      "frente": "Reserva de plazas para estudiantes con discapacidad",
+      "reverso": "Al menos el 5 % de las plazas de Grado, Máster y Doctorado.",
+      "ref": "art. 31.4 LOSU"
+    },
+    {
+      "frente": "¿A qué criterios responde prioritariamente la concesión de becas?",
+      "reverso": "A criterios socioeconómicos; se tienen en cuenta la insularidad y la distancia a la península.",
+      "ref": "art. 32.4 LOSU"
+    },
+    {
+      "frente": "¿Quién tiene bonificación total de los servicios académicos de matrícula?",
+      "reverso": "El estudiantado con discapacidad y las víctimas de violencia de género y otras formas de violencia contra la mujer.",
+      "ref": "art. 32.6 LOSU"
+    },
+    {
+      "frente": "¿Quién declara el paro académico?",
+      "reverso": "El órgano de representación del estudiantado; puede ser total o parcial.",
+      "ref": "art. 33.p LOSU"
+    },
+    {
+      "frente": "Deberes del estudiantado (art. 36)",
+      "reverso": "Participar, respetar la normativa y la convivencia, observar directrices, respetar a las personas y ejercer los cargos de representación.",
+      "ref": "art. 36 LOSU"
+    },
+    {
+      "frente": "¿Quién ejerce la potestad disciplinaria sobre el estudiantado según la Ley 3/2022?",
+      "reverso": "El Rector o la Rectora.",
+      "ref": "Ley 3/2022"
+    },
+    {
+      "frente": "Sanción por falta muy grave en la Ley 3/2022",
+      "reverso": "Expulsión de dos meses a tres años, o pérdida parcial de derechos de matrícula.",
+      "ref": "art. 14 Ley 3/2022"
+    },
+    {
+      "frente": "¿Cómo está compuesto el PDI?",
+      "reverso": "Por el profesorado de los cuerpos docentes universitarios y el profesorado laboral.",
+      "ref": "art. 64.1 LOSU"
+    },
+    {
+      "frente": "Límite de profesorado laboral temporal",
+      "reverso": "8 % en efectivos, sin computar asociados de Ciencias de la Salud ni ayudantes doctores.",
+      "ref": "art. 64.3 LOSU"
+    },
+    {
+      "frente": "¿Cómo se computa la mayoría de profesorado funcionario?",
+      "reverso": "En equivalencias a tiempo completo.",
+      "ref": "art. 64.3 LOSU"
+    },
+    {
+      "frente": "¿Cuáles son los cuerpos docentes universitarios?",
+      "reverso": "Catedráticos de Universidad y Profesores Titulares de Universidad.",
+      "ref": "art. 68 LOSU"
+    },
+    {
+      "frente": "Composición de las comisiones de selección de los concursos de acceso",
+      "reverso": "Mayoría de miembros externos elegidos por sorteo público entre profesorado de igual o superior categoría.",
+      "ref": "art. 71.1.b LOSU"
+    },
+    {
+      "frente": "Requisitos de la promoción interna del PDI",
+      "reverso": "Dos años de servicios efectivos en el puesto de origen y acreditación para la categoría; concurso de méritos.",
+      "ref": "art. 71.2 LOSU"
+    },
+    {
+      "frente": "¿Ante quién se reclama contra la propuesta de una comisión de concurso?",
+      "reverso": "Ante el Rector; una comisión emite informe vinculante y se suspenden los nombramientos.",
+      "ref": "art. 73.2 LOSU"
+    },
+    {
+      "frente": "Horquilla de horas lectivas del funcionario a tiempo completo",
+      "reverso": "Entre 120 y 240 horas por curso académico.",
+      "ref": "art. 75.2 LOSU"
+    },
+    {
+      "frente": "¿Quién valora los complementos por méritos del PDI funcionario del art. 76.2?",
+      "reverso": "La ANECA (que puede acordar con agencias autonómicas por convenio).",
+      "ref": "art. 76.2 LOSU"
+    },
+    {
+      "frente": "Duración del contrato de Ayudante Doctor",
+      "reverso": "Seis años (hasta ocho con discapacidad); evaluación orientativa a los tres años.",
+      "ref": "art. 78 LOSU"
+    },
+    {
+      "frente": "¿Exige acreditación el Ayudante Doctor?",
+      "reverso": "No; basta el título de Doctor.",
+      "ref": "art. 78.a LOSU"
+    },
+    {
+      "frente": "Carácter y dedicación del Profesor Asociado",
+      "reverso": "Indefinido y a tiempo parcial, hasta 120 horas lectivas; sin funciones estructurales de gestión.",
+      "ref": "art. 79 LOSU"
+    },
+    {
+      "frente": "¿Qué ocurre si el asociado cesa en su actividad principal?",
+      "reverso": "El contrato se extingue al concluir el curso académico en curso.",
+      "ref": "art. 79.d LOSU"
+    },
+    {
+      "frente": "Requisitos del Profesor Permanente Laboral",
+      "reverso": "Título de Doctor y acreditación de la ANECA o de la agencia autonómica.",
+      "ref": "art. 82.a LOSU"
+    },
+    {
+      "frente": "Duración del contrato de Profesor Visitante",
+      "reverso": "Máximo dos años, improrrogable y no renovable.",
+      "ref": "art. 83.c LOSU"
+    },
+    {
+      "frente": "¿Qué figuras de PDI laboral no se seleccionan por concurso público?",
+      "reverso": "Visitantes, Distinguidos, Eméritos y las modalidades de la LCTI.",
+      "ref": "art. 86.1 LOSU"
+    },
+    {
+      "frente": "¿Se da de alta en la Seguridad Social al Profesor Emérito?",
+      "reverso": "No.",
+      "ref": "DA 12.ª LOSU"
+    },
+    {
+      "frente": "Normas del PTGAS funcionario",
+      "reverso": "LOSU, TREBEP y Pactos y Acuerdos del art. 38 TREBEP, además de los Estatutos.",
+      "ref": "art. 89.3 LOSU"
+    },
+    {
+      "frente": "¿Qué es la carrera horizontal del PTGAS?",
+      "reverso": "Progresión de grado, categoría, escala o nivel sin cambiar de puesto, con evaluación del desempeño.",
+      "ref": "art. 90.2 LOSU"
+    },
+    {
+      "frente": "¿Dónde se publican las convocatorias de PTGAS?",
+      "reverso": "En el BOE y en el diario oficial de la Comunidad Autónoma.",
+      "ref": "art. 91.2 LOSU"
+    },
+    {
+      "frente": "¿Cuándo cabe la libre designación para PTGAS?",
+      "reverso": "Solo para puestos de personal funcionario que determine la universidad por la naturaleza de sus funciones.",
+      "ref": "art. 92.3 LOSU"
+    },
+    {
+      "frente": "Plazo de estabilización de plazas de PTGAS",
+      "reverso": "Antes del 31 de diciembre de 2024, por concurso o concurso-oposición.",
+      "ref": "DT 9.ª LOSU"
+    },
+    {
+      "frente": "ULL: escalas del subgrupo C1",
+      "reverso": "Escala Administrativa y Escala de Técnicos Auxiliares de Informática.",
+      "ref": "art. 91 EULL"
+    },
+    {
+      "frente": "ULL: ¿quién aprueba la OEP del PTGAS y quién convoca?",
+      "reverso": "El Consejo de Gobierno a propuesta de la Gerencia; convoca el Rector.",
+      "ref": "art. 95 EULL"
+    },
+    {
+      "frente": "ULL: ¿quién preside la Comisión de Formación del PTGAS?",
+      "reverso": "La Gerencia; es paritaria.",
+      "ref": "art. 97 EULL"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "El estudiantado en el sistema universitario se regula en la LOSU en su:",
+      "opciones": [
+        "Título IX, capítulo IV",
+        "Título VI",
+        "Título VIII",
+        "Título V"
+      ],
+      "correcta": 2,
+      "explicacion": "El título VIII (arts. 31 a 37). El título VI es Universidad, sociedad y cultura; el IX, capítulo IV, el PDI; el V, la cooperación y coordinación.",
+      "ref": "LOSU, título VIII",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El Estatuto del Estudiante Universitario fue aprobado por:",
+      "opciones": [
+        "El Real Decreto 1791/2010, de 30 de diciembre",
+        "La Ley 3/2022, de 24 de febrero",
+        "El Real Decreto 822/2021, de 28 de septiembre",
+        "El Real Decreto 99/2011, de 28 de enero"
+      ],
+      "correcta": 0,
+      "explicacion": "El RD 1791/2010 aprobó el Estatuto del Estudiante Universitario, al que remite el art. 33 LOSU.",
+      "ref": "art. 33 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las normas básicas para el acceso a las enseñanzas universitarias oficiales las establece el Gobierno mediante real decreto, previo informe de:",
+      "opciones": [
+        "El Consejo de Estado exclusivamente",
+        "El Consejo de Universidades y la ANECA",
+        "Las Comunidades Autónomas y la CRUE",
+        "La Conferencia General de Política Universitaria y el Consejo de Estudiantes Universitario"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 31.2 LOSU.",
+      "ref": "art. 31.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las universidades reservarán para estudiantes con discapacidad, en los títulos oficiales de Grado, Máster y Doctorado, al menos:",
+      "opciones": [
+        "El 3 por ciento de las plazas ofertadas",
+        "El 5 por ciento de las plazas ofertadas",
+        "El 7 por ciento de las plazas ofertadas",
+        "El 10 por ciento de las plazas ofertadas"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 31.4 LOSU: al menos un 5 %.",
+      "ref": "art. 31.4 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La oferta de enseñanzas que programan las Comunidades Autónomas se comunica para su estudio y aprobación a:",
+      "opciones": [
+        "El Consejo de Universidades",
+        "La Conferencia General de Política Universitaria",
+        "El Ministerio de Universidades",
+        "El Consejo de Estudiantes Universitario del Estado"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 31.4 LOSU; el Ministerio le da publicidad.",
+      "ref": "art. 31.4 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 32.1 LOSU, el acceso a becas y ayudas al estudio se configura como:",
+      "opciones": [
+        "Un derecho condicionado al rendimiento académico excelente",
+        "Una potestad discrecional de la Administración",
+        "Un derecho exclusivo del estudiantado de Grado",
+        "Un derecho subjetivo del estudiantado, siempre que cumpla los requisitos de sus normas reguladoras"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 32.1 LOSU; es una de las novedades destacadas por el preámbulo.",
+      "ref": "art. 32.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La concesión de las becas y ayudas del sistema general responderá prioritaria y fundamentalmente a criterios:",
+      "opciones": [
+        "Socioeconómicos",
+        "Académicos",
+        "De residencia",
+        "De nacionalidad"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 32.4 LOSU, sin perjuicio de criterios académicos y otros.",
+      "ref": "art. 32.4 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En la concesión de becas, el art. 32.4 LOSU obliga a tener en cuenta en particular:",
+      "opciones": [
+        "El número de matrículas de honor",
+        "La lengua materna del solicitante",
+        "La distancia al territorio peninsular, la insularidad y la necesidad de traslado entre islas",
+        "La antigüedad de la familia en la Comunidad Autónoma"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 32.4, párrafo segundo, LOSU.",
+      "ref": "art. 32.4 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Tendrán derecho a una bonificación total por los servicios académicos universitarios liquidados en la matrícula:",
+      "opciones": [
+        "El estudiantado residente en islas no capitalinas",
+        "Todo el estudiantado de familias numerosas",
+        "El estudiantado con matrícula de honor en el curso anterior",
+        "El estudiantado con discapacidad y las víctimas de violencia de género y otras formas de violencia contra la mujer"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 32.6 LOSU.",
+      "ref": "art. 32.6 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 33.d) LOSU, el estudiantado tiene derecho a ser informado de las modalidades presencial, virtual o híbrida de la docencia y la evaluación:",
+      "opciones": [
+        "Al inicio de cada cuatrimestre",
+        "Previamente al periodo de matriculación",
+        "Antes de cada examen",
+        "Una vez formalizada la matrícula"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 33.d) LOSU.",
+      "ref": "art. 33.d LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El paro académico previsto en el art. 33.p) LOSU:",
+      "opciones": [
+        "Solo puede ser total y requiere autorización del Consejo de Gobierno",
+        "Lo declara el Rector a petición del Consejo de Estudiantes",
+        "Lo declara el órgano de representación del estudiantado y puede ser total o parcial",
+        "Es un derecho del PDI y del PTGAS"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 33.p) LOSU; las universidades regulan sus condiciones y procedimiento, respetando el derecho a la educación.",
+      "ref": "art. 33.p LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO es un deber del estudiantado según el art. 36 LOSU?",
+      "opciones": [
+        "Asistir obligatoriamente a todas las sesiones de los órganos de representación",
+        "Respetar la normativa universitaria, incluida la de convivencia",
+        "Observar las directrices del profesorado y de las autoridades universitarias",
+        "Ejercer, en su caso, las responsabilidades propias de los cargos de representación"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 36 enumera: participar, respetar la normativa, observar directrices, respetar a las personas y ejercer la representación. No hay tal deber de asistencia obligatoria.",
+      "ref": "art. 36 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 37.2 LOSU, para el estudiantado con discapacidad intelectual las universidades promoverán:",
+      "opciones": [
+        "La exención de la evaluación",
+        "Títulos oficiales de Grado de contenido reducido",
+        "Estudios propios adaptados a sus capacidades",
+        "La matrícula gratuita en cualquier Máster"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 37.2, párrafo tercero, LOSU.",
+      "ref": "art. 37.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Conforme a la Ley 3/2022, de convivencia universitaria, la potestad disciplinaria sobre el estudiantado la ejerce:",
+      "opciones": [
+        "El Rector o la Rectora",
+        "La Comisión de Convivencia",
+        "El Decano o Director del centro",
+        "La Inspección de Servicios"
+      ],
+      "correcta": 0,
+      "explicacion": "La Ley 3/2022 atribuye la potestad disciplinaria al titular del Rectorado; la Inspección de Servicios puede instruir expedientes (art. 43.6 LOSU).",
+      "ref": "Ley 3/2022",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La sanción de expulsión por la comisión de una falta muy grave prevista en la Ley 3/2022 tiene una duración de:",
+      "opciones": [
+        "Hasta un mes",
+        "Un mes a un año",
+        "Seis meses a cinco años",
+        "Dos meses a tres años"
+      ],
+      "correcta": 3,
+      "explicacion": "Faltas muy graves: expulsión de dos meses a tres años. Faltas graves: expulsión de hasta un mes.",
+      "ref": "art. 14 Ley 3/2022",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La Comisión de Convivencia de la Ley 3/2022 está integrada:",
+      "opciones": [
+        "Solo por estudiantes",
+        "De manera paritaria por representantes del estudiantado, del PDI y del PTGAS",
+        "Por el Rector, el Defensor universitario y el Inspector de Servicios",
+        "Por miembros del Consejo Social"
+      ],
+      "correcta": 1,
+      "explicacion": "La Ley 3/2022 prevé una composición paritaria de los tres sectores.",
+      "ref": "Ley 3/2022",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la Universidad de La Laguna, el estudiantado tiene derecho a:",
+      "opciones": [
+        "Dos evaluaciones en tres convocatorias anuales",
+        "Tres evaluaciones en el marco de dos convocatorias oficiales a celebrar antes de finalizar julio",
+        "Cuatro convocatorias por curso académico",
+        "Una única evaluación final por asignatura"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 101.2 EULL.",
+      "ref": "art. 101.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según los Estatutos de la ULL, ningún estudiante podrá ser sancionado por su acción representativa durante el ejercicio de sus funciones ni dentro de:",
+      "opciones": [
+        "El curso académico en que cese",
+        "Los seis meses posteriores a su mandato",
+        "Los dos años posteriores a su mandato",
+        "El año posterior a la expiración de su mandato"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 107 EULL.",
+      "ref": "art. 107 EULL",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 64.3 LOSU, el profesorado con contrato laboral temporal no podrá superar, en efectivos de la plantilla de PDI:",
+      "opciones": [
+        "El 8 por ciento",
+        "El 40 por ciento",
+        "El 20 por ciento",
+        "El 15 por ciento"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 64.3 LOSU. El 40 % era el límite de la LOU; el 20 % es el umbral de la DT 8.ª; el 15 % es la reserva I3/R3.",
+      "ref": "art. 64.3 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "A efectos del límite de profesorado laboral temporal del art. 64.3 LOSU, NO se computa:",
+      "opciones": [
+        "El profesorado asociado de cualquier ámbito",
+        "El profesorado visitante y el sustituto",
+        "El profesorado asociado de Ciencias de la Salud y el profesorado ayudante doctor",
+        "El profesorado distinguido y el emérito"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 64.3, párrafo segundo, LOSU.",
+      "ref": "art. 64.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La mayoría de profesorado funcionario sobre el total del PDI se computa:",
+      "opciones": [
+        "En número de plazas de la RPT",
+        "En efectivos",
+        "En créditos docentes impartidos",
+        "En equivalencias a tiempo completo"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 64.3 LOSU. El límite del 8 % de temporales se computa en efectivos.",
+      "ref": "art. 64.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el art. 64.2 LOSU, no podrá ser profesorado de universidades privadas:",
+      "opciones": [
+        "Ningún PDI de universidades públicas en ningún caso",
+        "El PDI funcionario en servicio activo con destino en una universidad pública y el PDI contratado a tiempo completo",
+        "Solo el profesorado funcionario Catedrático",
+        "El PDI contratado a tiempo parcial"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 64.2 LOSU, sin menoscabo de los contratos del art. 60.1.",
+      "ref": "art. 64.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El profesorado universitario funcionario pertenece a los cuerpos de:",
+      "opciones": [
+        "Catedráticos de Universidad, Titulares de Universidad y Titulares de Escuela Universitaria",
+        "Catedráticos, Titulares y Contratados Doctores",
+        "Catedráticos de Universidad y Profesores Titulares de Universidad",
+        "Profesores Permanentes y Profesores Ayudantes"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 68.1 LOSU. Los cuerpos de Escuela Universitaria son a extinguir (DA 11.ª).",
+      "ref": "art. 68.1 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En los concursos de acceso a plazas de los cuerpos docentes, las comisiones de selección estarán integradas por:",
+      "opciones": [
+        "Una mayoría de miembros externos a la universidad convocante elegidos por sorteo público",
+        "Miembros designados por el Consejo de Gobierno a propuesta del departamento, sin exigencia de externos",
+        "Tres miembros de la propia universidad y dos de la ANECA",
+        "Miembros elegidos por el Claustro"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 71.1.b) LOSU, entre profesorado de igual o superior categoría de una lista cualificada. El art. 84 EULL (designación por el Consejo de Gobierno) debe ajustarse a ello.",
+      "ref": "art. 71.1.b LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los concursos de acceso a los cuerpos docentes, la experiencia docente y la investigadora tendrán:",
+      "opciones": [
+        "Un peso que fija libremente cada comisión",
+        "Un peso del 60 % la investigación y del 40 % la docencia",
+        "Una consideración análoga en el conjunto de criterios de valoración",
+        "Prioridad de la investigación en todo caso"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 71.1.a) LOSU.",
+      "ref": "art. 71.1.a LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para acceder a plazas de promoción interna desde Titular de Universidad o Profesor Permanente Laboral se exige haber prestado como mínimo:",
+      "opciones": [
+        "Dos años de servicios efectivos en el puesto de origen y estar acreditado para la categoría",
+        "Tres años de servicios y un sexenio de investigación",
+        "Cinco años de servicios en cualquier categoría",
+        "Un año de servicios y la acreditación"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 71.2 LOSU. El procedimiento es el concurso de méritos.",
+      "ref": "art. 71.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las plazas de los programas de promoción interna del profesorado no podrán superar:",
+      "opciones": [
+        "El número de plazas de estabilización",
+        "El 15 % de la plantilla del departamento",
+        "El 50 % de las plazas vacantes",
+        "El número máximo de plazas de la Oferta de Empleo Público de turno libre de ese mismo año para cuerpos docentes y Profesorado Permanente Laboral"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 71.2 LOSU.",
+      "ref": "art. 71.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La plaza obtenida en un concurso de movilidad del profesorado deberá desempeñarse, antes de poder participar en un nuevo concurso, durante al menos:",
+      "opciones": [
+        "Un año",
+        "Dos años",
+        "Tres años",
+        "Cinco años"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 72.3 LOSU. También se exigen dos años en el puesto de origen para participar (art. 72.2).",
+      "ref": "art. 72.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Contra las propuestas de las comisiones de los concursos de selección del profesorado podrá presentarse reclamación ante:",
+      "opciones": [
+        "El Consejo de Universidades",
+        "El Rector o Rectora, valorándola una comisión cuyo informe es vinculante",
+        "La ANECA",
+        "El Consejo Social"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 73.2 LOSU; admitida a trámite, se suspenden los nombramientos. Contra las comisiones de acreditación se reclama ante el Consejo de Universidades.",
+      "ref": "art. 73.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El profesorado funcionario en régimen de dedicación a tiempo completo tendrá asignadas a la actividad docente:",
+      "opciones": [
+        "Un máximo de 320 horas lectivas",
+        "Un máximo de 180 y un mínimo de 60 horas lectivas",
+        "32 créditos ECTS por curso",
+        "Un máximo de 240 y un mínimo de 120 horas lectivas por curso académico"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 75.2 LOSU. El régimen en créditos del RDL 14/2012 fue derogado.",
+      "ref": "art. 75.2 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La universidad podrá modificar la horquilla de horas lectivas del profesorado funcionario para, entre otros fines:",
+      "opciones": [
+        "Corregir desigualdades derivadas de responsabilidades de cuidado de personas dependientes",
+        "Premiar la antigüedad en la universidad",
+        "Compensar la baja matrícula de una titulación",
+        "Sancionar el incumplimiento docente"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 75.2 LOSU: cuidados, cargos unipersonales y proyectos de interés, y tareas de representación de los empleados públicos.",
+      "ref": "art. 75.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los complementos retributivos que las Comunidades Autónomas establezcan para el PDI funcionario por méritos individuales se asignarán:",
+      "opciones": [
+        "Por la Comunidad Autónoma directamente",
+        "Por el Rector, a propuesta de la ANECA",
+        "Por el Consejo Social, a propuesta del Consejo de Gobierno",
+        "Por el Consejo de Gobierno, oído el Claustro"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 76.3 LOSU (igual para el PDI laboral en el art. 87.2).",
+      "ref": "art. 76.3 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El régimen jurídico aplicable al PDI laboral será el de la LOSU y sus normas de desarrollo y, supletoriamente:",
+      "opciones": [
+        "La Ley 40/2015 de Régimen Jurídico del Sector Público",
+        "La Ley 30/1984 de medidas de reforma de la función pública",
+        "El Reglamento General de Ingreso de 1995",
+        "El texto refundido de la Ley del Estatuto de los Trabajadores, los convenios colectivos y, en su caso, el TREBEP"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 77.2 LOSU.",
+      "ref": "art. 77.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las universidades podrán contratar como Profesores Ayudantes Doctores a quienes ostenten el título de Doctor:",
+      "opciones": [
+        "Con acreditación de la ANECA",
+        "Sin necesidad de acreditación",
+        "Con acreditación autonómica y dos años de experiencia",
+        "Con evaluación positiva de su actividad investigadora"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 78.a) LOSU.",
+      "ref": "art. 78.a LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La duración del contrato de Profesor Ayudante Doctor será de:",
+      "opciones": [
+        "Cuatro años improrrogables",
+        "Cinco años, prorrogables uno más",
+        "Seis años, pudiendo alcanzar ocho cuando se concierte con una persona con discapacidad",
+        "Seis años, prorrogables dos más en todo caso"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 78.e) LOSU. Con la LOU el máximo era de cinco años.",
+      "ref": "art. 78.e LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Transcurridos los tres primeros años del contrato de Ayudante Doctor, la universidad realizará:",
+      "opciones": [
+        "Una evaluación orientativa del desempeño, que podrá encargarse a las agencias de calidad",
+        "Una evaluación vinculante que puede extinguir el contrato",
+        "La acreditación para Profesor Permanente Laboral",
+        "Un concurso de promoción automática"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 78.e) LOSU.",
+      "ref": "art. 78.e LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las Profesoras y Profesores Ayudantes Doctores desarrollarán tareas docentes hasta un máximo de:",
+      "opciones": [
+        "240 horas lectivas por curso académico",
+        "120 horas lectivas por curso académico",
+        "180 horas lectivas por curso académico",
+        "60 horas lectivas por curso académico"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 78.c) LOSU.",
+      "ref": "art. 78.c LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El contrato de Profesor Asociado será:",
+      "opciones": [
+        "De carácter indefinido y con dedicación a tiempo parcial",
+        "De carácter temporal y a tiempo parcial",
+        "De carácter temporal y a tiempo completo",
+        "De carácter fijo y a tiempo completo"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 79.c) LOSU. Con la LOU era temporal.",
+      "ref": "art. 79.c LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El Profesor Asociado podrá desarrollar tareas docentes hasta un máximo de:",
+      "opciones": [
+        "240 horas lectivas por curso académico",
+        "180 horas lectivas por curso académico",
+        "90 horas lectivas por curso académico",
+        "120 horas lectivas por curso académico"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 79.b) LOSU; no aplicable a asociados de Ciencias de la Salud (art. 79.e).",
+      "ref": "art. 79.b LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En el supuesto de cese de la actividad principal del Profesor Asociado, la finalización del contrato se producirá:",
+      "opciones": [
+        "De forma inmediata",
+        "Una vez concluya el curso académico en el que se desarrolla la actividad docente",
+        "A los tres meses del cese",
+        "Al finalizar el cuatrimestre en curso"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 79.d) LOSU.",
+      "ref": "art. 79.d LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El nombramiento de Profesores Eméritos podrá hacerse entre el PDI funcionario o laboral jubilado que haya prestado servicios destacados:",
+      "opciones": [
+        "En cualquier universidad española",
+        "En la misma universidad",
+        "En universidades de la Unión Europea",
+        "En organismos públicos de investigación"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 81.a) LOSU.",
+      "ref": "art. 81.a LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El contrato de Profesor Permanente Laboral:",
+      "opciones": [
+        "Se reserva a profesionales con actividad principal externa",
+        "Es temporal por seis años",
+        "No exige acreditación",
+        "Es de carácter fijo e indefinido, con derechos y deberes académicos comparables a los del PDI funcionario"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 82 LOSU; exige Doctorado y acreditación.",
+      "ref": "art. 82 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El contrato de Profesor Visitante tendrá una duración máxima de:",
+      "opciones": [
+        "Dos años, improrrogable y no renovable",
+        "Un año, prorrogable por otro",
+        "Tres años improrrogables",
+        "Cinco años"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 83.c) LOSU.",
+      "ref": "art. 83.c LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La selección del PDI laboral se hará mediante concurso público, EXCEPTO en el caso de:",
+      "opciones": [
+        "Profesores Permanentes Laborales",
+        "Profesores Asociados y Ayudantes Doctores",
+        "Profesores Visitantes, Distinguidos y Eméritos y las modalidades de la Ley 14/2011",
+        "Profesores Sustitutos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 86.1 LOSU.",
+      "ref": "art. 86.1 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la DA 12.ª LOSU, NO serán dados de alta en el Régimen General de la Seguridad Social:",
+      "opciones": [
+        "Los Profesores Distinguidos sin régimen de previsión",
+        "Los Profesores Asociados no funcionarios",
+        "Los Profesores Visitantes",
+        "Los Profesores Eméritos"
+      ],
+      "correcta": 3,
+      "explicacion": "DA 12.ª.2 LOSU.",
+      "ref": "DA 12.ª LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la DT 3.ª LOSU, la acreditación vigente de Profesor Contratado Doctor será válida para la figura de:",
+      "opciones": [
+        "Profesor Titular de Universidad",
+        "Profesor Permanente Laboral",
+        "Profesor Ayudante Doctor",
+        "Profesor Distinguido"
+      ],
+      "correcta": 1,
+      "explicacion": "DT 3.ª.2 LOSU.",
+      "ref": "DT 3.ª LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las universidades públicas debían articular procesos de estabilización de las plazas del PTGAS, conforme a la Ley 20/2021:",
+      "opciones": [
+        "Antes del final del curso 2027-2028, por concurso",
+        "Antes del 31 de diciembre de 2023, por oposición",
+        "Antes del 31 de diciembre de 2024, por concurso o concurso-oposición",
+        "En el plazo de un año desde la entrada en vigor, por libre designación"
+      ],
+      "correcta": 2,
+      "explicacion": "DT 9.ª LOSU; sin incremento de efectivos y sin computar en la tasa de reposición.",
+      "ref": "DT 9.ª LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El personal técnico, de gestión y de administración y servicios funcionario se rige por la LOSU, los Estatutos y:",
+      "opciones": [
+        "El TREBEP y los Pactos y Acuerdos previstos en su artículo 38",
+        "El Estatuto de los Trabajadores y los convenios colectivos",
+        "Exclusivamente la legislación autonómica de función pública",
+        "La Ley 14/2011 de la Ciencia"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 89.3 LOSU. El PTGAS laboral se rige además por el ET y los convenios colectivos.",
+      "ref": "art. 89.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La contratación de otro personal con cargo a financiación externa para la gestión científico-técnica se rige por el Estatuto de los Trabajadores y por:",
+      "opciones": [
+        "El artículo 12 del TREBEP",
+        "El artículo 83 de la Ley Orgánica 6/2001",
+        "El artículo 23 bis de la Ley 14/2011",
+        "La Ley 20/2021"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 89.4 LOSU.",
+      "ref": "art. 89.4 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La carrera profesional horizontal del PTGAS consiste, según el art. 90.2 LOSU, en:",
+      "opciones": [
+        "La progresión de grado, categoría, escala o nivel sin necesidad de cambiar de puesto de trabajo",
+        "El ascenso en la estructura de puestos de trabajo",
+        "El cambio de escala mediante promoción interna vertical",
+        "La movilidad entre universidades"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 90.2, párrafo primero, LOSU; el ascenso en la estructura de puestos es la carrera vertical.",
+      "ref": "art. 90.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las convocatorias de los procesos de selección del PTGAS deberán publicarse en:",
+      "opciones": [
+        "El BOE y la sede electrónica de la universidad exclusivamente",
+        "Solo el boletín oficial de la universidad",
+        "Solo el diario oficial de la Comunidad Autónoma",
+        "El BOE y el diario oficial de la respectiva Comunidad Autónoma"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 91.2 LOSU.",
+      "ref": "art. 91.2 LOSU",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En la provisión de puestos del PTGAS, el sistema de libre designación:",
+      "opciones": [
+        "Es el sistema ordinario de provisión",
+        "Solo podrá utilizarse para puestos de personal funcionario que determinen las universidades atendiendo a la naturaleza de sus funciones",
+        "Puede aplicarse a cualquier puesto de personal laboral",
+        "Está prohibido en las universidades"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 92.3 LOSU; la regla general es el concurso (art. 92.2).",
+      "ref": "art. 92.3 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 92.2 LOSU, en los concursos de provisión de puestos de PTGAS podrá concurrir:",
+      "opciones": [
+        "Únicamente el personal propio de la universidad",
+        "El propio personal, el de otras universidades y, en las condiciones reglamentarias, el de cuerpos y escalas de otras Administraciones Públicas",
+        "Solo el personal de otras universidades en comisión de servicios",
+        "Cualquier ciudadano con la titulación exigida"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 92.2 LOSU.",
+      "ref": "art. 92.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El régimen retributivo del PTGAS se determinará, según el art. 93.2 LOSU:",
+      "opciones": [
+        "Por el Gobierno de forma idéntica para todas las universidades",
+        "Libremente por cada universidad sin límite",
+        "Por el Consejo Social a propuesta del Gerente",
+        "Dentro de los límites máximos que determine la Comunidad Autónoma, mediante negociación colectiva y en el marco de las bases que fije el Estado"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 93.2 LOSU.",
+      "ref": "art. 93.2 LOSU",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los planes de movilidad del PTGAS para desempeñar funciones en otras universidades o Administraciones se formalizarán mediante:",
+      "opciones": [
+        "Convenios que aseguren la reciprocidad",
+        "Resoluciones unilaterales del Gerente",
+        "Acuerdos del Consejo Social",
+        "Comisiones de servicio sin límite temporal"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 94.2 LOSU; se incluye la movilidad internacional.",
+      "ref": "art. 94.2 LOSU",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según los Estatutos de la ULL, la Escala Administrativa del personal funcionario de administración y servicios pertenece al:",
+      "opciones": [
+        "Subgrupo C2",
+        "Subgrupo A2",
+        "Subgrupo C1",
+        "Grupo B"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 91 EULL: C1, Escala Administrativa y Escala de Técnicos Auxiliares de Informática.",
+      "ref": "art. 91 EULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En la ULL, la oferta pública de empleo del PTGAS es aprobada por:",
+      "opciones": [
+        "El Consejo Social, a propuesta del Consejo de Gobierno",
+        "El Rector, a propuesta del Consejo Social",
+        "La Gerencia, oído el Claustro",
+        "El Consejo de Gobierno, a propuesta de la Gerencia, previa negociación con los órganos de representación"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 95.1 EULL. La convocatoria la realiza el Rector (art. 95.2).",
+      "ref": "art. 95.1 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la ULL, la propuesta de las Relaciones de Puestos de Trabajo del PTGAS la elabora:",
+      "opciones": [
+        "La Secretaría General, y la aprueba el Rector",
+        "La Gerencia, previa negociación con los representantes del personal, y la aprueba el Consejo de Gobierno",
+        "El Consejo Social, y la aprueba el Claustro",
+        "La Junta de Personal, y la aprueba la Gerencia"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 94.2 EULL (y art. 32.g EULL). Según el art. 46.2.e LOSU, la aprobación final corresponde a la Comunidad Autónoma.",
+      "ref": "art. 94.2 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la ULL, la Comisión de Formación del personal de administración y servicios:",
+      "opciones": [
+        "La preside la Secretaría General y es consultiva",
+        "Está presidida por el Rector y la integran solo miembros del Consejo de Gobierno",
+        "Está presidida por la Gerencia y es paritaria, con participación de los representantes de los trabajadores",
+        "La preside el Vicerrector de Profesorado"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 97 EULL.",
+      "ref": "art. 97 EULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según los Estatutos de la ULL, respecto del personal de administración y servicios corresponde al Rector adoptar las decisiones relativas a su situación administrativa y régimen disciplinario, a excepción de:",
+      "opciones": [
+        "La separación del servicio del personal funcionario, que acordará el órgano competente",
+        "Las sanciones por faltas leves, que corresponden a la Gerencia",
+        "Las excedencias voluntarias, que corresponden al Consejo de Gobierno",
+        "Las jubilaciones, que corresponden al Consejo Social"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 90 EULL.",
+      "ref": "art. 90 EULL",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "La LOSU. El nuevo manual universitario. Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
+      "url": "https://www.youtube.com/watch?v=bxTfvduSxQk",
+      "canal": "Yolanda Núñez"
+    },
+    {
+      "titulo": "Ley Orgánica 2/2023, del Sistema Universitario. Audio de la ley completa",
+      "url": "https://www.youtube.com/watch?v=yggoH7_heZ4",
+      "canal": "Sí hay derecho"
+    },
+    {
+      "titulo": "Test 002. Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
+      "url": "https://www.youtube.com/watch?v=4a0jAbMOdXI",
+      "canal": "Roberto Carpintero"
+    },
+    {
+      "titulo": "Ley de convivencia universitaria",
+      "url": "https://www.youtube.com/watch?v=6F_f1P_eGNM",
+      "canal": "Congreso - Canal Parlamento"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "BOE: Ley Orgánica 2/2023, del Sistema Universitario (texto consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500"
+    },
+    {
+      "titulo": "BOE: Ley 3/2022, de 24 de febrero, de convivencia universitaria",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-2978"
+    },
+    {
+      "titulo": "ULL: Ley 3/2022 de convivencia universitaria en la normativa de la Universidad",
+      "url": "https://www.ull.es/portal/normativa/normativa/ley-3-2022-de-24-de-febrero-de-convivencia-universitaria/"
+    },
+    {
+      "titulo": "Normativa de la Universidad de La Laguna",
+      "url": "https://www.ull.es/portal/normativa/"
+    }
+  ]
+}

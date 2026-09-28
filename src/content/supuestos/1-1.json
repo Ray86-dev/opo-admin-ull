@@ -1,0 +1,203 @@
+{
+  "bloque": 1,
+  "titulo": "Solicitud de sexta convocatoria de una estudiante de Derecho",
+  "temas": ["1-02", "1-03", "1-04", "1-05", "1-06"],
+  "enunciado": "Laura Hernández Pérez, de 22 años, cursa el Grado en Derecho en la **Facultad de Derecho** de la Universidad de La Laguna (campus de Guajara). Tras agotar cinco convocatorias de la asignatura *Derecho Financiero y Tributario II*, decide solicitar la **concesión de sexta convocatoria**.\n\nEl **miércoles 8 de abril de 2026** Laura acude a la Oficina de Registro del campus de Guajara y presenta su solicitud **en papel**. La oficina le advierte de que debe presentarla por medios electrónicos, y Laura la presenta finalmente a través de la **sede electrónica** de la ULL, identificándose con sus Credenciales ULL, el **lunes 13 de abril de 2026**.\n\nLa Secretaría de la Facultad comprueba que falta el justificante de las circunstancias alegadas y le notifica un **requerimiento de subsanación**, que Laura abre en la carpeta «Mis Notificaciones» el **jueves 16 de abril de 2026**. Laura aporta la documentación el **miércoles 22 de abril de 2026**. El órgano competente acuerda suspender el plazo máximo para resolver durante el tiempo que medie entre la notificación del requerimiento y su cumplimiento.\n\nLa normativa universitaria aplicable a este procedimiento **no fija plazo máximo** para resolver ni el sentido del silencio, y ninguna norma con rango de ley establece un silencio desestimatorio para esta materia.\n\nLa competencia para conceder la 5.ª y 6.ª convocatorias está atribuida al Rector, que la tiene **delegada en los Decanatos de Facultades y Direcciones de Escuelas** por la Resolución de 12 de mayo de 2023 (BOC nº 101, de 25 de mayo de 2023).\n\nEl **lunes 22 de junio de 2026** la Decana de la Facultad de Derecho firma una resolución **denegatoria**, que se pone a disposición de Laura en la sede electrónica el **martes 23 de junio de 2026**. Laura recibe el aviso en su correo electrónico y **accede al contenido** de la notificación el **jueves 25 de junio de 2026**.\n\nLaura está pensando en impugnar la resolución y consulta al Negociado de Atención al Estudiante sobre las vías y plazos disponibles.\n\n*A efectos de cómputo, considera que en los periodos afectados no hay más días inhábiles que los sábados y domingos (salvo lo que resulte de la normativa procesal para el mes de agosto).*",
+  "preguntas": [
+    {
+      "enunciado": "Respecto de la solicitud presentada en papel por Laura el 8 de abril de 2026, ¿qué debe hacer la Universidad?",
+      "opciones": [
+        "Admitirla y tramitarla, porque los estudiantes pueden elegir libremente el medio de relacionarse con la Administración",
+        "Requerir a Laura para que la subsane mediante su presentación electrónica, considerándose como fecha de presentación la de la subsanación",
+        "Inadmitirla de plano y archivar el expediente sin más trámite",
+        "Requerir la subsanación electrónica, pero conservando como fecha de presentación el 8 de abril"
+      ],
+      "correcta": 1,
+      "explicacion": "El estudiantado de la ULL está obligado a relacionarse electrónicamente con la Universidad (art. 7.1.d RAE-ULL, dictado al amparo del art. 14.3 LPAC). Si un sujeto obligado presenta presencialmente, la Administración le requerirá para que subsane a través de su presentación electrónica, y se considera fecha de presentación aquella en que se realice la subsanación (art. 68.4 LPAC). Por eso la fecha válida es el 13 de abril, no el 8.",
+      "ref": "art. 68.4 LPAC; art. 7.1.d RAE-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué órgano es competente para resolver la solicitud de sexta convocatoria y cómo debe hacerlo?",
+      "opciones": [
+        "El Vicerrectorado de Estudiantes, por ser materia de gestión de matrícula",
+        "La Junta de Facultad, como órgano colegiado del centro",
+        "La Decana de la Facultad de Derecho, por delegación del Rector, haciendo constar expresamente esa circunstancia en la resolución",
+        "La Decana de la Facultad de Derecho como competencia propia, sin necesidad de mencionar delegación alguna"
+      ],
+      "correcta": 2,
+      "explicacion": "La concesión de 5.ª y 6.ª convocatorias está delegada por el Rector en las personas titulares de los Decanatos (apartado Décimo primero, letra c, de la Resolución de 12 de mayo de 2023). Las resoluciones adoptadas por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante (art. 9.4 LRJSP y apartado Décimo octavo de la Resolución).",
+      "ref": "art. 9.4 LRJSP; Resolución ULL 12/05/2023, apdo. Décimo primero c)",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál es el último día del que dispone Laura para atender el requerimiento de subsanación notificado el jueves 16 de abril de 2026?",
+      "opciones": [
+        "El lunes 27 de abril de 2026",
+        "El domingo 26 de abril de 2026",
+        "El sábado 16 de mayo de 2026",
+        "El jueves 30 de abril de 2026"
+      ],
+      "correcta": 3,
+      "explicacion": "El plazo de subsanación es de diez días (art. 68.1 LPAC), que son hábiles al no decirse otra cosa (art. 30.2 LPAC), contados desde el día siguiente a la notificación (art. 30.3). Cómputo: viernes 17 (1), lunes 20 (2), martes 21 (3), miércoles 22 (4), jueves 23 (5), viernes 24 (6), lunes 27 (7), martes 28 (8), miércoles 29 (9) y jueves 30 de abril (10). Sábados y domingos se excluyen.",
+      "ref": "arts. 30.2, 30.3 y 68.1 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si Laura hubiera tenido dificultades especiales para obtener el justificante, ¿podría ampliarse el plazo de subsanación?",
+      "opciones": [
+        "Sí, prudencialmente hasta cinco días, a petición de la interesada o a iniciativa del órgano, porque no es un procedimiento selectivo ni de concurrencia competitiva",
+        "No, el plazo de subsanación es improrrogable en todo caso",
+        "Sí, hasta diez días más, solo a petición de la interesada",
+        "Sí, hasta la mitad del plazo inicial, conforme a la regla general de ampliación de plazos"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 68.2 LPAC permite ampliar prudencialmente el plazo de subsanación hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos presente dificultades especiales, siempre que no se trate de procedimientos selectivos o de concurrencia competitiva. La ampliación general del art. 32 (hasta la mitad) no es la regla específica de la subsanación.",
+      "ref": "art. 68.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Sin tener en cuenta la suspensión, ¿cuál es el plazo máximo para resolver y notificar y desde cuándo se computa?",
+      "opciones": [
+        "Seis meses desde el 8 de abril, fecha de la primera presentación",
+        "Tres meses desde el 13 de abril, fecha de entrada de la solicitud en el registro electrónico; vencería el lunes 13 de julio de 2026",
+        "Tres meses desde el 22 de abril, fecha en que se completó la documentación",
+        "Un mes desde el 13 de abril, por tratarse de un procedimiento académico"
+      ],
+      "correcta": 1,
+      "explicacion": "Si la norma reguladora no fija plazo máximo, este es de tres meses (art. 21.3 LPAC), contado en los procedimientos iniciados a solicitud desde la fecha en que la solicitud tuvo entrada en el registro electrónico de la Administración competente (art. 21.3.b). La fecha de presentación válida es el 13 de abril (art. 68.4). Plazo por meses: concluye el mismo ordinal del mes de vencimiento: 13 de julio de 2026, lunes (art. 30.4).",
+      "ref": "arts. 21.3.b y 30.4 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Durante qué periodo queda suspendido el plazo máximo para resolver como consecuencia del requerimiento de subsanación?",
+      "opciones": [
+        "Desde el 8 hasta el 13 de abril de 2026",
+        "Desde el 13 hasta el 30 de abril de 2026, en todo caso durante el plazo íntegro concedido",
+        "Desde el 16 hasta el 22 de abril de 2026",
+        "No se suspende: el requerimiento de subsanación nunca suspende el plazo para resolver"
+      ],
+      "correcta": 2,
+      "explicacion": "El plazo máximo puede suspenderse cuando deba requerirse al interesado la subsanación de deficiencias o la aportación de documentos, por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario, o, en su defecto, por el del plazo concedido (art. 22.1.a LPAC). Como Laura cumplió, la suspensión va del 16 (notificación) al 22 de abril (cumplimiento). Solo si no hubiera cumplido se atendería al plazo concedido.",
+      "ref": "art. 22.1.a LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La Facultad debe informar a Laura del plazo máximo, de los efectos del silencio y de la fecha de recepción de su solicitud. ¿Dentro de qué plazo ha de dirigirle esa comunicación?",
+      "opciones": [
+        "Dentro de los quince días siguientes a la recepción; hasta el 4 de mayo de 2026",
+        "Dentro del mes siguiente a la recepción; hasta el 13 de mayo de 2026",
+        "No existe obligación de comunicarlo si la información figura en la sede electrónica",
+        "Dentro de los diez días siguientes a la recepción de la solicitud en el registro electrónico del órgano competente; hasta el lunes 27 de abril de 2026"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 21.4 LPAC obliga a informar al interesado del plazo máximo y de los efectos del silencio en una comunicación que se le dirigirá dentro de los diez días siguientes a la recepción de la solicitud en el registro electrónico del órgano competente, indicando además la fecha de recepción. Diez días hábiles desde el 13 de abril: 14, 15, 16, 17, 20, 21, 22, 23, 24 y 27 de abril. La publicación en la web es adicional, no sustitutiva.",
+      "ref": "art. 21.4 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Supón que, vencido el plazo máximo (incluida la suspensión), no se hubiera notificado resolución expresa. ¿Qué efecto tendría el silencio?",
+      "opciones": [
+        "Estimatorio, pues es un procedimiento iniciado a solicitud y ninguna norma con rango de ley establece lo contrario",
+        "Desestimatorio, porque todos los procedimientos académicos tienen silencio negativo",
+        "Desestimatorio, por aplicarse el régimen del derecho de petición",
+        "No produciría ningún efecto hasta que se dictara resolución expresa"
+      ],
+      "correcta": 0,
+      "explicacion": "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificación de resolución expresa legitima para entenderla estimada, salvo que una norma con rango de ley, del Derecho de la UE o de Derecho internacional establezca lo contrario, o se trate de las excepciones del propio art. 24.1 (derecho de petición, dominio público o servicio público, medio ambiente, responsabilidad patrimonial, impugnación de actos y revisión de oficio). No concurre ninguna.",
+      "ref": "art. 24.1 LPAC",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En ese mismo supuesto de silencio, si la Decana dictara después una resolución expresa, ¿qué contenido podría tener?",
+      "opciones": [
+        "Cualquiera, sin vinculación al sentido del silencio",
+        "Solo podría ser denegatoria, previa audiencia de la interesada",
+        "Solo podría dictarse si es confirmatoria de la estimación producida por silencio",
+        "No podría dictarse en ningún caso, pues el procedimiento ya ha terminado"
+      ],
+      "correcta": 2,
+      "explicacion": "En los casos de estimación por silencio, la resolución expresa posterior solo podrá dictarse de ser confirmatoria del mismo (art. 24.3.a LPAC). La libertad de contenido rige solo en la desestimación por silencio (art. 24.3.b). Para dejar sin efecto un acto estimatorio presunto habría que acudir a la revisión de oficio.",
+      "ref": "art. 24.3 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La resolución se firmó el lunes 22 de junio de 2026. ¿Hasta qué día debía cursarse, como máximo, su notificación?",
+      "opciones": [
+        "Hasta el viernes 3 de julio de 2026",
+        "Hasta el lunes 6 de julio de 2026",
+        "Hasta el miércoles 22 de julio de 2026",
+        "Hasta el jueves 2 de julio de 2026"
+      ],
+      "correcta": 1,
+      "explicacion": "Toda notificación debe cursarse dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado (art. 40.2 LPAC). Son días hábiles (art. 30.2): martes 23 (1), miércoles 24 (2), jueves 25 (3), viernes 26 (4), lunes 29 (5), martes 30 (6), miércoles 1 (7), jueves 2 (8), viernes 3 (9) y lunes 6 de julio (10). En el caso se cursó el 23 de junio, dentro de plazo.",
+      "ref": "arts. 30.2 y 40.2 LPAC",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿En qué fecha se entiende practicada la notificación de la resolución denegatoria?",
+      "opciones": [
+        "El lunes 22 de junio, fecha de la firma",
+        "El martes 23 de junio, fecha de la puesta a disposición en la sede",
+        "El jueves 25 de junio, fecha en que Laura accede a su contenido",
+        "El día en que Laura recibió el aviso en su correo electrónico"
+      ],
+      "correcta": 2,
+      "explicacion": "Las notificaciones electrónicas se entienden practicadas en el momento en que se produce el acceso a su contenido (art. 43.2 LPAC). En la ULL, la aceptación expresa pulsando «Aceptar» hace efectivo el acceso y la notificación se entiende practicada a todos los efectos (art. 35.5 RAE-ULL). El aviso por correo es meramente informativo (art. 41.6 LPAC; art. 35.2 RAE-ULL).",
+      "ref": "art. 43.2 LPAC; art. 35 RAE-ULL",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si Laura no hubiera accedido nunca a la notificación puesta a disposición el martes 23 de junio de 2026, ¿qué habría ocurrido?",
+      "opciones": [
+        "Se entendería rechazada transcurridos diez días naturales desde la puesta a disposición (el 3 de julio de 2026), dándose por efectuado el trámite",
+        "Se entendería rechazada transcurridos diez días hábiles (el 7 de julio de 2026)",
+        "La Universidad debería practicar un segundo intento en papel en su domicilio",
+        "Debería publicarse un anuncio en el Boletín Oficial del Estado antes de entenderla rechazada"
+      ],
+      "correcta": 0,
+      "explicacion": "Cuando la notificación electrónica es obligatoria, se entiende rechazada cuando transcurren diez días naturales desde la puesta a disposición sin acceder a su contenido (art. 43.2 LPAC; art. 36.2 RAE-ULL), dándose por efectuado el trámite y continuándose el procedimiento (art. 41.5 LPAC). 23 de junio + 10 días naturales = 3 de julio.",
+      "ref": "art. 43.2 LPAC; art. 36.2 RAE-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Qué vía de impugnación procede contra la resolución denegatoria?",
+      "opciones": [
+        "Recurso de alzada ante el Rector, porque las resoluciones de los Decanatos no agotan la vía administrativa",
+        "Recurso extraordinario de revisión ante la Decana",
+        "Reclamación previa ante el Consejo Social",
+        "Recurso potestativo de reposición o, directamente, recurso contencioso-administrativo, porque la resolución se considera dictada por el Rector"
+      ],
+      "correcta": 3,
+      "explicacion": "Al dictarse por delegación, la resolución se considera dictada por el órgano delegante, el Rector (art. 9.4 LRJSP). Las resoluciones del Rector ponen fin a la vía administrativa (art. 38.4 LOSU; art. 10.3 EULL) y pueden recurrirse potestativamente en reposición o impugnarse directamente ante la jurisdicción contencioso-administrativa (art. 123 LPAC). La alzada ante el Rector solo procede contra actos de otros órganos que actúen con competencia propia (art. 10.4 EULL).",
+      "ref": "art. 9.4 LRJSP; art. 38.4 LOSU; art. 10.3 EULL; art. 123 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si Laura opta por el recurso potestativo de reposición, ¿cuál es el último día para interponerlo?",
+      "opciones": [
+        "El sábado 25 de julio de 2026",
+        "El lunes 27 de julio de 2026",
+        "El jueves 23 de julio de 2026",
+        "El viernes 7 de agosto de 2026"
+      ],
+      "correcta": 1,
+      "explicacion": "El plazo del recurso de reposición contra un acto expreso es de un mes (art. 124.1 LPAC), contado desde el día siguiente a la notificación (25 de junio) y concluye el mismo ordinal del mes siguiente: 25 de julio (art. 30.4). Como el 25 de julio de 2026 es sábado, inhábil, el plazo se prorroga al primer día hábil siguiente: lunes 27 de julio (art. 30.5 LPAC).",
+      "ref": "arts. 30.4, 30.5 y 124.1 LPAC",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Si Laura prefiere acudir directamente a la vía contencioso-administrativa, ¿hasta cuándo puede interponer el recurso?",
+      "opciones": [
+        "Hasta el martes 25 de agosto de 2026",
+        "Hasta el lunes 27 de julio de 2026",
+        "Hasta el viernes 25 de septiembre de 2026, porque agosto no computa para interponer el recurso contencioso-administrativo",
+        "Hasta el viernes 25 de diciembre de 2026, al disponer de seis meses"
+      ],
+      "correcta": 2,
+      "explicacion": "El plazo es de dos meses desde el día siguiente a la notificación del acto expreso que pone fin a la vía administrativa (art. 46.1 LJCA): del 25 de junio llegaría al 25 de agosto. Pero durante el mes de agosto no corre el plazo para interponer el recurso contencioso-administrativo (art. 128.2 LJCA), de modo que se descuenta agosto y vence el 25 de septiembre de 2026 (viernes). Los seis meses son para actos presuntos.",
+      "ref": "arts. 46.1 y 128.2 LJCA",
+      "dificultad": 3
+    }
+  ]
+}

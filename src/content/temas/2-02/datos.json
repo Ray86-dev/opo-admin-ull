@@ -1,0 +1,1449 @@
+{
+  "claves": [
+    "El funcionario de carrera tiene garantizada la inamovilidad en su condición, no en un puesto concreto (arts. 1.3.e y 14.a TREBEP).",
+    "La libertad sindical, la negociación colectiva, la huelga, los conflictos colectivos y la reunión son derechos individuales ejercidos colectivamente (art. 15 TREBEP).",
+    "La promoción interna exige los requisitos de ingreso, dos años de servicio activo en el subgrupo inferior y superar las pruebas (art. 18.2 TREBEP).",
+    "Tras la reforma de 2023, la enfermedad grave u hospitalización de familiar de primer grado da 5 días hábiles y la de segundo grado 4; la distinción por localidad solo se mantiene en el fallecimiento (art. 48.a TREBEP).",
+    "Los permisos por nacimiento, adopción y del otro progenitor duran diecinueve semanas (treinta y dos en monoparentalidad), con seis semanas obligatorias (art. 49 TREBEP).",
+    "Las vacaciones son veintidós días hábiles por año natural, sin contar los sábados, y no pueden sustituirse por dinero salvo cese por causas ajenas a la voluntad (art. 50 TREBEP).",
+    "El Código de Conducta se compone de los principios éticos (art. 53) y de conducta (art. 54) e informa la interpretación del régimen disciplinario (art. 52).",
+    "Para acceder al empleo público se requiere tener dieciséis años y no exceder la edad de jubilación forzosa (art. 56.1.c TREBEP).",
+    "No pueden formar parte de los órganos de selección el personal de elección o designación política, los interinos ni los eventuales (art. 60.2 TREBEP).",
+    "Los funcionarios de carrera se seleccionan por oposición o concurso-oposición; el concurso solo cabe por ley y con carácter excepcional (art. 61.6 TREBEP).",
+    "La condición de funcionario se adquiere por superar el proceso, nombramiento publicado, acatamiento de la Constitución y toma de posesión (art. 62 TREBEP).",
+    "El concurso es el procedimiento normal de provisión; la libre designación permite el cese discrecional (arts. 79 y 80 TREBEP).",
+    "La excedencia voluntaria por interés particular exige cinco años de servicios previos y una permanencia mínima de dos años, y no puede concederse con expediente disciplinario en curso (art. 89.2 TREBEP; art. 29.3.c Ley 30/1984).",
+    "La excedencia por cuidado de familiares dura hasta tres años por sujeto causante, computa a efectos de trienios y reserva el puesto al menos dos años (art. 89.4 TREBEP).",
+    "La suspensión de funciones hace perder el puesto si excede de seis meses; la firme por sanción disciplinaria no puede superar seis años (art. 90 TREBEP)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Edad mínima de acceso al empleo público",
+      "valor": "16 años",
+      "ref": "art. 56.1.c TREBEP"
+    },
+    {
+      "concepto": "Antigüedad para la promoción interna",
+      "valor": "2 años de servicio activo en el subgrupo inferior",
+      "ref": "art. 18.2 TREBEP"
+    },
+    {
+      "concepto": "Reserva de plazas para promoción interna en Canarias",
+      "valor": "Al menos el 30 % de las plazas ofertadas",
+      "ref": "art. 29.1 Ley 2/1987"
+    },
+    {
+      "concepto": "Reducción del temario en promoción interna independiente (Canarias)",
+      "valor": "Entre el 25 % y el 50 %",
+      "ref": "art. 29.4 Ley 2/1987"
+    },
+    {
+      "concepto": "Trienios",
+      "valor": "Una cantidad por cada 3 años de servicio",
+      "ref": "art. 23.b TREBEP"
+    },
+    {
+      "concepto": "Pagas extraordinarias",
+      "valor": "2 al año",
+      "ref": "art. 22.4 TREBEP"
+    },
+    {
+      "concepto": "Permiso por enfermedad grave u hospitalización de familiar de 1.er grado",
+      "valor": "5 días hábiles",
+      "ref": "art. 48.a TREBEP"
+    },
+    {
+      "concepto": "Permiso por enfermedad grave u hospitalización de familiar de 2.º grado",
+      "valor": "4 días hábiles",
+      "ref": "art. 48.a TREBEP"
+    },
+    {
+      "concepto": "Permiso por fallecimiento de familiar de 1.er grado",
+      "valor": "3 días hábiles (misma localidad) / 5 días hábiles (distinta localidad)",
+      "ref": "art. 48.a TREBEP"
+    },
+    {
+      "concepto": "Permiso por fallecimiento de familiar de 2.º grado",
+      "valor": "2 días hábiles (misma localidad) / 4 días hábiles (distinta localidad)",
+      "ref": "art. 48.a TREBEP"
+    },
+    {
+      "concepto": "Permiso por traslado de domicilio sin cambio de residencia",
+      "valor": "1 día",
+      "ref": "art. 48.b TREBEP"
+    },
+    {
+      "concepto": "Permiso por lactancia",
+      "valor": "1 hora diaria (divisible) por hijo menor de 12 meses",
+      "ref": "art. 48.f TREBEP"
+    },
+    {
+      "concepto": "Ausencia por hijos prematuros u hospitalizados",
+      "valor": "Hasta 2 horas diarias retribuidas",
+      "ref": "art. 48.g TREBEP"
+    },
+    {
+      "concepto": "Reducción por enfermedad muy grave de familiar de 1.er grado",
+      "valor": "Hasta el 50 % de la jornada, retribuida, máximo 1 mes",
+      "ref": "art. 48.i TREBEP"
+    },
+    {
+      "concepto": "Asuntos particulares",
+      "valor": "6 días al año",
+      "ref": "art. 48.k TREBEP"
+    },
+    {
+      "concepto": "Permiso por matrimonio o pareja de hecho",
+      "valor": "15 días",
+      "ref": "art. 48.l TREBEP"
+    },
+    {
+      "concepto": "Días adicionales de asuntos particulares por antigüedad",
+      "valor": "Hasta 2 al cumplir el 6.º trienio y 1 más por trienio desde el 8.º",
+      "ref": "DA 13.ª TREBEP"
+    },
+    {
+      "concepto": "Días adicionales de vacaciones por antigüedad",
+      "valor": "Hasta 4",
+      "ref": "DA 14.ª TREBEP"
+    },
+    {
+      "concepto": "Permiso retribuido para funcionarias gestantes",
+      "valor": "Desde la semana 37 (35 si gestación múltiple)",
+      "ref": "DA 16.ª TREBEP"
+    },
+    {
+      "concepto": "Permiso por nacimiento, adopción o del otro progenitor",
+      "valor": "19 semanas; 32 en monoparentalidad",
+      "ref": "art. 49.a, b y c TREBEP"
+    },
+    {
+      "concepto": "Descanso obligatorio tras el parto o la resolución",
+      "valor": "6 semanas ininterrumpidas a jornada completa",
+      "ref": "art. 49 TREBEP"
+    },
+    {
+      "concepto": "Ampliación por hospitalización del neonato",
+      "valor": "Máximo 13 semanas adicionales",
+      "ref": "art. 49.a TREBEP"
+    },
+    {
+      "concepto": "Ampliación por discapacidad del hijo",
+      "valor": "2 semanas más para cada progenitor",
+      "ref": "art. 49.a TREBEP"
+    },
+    {
+      "concepto": "Preaviso para el disfrute interrumpido de los permisos del art. 49",
+      "valor": "Al menos 15 días",
+      "ref": "art. 49 TREBEP"
+    },
+    {
+      "concepto": "Permiso adicional por adopción internacional",
+      "valor": "Hasta 2 meses, solo retribuciones básicas",
+      "ref": "art. 49.b TREBEP"
+    },
+    {
+      "concepto": "Permiso parental",
+      "valor": "Hasta 8 semanas, no retribuido, hasta que el menor cumpla 8 años",
+      "ref": "art. 49.g TREBEP"
+    },
+    {
+      "concepto": "Cuidado de hijo con cáncer o enfermedad grave",
+      "valor": "Reducción de al menos la mitad, íntegra, hasta los 23 años (26 si discapacidad igual o superior al 65 %)",
+      "ref": "art. 49.e TREBEP"
+    },
+    {
+      "concepto": "Reducción de jornada por violencia de género con retribución íntegra",
+      "valor": "Si la reducción es de un tercio o menos",
+      "ref": "art. 49.d TREBEP"
+    },
+    {
+      "concepto": "Vacaciones anuales",
+      "valor": "22 días hábiles (sábados no hábiles)",
+      "ref": "art. 50.1 TREBEP"
+    },
+    {
+      "concepto": "Plazo para disfrutar vacaciones no disfrutadas por IT o maternidad",
+      "valor": "Hasta 18 meses desde el final del año en que se originaron",
+      "ref": "art. 50.2 TREBEP"
+    },
+    {
+      "concepto": "Reserva de plazas para personas con discapacidad",
+      "valor": "No inferior al 7 %, con al menos el 2 % para discapacidad intelectual",
+      "ref": "art. 59.1 TREBEP"
+    },
+    {
+      "concepto": "Edad de descendientes de nacionales UE con acceso",
+      "valor": "Menores de 21 años o mayores dependientes",
+      "ref": "art. 57.2 TREBEP"
+    },
+    {
+      "concepto": "Plazas adicionales convocables sobre la OEP",
+      "valor": "Hasta un 10 % adicional",
+      "ref": "art. 70.1 TREBEP"
+    },
+    {
+      "concepto": "Ejecución de la Oferta de Empleo Público",
+      "valor": "Plazo improrrogable de 3 años",
+      "ref": "art. 70.1 TREBEP"
+    },
+    {
+      "concepto": "Composición mínima de los tribunales",
+      "valor": "Número impar, no inferior a 5 miembros",
+      "ref": "art. 11 RD 364/1995"
+    },
+    {
+      "concepto": "Exclusión de tribunales por preparar aspirantes",
+      "valor": "5 años anteriores a la convocatoria",
+      "ref": "art. 13.2 RD 364/1995"
+    },
+    {
+      "concepto": "Resolución de admitidos y excluidos",
+      "valor": "Máximo 1 mes; subsanación 10 días hábiles",
+      "ref": "art. 20.1 RD 364/1995"
+    },
+    {
+      "concepto": "Aportación de documentación por los aprobados",
+      "valor": "20 días naturales",
+      "ref": "art. 23.1 RD 364/1995"
+    },
+    {
+      "concepto": "Anuncio de pruebas sucesivas",
+      "valor": "12 horas (mismo ejercicio) / 24 horas (nuevo ejercicio)",
+      "ref": "art. 21 RD 364/1995"
+    },
+    {
+      "concepto": "Jubilación forzosa",
+      "valor": "65 años; prolongación como máximo hasta los 70",
+      "ref": "art. 67.3 TREBEP"
+    },
+    {
+      "concepto": "Solicitud de prolongación en el servicio activo (Canarias)",
+      "valor": "Desde 6 meses hasta 4 meses antes de la edad de jubilación; resolución en 3 meses",
+      "ref": "art. 36.2 Ley 2/1987"
+    },
+    {
+      "concepto": "Permanencia mínima para participar en concursos",
+      "valor": "2 años en el puesto de destino definitivo",
+      "ref": "art. 41.2 RD 364/1995"
+    },
+    {
+      "concepto": "Plazo de solicitudes en concurso y libre designación",
+      "valor": "15 días hábiles",
+      "ref": "arts. 42.2 y 53 RD 364/1995"
+    },
+    {
+      "concepto": "Resolución del concurso",
+      "valor": "2 meses desde el fin del plazo de solicitudes",
+      "ref": "art. 47.1 RD 364/1995"
+    },
+    {
+      "concepto": "Toma de posesión tras concurso",
+      "valor": "3 días hábiles sin cambio de residencia; 1 mes con cambio o reingreso",
+      "ref": "art. 48.1 RD 364/1995"
+    },
+    {
+      "concepto": "Cese en el puesto anterior",
+      "valor": "3 días hábiles desde la publicación de la resolución; diferible hasta 20 días hábiles",
+      "ref": "art. 48 RD 364/1995"
+    },
+    {
+      "concepto": "Nombramiento en libre designación",
+      "valor": "1 mes, prorrogable 1 mes más",
+      "ref": "art. 56.1 RD 364/1995"
+    },
+    {
+      "concepto": "Comisión de servicios (AGE)",
+      "valor": "1 año prorrogable por otro",
+      "ref": "art. 64.3 RD 364/1995"
+    },
+    {
+      "concepto": "Comisión de servicios (Canarias)",
+      "valor": "6 meses; excepcionalmente hasta 18 meses",
+      "ref": "art. 38.2 Ley 2/1987"
+    },
+    {
+      "concepto": "Resolución de concursos de méritos en Canarias",
+      "valor": "Máximo 15 meses",
+      "ref": "art. 78.2 Ley 2/1987"
+    },
+    {
+      "concepto": "Consolidación del grado personal",
+      "valor": "2 años continuados o 3 con interrupción; 30 niveles",
+      "ref": "art. 70 RD 364/1995; art. 27 Ley 2/1987"
+    },
+    {
+      "concepto": "Servicios especiales por misión internacional",
+      "valor": "Misión superior a 6 meses",
+      "ref": "art. 87.1.b TREBEP"
+    },
+    {
+      "concepto": "Reingreso desde servicios especiales",
+      "valor": "1 mes desde la pérdida de la condición",
+      "ref": "art. 9.1 RD 365/1995"
+    },
+    {
+      "concepto": "Excedencia voluntaria por interés particular: servicios previos",
+      "valor": "5 años inmediatamente anteriores",
+      "ref": "art. 89.2 TREBEP"
+    },
+    {
+      "concepto": "Excedencia voluntaria por interés particular: permanencia mínima",
+      "valor": "2 años continuados",
+      "ref": "art. 29.3.c Ley 30/1984; art. 16.3 RD 365/1995"
+    },
+    {
+      "concepto": "Excedencia por interés particular en Canarias",
+      "valor": "3 años de servicios; permanencia mínima 1 año; denegación motivada en 1 mes",
+      "ref": "art. 39.5 y 6 Ley 2/1987"
+    },
+    {
+      "concepto": "Pérdida de la condición por excedencia prolongada (Canarias)",
+      "valor": "Más de 10 años ininterrumpidos en excedencia por interés particular",
+      "ref": "art. 34 Ley 2/1987"
+    },
+    {
+      "concepto": "Excedencia por agrupación familiar (AGE)",
+      "valor": "Mínimo 2 años y máximo 15",
+      "ref": "art. 17.1 RD 365/1995"
+    },
+    {
+      "concepto": "Excedencia por cuidado de familiares",
+      "valor": "Hasta 3 años por sujeto causante; reserva del puesto 2 años",
+      "ref": "art. 89.4 TREBEP"
+    },
+    {
+      "concepto": "Excedencia por violencia de género: reserva",
+      "valor": "6 meses, prorrogables por periodos de 3 hasta un máximo de 18",
+      "ref": "art. 89.5 TREBEP"
+    },
+    {
+      "concepto": "Excedencia por violencia de género: retribuciones",
+      "valor": "Íntegras durante los 2 primeros meses",
+      "ref": "art. 89.5 TREBEP"
+    },
+    {
+      "concepto": "Pérdida del puesto por suspensión",
+      "valor": "Cuando exceda de 6 meses",
+      "ref": "art. 90.1 TREBEP"
+    },
+    {
+      "concepto": "Suspensión firme por sanción disciplinaria",
+      "valor": "Máximo 6 años",
+      "ref": "art. 90.2 TREBEP"
+    },
+    {
+      "concepto": "Solicitud de reingreso tras suspensión firme",
+      "valor": "1 mes antes de su finalización; si no se concede en 6 meses, excedencia forzosa",
+      "ref": "art. 22 RD 365/1995"
+    },
+    {
+      "concepto": "Movilidad interadministrativa tras cese en libre designación",
+      "valor": "1 mes para adscripción en destino y 1 mes para pedir el reingreso en origen",
+      "ref": "art. 84.3 TREBEP"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Carrera horizontal",
+      "definicion": "Progresión de grado, categoría, escalón u otros conceptos análogos sin necesidad de cambiar de puesto de trabajo (art. 16.3.a TREBEP)."
+    },
+    {
+      "termino": "Carrera vertical",
+      "definicion": "Ascenso en la estructura de puestos de trabajo por los procedimientos de provisión (art. 16.3.b TREBEP)."
+    },
+    {
+      "termino": "Promoción interna vertical",
+      "definicion": "Ascenso desde un cuerpo o escala de un subgrupo o grupo a otro superior (art. 16.3.c TREBEP)."
+    },
+    {
+      "termino": "Promoción interna horizontal",
+      "definicion": "Acceso a cuerpos o escalas del mismo subgrupo profesional (art. 16.3.d TREBEP)."
+    },
+    {
+      "termino": "Evaluación del desempeño",
+      "definicion": "Procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados (art. 20.1 TREBEP)."
+    },
+    {
+      "termino": "Oferta de Empleo Público",
+      "definicion": "Instrumento que recoge las necesidades de personal de nuevo ingreso con asignación presupuestaria y obliga a convocar los procesos selectivos (art. 70 TREBEP)."
+    },
+    {
+      "termino": "Oposición",
+      "definicion": "Sistema selectivo consistente en una o más pruebas para determinar la capacidad y aptitud de los aspirantes y fijar su orden de prelación (art. 4.2 RD 364/1995)."
+    },
+    {
+      "termino": "Concurso-oposición",
+      "definicion": "Sistema selectivo que combina sucesivamente la valoración de méritos y la realización de pruebas (art. 4.2 RD 364/1995)."
+    },
+    {
+      "termino": "Concurso de provisión",
+      "definicion": "Procedimiento normal de provisión de puestos consistente en la valoración de méritos y capacidades por órganos colegiados técnicos (art. 79 TREBEP)."
+    },
+    {
+      "termino": "Libre designación",
+      "definicion": "Procedimiento de provisión consistente en la apreciación discrecional de la idoneidad de los candidatos; sus titulares pueden ser cesados discrecionalmente (art. 80 TREBEP)."
+    },
+    {
+      "termino": "Comisión de servicios",
+      "definicion": "Forma temporal de provisión de un puesto vacante en caso de urgente e inaplazable necesidad, con reserva del puesto de origen (art. 64 RD 364/1995)."
+    },
+    {
+      "termino": "Relación de Puestos de Trabajo",
+      "definicion": "Instrumento organizativo público que recoge denominación, grupos, cuerpos o escalas, sistemas de provisión y retribuciones complementarias de los puestos (art. 74 TREBEP)."
+    },
+    {
+      "termino": "Grado personal",
+      "definicion": "Nivel consolidado por el funcionario tras desempeñar puestos de un nivel durante dos años continuados o tres con interrupción (art. 70 RD 364/1995)."
+    },
+    {
+      "termino": "Servicios especiales",
+      "definicion": "Situación del funcionario que pasa a desempeñar cargos públicos o políticos, con retribución del cargo, conservación de trienios y cómputo del tiempo (art. 87 TREBEP)."
+    },
+    {
+      "termino": "Excedencia voluntaria por interés particular",
+      "definicion": "Situación a petición propia, subordinada a las necesidades del servicio, sin retribución ni cómputo de tiempo (art. 89.2 TREBEP)."
+    },
+    {
+      "termino": "Excedencia forzosa",
+      "definicion": "Situación derivada de la supresión del puesto o de la expectativa de destino, con derecho a retribuciones básicas y cómputo para trienios (art. 13 RD 365/1995; art. 40 Ley 2/1987)."
+    },
+    {
+      "termino": "Suspensión de funciones",
+      "definicion": "Situación en que el funcionario queda privado del ejercicio de sus funciones y de los derechos inherentes a su condición; puede ser provisional o firme (art. 90 TREBEP)."
+    },
+    {
+      "termino": "Teletrabajo",
+      "definicion": "Prestación de servicios a distancia mediante tecnologías de la información, expresamente autorizada, voluntaria y reversible (art. 47 bis TREBEP)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Adquisición de la condición: SNAT",
+      "texto": "Supera el proceso, Nombramiento publicado, Acatamiento de la Constitución, Toma de posesión (art. 62)."
+    },
+    {
+      "titulo": "Pérdida de la condición: RENJUSEIN",
+      "texto": "REnuncia, Nacionalidad, JUbilación, SEparación, INhabilitación (art. 63)."
+    },
+    {
+      "titulo": "Permisos por familia: 5-4, 3-5, 2-4",
+      "texto": "Enfermedad grave: 5 días en 1.er grado y 4 en 2.º. Fallecimiento: 3 o 5 en 1.er grado y 2 o 4 en 2.º, según misma o distinta localidad."
+    },
+    {
+      "titulo": "Interés particular: 5 y 2",
+      "texto": "Cinco años trabajando para irte, dos años fuera como mínimo. En Canarias baja a 3 y 1."
+    },
+    {
+      "titulo": "Violencia de género: 6-3-18-2",
+      "texto": "6 meses de reserva, prórrogas de 3 hasta 18, y 2 meses con sueldo íntegro."
+    },
+    {
+      "titulo": "Situaciones: SASES",
+      "texto": "Servicio activo, servicios eSpeciales, Servicio en otras AAPP, Excedencia, Suspensión (art. 85)."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Qué garantiza la inamovilidad del funcionario de carrera?",
+      "reverso": "La permanencia en su condición de funcionario, no en un puesto concreto; garantiza objetividad e imparcialidad.",
+      "ref": "arts. 1.3.e y 14.a TREBEP"
+    },
+    {
+      "frente": "Derechos individuales ejercidos colectivamente.",
+      "reverso": "Libertad sindical, negociación colectiva, huelga, conflictos colectivos y reunión.",
+      "ref": "art. 15 TREBEP"
+    },
+    {
+      "frente": "Modalidades de carrera del art. 16.3 TREBEP.",
+      "reverso": "Carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal.",
+      "ref": "art. 16.3 TREBEP"
+    },
+    {
+      "frente": "Requisitos de la promoción interna.",
+      "reverso": "Requisitos de ingreso, al menos 2 años de servicio activo en el subgrupo inferior y superar las pruebas.",
+      "ref": "art. 18.2 TREBEP"
+    },
+    {
+      "frente": "¿Qué es la evaluación del desempeño?",
+      "reverso": "El procedimiento que mide y valora la conducta profesional y el rendimiento o logro de resultados.",
+      "ref": "art. 20.1 TREBEP"
+    },
+    {
+      "frente": "Componentes de las retribuciones básicas.",
+      "reverso": "Sueldo del subgrupo o grupo y trienios (por cada tres años de servicio).",
+      "ref": "art. 23 TREBEP"
+    },
+    {
+      "frente": "Permiso por hospitalización de un hijo (1.er grado).",
+      "reverso": "5 días hábiles.",
+      "ref": "art. 48.a TREBEP"
+    },
+    {
+      "frente": "Permiso por fallecimiento de un abuelo (2.º grado) en otra localidad.",
+      "reverso": "4 días hábiles.",
+      "ref": "art. 48.a TREBEP"
+    },
+    {
+      "frente": "Permiso por matrimonio.",
+      "reverso": "15 días.",
+      "ref": "art. 48.l TREBEP"
+    },
+    {
+      "frente": "Días de asuntos particulares.",
+      "reverso": "6 días al año, más los adicionales por antigüedad (DA 13.ª).",
+      "ref": "art. 48.k TREBEP"
+    },
+    {
+      "frente": "Duración del permiso por nacimiento para la madre biológica.",
+      "reverso": "19 semanas (32 en monoparentalidad); 6 semanas obligatorias tras el parto.",
+      "ref": "art. 49.a TREBEP"
+    },
+    {
+      "frente": "Características del permiso parental.",
+      "reverso": "No retribuido, hasta 8 semanas, hasta que el menor cumpla 8 años, preaviso de 15 días.",
+      "ref": "art. 49.g TREBEP"
+    },
+    {
+      "frente": "Vacaciones de los funcionarios.",
+      "reverso": "22 días hábiles por año natural; los sábados no son hábiles.",
+      "ref": "art. 50.1 TREBEP"
+    },
+    {
+      "frente": "¿Se pueden cobrar las vacaciones no disfrutadas?",
+      "reverso": "Solo si la relación termina por causas ajenas a la voluntad del funcionario (jubilación por incapacidad o fallecimiento, hasta 18 meses).",
+      "ref": "art. 50.3 TREBEP"
+    },
+    {
+      "frente": "Límite de la obediencia según el art. 54.3 TREBEP.",
+      "reverso": "No se obedecen las órdenes que constituyan una infracción manifiesta del ordenamiento; se ponen en conocimiento de la inspección.",
+      "ref": "art. 54.3 TREBEP"
+    },
+    {
+      "frente": "¿Qué regalos pueden aceptarse?",
+      "reverso": "Solo los que no vayan más allá de los usos habituales, sociales y de cortesía.",
+      "ref": "art. 54.6 TREBEP"
+    },
+    {
+      "frente": "Edad mínima de acceso al empleo público.",
+      "reverso": "16 años.",
+      "ref": "art. 56.1.c TREBEP"
+    },
+    {
+      "frente": "Reserva para personas con discapacidad.",
+      "reverso": "No inferior al 7 % de las vacantes; al menos el 2 % de las plazas para discapacidad intelectual.",
+      "ref": "art. 59.1 TREBEP"
+    },
+    {
+      "frente": "¿Quién no puede formar parte de un órgano de selección?",
+      "reverso": "El personal de elección o designación política, los funcionarios interinos y el personal eventual.",
+      "ref": "art. 60.2 TREBEP"
+    },
+    {
+      "frente": "Sistemas selectivos de funcionarios de carrera.",
+      "reverso": "Oposición y concurso-oposición; el concurso solo por ley y excepcionalmente.",
+      "ref": "art. 61.6 TREBEP"
+    },
+    {
+      "frente": "Plazo de ejecución de la OEP.",
+      "reverso": "Improrrogable de 3 años; se pueden convocar hasta un 10 % adicional de plazas.",
+      "ref": "art. 70.1 TREBEP"
+    },
+    {
+      "frente": "Requisitos sucesivos para adquirir la condición de funcionario.",
+      "reverso": "Superar el proceso selectivo, nombramiento publicado, acatamiento de la Constitución y toma de posesión.",
+      "ref": "art. 62.1 TREBEP"
+    },
+    {
+      "frente": "¿Cuándo no puede aceptarse la renuncia?",
+      "reverso": "Si el funcionario está sujeto a expediente disciplinario o tiene auto de procesamiento o de apertura de juicio oral.",
+      "ref": "art. 64.2 TREBEP"
+    },
+    {
+      "frente": "Edad de jubilación forzosa y prolongación.",
+      "reverso": "65 años; prolongación como máximo hasta los 70.",
+      "ref": "art. 67.3 TREBEP"
+    },
+    {
+      "frente": "Plazo de toma de posesión tras un concurso con cambio de residencia.",
+      "reverso": "1 mes (3 días hábiles si no hay cambio de residencia).",
+      "ref": "art. 48.1 RD 364/1995"
+    },
+    {
+      "frente": "Permanencia mínima para concursar.",
+      "reverso": "2 años en el puesto de destino definitivo.",
+      "ref": "art. 41.2 RD 364/1995"
+    },
+    {
+      "frente": "¿Cómo se consolida el grado personal?",
+      "reverso": "Desempeñando puestos del nivel durante 2 años continuados o 3 con interrupción.",
+      "ref": "art. 70.2 RD 364/1995"
+    },
+    {
+      "frente": "Situaciones administrativas del art. 85 TREBEP.",
+      "reverso": "Servicio activo, servicios especiales, servicio en otras AAPP, excedencia y suspensión de funciones.",
+      "ref": "art. 85.1 TREBEP"
+    },
+    {
+      "frente": "Retribuciones en servicios especiales.",
+      "reverso": "Las del puesto o cargo que desempeñe, conservando el derecho a los trienios.",
+      "ref": "art. 87.2 TREBEP"
+    },
+    {
+      "frente": "Requisitos de la excedencia voluntaria por interés particular.",
+      "reverso": "5 años de servicios efectivos inmediatamente anteriores; subordinada al servicio; no si hay expediente disciplinario; mínimo 2 años de permanencia.",
+      "ref": "art. 89.2 TREBEP; art. 16 RD 365/1995"
+    },
+    {
+      "frente": "Reserva de puesto en la excedencia por cuidado de familiares.",
+      "reverso": "Al menos 2 años; después, puesto en la misma localidad y de igual retribución.",
+      "ref": "art. 89.4 TREBEP"
+    },
+    {
+      "frente": "Retribuciones en la excedencia por violencia de género.",
+      "reverso": "Íntegras durante los 2 primeros meses; reserva del puesto 6 meses, prorrogable hasta 18.",
+      "ref": "art. 89.5 TREBEP"
+    },
+    {
+      "frente": "Duración máxima de la suspensión firme disciplinaria.",
+      "reverso": "6 años; la suspensión de más de 6 meses hace perder el puesto.",
+      "ref": "art. 90 TREBEP"
+    },
+    {
+      "frente": "¿Quién resuelve las situaciones administrativas del PAS de la ULL?",
+      "reverso": "El Rector.",
+      "ref": "art. 90 EULL; DA 4.ª RD 365/1995"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el art. 15 TREBEP, ¿cuál de los siguientes es un derecho individual ejercido colectivamente?",
+      "opciones": [
+        "El derecho de huelga",
+        "La libre asociación profesional",
+        "La libertad de expresión",
+        "La formación continua"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 15 enumera libertad sindical, negociación colectiva, huelga, conflictos colectivos y reunión. La libre asociación profesional, la libertad de expresión y la formación son derechos individuales del art. 14.",
+      "ref": "arts. 14 y 15 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El derecho a la formación continua de los empleados públicos se ejercerá, según el art. 14.g) TREBEP:",
+      "opciones": [
+        "Siempre fuera del horario laboral",
+        "Preferentemente en horario laboral",
+        "Exclusivamente en horario laboral",
+        "Fuera del horario salvo autorización del superior"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 14.g) reconoce el derecho a la formación continua y a la actualización permanente, preferentemente en horario laboral.",
+      "ref": "art. 14.g TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La progresión de grado, categoría o escalón sin necesidad de cambiar de puesto de trabajo se denomina:",
+      "opciones": [
+        "Carrera vertical",
+        "Promoción interna horizontal",
+        "Carrera horizontal",
+        "Promoción interna vertical"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 16.3.a) define la carrera horizontal como la progresión de grado, categoría, escalón u otros conceptos análogos sin necesidad de cambiar de puesto.",
+      "ref": "art. 16.3.a TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El acceso a cuerpos o escalas del mismo subgrupo profesional constituye:",
+      "opciones": [
+        "Carrera horizontal",
+        "Carrera vertical",
+        "Promoción interna vertical",
+        "Promoción interna horizontal"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 16.3.d) define la promoción interna horizontal como el acceso a cuerpos o escalas del mismo subgrupo profesional.",
+      "ref": "art. 16.3.d TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para participar en la promoción interna, el TREBEP exige una antigüedad de al menos:",
+      "opciones": [
+        "Dos años de servicio activo en el subgrupo o grupo inferior",
+        "Tres años de servicio activo",
+        "Cinco años en el cuerpo de origen",
+        "Un año desde la toma de posesión"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 18.2 TREBEP exige los requisitos de ingreso, al menos dos años de servicio activo en el subgrupo inferior y superar las pruebas.",
+      "ref": "art. 18.2 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La evaluación del desempeño es, según el art. 20.1 TREBEP:",
+      "opciones": [
+        "El sistema de control horario de los empleados",
+        "El procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados",
+        "La valoración de méritos en los concursos de provisión",
+        "La calificación final del periodo de prácticas"
+      ],
+      "correcta": 1,
+      "explicacion": "Es la definición literal del art. 20.1, que añade que sus sistemas se adecuarán a transparencia, objetividad, imparcialidad y no discriminación.",
+      "ref": "art. 20.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Las retribuciones básicas de los funcionarios están integradas única y exclusivamente por:",
+      "opciones": [
+        "El sueldo, los trienios y el complemento de destino",
+        "El sueldo y el complemento específico",
+        "El sueldo y los trienios",
+        "El sueldo, los trienios y la productividad"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 23 TREBEP: las retribuciones básicas son el sueldo del subgrupo o grupo y los trienios.",
+      "ref": "art. 23 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 30 TREBEP, la deducción proporcional de haberes por la parte de jornada no realizada:",
+      "opciones": [
+        "Es una sanción leve",
+        "Requiere expediente disciplinario previo",
+        "Solo procede si la ausencia supera diez horas al mes",
+        "No tiene carácter sancionador"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 30.1 establece que la deducción proporcional de haberes no tendrá carácter sancionador, sin perjuicio de la sanción disciplinaria que pueda corresponder.",
+      "ref": "art. 30.1 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 47 bis TREBEP, la prestación del servicio mediante teletrabajo:",
+      "opciones": [
+        "Tendrá carácter voluntario y reversible, salvo supuestos excepcionales debidamente justificados",
+        "Es obligatoria cuando lo decida la Administración",
+        "Es incompatible con la modalidad presencial",
+        "No requiere autorización expresa"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 47 bis.2 exige autorización expresa, lo declara compatible con la modalidad presencial y de carácter voluntario y reversible salvo supuestos excepcionales.",
+      "ref": "art. 47 bis.2 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Por hospitalización del cónyuge, un funcionario tiene derecho a un permiso de:",
+      "opciones": [
+        "Tres días hábiles si es en la misma localidad y cinco si es en distinta",
+        "Cinco días hábiles",
+        "Cuatro días hábiles",
+        "Dos días naturales"
+      ],
+      "correcta": 1,
+      "explicacion": "Tras la reforma del art. 48.a) TREBEP, la enfermedad grave u hospitalización del cónyuge, pareja de hecho o parientes de primer grado da derecho a cinco días hábiles, sin distinguir localidad.",
+      "ref": "art. 48.a TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Por fallecimiento de un hermano (segundo grado) en distinta localidad, el permiso del funcionario es de:",
+      "opciones": [
+        "Dos días hábiles",
+        "Cinco días hábiles",
+        "Cuatro días hábiles",
+        "Tres días hábiles"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 48.a) fija para el fallecimiento de familiar de segundo grado dos días hábiles en la misma localidad y cuatro en distinta localidad.",
+      "ref": "art. 48.a TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Por intervención quirúrgica sin hospitalización que precise reposo domiciliario de un nieto, el funcionario tiene derecho a:",
+      "opciones": [
+        "Cinco días hábiles",
+        "Dos días hábiles",
+        "No tiene derecho a permiso",
+        "Cuatro días hábiles"
+      ],
+      "correcta": 3,
+      "explicacion": "El nieto es familiar de segundo grado de consanguinidad; el art. 48.a) concede cuatro días hábiles en esos supuestos.",
+      "ref": "art. 48.a TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El permiso por matrimonio o registro de pareja de hecho es de:",
+      "opciones": [
+        "Quince días",
+        "Diez días hábiles",
+        "Veinte días naturales",
+        "Un mes"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 48.l) TREBEP concede quince días por matrimonio o registro o constitución formalizada por documento público de pareja de hecho.",
+      "ref": "art. 48.l TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "El permiso retribuido para atender a un familiar de primer grado por enfermedad muy grave consiste en:",
+      "opciones": [
+        "Cinco días hábiles adicionales",
+        "Una reducción de hasta el 50 % de la jornada, con carácter retribuido, por un plazo máximo de un mes",
+        "Una reducción de un tercio de la jornada durante seis meses",
+        "Una excedencia de hasta tres meses"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 48.i) TREBEP permite reducir hasta el cincuenta por ciento de la jornada, retribuida, por un máximo de un mes, prorrateable entre titulares.",
+      "ref": "art. 48.i TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El permiso por lactancia de un hijo menor de doce meses consiste en:",
+      "opciones": [
+        "Media hora diaria de ausencia",
+        "Dos horas diarias retribuidas",
+        "Una hora de ausencia del trabajo, que podrá dividirse en dos fracciones",
+        "Una reducción de un tercio de la jornada"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 48.f) reconoce una hora de ausencia divisible en dos fracciones, sustituible por reducción de media hora al inicio y al final o una hora al inicio o al final, o acumulable en jornadas completas.",
+      "ref": "art. 48.f TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el art. 49.a) TREBEP, el permiso por nacimiento para la madre biológica tiene una duración de:",
+      "opciones": [
+        "Dieciséis semanas",
+        "Veinte semanas",
+        "Dieciocho semanas",
+        "Diecinueve semanas"
+      ],
+      "correcta": 3,
+      "explicacion": "La redacción vigente del art. 49.a) fija diecinueve semanas, treinta y dos en caso de monoparentalidad.",
+      "ref": "art. 49.a TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los permisos por nacimiento, adopción y del progenitor distinto de la madre biológica, las semanas obligatorias e ininterrumpidas a jornada completa son:",
+      "opciones": [
+        "Seis",
+        "Cuatro",
+        "Dos",
+        "Ocho"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 49 establece seis semanas ininterrumpidas inmediatamente posteriores al parto o resolución, obligatorias y a jornada completa.",
+      "ref": "art. 49 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En caso de monoparentalidad, el permiso por nacimiento para la madre biológica es de:",
+      "opciones": [
+        "Veintiséis semanas",
+        "Treinta y dos semanas",
+        "Veintidós semanas",
+        "Treinta y ocho semanas"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 49.a) fija treinta y dos semanas en el supuesto de monoparentalidad por existir una única persona progenitora.",
+      "ref": "art. 49.a TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El permiso parental del art. 49.g) TREBEP:",
+      "opciones": [
+        "Es retribuido y dura hasta dieciséis semanas",
+        "Puede transferirse al otro progenitor",
+        "No es retribuido, dura como máximo ocho semanas y puede disfrutarse hasta que el menor cumpla ocho años",
+        "Solo puede disfrutarse a jornada completa"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 49.g) configura un permiso no retribuido de hasta ocho semanas, continuas o discontinuas, hasta que el menor cumpla ocho años, intransferible y a tiempo completo o parcial.",
+      "ref": "art. 49.g TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La funcionaria víctima de violencia de género que reduce su jornada mantiene sus retribuciones íntegras cuando la reducción sea:",
+      "opciones": [
+        "De la mitad o menos",
+        "De dos horas diarias o menos",
+        "De un cuarto o menos",
+        "De un tercio o menos"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 49.d) TREBEP: la funcionaria mantendrá sus retribuciones íntegras cuando reduzca su jornada en un tercio o menos.",
+      "ref": "art. 49.d TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El permiso por cuidado de hijo menor afectado por cáncer u otra enfermedad grave podrá mantenerse, con carácter general, como máximo hasta que el hijo cumpla:",
+      "opciones": [
+        "23 años",
+        "18 años",
+        "21 años",
+        "26 años en todo caso"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 49.e) lo extiende hasta los 23 años; hasta los 26 solo si antes de los 23 se acredita una discapacidad igual o superior al 65 %.",
+      "ref": "art. 49.e TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los funcionarios tienen derecho a unas vacaciones retribuidas de:",
+      "opciones": [
+        "Un mes natural",
+        "Veintidós días hábiles por año natural, sin que los sábados se consideren hábiles",
+        "Treinta días naturales",
+        "Veintidós días hábiles incluidos los sábados"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 50.1 TREBEP fija veintidós días hábiles y dispone que a estos efectos no se considerarán hábiles los sábados.",
+      "ref": "art. 50.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si una incapacidad temporal impide disfrutar las vacaciones en el año natural, podrán disfrutarse siempre que no hayan transcurrido desde el final del año en que se originaron más de:",
+      "opciones": [
+        "Doce meses",
+        "Seis meses",
+        "Dieciocho meses",
+        "Veinticuatro meses"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 50.2 TREBEP permite su disfrute posterior siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se originaron.",
+      "ref": "art. 50.2 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según la disposición adicional decimotercera del TREBEP, las Administraciones pueden establecer días adicionales de asuntos particulares por antigüedad a partir de:",
+      "opciones": [
+        "El tercer trienio",
+        "El quinto trienio",
+        "Los diez años de servicio",
+        "El sexto trienio, hasta dos días, más uno por trienio a partir del octavo"
+      ],
+      "correcta": 3,
+      "explicacion": "La DA 13.ª permite hasta dos días adicionales al cumplir el sexto trienio, incrementándose como máximo en un día por cada trienio cumplido a partir del octavo.",
+      "ref": "DA 13.ª TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Los principios del art. 52 TREBEP, además de inspirar el Código de Conducta:",
+      "opciones": [
+        "Informarán la interpretación y aplicación del régimen disciplinario",
+        "Solo se aplican al personal directivo",
+        "Carecen de valor jurídico",
+        "Sustituyen al régimen de incompatibilidades"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 52, párrafo segundo, establece que los principios y reglas de este capítulo informarán la interpretación y aplicación del régimen disciplinario.",
+      "ref": "art. 52 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Abstenerse en los asuntos en que se tenga un interés personal es, según el TREBEP:",
+      "opciones": [
+        "Un principio de conducta del art. 54",
+        "Un principio ético del art. 53",
+        "Un derecho individual del art. 14",
+        "Una falta leve"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 53.5 TREBEP recoge como principio ético la abstención en asuntos en que se tenga un interés personal y en actividades que puedan suponer conflicto de intereses.",
+      "ref": "art. 53.5 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el art. 54 TREBEP, los empleados públicos obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que:",
+      "opciones": [
+        "No figuren por escrito",
+        "Excedan de su horario de trabajo",
+        "Constituyan una infracción manifiesta del ordenamiento jurídico",
+        "No hayan sido publicadas en el diario oficial"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 54.3 exceptúa las órdenes que constituyan una infracción manifiesta del ordenamiento, que se pondrán en conocimiento de los órganos de inspección.",
+      "ref": "art. 54.3 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Respecto de los regalos, el art. 54.6 TREBEP establece que se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de:",
+      "opciones": [
+        "Un valor de cien euros",
+        "Lo autorizado por el superior jerárquico",
+        "Lo permitido por la RPT",
+        "Los usos habituales, sociales y de cortesía"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 54.6 remite a los usos habituales, sociales y de cortesía, sin perjuicio del Código Penal; no fija una cuantía.",
+      "ref": "art. 54.6 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes NO es un principio del art. 55.2 TREBEP en los procesos selectivos?",
+      "opciones": [
+        "Antigüedad de los aspirantes en la Administración",
+        "Publicidad de las convocatorias y de sus bases",
+        "Independencia y discrecionalidad técnica de los órganos de selección",
+        "Agilidad, sin perjuicio de la objetividad"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 55.2 enumera publicidad, transparencia, imparcialidad y profesionalidad, independencia y discrecionalidad técnica, adecuación y agilidad. La antigüedad no es un principio rector.",
+      "ref": "art. 55.2 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para participar en los procesos selectivos, el art. 56 TREBEP exige tener cumplidos:",
+      "opciones": [
+        "Dieciocho años",
+        "Dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa",
+        "Dieciséis años y no superar los sesenta",
+        "Dieciocho años o la edad fijada en la convocatoria"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 56.1.c) exige dieciséis años y no exceder de la edad máxima de jubilación forzosa; solo por ley puede fijarse otra edad máxima.",
+      "ref": "art. 56.1.c TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los extranjeros con residencia legal en España que no sean nacionales de la Unión Europea pueden acceder a las Administraciones Públicas:",
+      "opciones": [
+        "Como funcionarios de carrera en igualdad de condiciones",
+        "Solo como personal eventual",
+        "Como personal laboral en igualdad de condiciones que los españoles",
+        "En ningún caso"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 57.4 TREBEP permite a los extranjeros con residencia legal acceder como personal laboral en igualdad de condiciones.",
+      "ref": "art. 57.4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En las ofertas de empleo público, la reserva para personas con discapacidad debe ser:",
+      "opciones": [
+        "Del 5 % de las vacantes",
+        "Del 10 %, con un 3 % para discapacidad intelectual",
+        "Del 2 % de los efectivos",
+        "No inferior al 7 % de las vacantes, con al menos un 2 % para discapacidad intelectual"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 59.1 TREBEP fija un cupo no inferior al 7 %, del que al menos el 2 % de las plazas es para discapacidad intelectual, hasta alcanzar progresivamente el 2 % de los efectivos.",
+      "ref": "art. 59.1 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Quién puede formar parte de un órgano de selección según el art. 60 TREBEP?",
+      "opciones": [
+        "Un funcionario de carrera a título individual",
+        "Un funcionario interino con experiencia en la materia",
+        "El personal eventual del Rectorado",
+        "Un representante designado por un sindicato en su nombre"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 60.2 excluye al personal de elección o designación política, interinos y eventuales; y el 60.3 exige pertenencia a título individual, no en representación de nadie.",
+      "ref": "art. 60 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El sistema de concurso de valoración de méritos para el acceso a la condición de funcionario de carrera:",
+      "opciones": [
+        "Es el sistema ordinario",
+        "Solo puede aplicarse en virtud de ley y con carácter excepcional",
+        "Puede establecerlo libremente cada convocatoria",
+        "Está prohibido en todo caso"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 61.6 TREBEP: los sistemas selectivos de funcionarios son la oposición y el concurso-oposición; solo en virtud de ley podrá aplicarse, con carácter excepcional, el concurso.",
+      "ref": "art. 61.6 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Si se producen renuncias de aspirantes seleccionados antes de su nombramiento, el órgano convocante puede:",
+      "opciones": [
+        "Declarar desierto el proceso",
+        "Nombrar a los interinos que ocupaban las plazas",
+        "Requerir al órgano de selección una relación complementaria de los aspirantes que sigan a los propuestos",
+        "Convocar una prueba extraordinaria"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 61.8, párrafo segundo, TREBEP permite requerir una relación complementaria para asegurar la cobertura de las plazas.",
+      "ref": "art. 61.8 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La ejecución de la Oferta de Empleo Público deberá desarrollarse dentro del plazo improrrogable de:",
+      "opciones": [
+        "Un año",
+        "Dos años",
+        "Cuatro años",
+        "Tres años"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 70.1 TREBEP fija el plazo improrrogable de tres años y permite convocar hasta un diez por ciento adicional de plazas.",
+      "ref": "art. 70.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el Real Decreto 364/1995, los tribunales de selección estarán constituidos por:",
+      "opciones": [
+        "Un número impar de miembros, funcionarios de carrera, no inferior a cinco",
+        "Un número par de miembros, no inferior a cuatro",
+        "Tres miembros como mínimo, uno de ellos sindical",
+        "Siete miembros, incluido un representante del personal"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 11 RD 364/1995 exige número impar de miembros, funcionarios de carrera, no inferior a cinco, con igual número de suplentes.",
+      "ref": "art. 11 RD 364/1995",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el Real Decreto 364/1995, los aspirantes propuestos deben aportar la documentación acreditativa de los requisitos en el plazo de:",
+      "opciones": [
+        "Diez días hábiles",
+        "Veinte días naturales",
+        "Un mes",
+        "Quince días hábiles"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 23.1 RD 364/1995 fija veinte días naturales desde la publicación de las relaciones definitivas de aprobados.",
+      "ref": "art. 23.1 RD 364/1995",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El orden de los requisitos para adquirir la condición de funcionario de carrera según el art. 62 TREBEP es:",
+      "opciones": [
+        "Nombramiento, superación del proceso, toma de posesión y acatamiento",
+        "Superación del proceso, toma de posesión, nombramiento y acatamiento",
+        "Superación del proceso, nombramiento publicado, acatamiento de la Constitución y toma de posesión",
+        "Acatamiento, superación del proceso, nombramiento y toma de posesión"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 62.1 exige el cumplimiento sucesivo de: a) superación del proceso, b) nombramiento publicado, c) acatamiento y d) toma de posesión.",
+      "ref": "art. 62.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es causa de pérdida de la condición de funcionario de carrera según el art. 63 TREBEP?",
+      "opciones": [
+        "La renuncia",
+        "La jubilación total",
+        "La pérdida de la nacionalidad",
+        "La sanción de suspensión firme de funciones"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 63 recoge renuncia, pérdida de nacionalidad, jubilación total, separación del servicio firme e inhabilitación firme. La suspensión no hace perder la condición.",
+      "ref": "art. 63 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "No podrá ser aceptada la renuncia a la condición de funcionario cuando:",
+      "opciones": [
+        "El funcionario esté sujeto a expediente disciplinario",
+        "El funcionario tenga menos de tres años de servicio",
+        "El funcionario esté en excedencia",
+        "No lo informe la Junta de Personal"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 64.2 impide aceptar la renuncia si hay expediente disciplinario o auto de procesamiento o de apertura de juicio oral por delito.",
+      "ref": "art. 64.2 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La jubilación forzosa se declara de oficio al cumplir el funcionario:",
+      "opciones": [
+        "67 años",
+        "65 años, pudiendo solicitarse la prolongación como máximo hasta los 70",
+        "70 años",
+        "65 años, sin posibilidad de prolongación"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 67.3 TREBEP fija los sesenta y cinco años y permite solicitar la prolongación como máximo hasta los setenta, con resolución motivada.",
+      "ref": "art. 67.3 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Quien perdió la condición de funcionario por jubilación por incapacidad permanente, desaparecida la causa, puede solicitar la rehabilitación, que:",
+      "opciones": [
+        "Se concederá con carácter excepcional",
+        "Se entiende desestimada si no se resuelve en plazo",
+        "Le será concedida",
+        "Requiere nuevo proceso selectivo"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 68.1 TREBEP dispone que en los casos de pérdida de nacionalidad o jubilación por incapacidad permanente la rehabilitación le será concedida.",
+      "ref": "art. 68.1 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El procedimiento normal de provisión de puestos de trabajo del personal funcionario es:",
+      "opciones": [
+        "La libre designación",
+        "La comisión de servicios",
+        "La redistribución de efectivos",
+        "El concurso"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 79.1 TREBEP califica el concurso como procedimiento normal de provisión.",
+      "ref": "art. 79.1 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los titulares de puestos de libre designación:",
+      "opciones": [
+        "Pueden ser cesados discrecionalmente, debiendo asignárseles un puesto conforme al sistema de carrera",
+        "Solo pueden ser cesados por expediente disciplinario",
+        "Tienen derecho a permanecer cinco años en el puesto",
+        "Pierden la condición de funcionario al cesar"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 80.4 TREBEP permite el cese discrecional y obliga a asignar un puesto conforme al sistema de carrera.",
+      "ref": "art. 80.4 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Según el Real Decreto 364/1995, el plazo de toma de posesión de un destino obtenido por concurso que implica cambio de residencia es de:",
+      "opciones": [
+        "Tres días hábiles",
+        "Un mes",
+        "Quince días hábiles",
+        "Ocho días"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 48.1 RD 364/1995: tres días hábiles si no implica cambio de residencia y un mes si lo implica o supone reingreso.",
+      "ref": "art. 48.1 RD 364/1995",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el Real Decreto 364/1995, para participar en concursos de provisión los funcionarios deben permanecer en cada puesto de destino definitivo un mínimo de:",
+      "opciones": [
+        "Un año",
+        "Tres años",
+        "Dos años",
+        "Seis meses"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 41.2 RD 364/1995 (y art. 20.1.f Ley 30/1984) exige dos años, salvo en el ámbito de la misma Secretaría de Estado o Departamento, remoción o supresión del puesto.",
+      "ref": "art. 41.2 RD 364/1995",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La funcionaria víctima de violencia de género obligada a abandonar su puesto tiene derecho al traslado a otro puesto de su cuerpo de análogas características:",
+      "opciones": [
+        "Solo si existe vacante de necesaria cobertura en la misma localidad",
+        "Tras un año de servicios en el puesto",
+        "Previo concurso específico",
+        "Sin necesidad de que sea vacante de necesaria cobertura, con la consideración de traslado forzoso"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 82.1 TREBEP reconoce el derecho sin necesidad de vacante de necesaria cobertura y le da la consideración de traslado forzoso.",
+      "ref": "art. 82.1 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las relaciones de puestos de trabajo comprenderán, al menos, según el art. 74 TREBEP:",
+      "opciones": [
+        "La denominación, grupos de clasificación, cuerpos o escalas, sistemas de provisión y retribuciones complementarias",
+        "El nombre de los titulares y sus retribuciones básicas",
+        "Las funciones de cada puesto y el horario",
+        "La plantilla presupuestaria y los trienios"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 74 TREBEP fija ese contenido mínimo y declara públicos esos instrumentos.",
+      "ref": "art. 74 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El grado personal se consolida por el desempeño de uno o más puestos del nivel correspondiente durante:",
+      "opciones": [
+        "Un año continuado",
+        "Dos años continuados o tres con interrupción",
+        "Tres años continuados o cuatro con interrupción",
+        "Cinco años"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 70.2 RD 364/1995 y art. 27.1 Ley 2/1987: dos años continuados o tres con interrupción.",
+      "ref": "art. 70.2 RD 364/1995",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una situación administrativa enumerada en el art. 85.1 TREBEP?",
+      "opciones": [
+        "Servicios especiales",
+        "Servicio en otras Administraciones Públicas",
+        "Expectativa de destino",
+        "Suspensión de funciones"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 85.1 enumera servicio activo, servicios especiales, servicio en otras AAPP, excedencia y suspensión. La expectativa de destino está en el RD 365/1995 y la Ley 30/1984.",
+      "ref": "art. 85.1 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "El funcionario autorizado para realizar una misión en un organismo internacional pasa a servicios especiales cuando la misión tenga una duración:",
+      "opciones": [
+        "Superior a tres meses",
+        "Superior a un año",
+        "De cualquier duración",
+        "Superior a seis meses"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 87.1.b) TREBEP exige una misión por periodo determinado superior a seis meses.",
+      "ref": "art. 87.1.b TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los funcionarios en servicios especiales perciben:",
+      "opciones": [
+        "Las retribuciones del puesto o cargo que desempeñen, sin perjuicio del derecho a percibir los trienios reconocidos",
+        "Las retribuciones de su puesto de funcionario",
+        "Solo las retribuciones básicas",
+        "Las retribuciones de ambos puestos"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 87.2 TREBEP: perciben las retribuciones del puesto o cargo y no las de funcionario, sin perjuicio de los trienios.",
+      "ref": "art. 87.2 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Para obtener la excedencia voluntaria por interés particular, el TREBEP exige haber prestado servicios efectivos en cualquier Administración durante un periodo mínimo de:",
+      "opciones": [
+        "Tres años inmediatamente anteriores",
+        "Cinco años inmediatamente anteriores",
+        "Dos años continuados",
+        "Diez años"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 89.2 TREBEP exige cinco años inmediatamente anteriores, aunque las leyes de función pública pueden fijar una duración menor.",
+      "ref": "art. 89.2 TREBEP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La excedencia voluntaria por interés particular NO podrá declararse cuando:",
+      "opciones": [
+        "El funcionario tenga hijos menores de tres años",
+        "El funcionario pertenezca al subgrupo C1",
+        "Al funcionario se le instruya expediente disciplinario",
+        "El funcionario haya disfrutado antes de otra excedencia"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 89.2 TREBEP dispone que no podrá declararse cuando al funcionario se le instruya expediente disciplinario; además queda subordinada a las necesidades del servicio.",
+      "ref": "art. 89.2 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley 2/1987 de la Función Pública Canaria, la excedencia voluntaria por interés particular requiere haber completado:",
+      "opciones": [
+        "Cinco años de servicios y permanecer en ella al menos dos",
+        "Un año de servicios y permanecer seis meses",
+        "Diez años de servicios",
+        "Tres años de servicios efectivos desde el acceso o el reingreso y permanecer en ella al menos un año"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 39.5 de la Ley 2/1987 exige tres años de servicios efectivos y una permanencia mínima de un año; la denegación debe ser motivada en un mes (art. 39.6).",
+      "ref": "art. 39.5 Ley 2/1987",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En la excedencia por cuidado de familiares, el puesto de trabajo desempeñado se reservará al menos durante:",
+      "opciones": [
+        "Dos años",
+        "Un año",
+        "Tres años",
+        "Seis meses"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 89.4 TREBEP reserva el puesto al menos dos años; después, la reserva lo es a un puesto en la misma localidad y de igual retribución.",
+      "ref": "art. 89.4 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Durante la excedencia por razón de violencia de género, la funcionaria tiene derecho a percibir las retribuciones íntegras durante:",
+      "opciones": [
+        "Los seis primeros meses",
+        "Los dos primeros meses",
+        "Todo el periodo de reserva",
+        "El primer año"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 89.5 TREBEP reconoce retribuciones íntegras durante los dos primeros meses; la reserva del puesto es de seis meses prorrogables hasta dieciocho.",
+      "ref": "art. 89.5 TREBEP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "La suspensión firme de funciones impuesta por sanción disciplinaria no podrá exceder de:",
+      "opciones": [
+        "Tres años",
+        "Un año",
+        "Seis años",
+        "Seis meses"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 90.2 TREBEP fija un máximo de seis años; y la suspensión determina la pérdida del puesto cuando exceda de seis meses (art. 90.1).",
+      "ref": "art. 90 TREBEP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el Real Decreto 365/1995, quien pierde la condición por la que fue declarado en servicios especiales debe solicitar el reingreso en el plazo de:",
+      "opciones": [
+        "Diez días",
+        "Tres meses",
+        "Quince días hábiles",
+        "Un mes; de no hacerlo, pasa a excedencia voluntaria por interés particular"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 9.1 RD 365/1995 fija un mes; si no lo solicita, se le declara en excedencia voluntaria por interés particular.",
+      "ref": "art. 9.1 RD 365/1995",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "TREBEP. Situaciones administrativas: las excedencias (I)",
+      "url": "https://www.youtube.com/watch?v=JXPSnYz8oYk",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "Resumen situaciones administrativas TREBEP",
+      "url": "https://www.youtube.com/watch?v=vNfmVKUHjy8",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "TREBEP: Permisos arts. 48 y 49 (Modificación julio 2023)",
+      "url": "https://www.youtube.com/watch?v=_AbLYgXtxCY",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "Deberes de los empleados públicos. Código de conducta",
+      "url": "https://www.youtube.com/watch?v=Sa_gCxyEpEA",
+      "canal": "YouTube"
+    },
+    {
+      "titulo": "TREBEP. Provisión de puestos de trabajo en la función pública",
+      "url": "https://www.youtube.com/watch?v=o4rJ3_5MZlw",
+      "canal": "YouTube"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "TREBEP (RDLeg 5/2015) - texto consolidado BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    },
+    {
+      "titulo": "Real Decreto 364/1995, Reglamento General de Ingreso y Provisión - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-8729"
+    },
+    {
+      "titulo": "Real Decreto 365/1995, Reglamento de Situaciones Administrativas - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-8730"
+    },
+    {
+      "titulo": "Ley 2/1987, de la Función Pública Canaria - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-11921"
+    },
+    {
+      "titulo": "Ley 30/1984, de Medidas para la Reforma de la Función Pública - BOE",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-17387"
+    }
+  ]
+}
