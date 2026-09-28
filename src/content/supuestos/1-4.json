@@ -1,8 +1,12 @@
 {
   "bloque": 1,
   "titulo": "Caída en el campus de Guajara: responsabilidad patrimonial y revisión de oficio",
-  "temas": ["1-05", "1-06", "1-07"],
-  "enunciado": "**Carmen Rodríguez Bethencourt**, vecina de La Laguna de 58 años y ajena a la Universidad, asiste el **miércoles 11 de febrero de 2026** a una conferencia abierta al público en el Aulario del **campus de Guajara**. Al salir, tropieza con una **baldosa suelta** en el acceso principal y sufre una fractura de muñeca. Según el parte de Conserjería, la incidencia se había comunicado al servicio de mantenimiento **diez días antes** sin que se reparara.\n\nCarmen recibe el **alta médica**, con determinación del alcance de sus secuelas, el **lunes 8 de junio de 2026**. El **lunes 22 de junio de 2026** presenta en la Oficina de Registro de la Universidad una **reclamación de responsabilidad patrimonial** en la que solicita una indemnización de **58.000 euros** por días de curación, secuelas y gastos.\n\nEl órgano instructor recaba informe del servicio responsable del mantenimiento del edificio, abre periodo de prueba y concede trámite de audiencia. Carmen también pregunta si puede demandar directamente al jefe del equipo de mantenimiento que no ordenó la reparación.\n\nParalelamente, la **Gerencia** detecta en una auditoría interna dos expedientes irregulares:\n\n1. Una **resolución del Rector de 15 de julio de 2024** que concedió a Sergio Afonso Luis una **ayuda de matrícula** propia de la ULL, cuando Sergio **no estaba matriculado** en ningún estudio de la Universidad, requisito esencial exigido por la convocatoria. La resolución no fue recurrida. El **lunes 5 de octubre de 2026** se acuerda iniciar **de oficio** el procedimiento para declarar su nulidad.\n\n2. Una **resolución de 3 de marzo de 2022**, favorable a una empresa, dictada con un defecto que la hace **anulable** pero no nula.\n\nLa Comunidad Autónoma de Canarias cuenta con un órgano consultivo propio (el Consejo Consultivo de Canarias).\n\n*A efectos de cómputo, considera que en los periodos afectados no hay más días inhábiles que los sábados y domingos.*",
+  "temas": [
+    "1-05",
+    "1-06",
+    "1-07"
+  ],
+  "enunciado": "**Carmen Rodríguez Bethencourt**, vecina de La Laguna de 58 años y ajena a la Universidad, asiste el **miércoles 11 de febrero de 2026** a una conferencia abierta al público en el Aulario del **campus de Guajara**. Al salir, tropieza con una **baldosa suelta** en el acceso principal y sufre una fractura de muñeca. Según el parte de Conserjería, la incidencia se había comunicado al servicio de mantenimiento **diez días antes** sin que se reparara.\n\nCarmen recibe el **alta médica**, con determinación del alcance de sus secuelas, el **lunes 8 de junio de 2026**. El **lunes 22 de junio de 2026** presenta en la Oficina de Registro de la Universidad una **reclamación de responsabilidad patrimonial** en la que solicita una indemnización de **65.000 euros** por días de curación, secuelas y gastos.\n\nEl órgano instructor recaba informe del servicio responsable del mantenimiento del edificio, abre periodo de prueba y concede trámite de audiencia. Carmen también pregunta si puede demandar directamente al jefe del equipo de mantenimiento que no ordenó la reparación.\n\nParalelamente, la **Gerencia** detecta en una auditoría interna dos expedientes irregulares:\n\n1. Una **resolución del Rector de 15 de julio de 2024** que concedió a Sergio Afonso Luis una **ayuda de matrícula** propia de la ULL, cuando Sergio **no estaba matriculado** en ningún estudio de la Universidad, requisito esencial exigido por la convocatoria. La resolución no fue recurrida. El **lunes 5 de octubre de 2026** se acuerda iniciar **de oficio** el procedimiento para declarar su nulidad.\n\n2. Una **resolución de 3 de marzo de 2022**, favorable a una empresa, dictada con un defecto que la hace **anulable** pero no nula.\n\nLa Comunidad Autónoma de Canarias cuenta con un órgano consultivo propio (el Consejo Consultivo de Canarias).\n\n*A efectos de cómputo, considera que en los periodos afectados no hay más días inhábiles que los sábados y domingos.*",
   "preguntas": [
     {
       "enunciado": "Para que Carmen tenga derecho a ser indemnizada, ¿cuál de los siguientes requisitos NO es exigible?",
@@ -57,16 +61,16 @@
       "dificultad": 2
     },
     {
-      "enunciado": "Dada la cuantía reclamada (58.000 euros), ¿es necesario algún dictamen?",
+      "enunciado": "Dada la cuantía reclamada (65.000 euros), ¿es necesario algún dictamen?",
       "opciones": [
         "No, porque las universidades están excluidas de la función consultiva",
-        "Sí, es preceptivo solicitar dictamen del órgano consultivo de la Comunidad Autónoma, que se emitirá en el plazo de dos meses y se pronunciará sobre la relación de causalidad y, en su caso, sobre la valoración del daño",
+        "Sí, es preceptivo solicitar dictamen del Consejo Consultivo de Canarias, que se emitirá en el plazo de dos meses y se pronunciará sobre la relación de causalidad y, en su caso, sobre la valoración del daño",
         "Sí, del Consejo de Estado, en el plazo de diez días",
         "Solo si la interesada lo solicita expresamente"
       ],
       "correcta": 1,
-      "explicacion": "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que establezca la legislación autonómica, es preceptivo el dictamen del Consejo de Estado o, en su caso, del órgano consultivo autonómico (art. 81.2 LPAC). El instructor remite la propuesta de resolución en diez días desde el fin de la audiencia y el dictamen se emite en dos meses, pronunciándose sobre la relación de causalidad y, en su caso, la valoración del daño y la cuantía y modo de indemnizar.",
-      "ref": "art. 81.2 LPAC",
+      "explicacion": "El art. 81.2 LPAC exige dictamen del Consejo de Estado u órgano consultivo autonómico cuando la cuantía sea igual o superior a 50.000 euros o a la que establezca la legislación autonómica. En Canarias, el dictamen del Consejo Consultivo de Canarias es preceptivo en reclamaciones de cuantía igual o superior a 60.000 euros (art. 11.1.D.e Ley 5/2002, redacción de la Ley 5/2024), y en la ULL lo recaba el Rector (art. 12.3). Con 65.000 euros es preceptivo. Se emite en dos meses y se pronuncia sobre la relación de causalidad y, en su caso, sobre la valoración del daño y la cuantía y modo de la indemnización. Ojo: con una reclamación de, por ejemplo, 55.000 euros no sería preceptivo en Canarias aunque supere los 50.000 del art. 81.2.",
+      "ref": "art. 81.2 LPAC; art. 11.1.D.e Ley 5/2002 de Canarias",
       "dificultad": 2
     },
     {

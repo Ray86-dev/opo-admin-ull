@@ -4,7 +4,7 @@
     "El RGPD es directamente aplicable desde el 25 de mayo de 2018; la LOPDGDD lo adapta y completa y además garantiza los derechos digitales.",
     "Los principios del art. 5 RGPD son licitud, lealtad y transparencia, limitación de la finalidad, minimización, exactitud, limitación del plazo de conservación, integridad y confidencialidad, más la responsabilidad proactiva.",
     "Las Administraciones tratan datos sobre todo con base en una obligación legal o en una misión de interés público, que en España exigen norma con rango de ley (art. 8 LOPDGDD).",
-    "En España el menor puede consentir el tratamiento de sus datos a partir de los 14 años (art. 7 LOPDGDD).",
+    "En España el menor puede consentir el tratamiento de sus datos cuando sea mayor de catorce años (art. 7.1 LOPDGDD).",
     "Los derechos deben atenderse en un mes, prorrogable dos meses más, y son gratuitos salvo solicitudes manifiestamente infundadas o excesivas (art. 12 RGPD).",
     "La portabilidad no se aplica a los tratamientos necesarios para una misión de interés público o el ejercicio de poderes públicos (art. 20.3 RGPD).",
     "Las violaciones de seguridad se notifican a la autoridad de control en 72 horas y al interesado solo si hay alto riesgo (arts. 33 y 34 RGPD).",
@@ -29,7 +29,7 @@
     },
     {
       "concepto": "Entrada en vigor de la LOPDGDD",
-      "valor": "Día siguiente a su publicación en el BOE (6/12/2018)",
+      "valor": "Día siguiente a su publicación en el BOE (publicada el 6/12/2018; en vigor el 7/12/2018)",
       "ref": "DF 16.ª LOPDGDD"
     },
     {

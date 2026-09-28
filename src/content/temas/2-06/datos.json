@@ -34,8 +34,8 @@
     },
     {
       "concepto": "Candidaturas electorales",
-      "valor": "Cada sexo al menos el 40 % de la lista",
-      "ref": "art. 44 bis LOREG (DA 2.ª LOIEMH)"
+      "valor": "Composición paritaria: candidatos de uno y otro sexo ordenados de forma alternativa (antes de la LO 2/2024, cada sexo al menos el 40 %)",
+      "ref": "art. 44 bis LOREG (introducido por la DA 2.ª LOIEMH; redacción LO 2/2024)"
     },
     {
       "concepto": "Criterios generales de actuación de los Poderes Públicos",
@@ -174,7 +174,7 @@
   "mnemotecnias": [
     {
       "titulo": "60-40",
-      "texto": "Composición equilibrada: nadie pasa del 60 ni baja del 40. La misma cifra del 40 % reaparece en las candidaturas electorales y en la reserva de plazas en cursos para directivas."
+      "texto": "Composición equilibrada: nadie pasa del 60 ni baja del 40. La misma cifra del 40 % reaparece en la reserva de plazas en cursos para directivas (las candidaturas electorales son hoy paritarias y alternas desde la LO 2/2024)."
     },
     {
       "titulo": "Directa o indirecta",

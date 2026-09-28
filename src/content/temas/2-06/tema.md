@@ -46,7 +46,7 @@ A efectos de la ley, se entiende por **composición equilibrada** la presencia d
 
 > [!PLAZO] Composición equilibrada: ningún sexo por encima del **60 %** ni por debajo del **40 %** (disp. adic. 1.ª LOIEMH).
 
-> [!EXAMEN] Pregunta fija: "Se entiende por composición equilibrada...". La respuesta es 60/40. Ojo con los distractores 50/50 (paridad estricta), 70/30 o 55/45. Y recuerda que la misma regla del 40 % se aplica a las candidaturas electorales (art. 44 bis LOREG, introducido por la disp. adic. 2.ª).
+> [!EXAMEN] Pregunta fija: "Se entiende por composición equilibrada...". La respuesta es 60/40. Ojo con los distractores 50/50 (paridad estricta), 70/30 o 55/45. Ojo con las candidaturas electorales: el art. 44 bis LOREG, introducido por la disp. adic. 2.ª con la regla del 40 %, fue reformado por la **LO 2/2024, de 1 de agosto**, y hoy exige una **composición paritaria** con candidatos de uno y otro sexo **ordenados de forma alternativa**.
 
 ## El principio de igualdad y la tutela contra la discriminación
 
@@ -311,7 +311,7 @@ Los **Estatutos de la ULL (Decreto 66/2022)** regulan la **Unidad de Igualdad de
 |---|---|---|
 | Entrada en vigor de la LOIEMH | Día siguiente a su publicación (BOE 23/3/2007) | DF 8.ª LOIEMH |
 | Composición equilibrada | Ningún sexo más del 60 % ni menos del 40 % | DA 1.ª LOIEMH |
-| Candidaturas electorales | Cada sexo al menos el 40 % | Art. 44 bis LOREG (DA 2.ª LOIEMH) |
+| Candidaturas electorales | Composición paritaria, sexos alternos (antes, cada sexo al menos el 40 %) | Art. 44 bis LOREG (DA 2.ª LOIEMH; redacción LO 2/2024) |
 | Discriminación por embarazo o maternidad | Discriminación directa | Art. 8 LOIEMH |
 | Actos discriminatorios | Nulos y sin efecto | Art. 10 LOIEMH |
 | Legitimación en acoso | Solo la persona acosada | Art. 12.3 LOIEMH |

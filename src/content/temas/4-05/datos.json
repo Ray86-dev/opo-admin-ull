@@ -973,7 +973,7 @@
       "dificultad": 2
     },
     {
-      "enunciado": "La aprobación de la liquidación del presupuesto de la ULL corresponde al Consejo Social, a propuesta del Consejo de Gobierno, y debe realizarse:",
+      "enunciado": "Según los Estatutos de la ULL, la aprobación de la liquidación del presupuesto corresponde al Consejo Social, a propuesta del Consejo de Gobierno, y debe realizarse:",
       "opciones": [
         "Antes del 31 de marzo del ejercicio siguiente",
         "Antes del 30 de junio del ejercicio siguiente",
@@ -981,7 +981,7 @@
         "Antes del 31 de diciembre del ejercicio corriente"
       ],
       "correcta": 0,
-      "explicacion": "Art. 124.2 EULL.",
+      "explicacion": "Art. 124.2 EULL: antes del 31 de marzo del ejercicio siguiente. Ojo: las bases de ejecución de 2026 (art. 58.3 BEP-ULL) hablan del primer cuatrimestre del ejercicio siguiente; si te preguntan por las bases, esa es la respuesta.",
       "ref": "art. 124.2 EULL",
       "dificultad": 3
     },

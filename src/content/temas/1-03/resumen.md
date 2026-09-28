@@ -21,7 +21,7 @@
 
 ## Reglamento de Administración Electrónica de la ULL
 
-> [!ULL] Aprobado por el **Consejo de Gobierno el 4 de febrero de 2025** (art. 15.1.b) EULL). Vigente desde el día siguiente a su publicación en el **BOULL**. Deroga el Reglamento de **24 de mayo de 2018**. Se apoya en el **RD 203/2021** y el **Plan de Modernización Administrativa 2024-2029**. Seis títulos y 41 artículos.
+> [!ULL] Aprobado por el **Consejo de Gobierno el 4 de febrero de 2025** (art. 15.b) EULL). Vigente desde el día siguiente a su publicación en el **BOULL**. Deroga el Reglamento de **24 de mayo de 2018**. Se apoya en el **RD 203/2021** y el **Plan de Modernización Administrativa 2024-2029**. Seis títulos y 41 artículos.
 
 ### Sede, portal y Carpeta Ciudadana
 

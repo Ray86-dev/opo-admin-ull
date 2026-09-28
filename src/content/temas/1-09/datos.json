@@ -9,7 +9,7 @@
     "El mejor licitador presenta la documentación y la garantía en 10 días hábiles; si no lo hace, paga el 3 % del presupuesto base y se pasa al siguiente (art. 150.2).",
     "Si cabe recurso especial, no se formaliza hasta pasados 15 días hábiles desde la notificación de la adjudicación (art. 153.3).",
     "Prerrogativas de la Administración: interpretar, resolver dudas, modificar, declarar la responsabilidad, suspender y resolver (art. 190).",
-    "Penalidad por demora: 0,60 € diarios por cada 1.000 € del precio; cada penalidad hasta el 10 % y en total hasta el 50 % (arts. 192 y 193).",
+    "Penalidades por cumplimiento defectuoso: cada una hasta el 10 % del precio y en total hasta el 50 % (art. 192.1). Penalidad por demora: 0,60 € diarios por cada 1.000 € del precio, IVA excluido (art. 193.3).",
     "La Administración paga en 30 días; con más de 4 meses de demora el contratista puede suspender y con más de 6 meses, resolver (art. 198).",
     "Modificación prevista en el pliego: hasta el 20 %. Las no previstas por prestaciones adicionales o circunstancias imprevisibles: hasta el 50 %. Obligatoria para el contratista hasta el 20 % (arts. 204 a 206).",
     "Son nulos los contratos con falta de crédito (salvo emergencia) o sin anuncio de licitación preceptivo; la nulidad arrastra al contrato, que entra en liquidación (arts. 39 y 42).",
@@ -409,7 +409,7 @@
     },
     {
       "concepto": "Instrucción y resolución de los expedientes de resolución",
-      "valor": "Máximo 8 meses",
+      "valor": "Máximo 8 meses (la STC 68/2021 declaró que este apartado no es básico: solo rige para la AGE)",
       "ref": "art. 212.8 LCSP"
     },
     {
@@ -630,7 +630,7 @@
     },
     {
       "titulo": "Modificaciones: 20-50-15/10",
-      "texto": "Prevista en el pliego: hasta el 20 %. No prevista (adicional o imprevisible): hasta el 50 %. Es sustancial a partir del 15 % en obras o del 10 % en el resto. Obligatoria para el contratista hasta el 20 %."
+      "texto": "Prevista en el pliego: hasta el 20 %. No prevista (adicional o imprevisible): hasta el 50 %. Es sustancial si excede del 15 % en obras o del 10 % en el resto. Obligatoria para el contratista hasta el 20 %."
     },
     {
       "titulo": "Recurso especial: 3 millones y 100.000; 15 días",
