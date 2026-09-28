@@ -148,7 +148,7 @@ body {
 .prose-opo li::marker { color: var(--primary); }
 .prose-opo hr { border: 0; border-top: 1px dashed var(--line); margin: 2em 0; }
 .prose-opo code { font-size: 0.88em; background: var(--surface-2); padding: 0.1em 0.35em; border-radius: 0.35em; }
-.prose-opo blockquote { border-left: 3px solid var(--line); padding-left: 1em; color: var(--muted); margin: 1.2em 0; }
+.prose-opo blockquote { background: var(--surface-2); border-radius: 0.9rem; padding: 0.8em 1.1em; color: var(--muted); margin: 1.2em 0; font-style: italic; }
 
 .prose-opo .table-wrap { overflow-x: auto; margin: 1.4em 0; border: 1px solid var(--line); border-radius: 0.9rem; }
 .prose-opo table { width: 100%; border-collapse: collapse; font-family: var(--font-sans); font-size: 0.8em; line-height: 1.45; }
