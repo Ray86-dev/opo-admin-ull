@@ -211,18 +211,15 @@ export function Layout({ children }: { children?: ReactNode }) {
       </header>
 
       <main className={cn('pb-36 lg:pb-24', !focusMode && 'lg:pl-64')}>
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={loc.pathname}
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -6 }}
-            transition={{ duration: 0.28, ease: [0.16, 1, 0.3, 1] }}
-            className="mx-auto max-w-6xl px-4 py-8 md:px-8 md:py-10"
-          >
-            {children ?? <Outlet />}
-          </motion.div>
-        </AnimatePresence>
+        <motion.div
+          key={loc.pathname}
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.3, ease: [0.16, 1, 0.3, 1] }}
+          className="mx-auto max-w-6xl px-4 py-8 md:px-8 md:py-10"
+        >
+          {children ?? <Outlet />}
+        </motion.div>
       </main>
 
       {/* Navegación inferior móvil */}

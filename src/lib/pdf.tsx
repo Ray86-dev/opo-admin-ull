@@ -42,7 +42,8 @@ function makeStyles(P: PdfMod, color: string) {
     th: { fontFamily: 'Helvetica-Bold', backgroundColor: '#f1ece3' },
     cell: { flex: 1, paddingHorizontal: 4, fontSize: 8.8 },
     clave: { flexDirection: 'row', marginBottom: 4 },
-    num: { width: 16, height: 16, borderRadius: 8, backgroundColor: color, color: 'white', fontSize: 8, fontFamily: 'Helvetica-Bold', textAlign: 'center', paddingTop: 3, marginRight: 6 },
+    num: { width: 15, height: 15, borderRadius: 7.5, backgroundColor: color, marginRight: 7, marginTop: 0.5, alignItems: 'center', justifyContent: 'center' },
+    numText: { color: 'white', fontSize: 7.5, fontFamily: 'Helvetica-Bold', lineHeight: 1 },
     footer: { position: 'absolute', bottom: 22, left: 44, right: 44, flexDirection: 'row', justifyContent: 'space-between', fontSize: 7.5, color: '#9aa1b3' },
     bold: { fontFamily: 'Helvetica-Bold' },
     mnemo: { backgroundColor: '#f3effd', borderRadius: 4, padding: 7, marginBottom: 5 },
@@ -133,7 +134,7 @@ function mdToPdf(P: PdfMod, s: Styles, md: string): ReactNode[] {
 function FichaPages(P: PdfMod, tema: Tema, datos: DatosTema | null, resumen: string | null) {
   const b = bloqueById(tema.bloque)
   const s = makeStyles(P, b.hex)
-  return (
+  return [
     <P.Page key={tema.id} size="A4" style={s.page}>
       <P.View style={s.band} fixed />
       <P.Text style={s.eyebrow}>{clean(`Bloque ${b.romano} · ${b.nombre} · ${temaLabel(tema)}`)}</P.Text>
@@ -145,7 +146,7 @@ function FichaPages(P: PdfMod, tema: Tema, datos: DatosTema | null, resumen: str
           <P.Text style={s.h2}>Ideas clave</P.Text>
           {datos.claves.map((c, i) => (
             <P.View key={i} style={s.clave} wrap={false}>
-              <P.Text style={s.num}>{i + 1}</P.Text>
+              <P.View style={s.num}><P.Text style={s.numText}>{i + 1}</P.Text></P.View>
               <P.Text style={{ flex: 1 }}>{inline(P, s, c)}</P.Text>
             </P.View>
           ))}
@@ -182,9 +183,16 @@ function FichaPages(P: PdfMod, tema: Tema, datos: DatosTema | null, resumen: str
         </P.View>
       )}
 
+      <P.View style={s.footer} fixed>
+        <P.Text>{clean(`Opo ULL · Escala Administrativa C1 · ${temaLabel(tema)}`)}</P.Text>
+        <P.Text render={({ pageNumber, totalPages }) => `${pageNumber} / ${totalPages}`} />
+      </P.View>
+    </P.Page>,
+    <P.Page key={`${tema.id}-r`} size="A4" style={s.page}>
+      <P.View style={s.band} fixed />
       {resumen && (
         <P.View>
-          <P.Text style={[s.h2, { fontSize: 14 }]} break>Resumen</P.Text>
+          <P.Text style={[s.h2, { fontSize: 14, marginTop: 0 }]}>{clean(`Resumen · ${temaLabel(tema)}`)}</P.Text>
           {mdToPdf(P, s, resumen)}
         </P.View>
       )}
@@ -205,8 +213,8 @@ function FichaPages(P: PdfMod, tema: Tema, datos: DatosTema | null, resumen: str
         <P.Text>{clean(`Opo ULL · Escala Administrativa C1 · ${temaLabel(tema)}`)}</P.Text>
         <P.Text render={({ pageNumber, totalPages }) => `${pageNumber} / ${totalPages}`} />
       </P.View>
-    </P.Page>
-  )
+    </P.Page>,
+  ]
 }
 
 async function save(blob: Blob, name: string) {

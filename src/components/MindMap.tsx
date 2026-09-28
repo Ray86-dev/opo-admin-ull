@@ -45,6 +45,19 @@ export function MindMap({ md }: { md: string }) {
     }
   }, [md, vista])
 
+  // Tamaño absoluto del SVG: d3/markmap no puede medir longitudes relativas si el SVG se desmonta a mitad de animación
+  useEffect(() => {
+    const svg = svgRef.current
+    const host = svg?.parentElement
+    if (!svg || !host) return
+    const ro = new ResizeObserver(() => {
+      svg.setAttribute('width', String(host.clientWidth))
+      svg.setAttribute('height', String(host.clientHeight))
+    })
+    ro.observe(host)
+    return () => ro.disconnect()
+  }, [vista, full])
+
   useEffect(() => {
     const t = setTimeout(() => mmRef.current?.fit(), 350)
     return () => clearTimeout(t)

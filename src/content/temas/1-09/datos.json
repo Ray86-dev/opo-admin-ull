@@ -1,0 +1,1673 @@
+{
+  "claves": [
+    "El expediente lo inicia el órgano de contratación motivando la necesidad. Su aprobación abre el procedimiento de adjudicación e implica la aprobación del gasto (arts. 116 y 117).",
+    "En la tramitación urgente los plazos se reducen a la mitad; en la de emergencia se contrata sin expediente y sin crédito previo, incluso verbalmente (arts. 119 y 120).",
+    "Los pliegos particulares se aprueban antes de la licitación y solo pueden modificarse por error material, de hecho o aritmético (arts. 122 y 124).",
+    "La adjudicación ordinaria se hace por el procedimiento abierto o el restringido, con pluralidad de criterios y la mejor relación calidad-precio (art. 131).",
+    "Procedimiento abierto simplificado: obras de hasta 2.000.000 € y suministros y servicios por debajo de 140.000 €; supersimplificado: obras de menos de 80.000 € y suministros y servicios de menos de 60.000 € (art. 159).",
+    "El negociado sin publicidad solo cabe en supuestos tasados: licitación desierta, exclusividad, secreto, imperiosa urgencia, repetición de prestaciones (art. 168).",
+    "El mejor licitador presenta la documentación y la garantía en 10 días hábiles; si no lo hace, paga el 3 % del presupuesto base y se pasa al siguiente (art. 150.2).",
+    "Si cabe recurso especial, no se formaliza hasta pasados 15 días hábiles desde la notificación de la adjudicación (art. 153.3).",
+    "Prerrogativas de la Administración: interpretar, resolver dudas, modificar, declarar la responsabilidad, suspender y resolver (art. 190).",
+    "Penalidad por demora: 0,60 € diarios por cada 1.000 € del precio; cada penalidad hasta el 10 % y en total hasta el 50 % (arts. 192 y 193).",
+    "La Administración paga en 30 días; con más de 4 meses de demora el contratista puede suspender y con más de 6 meses, resolver (art. 198).",
+    "Modificación prevista en el pliego: hasta el 20 %. Las no previstas por prestaciones adicionales o circunstancias imprevisibles: hasta el 50 %. Obligatoria para el contratista hasta el 20 % (arts. 204 a 206).",
+    "Son nulos los contratos con falta de crédito (salvo emergencia) o sin anuncio de licitación preceptivo; la nulidad arrastra al contrato, que entra en liquidación (arts. 39 y 42).",
+    "El recurso especial procede en obras de más de 3.000.000 € y en suministros y servicios de más de 100.000 €; plazo de 15 días hábiles (arts. 44 y 50).",
+    "Fases del gasto: A con la aprobación del expediente, D con la adjudicación, O con la recepción y la factura, P con el pago; el contrato menor se tramita con un ADO (art. 73 LGP y art. 20 BEP-ULL)."
+  ],
+  "plazos": [
+    {
+      "concepto": "Informes en la tramitación urgente",
+      "valor": "5 días (prorrogables hasta 10)",
+      "ref": "art. 119.2.a LCSP"
+    },
+    {
+      "concepto": "Reducción de plazos en la tramitación urgente",
+      "valor": "A la mitad (salvo excepciones)",
+      "ref": "art. 119.2.b LCSP"
+    },
+    {
+      "concepto": "Inicio de la ejecución en la tramitación urgente",
+      "valor": "No más de 1 mes desde la formalización",
+      "ref": "art. 119.2.c LCSP"
+    },
+    {
+      "concepto": "Dar cuenta al Consejo de Ministros de la emergencia (ámbito estatal)",
+      "valor": "Máximo 30 días",
+      "ref": "art. 120.1.b LCSP"
+    },
+    {
+      "concepto": "Inicio de la ejecución en la emergencia",
+      "valor": "No más de 1 mes desde el acuerdo",
+      "ref": "art. 120.1.c LCSP"
+    },
+    {
+      "concepto": "Deber de confidencialidad del contratista",
+      "valor": "5 años desde el conocimiento de la información",
+      "ref": "art. 133.2 LCSP"
+    },
+    {
+      "concepto": "Periodo cubierto por el anuncio de información previa",
+      "valor": "Máximo 12 meses",
+      "ref": "art. 134.6 LCSP"
+    },
+    {
+      "concepto": "Información adicional a los licitadores",
+      "valor": "6 días antes del fin del plazo de ofertas, si se pidió 12 días antes",
+      "ref": "art. 138.3 LCSP"
+    },
+    {
+      "concepto": "Prolongación del plazo si el acceso a los pliegos no es electrónico",
+      "valor": "5 días",
+      "ref": "art. 138.2 LCSP"
+    },
+    {
+      "concepto": "Subsanación de defectos en la documentación ante la mesa",
+      "valor": "3 días",
+      "ref": "art. 141.2 LCSP"
+    },
+    {
+      "concepto": "Peso mínimo de los criterios de calidad en servicios intelectuales y del anexo IV",
+      "valor": "51 % de la puntuación",
+      "ref": "art. 145.4 LCSP"
+    },
+    {
+      "concepto": "Valoración máxima de las mejoras por juicio de valor",
+      "valor": "2,5 %",
+      "ref": "art. 145.7 LCSP"
+    },
+    {
+      "concepto": "Composición mínima del comité de expertos",
+      "valor": "3 miembros",
+      "ref": "art. 146.2.a LCSP"
+    },
+    {
+      "concepto": "Umbral mínimo para seguir en procedimientos por fases",
+      "valor": "50 % de la puntuación de los criterios cualitativos",
+      "ref": "art. 146.3 LCSP"
+    },
+    {
+      "concepto": "Informe de la autoridad de competencia ante indicios de colusión",
+      "valor": "20 días hábiles",
+      "ref": "art. 150.1 LCSP"
+    },
+    {
+      "concepto": "Documentación y garantía definitiva del mejor licitador",
+      "valor": "10 días hábiles desde el requerimiento",
+      "ref": "art. 150.2 LCSP"
+    },
+    {
+      "concepto": "Penalidad por no cumplimentar el requerimiento (retirada de la oferta)",
+      "valor": "3 % del presupuesto base de licitación, IVA excluido",
+      "ref": "art. 150.2 LCSP"
+    },
+    {
+      "concepto": "Adjudicación tras recibir la documentación",
+      "valor": "5 días hábiles",
+      "ref": "art. 150.3 LCSP"
+    },
+    {
+      "concepto": "Publicación de la adjudicación en el perfil",
+      "valor": "15 días",
+      "ref": "art. 151.1 LCSP"
+    },
+    {
+      "concepto": "Plazo de espera antes de formalizar (contratos con recurso especial)",
+      "valor": "15 días hábiles desde la notificación de la adjudicación (las CCAA pueden ampliarlo hasta 1 mes)",
+      "ref": "art. 153.3 LCSP"
+    },
+    {
+      "concepto": "Formalización tras el requerimiento (contratos con recurso especial)",
+      "valor": "5 días",
+      "ref": "art. 153.3 LCSP"
+    },
+    {
+      "concepto": "Formalización en los demás contratos",
+      "valor": "No más de 15 días hábiles desde la notificación de la adjudicación",
+      "ref": "art. 153.3 LCSP"
+    },
+    {
+      "concepto": "Penalidad por no formalizar por causa del adjudicatario",
+      "valor": "3 % del presupuesto base de licitación, IVA excluido",
+      "ref": "art. 153.4 LCSP"
+    },
+    {
+      "concepto": "Publicación de la formalización",
+      "valor": "No más de 15 días tras el perfeccionamiento",
+      "ref": "art. 154.1 LCSP"
+    },
+    {
+      "concepto": "Abierto SARA (obras, suministros y servicios): presentación de proposiciones",
+      "valor": "Mínimo 35 días desde el envío del anuncio a la UE",
+      "ref": "art. 156.2 LCSP"
+    },
+    {
+      "concepto": "Abierto SARA (concesiones): presentación de proposiciones",
+      "valor": "Mínimo 30 días",
+      "ref": "art. 156.2 LCSP"
+    },
+    {
+      "concepto": "Abierto SARA con anuncio de información previa",
+      "valor": "Reducible a 15 días (anuncio enviado entre 35 días y 12 meses antes)",
+      "ref": "art. 156.3.a LCSP"
+    },
+    {
+      "concepto": "Reducción por presentación electrónica de ofertas",
+      "valor": "5 días",
+      "ref": "art. 156.3.c LCSP"
+    },
+    {
+      "concepto": "Abierto no SARA: presentación de proposiciones",
+      "valor": "Mínimo 15 días (26 en obras y concesiones)",
+      "ref": "art. 156.6 LCSP"
+    },
+    {
+      "concepto": "Apertura de proposiciones",
+      "valor": "Máximo 20 días desde el fin del plazo de presentación",
+      "ref": "art. 157.3 LCSP"
+    },
+    {
+      "concepto": "Adjudicación con el precio como único criterio",
+      "valor": "Máximo 15 días desde la apertura",
+      "ref": "art. 158.1 LCSP"
+    },
+    {
+      "concepto": "Adjudicación con pluralidad de criterios",
+      "valor": "Máximo 2 meses desde la apertura (salvo otro plazo en el pliego)",
+      "ref": "art. 158.2 LCSP"
+    },
+    {
+      "concepto": "Ampliación del plazo de adjudicación por oferta anormalmente baja",
+      "valor": "15 días hábiles",
+      "ref": "art. 158.3 LCSP"
+    },
+    {
+      "concepto": "Abierto simplificado: límite en obras",
+      "valor": "Valor estimado igual o inferior a 2.000.000 €",
+      "ref": "art. 159.1.a LCSP"
+    },
+    {
+      "concepto": "Abierto simplificado: límite en suministros y servicios",
+      "valor": "Inferior al umbral SARA de la AGE (140.000 € desde 2026)",
+      "ref": "art. 159.1.a LCSP"
+    },
+    {
+      "concepto": "Abierto simplificado: peso máximo del juicio de valor",
+      "valor": "25 % (45 % en prestaciones intelectuales)",
+      "ref": "art. 159.1.b LCSP"
+    },
+    {
+      "concepto": "Abierto simplificado: presentación de proposiciones",
+      "valor": "Mínimo 15 días (20 en obras)",
+      "ref": "art. 159.3 LCSP"
+    },
+    {
+      "concepto": "Abierto simplificado: valoración de los criterios de juicio de valor",
+      "valor": "Máximo 7 días",
+      "ref": "art. 159.4.e LCSP"
+    },
+    {
+      "concepto": "Abierto simplificado: constitución de la garantía definitiva",
+      "valor": "7 días hábiles",
+      "ref": "art. 159.4.f LCSP"
+    },
+    {
+      "concepto": "Abierto simplificado: justificación de la oferta anormalmente baja",
+      "valor": "Máximo 5 días hábiles",
+      "ref": "art. 159.4.f LCSP"
+    },
+    {
+      "concepto": "Supersimplificado: límites",
+      "valor": "Obras de menos de 80.000 €; suministros y servicios de menos de 60.000 €",
+      "ref": "art. 159.6 LCSP"
+    },
+    {
+      "concepto": "Supersimplificado: presentación de proposiciones",
+      "valor": "Mínimo 10 días hábiles (5 en compras corrientes)",
+      "ref": "art. 159.6.a LCSP"
+    },
+    {
+      "concepto": "Restringido: número mínimo de candidatos invitados",
+      "valor": "5",
+      "ref": "art. 162.2 LCSP"
+    },
+    {
+      "concepto": "Restringido SARA: solicitudes de participación",
+      "valor": "Mínimo 30 días (15 en urgencia)",
+      "ref": "art. 161.1 LCSP"
+    },
+    {
+      "concepto": "Restringido no SARA: solicitudes de participación",
+      "valor": "Mínimo 15 días",
+      "ref": "art. 161.3 LCSP"
+    },
+    {
+      "concepto": "Restringido SARA: proposiciones",
+      "valor": "Mínimo 30 días desde la invitación (10 con anuncio previo o urgencia)",
+      "ref": "art. 164.1 LCSP"
+    },
+    {
+      "concepto": "Restringido no SARA: proposiciones",
+      "valor": "Mínimo 10 días desde la invitación",
+      "ref": "art. 164.2 LCSP"
+    },
+    {
+      "concepto": "Licitación con negociación, diálogo competitivo y asociación para la innovación: mínimo de candidatos",
+      "valor": "3",
+      "ref": "arts. 169.2, 174 y 178.3 LCSP"
+    },
+    {
+      "concepto": "Negociado sin publicidad por repetición de obras o servicios",
+      "valor": "Dentro de los 3 años siguientes al contrato inicial",
+      "ref": "art. 168.e LCSP"
+    },
+    {
+      "concepto": "Duración de las entregas adicionales por negociado sin publicidad",
+      "valor": "Por regla general, no más de 3 años",
+      "ref": "art. 168.c.2.º LCSP"
+    },
+    {
+      "concepto": "Asociación para la innovación: solicitudes",
+      "valor": "30 días en SARA; 20 días en no SARA",
+      "ref": "art. 178.2 LCSP"
+    },
+    {
+      "concepto": "Expertos en la mesa especial del diálogo competitivo",
+      "valor": "Al menos un tercio de sus componentes",
+      "ref": "art. 327 LCSP"
+    },
+    {
+      "concepto": "Jurado del concurso de proyectos con cualificación exigida",
+      "valor": "Al menos 2/3 de sus miembros cualificados",
+      "ref": "art. 187.3 LCSP"
+    },
+    {
+      "concepto": "Dictamen del órgano consultivo en modificaciones no previstas",
+      "valor": "Más del 20 % del precio inicial y precio de 6.000.000 € o más",
+      "ref": "art. 191.3.b LCSP"
+    },
+    {
+      "concepto": "Dictamen del órgano consultivo en reclamaciones por responsabilidad contractual",
+      "valor": "Cuantía igual o superior a 50.000 €",
+      "ref": "art. 191.3.c LCSP"
+    },
+    {
+      "concepto": "Límite de cada penalidad por cumplimiento defectuoso",
+      "valor": "10 % del precio del contrato, IVA excluido",
+      "ref": "art. 192.1 LCSP"
+    },
+    {
+      "concepto": "Límite total de las penalidades",
+      "valor": "50 % del precio del contrato",
+      "ref": "art. 192.1 LCSP"
+    },
+    {
+      "concepto": "Penalidad diaria por demora",
+      "valor": "0,60 € por cada 1.000 € del precio, IVA excluido",
+      "ref": "art. 193.3 LCSP"
+    },
+    {
+      "concepto": "Facultad de resolver por acumulación de penalidades de demora",
+      "valor": "Cada múltiplo del 5 % del precio",
+      "ref": "art. 193.4 LCSP"
+    },
+    {
+      "concepto": "Aprobación de la conformidad o de las certificaciones",
+      "valor": "30 días desde la entrega o prestación",
+      "ref": "art. 198.4 LCSP"
+    },
+    {
+      "concepto": "Pago del precio",
+      "valor": "30 días desde la aprobación de la conformidad",
+      "ref": "art. 198.4 LCSP"
+    },
+    {
+      "concepto": "Presentación de la factura por el contratista",
+      "valor": "30 días desde la entrega o prestación",
+      "ref": "art. 198.4 LCSP"
+    },
+    {
+      "concepto": "Demora en el pago que permite suspender la ejecución",
+      "valor": "Más de 4 meses (con preaviso de 1 mes)",
+      "ref": "art. 198.5 LCSP"
+    },
+    {
+      "concepto": "Demora en el pago que permite resolver el contrato",
+      "valor": "Más de 6 meses",
+      "ref": "art. 198.6 LCSP"
+    },
+    {
+      "concepto": "Reclamación del pago sin respuesta",
+      "valor": "1 mes; después cabe el contencioso contra la inactividad",
+      "ref": "art. 199 LCSP"
+    },
+    {
+      "concepto": "Modificación prevista en el pliego",
+      "valor": "Hasta el 20 % del precio inicial",
+      "ref": "art. 204.1 LCSP"
+    },
+    {
+      "concepto": "Modificación no prevista por prestaciones adicionales o circunstancias imprevisibles",
+      "valor": "Hasta el 50 % del precio inicial, IVA excluido",
+      "ref": "art. 205.2 LCSP"
+    },
+    {
+      "concepto": "Modificación sustancial por ampliación del ámbito",
+      "valor": "Más del 15 % en obras, más del 10 % en el resto o superar el umbral SARA",
+      "ref": "art. 205.2.c LCSP"
+    },
+    {
+      "concepto": "Modificación sustancial por unidades de obra nuevas",
+      "valor": "Más del 50 % del presupuesto inicial",
+      "ref": "art. 205.2.c.2.º LCSP"
+    },
+    {
+      "concepto": "Obligatoriedad de la modificación para el contratista",
+      "valor": "Hasta el 20 % del precio inicial, IVA excluido",
+      "ref": "art. 206.1 LCSP"
+    },
+    {
+      "concepto": "Audiencia al redactor del proyecto en una modificación no prevista",
+      "valor": "No inferior a 3 días",
+      "ref": "art. 207.2 LCSP"
+    },
+    {
+      "concepto": "Publicación del anuncio de modificación en el perfil",
+      "valor": "5 días desde su aprobación",
+      "ref": "art. 207.3 LCSP"
+    },
+    {
+      "concepto": "Prescripción de la reclamación por suspensión",
+      "valor": "1 año desde la orden de reanudar",
+      "ref": "art. 208.2.c LCSP"
+    },
+    {
+      "concepto": "Recepción o conformidad",
+      "valor": "Dentro del mes siguiente a la entrega o realización",
+      "ref": "art. 210.2 LCSP"
+    },
+    {
+      "concepto": "Liquidación (salvo obras)",
+      "valor": "30 días desde el acta de recepción",
+      "ref": "art. 210.4 LCSP"
+    },
+    {
+      "concepto": "Resolución por retraso sobre el plan de trabajos",
+      "valor": "Retraso de más de 1/3 del plazo inicial",
+      "ref": "art. 211.1.d LCSP"
+    },
+    {
+      "concepto": "Resolución por imposibilidad de ejecutar (modificaciones)",
+      "valor": "Alteración de más del 20 % del precio inicial",
+      "ref": "art. 211.1.g LCSP"
+    },
+    {
+      "concepto": "Garantía complementaria para continuar el contrato pese al concurso",
+      "valor": "Al menos el 5 % del precio",
+      "ref": "art. 212.5 LCSP"
+    },
+    {
+      "concepto": "Instrucción y resolución de los expedientes de resolución",
+      "valor": "Máximo 8 meses",
+      "ref": "art. 212.8 LCSP"
+    },
+    {
+      "concepto": "Indemnización por resolución por imposibilidad de ejecutar",
+      "valor": "3 % del importe de la prestación dejada de realizar",
+      "ref": "art. 213.4 LCSP"
+    },
+    {
+      "concepto": "Cesión: resolución sobre la autorización",
+      "valor": "2 meses; silencio estimatorio",
+      "ref": "art. 214.2.a LCSP"
+    },
+    {
+      "concepto": "Cesión: ejecución mínima por el cedente",
+      "valor": "20 % del importe (o 1/5 del plazo en concesiones)",
+      "ref": "art. 214.2.b LCSP"
+    },
+    {
+      "concepto": "Espera para subcontratos distintos de los indicados en la oferta",
+      "valor": "20 días desde la notificación",
+      "ref": "art. 215.2.c LCSP"
+    },
+    {
+      "concepto": "Penalidad por infringir las normas de subcontratación",
+      "valor": "Hasta el 50 % del importe del subcontrato",
+      "ref": "art. 215.3.a LCSP"
+    },
+    {
+      "concepto": "Aceptación de las prestaciones del subcontratista",
+      "valor": "Máximo 30 días",
+      "ref": "art. 216.3 LCSP"
+    },
+    {
+      "concepto": "Recurso especial: obras y concesiones",
+      "valor": "Valor estimado superior a 3.000.000 €",
+      "ref": "art. 44.1 LCSP"
+    },
+    {
+      "concepto": "Recurso especial: suministros y servicios",
+      "valor": "Valor estimado superior a 100.000 €",
+      "ref": "art. 44.1.a LCSP"
+    },
+    {
+      "concepto": "Interposición del recurso especial",
+      "valor": "15 días hábiles",
+      "ref": "art. 50.1 LCSP"
+    },
+    {
+      "concepto": "Recurso especial fundado en ciertas causas de nulidad",
+      "valor": "30 días desde la publicación de la formalización; en otro caso, antes de 6 meses desde la formalización",
+      "ref": "art. 50.2 LCSP"
+    },
+    {
+      "concepto": "Decisión sobre medidas cautelares previas",
+      "valor": "5 días hábiles (alegaciones del órgano de contratación en 2 días hábiles)",
+      "ref": "art. 49.2 LCSP"
+    },
+    {
+      "concepto": "Subsanación del escrito de recurso especial",
+      "valor": "3 días hábiles",
+      "ref": "art. 51.2 LCSP"
+    },
+    {
+      "concepto": "Acceso al expediente antes de recurrir",
+      "valor": "El órgano de contratación lo facilita en 5 días hábiles",
+      "ref": "art. 52.2 LCSP"
+    },
+    {
+      "concepto": "Remisión del expediente y del informe al tribunal",
+      "valor": "2 días hábiles",
+      "ref": "art. 56.2 LCSP"
+    },
+    {
+      "concepto": "Alegaciones de otros interesados en el recurso especial",
+      "valor": "5 días hábiles",
+      "ref": "art. 56.3 LCSP"
+    },
+    {
+      "concepto": "Prueba en el recurso especial",
+      "valor": "10 días hábiles",
+      "ref": "art. 56.4 LCSP"
+    },
+    {
+      "concepto": "Resolución del recurso especial",
+      "valor": "5 días hábiles tras las alegaciones o la prueba",
+      "ref": "art. 57.1 LCSP"
+    },
+    {
+      "concepto": "Silencio en el recurso especial",
+      "valor": "Desestimatorio a los 2 meses desde la interposición",
+      "ref": "art. 57.5 LCSP"
+    },
+    {
+      "concepto": "Multa por temeridad o mala fe en el recurso especial",
+      "valor": "De 1.000 a 30.000 €",
+      "ref": "art. 58.2 LCSP"
+    },
+    {
+      "concepto": "Mandato de los miembros del TACRC",
+      "valor": "6 años, no prorrogable",
+      "ref": "art. 45.5 LCSP"
+    },
+    {
+      "concepto": "Facturas que deben presentarse por FACe en la ULL",
+      "valor": "Importe igual o superior a 500 € (impuestos incluidos)",
+      "ref": "art. 20.9 BEP-ULL 2026"
+    },
+    {
+      "concepto": "Gastos plurianuales en la ULL: número máximo de ejercicios",
+      "valor": "4",
+      "ref": "art. 21.2 BEP-ULL 2026"
+    },
+    {
+      "concepto": "Gastos plurianuales en la ULL: porcentajes sobre el crédito inicial",
+      "valor": "50 % (1.º), 40 % (2.º), 30 % (3.º y 4.º)",
+      "ref": "art. 21.2 BEP-ULL 2026"
+    },
+    {
+      "concepto": "Autorización expresa del procedimiento negociado en la ULL",
+      "valor": "A partir de 1.000.000 €",
+      "ref": "art. 29.7 BEP-ULL 2026"
+    }
+  ],
+  "glosario": [
+    {
+      "termino": "Expediente de contratación",
+      "definicion": "Conjunto de actuaciones previas a la adjudicación (necesidad, pliegos, crédito, fiscalización, justificaciones), iniciado y aprobado por el órgano de contratación (arts. 116 y 117)."
+    },
+    {
+      "termino": "Tramitación de emergencia",
+      "definicion": "Régimen excepcional ante catástrofes, grave peligro o defensa nacional, que permite contratar sin expediente ni crédito previo (art. 120)."
+    },
+    {
+      "termino": "PCAP",
+      "definicion": "Pliego de cláusulas administrativas particulares: recoge los derechos y obligaciones de las partes y los criterios de solvencia y adjudicación, y forma parte del contrato (art. 122)."
+    },
+    {
+      "termino": "PPT",
+      "definicion": "Pliego de prescripciones técnicas particulares: define técnicamente la prestación, sus calidades y sus condiciones sociales y ambientales (art. 124)."
+    },
+    {
+      "termino": "DEUC",
+      "definicion": "Documento Europeo Único de Contratación: formulario de declaración responsable que sustituye inicialmente a la documentación de aptitud (arts. 140 y 141)."
+    },
+    {
+      "termino": "Mejor relación calidad-precio",
+      "definicion": "Regla de adjudicación que combina criterios económicos y cualitativos vinculados al objeto del contrato (art. 145)."
+    },
+    {
+      "termino": "Oferta anormalmente baja",
+      "definicion": "Oferta que, según los parámetros de los pliegos, se presume inviable; solo puede excluirse tras pedir justificación al licitador (art. 149)."
+    },
+    {
+      "termino": "Mesa de contratación",
+      "definicion": "Órgano de asistencia técnica que califica la documentación, valora las ofertas y propone la adjudicación (art. 326)."
+    },
+    {
+      "termino": "Procedimiento abierto",
+      "definicion": "Procedimiento en el que cualquier empresario interesado puede presentar oferta, sin negociación (art. 156)."
+    },
+    {
+      "termino": "Procedimiento restringido",
+      "definicion": "Solo presentan oferta los empresarios seleccionados por su solvencia (al menos cinco), sin negociación (art. 160)."
+    },
+    {
+      "termino": "Negociado sin publicidad",
+      "definicion": "Procedimiento con negociación y sin anuncio previo, limitado a los supuestos tasados del art. 168."
+    },
+    {
+      "termino": "Diálogo competitivo",
+      "definicion": "Procedimiento en el que una mesa especial dialoga con los candidatos para desarrollar soluciones antes de pedir ofertas (art. 172)."
+    },
+    {
+      "termino": "Asociación para la innovación",
+      "definicion": "Procedimiento para desarrollar productos, servicios u obras innovadores no disponibles en el mercado y adquirirlos después (art. 177)."
+    },
+    {
+      "termino": "Prerrogativas",
+      "definicion": "Potestades del órgano de contratación en los contratos administrativos: interpretar, resolver dudas, modificar, declarar la responsabilidad, suspender y resolver (art. 190)."
+    },
+    {
+      "termino": "Riesgo y ventura",
+      "definicion": "Principio por el que el contratista asume los riesgos de la ejecución, salvo la fuerza mayor en obras (art. 197)."
+    },
+    {
+      "termino": "Condición especial de ejecución",
+      "definicion": "Exigencia social, ética, medioambiental o de innovación que debe cumplirse al ejecutar el contrato; al menos una es obligatoria (art. 202)."
+    },
+    {
+      "termino": "Cesión del contrato",
+      "definicion": "Transmisión de la posición del contratista a un tercero, prevista en los pliegos y autorizada por el órgano de contratación (art. 214)."
+    },
+    {
+      "termino": "Recurso especial en materia de contratación",
+      "definicion": "Recurso potestativo y gratuito ante un órgano independiente contra actos de contratos de determinada cuantía (arts. 44 a 60)."
+    },
+    {
+      "termino": "Fase D (disposición o compromiso)",
+      "definicion": "Acto que acuerda la realización de un gasto aprobado por un importe determinado; es la primera fase con efectos frente a terceros (art. 73.3 LGP)."
+    },
+    {
+      "termino": "Fase O (reconocimiento de la obligación)",
+      "definicion": "Acto que declara la existencia de un crédito exigible contra la Hacienda Pública, previa acreditación de la prestación (art. 73.4 LGP)."
+    }
+  ],
+  "mnemotecnias": [
+    {
+      "titulo": "Prerrogativas: I-R-M-D-S-R",
+      "texto": "Interpretar, Resolver dudas, Modificar, Declarar la responsabilidad, Suspender y Resolver el contrato (art. 190)."
+    },
+    {
+      "titulo": "Desempate legal: D-T-M-S",
+      "texto": "Discapacidad (más trabajadores), menos Temporales, más Mujeres y, si persiste, Sorteo (art. 147.2)."
+    },
+    {
+      "titulo": "Pagos: 30-30, 4 y 6",
+      "texto": "30 días para aprobar la conformidad y 30 para pagar; con más de 4 meses de retraso se puede suspender y con más de 6, resolver."
+    },
+    {
+      "titulo": "Modificaciones: 20-50-15/10",
+      "texto": "Prevista en el pliego: hasta el 20 %. No prevista (adicional o imprevisible): hasta el 50 %. Es sustancial a partir del 15 % en obras o del 10 % en el resto. Obligatoria para el contratista hasta el 20 %."
+    },
+    {
+      "titulo": "Recurso especial: 3 millones y 100.000; 15 días",
+      "texto": "Obras y concesiones de más de 3.000.000 €, suministros y servicios de más de 100.000 €; plazo de 15 días hábiles; silencio negativo a los 2 meses."
+    },
+    {
+      "titulo": "Fases del gasto: A-D-O-P",
+      "texto": "Aprobación del expediente (A), aDjudicación (D), Obligación con la factura (O), Pago (P). El contrato menor va con un ADO."
+    }
+  ],
+  "flashcards": [
+    {
+      "frente": "¿Quién inicia el expediente de contratación y cómo?",
+      "reverso": "El órgano de contratación, motivando la necesidad del contrato; el expediente se publica en el perfil de contratante.",
+      "ref": "art. 116.1 LCSP"
+    },
+    {
+      "frente": "¿Qué implica la resolución que aprueba el expediente?",
+      "reverso": "La apertura del procedimiento de adjudicación y, salvo excepciones, la aprobación del gasto.",
+      "ref": "art. 117.1 LCSP"
+    },
+    {
+      "frente": "Tramitación urgente: efecto sobre los plazos",
+      "reverso": "Se reducen a la mitad, salvo el plazo de espera de 15 días hábiles antes de formalizar y otras excepciones.",
+      "ref": "art. 119.2.b LCSP"
+    },
+    {
+      "frente": "Emergencia: ¿se necesita crédito previo?",
+      "reverso": "No. Se contrata libremente y el crédito se dota después.",
+      "ref": "art. 120.1.a LCSP"
+    },
+    {
+      "frente": "¿Cuándo pueden modificarse los pliegos particulares después de aprobados?",
+      "reverso": "Solo por error material, de hecho o aritmético; si no, se retrotraen las actuaciones.",
+      "ref": "art. 122.1 LCSP"
+    },
+    {
+      "frente": "¿Quién aprueba los pliegos de cláusulas administrativas generales en el Estado?",
+      "reverso": "El Consejo de Ministros, previo dictamen del Consejo de Estado.",
+      "ref": "art. 121.1 LCSP"
+    },
+    {
+      "frente": "Procedimientos ordinarios de adjudicación",
+      "reverso": "El abierto y el restringido, con pluralidad de criterios y la mejor relación calidad-precio.",
+      "ref": "art. 131.2 LCSP"
+    },
+    {
+      "frente": "¿Qué ocurre si un licitador presenta dos proposiciones?",
+      "reverso": "No se admite ninguna de las proposiciones que haya suscrito.",
+      "ref": "art. 139.3 LCSP"
+    },
+    {
+      "frente": "¿Cuánto deben pesar los criterios de calidad en los servicios intelectuales?",
+      "reverso": "Al menos el 51 % de la puntuación.",
+      "ref": "art. 145.4 LCSP"
+    },
+    {
+      "frente": "¿Cuándo interviene el comité de expertos?",
+      "reverso": "En el abierto y el restringido, cuando los criterios de juicio de valor pesan más que los automáticos. Tiene al menos 3 miembros.",
+      "ref": "art. 146.2.a LCSP"
+    },
+    {
+      "frente": "Criterios supletorios de desempate",
+      "reverso": "Mayor porcentaje de trabajadores con discapacidad o en exclusión, menor temporalidad, mayor porcentaje de mujeres y sorteo.",
+      "ref": "art. 147.2 LCSP"
+    },
+    {
+      "frente": "¿Puede excluirse directamente una oferta anormalmente baja?",
+      "reverso": "No. Hay que requerir al licitador para que la justifique y tramitar el procedimiento del art. 149.",
+      "ref": "art. 149 LCSP"
+    },
+    {
+      "frente": "Plazo del mejor licitador para aportar la documentación y la garantía",
+      "reverso": "10 días hábiles. Si no lo hace, se le exige el 3 % del presupuesto base y se pasa al siguiente.",
+      "ref": "art. 150.2 LCSP"
+    },
+    {
+      "frente": "¿Puede declararse desierta una licitación con ofertas admisibles?",
+      "reverso": "No.",
+      "ref": "art. 150.3 LCSP"
+    },
+    {
+      "frente": "Diferencia entre decisión de no adjudicar y desistimiento",
+      "reverso": "No adjudicar: por razones de interés público, sin nueva licitación mientras subsistan. Desistimiento: por infracción no subsanable; permite licitar de inmediato.",
+      "ref": "art. 152 LCSP"
+    },
+    {
+      "frente": "¿Cuándo puede formalizarse un contrato susceptible de recurso especial?",
+      "reverso": "No antes de 15 días hábiles desde la notificación de la adjudicación; después, en 5 días tras el requerimiento.",
+      "ref": "art. 153.3 LCSP"
+    },
+    {
+      "frente": "Plazo mínimo de ofertas en el abierto no SARA",
+      "reverso": "15 días (26 en obras y concesiones), desde el día siguiente a la publicación en el perfil.",
+      "ref": "art. 156.6 LCSP"
+    },
+    {
+      "frente": "Plazo mínimo de ofertas en el abierto SARA de obras, suministros y servicios",
+      "reverso": "35 días desde el envío del anuncio a la Oficina de Publicaciones de la UE.",
+      "ref": "art. 156.2 LCSP"
+    },
+    {
+      "frente": "Límites del procedimiento abierto simplificado",
+      "reverso": "Obras de hasta 2.000.000 €; suministros y servicios por debajo de 140.000 €; juicio de valor como máximo del 25 %.",
+      "ref": "art. 159.1 LCSP"
+    },
+    {
+      "frente": "Límites del procedimiento supersimplificado",
+      "reverso": "Obras de menos de 80.000 € y suministros y servicios de menos de 60.000 €.",
+      "ref": "art. 159.6 LCSP"
+    },
+    {
+      "frente": "Número mínimo de invitados en el restringido",
+      "reverso": "Cinco.",
+      "ref": "art. 162.2 LCSP"
+    },
+    {
+      "frente": "Supuestos principales del negociado sin publicidad",
+      "reverso": "Licitación desierta o sin ofertas adecuadas, exclusividad (artística, técnica o de derechos), secreto, imperiosa urgencia y repetición de obras o servicios.",
+      "ref": "art. 168 LCSP"
+    },
+    {
+      "frente": "¿Qué no puede negociarse en los procedimientos con negociación?",
+      "reverso": "Los requisitos mínimos de la prestación ni los criterios de adjudicación.",
+      "ref": "art. 169.5 LCSP"
+    },
+    {
+      "frente": "¿Interviene la mesa de contratación en el concurso de proyectos?",
+      "reverso": "No. Decide un jurado de personas independientes.",
+      "ref": "art. 187.1 LCSP"
+    },
+    {
+      "frente": "¿Cuándo es preceptivo el dictamen del órgano consultivo en la ejecución?",
+      "reverso": "Interpretación, nulidad o resolución con oposición del contratista; modificaciones no previstas de más del 20 % y 6.000.000 € o más; reclamaciones de 50.000 € o más.",
+      "ref": "art. 191.3 LCSP"
+    },
+    {
+      "frente": "Penalidad diaria por demora",
+      "reverso": "0,60 € por cada 1.000 € del precio, IVA excluido.",
+      "ref": "art. 193.3 LCSP"
+    },
+    {
+      "frente": "¿Necesita la Administración intimar al contratista para constituirlo en mora?",
+      "reverso": "No.",
+      "ref": "art. 193.2 LCSP"
+    },
+    {
+      "frente": "Plazo de pago de la Administración",
+      "reverso": "30 días desde la aprobación de la conformidad, que debe hacerse en 30 días desde la entrega.",
+      "ref": "art. 198.4 LCSP"
+    },
+    {
+      "frente": "Demora en el pago: ¿cuándo suspender y cuándo resolver?",
+      "reverso": "Suspender con más de 4 meses (avisando con 1 mes); resolver con más de 6 meses.",
+      "ref": "art. 198.5 y 6 LCSP"
+    },
+    {
+      "frente": "Límite de la modificación prevista en el pliego",
+      "reverso": "20 % del precio inicial.",
+      "ref": "art. 204.1 LCSP"
+    },
+    {
+      "frente": "Límite de la modificación no prevista por circunstancias imprevisibles",
+      "reverso": "50 % del precio inicial, IVA excluido, sin alterar la naturaleza global.",
+      "ref": "art. 205.2.b LCSP"
+    },
+    {
+      "frente": "¿Hasta qué porcentaje es obligatoria la modificación para el contratista?",
+      "reverso": "Hasta el 20 % del precio inicial, IVA excluido.",
+      "ref": "art. 206.1 LCSP"
+    },
+    {
+      "frente": "Requisitos de la cesión del contrato",
+      "reverso": "Previsión en el pliego, autorización previa (2 meses, silencio positivo), 20 % ejecutado, cesionario apto y escritura pública.",
+      "ref": "art. 214 LCSP"
+    },
+    {
+      "frente": "¿Tiene el subcontratista acción directa contra la Administración?",
+      "reverso": "No; solo se obliga ante el contratista principal.",
+      "ref": "art. 215.4 y 8 LCSP"
+    },
+    {
+      "frente": "Efecto de la resolución por incumplimiento culpable del contratista",
+      "reverso": "Incautación de la garantía e indemnización de los daños que excedan de ella.",
+      "ref": "art. 213.3 LCSP"
+    },
+    {
+      "frente": "Efectos de la nulidad de la adjudicación",
+      "reverso": "Nulidad del contrato, que entra en liquidación: restitución recíproca e indemnización de la parte culpable.",
+      "ref": "art. 42.1 LCSP"
+    },
+    {
+      "frente": "Umbrales del recurso especial",
+      "reverso": "Obras y concesiones de más de 3.000.000 €; suministros y servicios de más de 100.000 €.",
+      "ref": "art. 44.1 LCSP"
+    },
+    {
+      "frente": "Plazo del recurso especial y efecto de recurrir la adjudicación",
+      "reverso": "15 días hábiles. Si se recurre la adjudicación, se suspende automáticamente la tramitación.",
+      "ref": "arts. 50 y 53 LCSP"
+    },
+    {
+      "frente": "¿Qué fase del gasto corresponde a la adjudicación?",
+      "reverso": "La D (disposición o compromiso), que vincula frente a terceros.",
+      "ref": "art. 73.3 LGP"
+    },
+    {
+      "frente": "¿Cómo se tramita el gasto de un contrato menor en la ULL?",
+      "reverso": "Con un documento ADO y la firma de la factura.",
+      "ref": "art. 20.8 BEP-ULL 2026"
+    }
+  ],
+  "preguntas": [
+    {
+      "enunciado": "Según el artículo 116 LCSP, el expediente de contratación se iniciará:",
+      "opciones": [
+        "Por el órgano de contratación motivando la necesidad del contrato, y deberá publicarse en el perfil de contratante",
+        "Por la Intervención, a propuesta del servicio gestor",
+        "Por la mesa de contratación",
+        "Por el Consejo de Gobierno en todo caso"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 116.1 LCSP.",
+      "ref": "art. 116.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La resolución motivada del órgano de contratación que aprueba el expediente de contratación:",
+      "opciones": [
+        "No implica la aprobación del gasto",
+        "Debe ser aprobada por el Consejo de Ministros",
+        "Dispone la apertura del procedimiento de adjudicación e implica también, salvo excepciones, la aprobación del gasto",
+        "Solo se publica en el BOE"
+      ],
+      "correcta": 2,
+      "explicacion": "Así lo dispone el art. 117.1 LCSP. Por eso la fase A del gasto se asocia a la aprobación del expediente.",
+      "ref": "art. 117.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la tramitación urgente del expediente, los plazos para la licitación, adjudicación y formalización del contrato:",
+      "opciones": [
+        "Se reducen a un tercio",
+        "No se modifican",
+        "Se reducen en quince días",
+        "Se reducen a la mitad, con determinadas excepciones"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo dispone el art. 119.2.b LCSP; entre las excepciones está el plazo de espera de quince días hábiles del art. 153.3.",
+      "ref": "art. 119.2.b LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "En la tramitación urgente, el plazo de inicio de la ejecución del contrato no podrá exceder de:",
+      "opciones": [
+        "Un mes contado desde la formalización",
+        "Quince días desde la adjudicación",
+        "Dos meses desde la aprobación del expediente",
+        "Diez días desde la formalización"
+      ],
+      "correcta": 0,
+      "explicacion": "Así lo establece el art. 119.2.c LCSP.",
+      "ref": "art. 119.2.c LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la tramitación de emergencia, el órgano de contratación:",
+      "opciones": [
+        "Debe tramitar un expediente abreviado con plazos reducidos a la mitad",
+        "Puede ordenar la ejecución de lo necesario o contratar libremente, sin obligación de tramitar expediente e incluso sin crédito suficiente",
+        "Debe publicar anuncio en el DOUE",
+        "Debe obtener autorización previa del Consejo de Ministros"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo prevé el art. 120.1.a LCSP; el crédito se dota después.",
+      "ref": "art. 120.1.a LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Los pliegos de cláusulas administrativas particulares, una vez aprobados, solo podrán ser modificados con posterioridad:",
+      "opciones": [
+        "Por acuerdo de la mesa de contratación",
+        "A petición de cualquier licitador",
+        "Por error material, de hecho o aritmético; en otro caso, la modificación conllevará la retroacción de actuaciones",
+        "En ningún caso"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo establece el art. 122.1 LCSP (y el art. 124 para los de prescripciones técnicas).",
+      "ref": "art. 122.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el ámbito de la Administración General del Estado, los pliegos de cláusulas administrativas generales son aprobados por:",
+      "opciones": [
+        "El Ministro de Hacienda, previo informe de la Abogacía del Estado",
+        "La Junta Consultiva de Contratación Pública del Estado",
+        "Cada órgano de contratación",
+        "El Consejo de Ministros, previo dictamen del Consejo de Estado"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo dispone el art. 121.1 LCSP.",
+      "ref": "art. 121.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si un licitador presenta una proposición individual y además suscribe otra en unión temporal con otras empresas:",
+      "opciones": [
+        "Se admite la de mayor puntuación",
+        "No se admitirá ninguna de las propuestas por él suscritas",
+        "Se admite solo la individual",
+        "Se admite solo la de la UTE"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 139.3 LCSP establece la no admisión de todas las propuestas suscritas por el infractor.",
+      "ref": "art. 139.3 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las circunstancias relativas a la capacidad, solvencia y ausencia de prohibiciones de contratar deberán concurrir:",
+      "opciones": [
+        "En la fecha de publicación del anuncio de licitación",
+        "En la fecha de la adjudicación exclusivamente",
+        "En la fecha final de presentación de ofertas y subsistir en el momento de perfección del contrato",
+        "Solo en el momento de la formalización"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo exige el art. 140.4 LCSP.",
+      "ref": "art. 140.4 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando la mesa de contratación aprecie defectos subsanables en la declaración responsable y la documentación, dará al empresario para corregirlos un plazo de:",
+      "opciones": [
+        "Diez días hábiles",
+        "Cinco días",
+        "Quince días",
+        "Tres días"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo establece el art. 141.2 LCSP.",
+      "ref": "art. 141.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los contratos de servicios que tengan por objeto prestaciones de carácter intelectual, los criterios relacionados con la calidad deberán representar, al menos:",
+      "opciones": [
+        "El 51 % de la puntuación asignable",
+        "El 25 % de la puntuación",
+        "El 60 % de la puntuación",
+        "El 45 % de la puntuación"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo exige el art. 145.4 LCSP, también para los servicios del anexo IV.",
+      "ref": "art. 145.4 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando las mejoras se valoren mediante un juicio de valor, no podrá asignárseles una valoración superior al:",
+      "opciones": [
+        "5 %",
+        "2,5 %",
+        "10 %",
+        "1 %"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo establece el art. 145.7 LCSP.",
+      "ref": "art. 145.7 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En los procedimientos abierto o restringido, cuando los criterios de juicio de valor tengan atribuida una ponderación mayor que los evaluables automáticamente, su valoración corresponderá a:",
+      "opciones": [
+        "La mesa de contratación",
+        "El órgano proponente del contrato",
+        "Un comité de expertos de al menos tres miembros no adscritos al órgano proponente, o un organismo técnico especializado",
+        "La Intervención"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo dispone el art. 146.2.a LCSP.",
+      "ref": "art. 146.2.a LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En defecto de previsión en los pliegos, el primer criterio legal para resolver un empate entre ofertas es:",
+      "opciones": [
+        "El sorteo",
+        "El menor precio",
+        "El mayor porcentaje de mujeres en plantilla",
+        "El mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 147.2 LCSP fija el orden: discapacidad o exclusión, menor temporalidad, mayor porcentaje de mujeres y sorteo.",
+      "ref": "art. 147.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El licitador que haya presentado la mejor oferta debe presentar la documentación justificativa y constituir la garantía definitiva en el plazo de:",
+      "opciones": [
+        "Cinco días hábiles",
+        "Diez días hábiles desde el siguiente al del requerimiento",
+        "Quince días naturales",
+        "Un mes"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo establece el art. 150.2 LCSP.",
+      "ref": "art. 150.2 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Una vez recibida la documentación del licitador propuesto, el órgano de contratación adjudicará el contrato dentro de los:",
+      "opciones": [
+        "Quince días hábiles siguientes",
+        "Dos meses siguientes",
+        "Diez días hábiles siguientes",
+        "Cinco días hábiles siguientes"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo establece el art. 150.3 LCSP.",
+      "ref": "art. 150.3 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La decisión de no adjudicar o celebrar el contrato:",
+      "opciones": [
+        "Solo puede adoptarse por razones de interés público debidamente justificadas, y no podrá licitarse de nuevo su objeto mientras subsistan",
+        "Debe fundarse en una infracción no subsanable del procedimiento",
+        "Puede adoptarse después de la formalización",
+        "No da derecho a compensación alguna a los licitadores"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo dispone el art. 152.3 LCSP. La infracción no subsanable es la causa del desistimiento (art. 152.4).",
+      "ref": "art. 152 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si el contrato es susceptible de recurso especial, la formalización no podrá efectuarse antes de que transcurran:",
+      "opciones": [
+        "Diez días naturales desde la adjudicación",
+        "Quince días hábiles desde que se remita la notificación de la adjudicación a los licitadores y candidatos",
+        "Un mes desde la publicación de la adjudicación",
+        "Cinco días hábiles desde la adjudicación"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo establece el art. 153.3 LCSP; las comunidades autónomas pueden incrementar este plazo sin exceder de un mes.",
+      "ref": "art. 153.3 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Cuando por causas imputables al adjudicatario no se hubiese formalizado el contrato en plazo:",
+      "opciones": [
+        "Se le exigirá una penalidad del 5 % del precio de adjudicación",
+        "Se declarará desierto el procedimiento",
+        "Se le exigirá el 3 % del presupuesto base de licitación, IVA excluido, en concepto de penalidad",
+        "Se le impondrá una multa de 1.000 a 30.000 euros"
+      ],
+      "correcta": 2,
+      "explicacion": "Así lo dispone el art. 153.4 LCSP; el contrato se adjudica al siguiente licitador.",
+      "ref": "art. 153.4 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los contratos de las Administraciones Públicas no sujetos a regulación armonizada tramitados por procedimiento abierto, el plazo de presentación de proposiciones de un contrato de servicios no será inferior a:",
+      "opciones": [
+        "Quince días, desde el siguiente a la publicación del anuncio en el perfil de contratante",
+        "Veintiséis días",
+        "Treinta y cinco días",
+        "Diez días"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 156.6 LCSP fija quince días (veintiséis en obras y concesiones).",
+      "ref": "art. 156.6 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En los procedimientos abiertos de contratos de obras, suministros y servicios sujetos a regulación armonizada, el plazo general de presentación de proposiciones no será inferior a:",
+      "opciones": [
+        "Treinta días desde la publicación en el perfil",
+        "Treinta y cinco días desde el envío del anuncio a la Oficina de Publicaciones de la Unión Europea",
+        "Veintiséis días",
+        "Cincuenta y dos días"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo establece el art. 156.2 LCSP (treinta días en las concesiones).",
+      "ref": "art. 156.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el procedimiento abierto, cuando el único criterio de adjudicación sea el precio, la adjudicación deberá recaer en el plazo máximo de:",
+      "opciones": [
+        "Dos meses desde la apertura",
+        "Un mes desde la finalización del plazo de ofertas",
+        "Quince días a contar desde el siguiente al de apertura de las proposiciones",
+        "Cinco días desde la apertura"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 158.1 LCSP fija quince días; con pluralidad de criterios, dos meses (art. 158.2).",
+      "ref": "art. 158 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La apertura de las proposiciones en el procedimiento abierto deberá efectuarse en el plazo máximo de:",
+      "opciones": [
+        "Diez días",
+        "Quince días hábiles",
+        "Un mes",
+        "Veinte días contados desde la finalización del plazo para presentarlas"
+      ],
+      "correcta": 3,
+      "explicacion": "Así lo dispone el art. 157.3 LCSP.",
+      "ref": "art. 157.3 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Podrá utilizarse el procedimiento abierto simplificado en un contrato de obras cuando su valor estimado sea:",
+      "opciones": [
+        "Igual o inferior a 2.000.000 de euros, y no haya criterios de juicio de valor o su ponderación no supere el 25 %",
+        "Inferior a 5.404.000 euros",
+        "Inferior a 500.000 euros, sin requisitos adicionales",
+        "Inferior a 80.000 euros exclusivamente"
+      ],
+      "correcta": 0,
+      "explicacion": "Son los dos requisitos del art. 159.1 LCSP.",
+      "ref": "art. 159.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el procedimiento abierto simplificado, los licitadores deberán estar inscritos, en la fecha final de presentación de ofertas:",
+      "opciones": [
+        "En el Registro Mercantil exclusivamente",
+        "En el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público o, cuando proceda, en el registro autonómico",
+        "En el registro de la Universidad",
+        "En el Registro de Contratos del Sector Público"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo exige el art. 159.4.a LCSP, que admite también haber solicitado la inscripción antes de esa fecha.",
+      "ref": "art. 159.4.a LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La tramitación abreviada del procedimiento abierto simplificado prevista en el artículo 159.6 LCSP puede seguirse en contratos de suministros y de servicios de valor estimado inferior a:",
+      "opciones": [
+        "15.000 euros",
+        "100.000 euros",
+        "60.000 euros",
+        "80.000 euros"
+      ],
+      "correcta": 2,
+      "explicacion": "El art. 159.6 fija 60.000 € en suministros y servicios (salvo prestaciones intelectuales) y 80.000 € en obras.",
+      "ref": "art. 159.6 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre el procedimiento abierto simplificado abreviado del artículo 159.6 LCSP es INCORRECTA?",
+      "opciones": [
+        "Se exime a los licitadores de acreditar la solvencia",
+        "La oferta se valora solo con criterios cuantificables mediante fórmulas",
+        "No se requiere garantía definitiva",
+        "El plazo de presentación de proposiciones no puede ser inferior a veinte días"
+      ],
+      "correcta": 3,
+      "explicacion": "El plazo es de al menos diez días hábiles (cinco en compras corrientes de bienes), según el art. 159.6.a LCSP.",
+      "ref": "art. 159.6 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En el procedimiento restringido, el número mínimo de empresarios a los que el órgano de contratación invitará a participar no podrá ser inferior a:",
+      "opciones": [
+        "Cinco",
+        "Tres",
+        "Seis",
+        "Diez"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 162.2 LCSP. En la licitación con negociación, el diálogo competitivo y la asociación para la innovación el mínimo es de tres.",
+      "ref": "art. 162.2 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "¿Cuál de los siguientes supuestos permite acudir al procedimiento negociado sin publicidad en cualquier tipo de contrato?",
+      "opciones": [
+        "Que el valor estimado sea inferior a 100.000 euros",
+        "Que el órgano de contratación prefiera negociar",
+        "Que en un procedimiento abierto previo no se haya presentado ninguna oferta o ninguna oferta adecuada, sin modificar sustancialmente las condiciones iniciales",
+        "Que el contrato sea de servicios intelectuales"
+      ],
+      "correcta": 2,
+      "explicacion": "Es el supuesto del art. 168.a.1.º LCSP; no puede incrementarse el presupuesto base de licitación.",
+      "ref": "art. 168.a LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El procedimiento negociado sin publicidad por repetición de obras o servicios similares adjudicados al mismo contratista solo cabe si, entre otros requisitos, no han transcurrido desde la celebración del contrato inicial más de:",
+      "opciones": [
+        "Un año",
+        "Cinco años",
+        "Dos años",
+        "Tres años"
+      ],
+      "correcta": 3,
+      "explicacion": "Así lo establece el art. 168.e LCSP.",
+      "ref": "art. 168.e LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En los procedimientos con negociación NO podrán negociarse:",
+      "opciones": [
+        "Los requisitos mínimos de la prestación ni los criterios de adjudicación",
+        "Los aspectos económicos",
+        "Los aspectos técnicos señalados en el pliego",
+        "Las ofertas iniciales"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo dispone el art. 169.5, párrafo segundo, LCSP.",
+      "ref": "art. 169.5 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En el procedimiento de diálogo competitivo, el número de personas especialmente cualificadas que se incorporan a la mesa especial será:",
+      "opciones": [
+        "De dos, sin voto",
+        "Igual o superior a un tercio de los componentes de la mesa, con voz y voto",
+        "La mitad más uno de los miembros",
+        "Uno, con voz pero sin voto"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo establece el art. 327 LCSP.",
+      "ref": "art. 327 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En los concursos de proyectos en los que se exija una cualificación profesional específica para participar:",
+      "opciones": [
+        "Decide la mesa de contratación",
+        "Todos los miembros del jurado deben ser funcionarios",
+        "Al menos dos tercios de los miembros del jurado deberán poseer dicha cualificación u otra equivalente",
+        "El jurado lo preside el Interventor"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo dispone el art. 187.3 LCSP; en el concurso de proyectos no interviene la mesa de contratación (art. 187.1).",
+      "ref": "art. 187 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es una prerrogativa del órgano de contratación en los contratos administrativos según el artículo 190 LCSP?",
+      "opciones": [
+        "Interpretar los contratos",
+        "Modificarlos por razones de interés público",
+        "Acordar su resolución",
+        "Ceder el contrato a un tercero sin consentimiento del contratista"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 190 enumera: interpretar, resolver dudas, modificar, declarar la responsabilidad del contratista, suspender, resolver y determinar sus efectos. La cesión la promueve el contratista con autorización (art. 214).",
+      "ref": "art. 190 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Es preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente en la interpretación, nulidad y resolución de los contratos:",
+      "opciones": [
+        "Cuando se formule oposición por parte del contratista",
+        "En todo caso",
+        "Solo en contratos SARA",
+        "Solo si el contrato supera 6.000.000 de euros"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo establece el art. 191.3.a LCSP.",
+      "ref": "art. 191.3.a LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Las penalidades por cumplimiento defectuoso previstas en los pliegos no podrán ser, cada una de ellas, superiores al:",
+      "opciones": [
+        "5 % del precio, ni el total superar el 20 %",
+        "10 % del precio del contrato, IVA excluido, ni el total superar el 50 %",
+        "3 % del presupuesto base de licitación",
+        "20 % del precio, ni el total superar el 100 %"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo establece el art. 192.1 LCSP.",
+      "ref": "art. 192.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Cuando el contratista incurra en demora por causas imputables a él, la Administración podrá imponer penalidades diarias en la proporción de:",
+      "opciones": [
+        "1 euro por cada 1.000 euros del precio",
+        "0,20 euros por cada 1.000 euros del precio",
+        "0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido",
+        "0,60 euros por cada 100 euros del precio"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo establece el art. 193.3 LCSP, salvo que el pliego fije otras de forma justificada.",
+      "ref": "art. 193.3 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Respecto de la demora del contratista, señale la afirmación CORRECTA:",
+      "opciones": [
+        "La constitución en mora requiere intimación previa",
+        "La Administración solo puede resolver el contrato cuando la demora supere un año",
+        "Las penalidades solo se imponen por el Consejo de Gobierno",
+        "Cada vez que las penalidades alcancen un múltiplo del 5 % del precio, el órgano de contratación podrá resolver o acordar la continuidad con nuevas penalidades"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo dispone el art. 193.4 LCSP. La mora no requiere intimación previa (art. 193.2).",
+      "ref": "art. 193 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Si la demora de la Administración en el pago fuese superior a seis meses, el contratista:",
+      "opciones": [
+        "Solo podrá reclamar intereses",
+        "Tendrá derecho a resolver el contrato y al resarcimiento de los perjuicios",
+        "Deberá seguir ejecutando el contrato en todo caso",
+        "Podrá suspender el contrato sin preaviso"
+      ],
+      "correcta": 1,
+      "explicacion": "Así lo establece el art. 198.6 LCSP. Con más de cuatro meses puede suspender, avisando con un mes de antelación (art. 198.5).",
+      "ref": "art. 198.6 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según el artículo 202 LCSP, en el pliego de cláusulas administrativas particulares:",
+      "opciones": [
+        "Está prohibido establecer condiciones especiales de ejecución",
+        "Solo pueden establecerse condiciones medioambientales",
+        "Será obligatorio establecer al menos una de las condiciones especiales de ejecución enumeradas en el apartado 2 del artículo",
+        "Las condiciones especiales son siempre causa de resolución"
+      ],
+      "correcta": 2,
+      "explicacion": "Así lo dispone el art. 202.1, párrafo segundo, LCSP.",
+      "ref": "art. 202.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Los contratos de las Administraciones Públicas podrán modificarse cuando así se haya previsto en el pliego de cláusulas administrativas particulares hasta un máximo de:",
+      "opciones": [
+        "El 10 % del precio inicial",
+        "El 50 % del precio inicial",
+        "El 15 % del precio inicial",
+        "El 20 % del precio inicial"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo establece el art. 204.1 LCSP.",
+      "ref": "art. 204.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Una modificación no prevista en el pliego por circunstancias sobrevenidas e imprevisibles solo es posible si, entre otros requisitos, no altera la naturaleza global del contrato y la alteración de su cuantía no excede, aislada o conjuntamente, del:",
+      "opciones": [
+        "50 % de su precio inicial, IVA excluido",
+        "20 % de su precio inicial",
+        "15 % en obras y 10 % en el resto",
+        "100 % de su precio inicial"
+      ],
+      "correcta": 0,
+      "explicacion": "Así lo establece el art. 205.2.b.3.º LCSP.",
+      "ref": "art. 205.2.b LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "A efectos del artículo 205 LCSP, se considera en todo caso que una modificación amplía de forma importante el ámbito del contrato, y es por tanto sustancial, cuando en un contrato de servicios su valor exceda, aislada o conjuntamente, del:",
+      "opciones": [
+        "15 % del precio inicial",
+        "10 % del precio inicial, IVA excluido",
+        "20 % del precio inicial",
+        "50 % del precio inicial"
+      ],
+      "correcta": 1,
+      "explicacion": "El art. 205.2.c.3.º fija el 10 % para los contratos distintos de obras y el 15 % para las obras, o la superación del umbral SARA.",
+      "ref": "art. 205.2.c LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Las modificaciones del artículo 205 LCSP acordadas por el órgano de contratación serán obligatorias para el contratista cuando impliquen una alteración de su cuantía que no exceda del:",
+      "opciones": [
+        "10 % del precio inicial",
+        "50 % del precio inicial",
+        "20 % del precio inicial del contrato, IVA excluido",
+        "15 % del precio inicial"
+      ],
+      "correcta": 2,
+      "explicacion": "Así lo establece el art. 206.1 LCSP. Por encima, requieren conformidad escrita del contratista o se resuelve el contrato.",
+      "ref": "art. 206.1 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Para que el contratista pueda ceder el contrato, el cedente deberá tener ejecutado, en un contrato de servicios, al menos:",
+      "opciones": [
+        "El 50 % del importe",
+        "El 10 % del importe",
+        "La mitad del plazo",
+        "Un 20 % del importe del contrato"
+      ],
+      "correcta": 3,
+      "explicacion": "Lo exige el art. 214.2.b LCSP (una quinta parte del plazo en las concesiones). Además, hace falta autorización previa, un cesionario apto y escritura pública.",
+      "ref": "art. 214.2.b LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "El plazo para notificar la resolución sobre la solicitud de autorización de la cesión de un contrato es de:",
+      "opciones": [
+        "Dos meses, transcurridos los cuales deberá entenderse otorgada por silencio administrativo",
+        "Un mes, con silencio desestimatorio",
+        "Tres meses, con silencio desestimatorio",
+        "Quince días, con silencio estimatorio"
+      ],
+      "correcta": 0,
+      "explicacion": "Así lo establece el art. 214.2.a LCSP.",
+      "ref": "art. 214.2.a LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Respecto de la subcontratación, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Los subcontratistas tienen acción directa frente a la Administración",
+        "Los subcontratistas quedan obligados solo ante el contratista principal, que asume la total responsabilidad de la ejecución frente a la Administración",
+        "Los subcontratos tienen naturaleza administrativa",
+        "Está prohibida en los contratos de servicios"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo dispone el art. 215.4 LCSP. Los subcontratos son privados (art. 215.7) y no hay acción directa (art. 215.8).",
+      "ref": "art. 215 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La constatación del cumplimiento del contrato exige por parte de la Administración un acto formal y positivo de recepción o conformidad dentro de:",
+      "opciones": [
+        "Los quince días siguientes a la entrega",
+        "Los tres meses siguientes a la entrega",
+        "El mes siguiente a la entrega o realización del objeto del contrato, o el plazo que determine el pliego",
+        "El plazo de garantía"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo establece el art. 210.2 LCSP.",
+      "ref": "art. 210.2 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes NO es causa de resolución del contrato según el artículo 211 LCSP?",
+      "opciones": [
+        "La declaración de concurso del contratista",
+        "El mutuo acuerdo entre la Administración y el contratista",
+        "La demora en el pago por la Administración por plazo superior a seis meses",
+        "El cambio de titular del órgano de contratación"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 211.1 no incluye el cambio de titular del órgano de contratación; las demás sí figuran (letras b, c y e).",
+      "ref": "art. 211.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "La resolución por mutuo acuerdo solo podrá tener lugar cuando:",
+      "opciones": [
+        "Lo solicite el contratista en cualquier caso",
+        "No concurra otra causa de resolución imputable al contratista y razones de interés público hagan innecesaria o inconveniente la permanencia del contrato",
+        "El contrato se haya ejecutado al 50 %",
+        "Lo autorice el Tribunal de Recursos Contractuales"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo exige el art. 212.4 LCSP.",
+      "ref": "art. 212.4 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Según el artículo 39 LCSP, es causa de nulidad de derecho administrativo de los contratos:",
+      "opciones": [
+        "El incumplimiento de los requisitos de modificación de los arts. 204 y 205",
+        "Los encargos a medios propios que no cumplan los requisitos del art. 32",
+        "La carencia o insuficiencia de crédito, salvo en los supuestos de emergencia",
+        "Cualquier otra infracción del ordenamiento jurídico"
+      ],
+      "correcta": 2,
+      "explicacion": "La falta de crédito es causa de nulidad (art. 39.2.b). Las otras opciones son causas de anulabilidad (art. 40).",
+      "ref": "arts. 39 y 40 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "La declaración de nulidad de los actos preparatorios del contrato o de la adjudicación, cuando sea firme:",
+      "opciones": [
+        "Solo afecta a esos actos, no al contrato",
+        "Obliga a continuar el contrato en todo caso",
+        "Da lugar a una multa al contratista",
+        "Llevará consigo la del mismo contrato, que entrará en fase de liquidación, con restitución recíproca e indemnización de la parte culpable"
+      ],
+      "correcta": 3,
+      "explicacion": "Así lo establece el art. 42.1 LCSP. Si se produce grave trastorno al servicio, pueden continuar sus efectos provisionalmente (art. 42.3).",
+      "ref": "art. 42 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Son susceptibles de recurso especial en materia de contratación los contratos de servicios cuyo valor estimado sea:",
+      "opciones": [
+        "Superior a 100.000 euros",
+        "Igual o superior a 216.000 euros",
+        "Superior a 15.000 euros",
+        "Superior a 3.000.000 de euros"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 44.1.a LCSP fija más de 100.000 € para suministros y servicios y más de 3.000.000 € para obras y concesiones.",
+      "ref": "art. 44.1 LCSP",
+      "dificultad": 1
+    },
+    {
+      "enunciado": "Interpuesto recurso especial contra el acto de adjudicación:",
+      "opciones": [
+        "El procedimiento continúa hasta la formalización",
+        "El contrato se entiende anulado",
+        "Se abre un plazo de alegaciones de un mes",
+        "Queda en suspenso la tramitación del procedimiento (salvo en los contratos basados en acuerdos marco o específicos de sistemas dinámicos)"
+      ],
+      "correcta": 3,
+      "explicacion": "Así lo establece el art. 53 LCSP.",
+      "ref": "art. 53 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Transcurridos dos meses desde el siguiente a la interposición del recurso especial sin que se haya notificado su resolución:",
+      "opciones": [
+        "El interesado podrá considerarlo desestimado a los efectos de interponer recurso contencioso-administrativo",
+        "Se entiende estimado",
+        "Caduca el procedimiento",
+        "El contrato queda automáticamente anulado"
+      ],
+      "correcta": 0,
+      "explicacion": "Lo dispone el art. 57.5 LCSP.",
+      "ref": "art. 57.5 LCSP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "Contra la resolución dictada en el recurso especial en materia de contratación:",
+      "opciones": [
+        "Cabe recurso de alzada ante el Ministro",
+        "Solo cabe recurso contencioso-administrativo",
+        "Cabe recurso de reposición",
+        "Cabe revisión de oficio por el órgano de contratación"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo establece el art. 59.1 LCSP; además, no procede la revisión de oficio (art. 59.3).",
+      "ref": "art. 59 LCSP",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según la Ley General Presupuestaria, el acto mediante el cual se acuerda la realización de gastos previamente aprobados, por un importe determinado o determinable, y que tiene relevancia jurídica para con terceros, es:",
+      "opciones": [
+        "La aprobación del gasto",
+        "El reconocimiento de la obligación",
+        "El compromiso de gasto",
+        "La ordenación del pago"
+      ],
+      "correcta": 2,
+      "explicacion": "Es la definición del compromiso (disposición, fase D) del art. 73.3 LGP. En la contratación se corresponde con la adjudicación.",
+      "ref": "art. 73.3 LGP",
+      "dificultad": 3
+    },
+    {
+      "enunciado": "En la gestión del gasto de un contrato administrativo, el reconocimiento de la obligación (fase O) se produce normalmente:",
+      "opciones": [
+        "Con la aprobación del expediente",
+        "Con la adjudicación",
+        "Con la publicación del anuncio de licitación",
+        "Con la acreditación de la realización de la prestación (recepción o conformidad, certificación o factura)"
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 73.4 LGP exige la previa acreditación documental de la realización de la prestación; la BEP-ULL exige incorporar al documento O la factura y los justificantes.",
+      "ref": "art. 73.4 LGP y art. 20.6 BEP-ULL",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "Según las Bases de Ejecución del Presupuesto de la ULL para 2026, en la contratación menor:",
+      "opciones": [
+        "Será válida la tramitación del pago mediante documento ADO con la firma de la factura correspondiente",
+        "Es obligatorio tramitar por separado los documentos A, D y O",
+        "No se requiere factura",
+        "La autorización corresponde siempre al Consejo Social"
+      ],
+      "correcta": 0,
+      "explicacion": "Así lo dispone el art. 20.8 BEP-ULL 2026.",
+      "ref": "art. 20.8 BEP-ULL 2026",
+      "dificultad": 2
+    },
+    {
+      "enunciado": "En la Universidad de La Laguna, una vez realizada la ordenación del pago, el pago material se realiza:",
+      "opciones": [
+        "Por el Gerente en solitario",
+        "De forma mancomunada por los tres claveros: la persona con competencias en tesorería, la Interventora y el Rector",
+        "Por la entidad bancaria sin intervención de la Universidad",
+        "Por el Presidente del Consejo Social"
+      ],
+      "correcta": 1,
+      "explicacion": "Lo establece el art. 20.11 BEP-ULL 2026.",
+      "ref": "art. 20.11 BEP-ULL 2026",
+      "dificultad": 3
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "LCSP. Adjudicación de contratos. Procedimiento abierto, simplificado y supersimplificado",
+      "url": "https://www.youtube.com/watch?v=1ZXcKI5YtlQ",
+      "canal": "YouTube (canal no identificado)"
+    },
+    {
+      "titulo": "Art 131 a 187 RESUMEN Ley de contratos 9/2017 (LCSP) para opositores",
+      "url": "https://www.youtube.com/watch?v=W_e86a8x7z4",
+      "canal": "YouTube (canal no identificado)"
+    },
+    {
+      "titulo": "LCSP. La tramitación de los expedientes de contratación: ordinaria, urgencia y emergencia",
+      "url": "https://www.youtube.com/watch?v=kWirv5sS-XQ",
+      "canal": "YouTube (canal no identificado)"
+    },
+    {
+      "titulo": "Contratos del sector público 9/2017: fases del procedimiento de adjudicación",
+      "url": "https://www.youtube.com/watch?v=eLekttf36rQ",
+      "canal": "YouTube (canal no identificado)"
+    },
+    {
+      "titulo": "Ley de contratos: Procedimientos de Adjudicación (Art. 131)",
+      "url": "https://www.youtube.com/watch?v=8fKUzLtYYd4",
+      "canal": "YouTube (canal no identificado)"
+    }
+  ],
+  "enlaces": [
+    {
+      "titulo": "Ley 9/2017, de Contratos del Sector Público (BOE consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902"
+    },
+    {
+      "titulo": "Ley 47/2003, General Presupuestaria (BOE consolidado)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614"
+    },
+    {
+      "titulo": "Tribunal Administrativo de Contratos Públicos de Canarias",
+      "url": "https://www.gobiernodecanarias.org/hacienda/contratacion/tacp/"
+    },
+    {
+      "titulo": "Plataforma de Contratación del Sector Público",
+      "url": "https://contrataciondelestado.es"
+    }
+  ]
+}
