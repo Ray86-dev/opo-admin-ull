@@ -90,7 +90,7 @@ export default function TemaPage() {
         </div>
       </motion.div>
 
-      <div className="sticky top-16 z-20 -mx-4 mb-8 bg-paper/85 px-4 py-2 backdrop-blur-xl md:-mx-8 md:px-8">
+      <div className={cn('-mx-4 mb-8 bg-paper/85 px-4 py-2 backdrop-blur-xl md:-mx-8 md:px-8', tab !== 'test' && 'sticky top-16 z-20')}>
         <Tabs tabs={tabs} value={tab} onChange={setTab} />
       </div>
 

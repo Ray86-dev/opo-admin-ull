@@ -78,7 +78,7 @@
         "Que la resolución es contraria a la indemnización, es decir, que el silencio es desestimatorio; el plazo vencería el 22 de diciembre de 2026"
       ],
       "correcta": 3,
-      "explicacion": "Transcurridos seis meses desde que se inició el procedimiento sin resolución expresa notificada ni acuerdo formalizado, podrá entenderse que la resolución es contraria a la indemnización (art. 91.3 LPAC). El art. 24.1 LPAC confirma el silencio desestimatorio en los procedimientos de responsabilidad patrimonial. Iniciado el 22 de junio de 2026, el plazo vence el 22 de diciembre de 2026 (art. 30.4).",
+      "explicacion": "Transcurridos seis meses desde que se inició el procedimiento sin resolución expresa notificada ni acuerdo formalizado, podrá entenderse que la resolución es contraria a la indemnización (art. 91.3 LPAC). El art. 24.1 LPAC confirma el silencio desestimatorio en los procedimientos de responsabilidad patrimonial. Iniciado el 22 de junio de 2026, el plazo vence el 22 de diciembre de 2026 (art. 30.4), sin perjuicio de las suspensiones que pudieran acordarse (por ejemplo, por la petición del dictamen preceptivo, art. 22.1.d LPAC).",
       "ref": "arts. 24.1 y 91.3 LPAC",
       "dificultad": 1
     },
@@ -174,7 +174,7 @@
       "dificultad": 3
     },
     {
-      "enunciado": "Iniciado de oficio el procedimiento de revisión el lunes 5 de octubre de 2026, ¿qué ocurre si llegado el 5 de abril de 2027 no se ha dictado resolución?",
+      "enunciado": "Iniciado de oficio el procedimiento de revisión el lunes 5 de octubre de 2026, ¿qué ocurre si, concluido el lunes 5 de abril de 2027 sin que se haya acordado ninguna suspensión, no se ha dictado resolución?",
       "opciones": [
         "Se entiende desestimada la revisión por silencio",
         "Se entiende declarada la nulidad por silencio positivo",

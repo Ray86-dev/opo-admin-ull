@@ -304,7 +304,7 @@ Mientras se espera un informe preceptivo, el plazo máximo para resolver puede *
 
 > [!PLAZO] Cifras del art. 81 LPAC: informe del servicio en **10 días**; dictamen del órgano consultivo si la reclamación es de **50.000 euros o más**; remisión de la propuesta en **10 días** desde la audiencia; emisión del dictamen en **2 meses**.
 
-> [!ULL] En Canarias el órgano consultivo es el **Consejo Consultivo de Canarias** (Ley 5/2002, de 3 de junio). Según su artículo 11.1.D).e), en la redacción dada por la **Ley 5/2024, de 26 de diciembre**, su dictamen es preceptivo en las reclamaciones de responsabilidad patrimonial de cuantía **igual o superior a 60.000 euros**, con un umbral inferior de **20.000 euros** para las reclamaciones frente a los ayuntamientos (hasta esa reforma el umbral general era de 6.000 euros). En el caso de la Universidad de La Laguna, el dictamen lo recaba el **Rector o la Rectora** (art. 12.3 de la Ley 5/2002).
+> [!ULL] En Canarias el órgano consultivo es el **Consejo Consultivo de Canarias** (Ley 5/2002, de 3 de junio). Según su artículo 11.1.D).e), en la redacción dada por la **Ley 5/2024, de 26 de diciembre**, su dictamen es preceptivo en las reclamaciones de responsabilidad patrimonial de cuantía **igual o superior a 60.000 euros**, con un umbral inferior para las reclamaciones frente a los ayuntamientos (cuantía **superior a 20.000 euros**) (hasta esa reforma el umbral general era de 6.000 euros). En el caso de la Universidad de La Laguna, el dictamen lo recaba el **Rector o la Rectora** (art. 12.3 de la Ley 5/2002).
 
 #### Informe del Consejo General del Poder Judicial
 

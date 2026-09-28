@@ -57,6 +57,6 @@
 | Vía administrativa | La resolución la **agota** | 114.1.e |
 | Tramitación simplificada | **De oficio** si la causalidad y la cuantía son **inequívocas**; **30 días**; alegaciones en 5 días; dictamen en 15 días si se pide; si el dictamen es contrario, se pasa a la tramitación ordinaria | 96.4, 96.6 |
 
-> [!ULL] Consejo Consultivo de Canarias: su dictamen es preceptivo en reclamaciones de **60.000 € o más** (20.000 € frente a los ayuntamientos), según la Ley 5/2002, art. 11.1.D.e, reformada por la Ley 5/2024. En la Universidad de La Laguna lo recaba el **Rector** (art. 12.3), y sus resoluciones agotan la vía administrativa (art. 10.3 EULL).
+> [!ULL] Consejo Consultivo de Canarias: su dictamen es preceptivo en reclamaciones de **60.000 € o más** (frente a los ayuntamientos, **más de 20.000 €**), según la Ley 5/2002, art. 11.1.D.e, reformada por la Ley 5/2024. En la Universidad de La Laguna lo recaba el **Rector** (art. 12.3), y sus resoluciones agotan la vía administrativa (art. 10.3 EULL).
 
 > [!PLAZO] 1 año / 10 días / 50.000 € / 2 meses / 6 meses / 30 días.

@@ -11,6 +11,7 @@ import { TtsPlayer } from './TtsPlayer'
 import { SearchPalette } from './SearchPalette'
 import { IconButton } from './ui'
 import { Onboarding } from './Onboarding'
+import { Pomodoro } from './Pomodoro'
 
 interface NavItem { to: string; label: string; icon: typeof Home }
 const NAV: { grupo: string; items: NavItem[] }[] = [
@@ -200,6 +201,7 @@ export function Layout({ children }: { children?: ReactNode }) {
             <span className="hidden md:inline">Buscar en el temario…</span>
             <kbd className="ml-auto hidden rounded-md border border-line px-1.5 text-[11px] md:inline">Ctrl K</kbd>
           </button>
+          <Pomodoro />
           <IconButton
             label={isDark ? 'Modo claro' : 'Modo oscuro'}
             onClick={() => setSettings({ tema: isDark ? 'claro' : 'oscuro' })}

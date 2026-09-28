@@ -108,7 +108,7 @@
 - 10 a 15 días, antes del dictamen
 ### Canarias
 - Consejo Consultivo: 60.000 € o más (Ley 5/2024)
-- Ayuntamientos: 20.000 €
+- Ayuntamientos: más de 20.000 €
 - ULL: lo solicita el Rector
 
 ## Procedimiento: terminación

@@ -14,6 +14,7 @@ import { fmtNota, notaColor } from '@/lib/scoring'
 import { AnimatedNumber, ProgressRing, stagger } from '@/components/ui'
 import { StudyHeatmap } from '@/components/Charts'
 import { temaAccuracy } from './Temario'
+import { DailyQuestion } from '@/components/DailyQuestion'
 import { cn } from '@/lib/cn'
 
 const CONSEJOS = [
@@ -42,9 +43,14 @@ export default function Inicio() {
 
   const due = useMemo(() => {
     if (!datos) return null
-    let n = 0
-    for (const [id, d] of Object.entries(datos)) d.flashcards.forEach((_, i) => isDue(srs[`${id}~${i}`]) && n++)
-    return n
+    let repasar = 0, nuevas = 0
+    for (const [id, d] of Object.entries(datos))
+      d.flashcards.forEach((_, i) => {
+        const c = srs[`${id}~${i}`]
+        if (!c) nuevas++
+        else if (isDue(c)) repasar++
+      })
+    return { repasar, nuevas }
   }, [datos, srs])
 
   const ultimo = useMemo(() => {
@@ -136,13 +142,12 @@ export default function Inicio() {
 
       {/* ACCIONES */}
       <motion.section variants={stagger.item} className="grid grid-cols-2 gap-3 md:grid-cols-4">
-        <QuickCard to="/flashcards" icon={<Layers size={20} />} color="#7c3aed" title="Flashcards" value={due === null ? '…' : `${due} para hoy`} />
+        <QuickCard to="/flashcards" icon={<Layers size={20} />} color="#7c3aed" title="Flashcards" value={due === null ? '…' : due.repasar ? `${due.repasar} para repasar hoy` : `${due.nuevas} nuevas por aprender`} />
         <QuickCard to="/repaso" icon={<TrendingDown size={20} />} color="#e11d48" title="Repaso de fallos" value={`${Object.values(qstats).filter((q) => !q.ok).length} preguntas`} />
         <QuickCard to="/simulacro" icon={<ClipboardList size={20} />} color="#0f9488" title="Simulacro" value={`${historial.filter((h) => h.tipo.startsWith('simulacro')).length} hechos`} />
         <QuickCard to="/plan" icon={<CalendarClock size={20} />} color="#d97706" title="Plan de estudio" value={dias && dias > 0 ? `${dias} días` : 'Organízate'} />
       </motion.section>
 
-      <div className="grid gap-6 lg:grid-cols-[1.4fr_1fr]">
         {/* PROGRESO POR BLOQUE */}
         <motion.section variants={stagger.item} className="card p-6">
           <div className="mb-5 flex items-center justify-between">
@@ -174,19 +179,48 @@ export default function Inicio() {
           </div>
         </motion.section>
 
-        {/* CONSEJO */}
-        <motion.section variants={stagger.item} className="card relative overflow-hidden p-6">
-          <Lightbulb className="absolute -right-4 -top-4 size-28 text-amber-400/15" />
-          <div className="relative">
-            <div className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.14em] text-amber-600 dark:text-amber-400">
-              <Lightbulb size={15} /> Consejo del día
+
+      <div className="grid gap-6 lg:grid-cols-[1.4fr_1fr]">
+        <motion.div variants={stagger.item}>
+          <DailyQuestion />
+        </motion.div>
+        <div className="flex flex-col gap-6">
+          {/* CONSEJO */}
+          <motion.section variants={stagger.item} className="card relative overflow-hidden p-6">
+            <Lightbulb className="absolute -right-4 -top-4 size-28 text-amber-400/15" />
+            <div className="relative">
+              <div className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.14em] text-amber-600 dark:text-amber-400">
+                <Lightbulb size={15} /> Consejo del día
+              </div>
+              <p className="font-display text-xl leading-snug">{consejo}</p>
             </div>
-            <p className="font-display text-xl leading-snug">{consejo}</p>
-          </div>
-        </motion.section>
+          </motion.section>
+          <motion.section variants={stagger.item} className="card p-6">
+            <div className="mb-4 flex items-center justify-between">
+              <h2 className="font-display text-xl font-semibold">Últimos resultados</h2>
+              <Link to="/estadisticas" className="text-sm font-semibold text-primary">Ver todo</Link>
+            </div>
+            {historial.length === 0 ? (
+              <p className="text-sm text-muted">Aquí aparecerán tus tests y simulacros.</p>
+            ) : (
+              <div className="space-y-2.5">
+                {historial.slice(0, 5).map((h) => (
+                  <div key={h.id} className="flex items-center gap-3">
+                    <span className={cn('grid size-11 place-items-center rounded-xl bg-surface-2 font-display text-base font-semibold', notaColor(h.nota))}>{fmtNota(h.nota)}</span>
+                    <div className="min-w-0 flex-1">
+                      <div className="truncate text-sm font-semibold">{h.titulo}</div>
+                      <div className="text-xs text-muted">{fmtFecha(h.fecha)} · {h.aciertos} ✓ {h.fallos} ✗ {h.blancos} en blanco</div>
+                    </div>
+                    {h.nota >= 5 && <Trophy size={16} className="text-amber-500" />}
+                  </div>
+                ))}
+              </div>
+            )}
+          </motion.section>
+        </div>
       </div>
 
-      <div className="grid gap-6 lg:grid-cols-2">
+      <div className="grid gap-6 lg:grid-cols-[1fr_1.4fr]">
         <motion.section variants={stagger.item} className="card p-6">
           <h2 className="mb-4 font-display text-xl font-semibold">Temas a reforzar</h2>
           {debiles.length === 0 ? (
@@ -208,38 +242,14 @@ export default function Inicio() {
             </div>
           )}
         </motion.section>
-
         <motion.section variants={stagger.item} className="card p-6">
-          <div className="mb-4 flex items-center justify-between">
-            <h2 className="font-display text-xl font-semibold">Últimos resultados</h2>
-            <Link to="/estadisticas" className="text-sm font-semibold text-primary">Ver todo</Link>
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
+            <h2 className="font-display text-xl font-semibold">Tu constancia</h2>
+            <span className="text-sm text-muted">{Math.round(Object.values(diario).reduce((a, b) => a + b, 0) / 60)} horas de estudio registradas</span>
           </div>
-          {historial.length === 0 ? (
-            <p className="text-sm text-muted">Aquí aparecerán tus tests y simulacros.</p>
-          ) : (
-            <div className="space-y-2.5">
-              {historial.slice(0, 5).map((h) => (
-                <div key={h.id} className="flex items-center gap-3">
-                  <span className={cn('grid size-11 place-items-center rounded-xl bg-surface-2 font-display text-base font-semibold', notaColor(h.nota))}>{fmtNota(h.nota)}</span>
-                  <div className="min-w-0 flex-1">
-                    <div className="truncate text-sm font-semibold">{h.titulo}</div>
-                    <div className="text-xs text-muted">{fmtFecha(h.fecha)} · {h.aciertos} ✓ {h.fallos} ✗ {h.blancos} en blanco</div>
-                  </div>
-                  {h.nota >= 5 && <Trophy size={16} className="text-amber-500" />}
-                </div>
-              ))}
-            </div>
-          )}
+          <StudyHeatmap diario={diario} weeks={18} />
         </motion.section>
       </div>
-
-      <motion.section variants={stagger.item} className="card p-6">
-        <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
-          <h2 className="font-display text-xl font-semibold">Tu constancia</h2>
-          <span className="text-sm text-muted">{Math.round(Object.values(diario).reduce((a, b) => a + b, 0) / 60)} horas de estudio registradas</span>
-        </div>
-        <StudyHeatmap diario={diario} weeks={22} />
-      </motion.section>
     </motion.div>
   )
 }

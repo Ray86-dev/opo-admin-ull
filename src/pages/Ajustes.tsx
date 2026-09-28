@@ -87,9 +87,14 @@ export default function Ajustes() {
           ) : (
             <>
               {!hasNatural && (
-                <p className="mb-4 rounded-xl bg-amber-500/10 p-3 text-sm text-amber-900 dark:text-amber-200">
-                  Para la voz más natural usa <b>Microsoft Edge</b> (en Windows, Mac o Android): incluye las voces neuronales «Elvira» y «Álvaro» en español de España, gratis y sin instalar nada. En Chrome, la mejor es «Google español».
-                </p>
+                <div className="mb-4 space-y-2 rounded-xl bg-amber-500/10 p-3 text-sm text-amber-900 dark:text-amber-200">
+                  <p>
+                    Para la voz más natural usa <b>Microsoft Edge</b> (en Windows, Mac o Android): incluye las voces neuronales «Elvira» y «Álvaro» en español de España, gratis y sin instalar nada. En Chrome, la mejor es «Google español».
+                  </p>
+                  <p>
+                    <b>En iPhone o iPad:</b> Ajustes › Accesibilidad › Contenido leído › Voces › Español (España) y descarga <b>«Mónica (mejorada)»</b> o una voz «Premium». Después vuelve aquí y elígela en la lista.
+                  </p>
+                </div>
               )}
               <Field label={`Velocidad: ${settings.velocidad}×`}>
                 <input type="range" min={0.7} max={2} step={0.05} value={settings.velocidad} onChange={(e) => setSettings({ velocidad: +e.target.value })} className="mt-3 w-full accent-[var(--primary)]" />
