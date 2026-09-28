@@ -18,6 +18,8 @@ Datos del Reglamento: lo elaboró el **Pleno del Consejo Social** (sesión del 2
 
 La **Ley 3/2025** reescribió buena parte de la Ley 11/2003 (arts. 1 a 7, 9, 11, 14 a 18, 20, 21 y 23 a 26) y añadió los arts. 1 bis, 1 ter, 3 bis, 3 ter, 4 bis y 4 ter. Su preámbulo explica que se trataba de cumplir las previsiones de la LOSU, "en concreto lo relativo a que la designación de sus miembros corresponde al Parlamento de Canarias". Su **disposición transitoria primera** establece:
 
+> [!IMPORTANTE] El Defensor del Pueblo interpuso **recurso de inconstitucionalidad nº 7696-2025** contra parte de la reforma de la Ley 3/2025 (arts. 3.c, 3.d, 3.k, 3 ter.k y 4.1.h de la Ley 11/2003 y su nueva disposición adicional 3.ª), admitido a trámite el 27/01/2026 (BOE-A-2026-2550). Esos preceptos **siguen vigentes** mientras no haya sentencia, pero conviene comprobar antes del examen si el Tribunal Constitucional se ha pronunciado.
+
 - Los miembros de los Consejos Sociales en el momento de su entrada en vigor **permanecen en sus cargos durante los cuatro años siguientes**, salvo remoción previa por causa legal.
 - En el plazo de **seis meses**, los Consejos Sociales debían adaptar su **reglamento de organización y funcionamiento**, sometiéndolo a la aprobación del Gobierno de Canarias, y los **estatutos** de las universidades públicas canarias debían ajustarse a la ley.
 
